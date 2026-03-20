@@ -26,6 +26,20 @@ python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 -
 
 PyTorch is required for Model B runtime and the combined validation script. The repository now uses repo-relative paths throughout the runnable code, so the commands above work from this clone instead of depending on a separate local folder.
 
+## ML Showcase Demo
+
+This repository also includes a lightweight browser showcase for Models A, B, and C in [`showcase/ml_showcase/`](showcase/ml_showcase/README.md).
+
+Run it from the repository root:
+
+```bash
+python3 showcase/ml_showcase/server.py --port 8090
+```
+
+Preview:
+
+![RentAFit ML showcase](showcase/assets/screenshots/ml_showcase.png)
+
 ## Overview
 
 ### Model suite
@@ -43,6 +57,10 @@ PyTorch is required for Model B runtime and the combined validation script. The 
 ## Repository structure
 
 ```text
+showcase/
+  assets/
+  ml_showcase/
+
 code/
   api/
   model_a/

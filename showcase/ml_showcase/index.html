@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RentAFit ML Showcase</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Interactive ML Demo</p>
+        <h1>RentAFit Model Showcase</h1>
+        <p class="hero-copy">A lightweight browser demo for Model A pricing, Model B moderation, and Model C recommendations, powered by the same repository artifacts used in the full RentAFit ML workflow.</p>
+      </div>
+      <div class="hero-status">
+        <span class="status-dot"></span>
+        <div>
+          <strong>Standalone showcase</strong>
+          <p>Served locally through a small Python layer that calls the repository's existing model code.</p>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-grid">
+      <aside class="side-nav">
+        <button class="nav-chip is-active" data-target="model-a">Model A</button>
+        <button class="nav-chip" data-target="model-b">Model B</button>
+        <button class="nav-chip" data-target="model-c">Model C</button>
+      </aside>
+
+      <section class="workspace">
+        <article class="model-panel is-active" id="model-a">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Pricing</p>
+              <h2>Model A: Rental Price Range Prediction</h2>
+            </div>
+            <p class="panel-note">Predicts a defensible rental price range from listing metadata and original retail price.</p>
+          </div>
+          <div class="panel-grid">
+            <form id="form-model-a" class="input-card">
+              <div class="field-grid two-col">
+                <label><span>Brand</span><input name="brand" value="Zara" required /></label>
+                <label><span>Category</span><input name="category" value="Dress" required /></label>
+                <label><span>Material</span><input name="material" value="Cotton" required /></label>
+                <label><span>Size</span><input name="size" value="M" required /></label>
+                <label><span>Condition</span><input name="condition" value="Like New" required /></label>
+                <label><span>Age (months)</span><input name="age_months" type="number" min="0" value="4" required /></label>
+              </div>
+              <label><span>Original Price</span><input name="original_price" type="number" min="1" value="5999" required /></label>
+              <div class="actions-row">
+                <button type="submit" class="primary-btn">Run Model A</button>
+                <button type="button" class="secondary-btn" data-fill="model-a-luxury">Load luxury example</button>
+              </div>
+            </form>
+            <div class="result-card" id="result-model-a">
+              <p class="result-placeholder">Run the form to see the predicted price range, route, and confidence.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="model-panel" id="model-b">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Moderation</p>
+              <h2>Model B: Listing Review And Lifecycle</h2>
+            </div>
+            <p class="panel-note">Predicts whether a listing should be approved, reviewed, or rejected, then maps it to a lifecycle status.</p>
+          </div>
+          <div class="panel-grid">
+            <form id="form-model-b" class="input-card">
+              <div class="field-grid two-col">
+                <label><span>Brand</span><input name="brand" value="Zara" required /></label>
+                <label><span>Category</span><input name="category" value="Top" required /></label>
+                <label><span>Gender</span><input name="gender" value="Women" /></label>
+                <label><span>Material</span><input name="material" value="Cotton" required /></label>
+                <label><span>Size</span><input name="size" value="M" required /></label>
+                <label><span>Condition</span><input name="condition" value="New" required /></label>
+                <label><span>Garment Age (months)</span><input name="garment_age_months" type="number" min="0" value="2" required /></label>
+                <label><span>Original Price</span><input name="original_price" type="number" min="1" value="2000" required /></label>
+                <label><span>Provider Price</span><input name="provider_price" type="number" min="0" value="180" required /></label>
+                <label><span>Current Status</span><input name="current_status" value="PENDING_REVIEW" /></label>
+                <label><span>Listing Created At</span><input name="listing_created_at" type="date" value="2026-02-01" /></label>
+                <label><span>As Of Date</span><input name="as_of_date" type="date" value="2026-03-18" /></label>
+              </div>
+              <div class="actions-row">
+                <button type="submit" class="primary-btn">Run Model B</button>
+                <button type="button" class="secondary-btn" data-fill="model-b-stale">Load stale listing example</button>
+              </div>
+            </form>
+            <div class="result-card" id="result-model-b">
+              <p class="result-placeholder">Run the form to see moderation output, gender policy effects, and lifecycle status.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="model-panel" id="model-c">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">Recommendations</p>
+              <h2>Model C: Policy-Aware Recommendation Engine</h2>
+            </div>
+            <p class="panel-note">Generates top recommendations from a seed item or a liked-item profile while respecting category, gender, size, and safety rules.</p>
+          </div>
+          <div class="panel-grid">
+            <form id="form-model-c" class="input-card">
+              <div class="field-grid two-col">
+                <label><span>Query Mode</span>
+                  <select name="query_mode" id="model-c-mode">
+                    <option value="seed">Seed item</option>
+                    <option value="profile">Liked items</option>
+                  </select>
+                </label>
+                <label><span>Top K</span><input name="top_k" type="number" min="1" max="10" value="5" required /></label>
+                <label class="full-width"><span>Seed Item ID</span><input name="seed_item_id" id="seed-item-id" value="L0007" /></label>
+                <label class="full-width hidden" id="liked-items-wrap"><span>Liked Item IDs (comma-separated)</span><input name="liked_item_ids" value="L0007,L0015,L0051" /></label>
+                <label><span>Category Filter</span><input name="category_filter" placeholder="optional" /></label>
+                <label><span>Max Provider Price</span><input name="max_provider_price" type="number" min="0" placeholder="optional" /></label>
+              </div>
+              <div class="sample-box">
+                <div>
+                  <strong>Sample catalog items</strong>
+                  <p>Loaded from the current Model C catalog.</p>
+                </div>
+                <div id="sample-items" class="sample-items">Loading samples...</div>
+              </div>
+              <div class="actions-row">
+                <button type="submit" class="primary-btn">Run Model C</button>
+                <button type="button" class="secondary-btn" data-fill="model-c-budget">Load budgeted example</button>
+              </div>
+            </form>
+            <div class="result-card" id="result-model-c">
+              <p class="result-placeholder">Run the form to inspect recommendation lists, reason tags, and metadata.</p>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js" type="module"></script>
+</body>
+</html>
