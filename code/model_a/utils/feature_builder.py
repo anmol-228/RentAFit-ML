@@ -4,7 +4,7 @@ from typing import Dict, Optional, Tuple
 
 import pandas as pd
 
-# Reuse canonical rule maps from your project.
+# Reuse canonical rule maps from the shared project configuration.
 import sys
 ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
 if str(ROOT_CODE_DIR) not in sys.path:

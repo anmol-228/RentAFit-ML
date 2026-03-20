@@ -4,11 +4,11 @@ Date: 2026-03-14
 
 ## 1. Purpose Of This Document
 
-This document is the full working handbook for **Model B** in the RentAFit project.
+This document is the full working handbook for **Model B** in RentAFit.
 
 It is written for two kinds of readers:
 
-- a **teacher or evaluator** who wants technical clarity,
+- a technical reader who wants clarity,
 - a **student or beginner** who wants to actually understand how the model works from the beginning.
 
 So this document tries to do both:
@@ -182,7 +182,7 @@ Not used in current Model B:
 
 ### 4.4 Why we intentionally kept it this way
 
-This was the right decision for your project because:
+This was the right decision for the current system because:
 
 - the team is learning ML for the first time,
 - metadata was already enough to build a strong moderation baseline,
@@ -655,7 +655,7 @@ That is why human labels still matter.
 
 ## 14. Why LSTM Is Used Here
 
-Your teacher asked for LSTM, and Model B is the best place to use it.
+LSTM was used in Model B because it was the most defensible place in the pipeline to introduce sequence modeling.
 
 ### Core sequence used
 Each listing creates a small sequence:
