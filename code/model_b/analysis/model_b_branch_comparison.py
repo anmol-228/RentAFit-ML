@@ -15,7 +15,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix, f1_score
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-BASE = Path('/Users/mypc/RentAFit')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
 DATA_PATH = BASE / 'data/generated/model_b_train_expanded_gender_ready.csv'
 HYBRID_METRICS_PATH = BASE / 'reports/model_b/model_b_lstm_metrics.json'
 REPORT_DIR = BASE / 'reports/model_b'

@@ -17,12 +17,12 @@ This keeps Model B academically valid because the final truth still comes from h
 
 ## Source file used
 
-- `/Users/mypc/RentAFit/data/frozen/v1_final/pricing_features_augmented_1500.csv`
+- `data/frozen/v1_final/pricing_features_augmented_1500.csv`
 
 ## Existing gold labels not reused
 
 Rows already present in:
-- `/Users/mypc/RentAFit/data/frozen/v1_final/gold_labels_model_b_full_manual.csv`
+- `data/frozen/v1_final/gold_labels_model_b_full_manual.csv`
 
 are excluded from the expansion batch.
 
@@ -47,7 +47,7 @@ These are the rows where Model B learns the most:
 
 ## Review file created
 
-- `/Users/mypc/RentAFit/data/generated/model_b_expansion_candidates_manual_review.csv`
+- `data/generated/model_b_expansion_candidates_manual_review.csv`
 
 ## Columns to review manually
 

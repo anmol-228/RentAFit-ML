@@ -1,13 +1,19 @@
 from pathlib import Path
 import argparse
 import json
+import sys
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-from gender_policy import build_gender_variant_summary, expand_gender_variants
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
+if str(ROOT_CODE_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_CODE_DIR))
 
-BASE = Path('/Users/mypc/RentAFit')
+from model_b.gender_policy import build_gender_variant_summary, expand_gender_variants
+
+BASE = REPO_ROOT
 GENERATED_DIR = BASE / 'data/generated'
 REPORT_DIR = BASE / 'reports/model_b'
 

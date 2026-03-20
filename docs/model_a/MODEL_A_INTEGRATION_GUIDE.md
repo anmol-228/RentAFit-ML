@@ -32,7 +32,7 @@
 
 ## CLI test command
 ```bash
-python3 "/Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_input.py" \
+python3 "code/model_a/inference/predict_price_range_simple_input.py" \
   --brand "Prada" \
   --category "Dress" \
   --material "Silk" \

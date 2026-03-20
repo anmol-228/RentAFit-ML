@@ -43,27 +43,27 @@ Why range (min/max) and not one value:
 ## 3) Code and artifact locations
 
 ### 3.1 Main code
-- `/Users/mypc/RentAFit/code/model_a/training/train_model_a_baseline.py`
-- `/Users/mypc/RentAFit/code/model_a/training/train_model_a_rf_abs.py`
-- `/Users/mypc/RentAFit/code/model_a/training/train_model_a_rf_pct.py`
-- `/Users/mypc/RentAFit/code/model_a/training/train_model_a_rf_pct_tier_split.py` (current v2 model)
-- `/Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_input.py`
-- `/Users/mypc/RentAFit/code/model_a/analysis/model_a_full_report.py`
-- `/Users/mypc/RentAFit/code/model_a/utils/feature_builder.py`
-- `/Users/mypc/RentAFit/code/pricing_rules.py`
+- `code/model_a/training/train_model_a_baseline.py`
+- `code/model_a/training/train_model_a_rf_abs.py`
+- `code/model_a/training/train_model_a_rf_pct.py`
+- `code/model_a/training/train_model_a_rf_pct_tier_split.py` (current v2 model)
+- `code/model_a/inference/predict_price_range_simple_input.py`
+- `code/model_a/analysis/model_a_full_report.py`
+- `code/model_a/utils/feature_builder.py`
+- `code/pricing_rules.py`
 
 ### 3.2 Data snapshot used
-- `/Users/mypc/RentAFit/data/frozen/v1_final/model_a_train_ready.csv`
-- `/Users/mypc/RentAFit/data/frozen/v1_final/brand_tier_master_project_final.csv`
+- `data/frozen/v1_final/model_a_train_ready.csv`
+- `data/frozen/v1_final/brand_tier_master_project_final.csv`
 
 ### 3.3 Model outputs
-- `/Users/mypc/RentAFit/models/model_a/rf_pct_tier_split/*.pkl`
-- `/Users/mypc/RentAFit/models/model_a/rf_pct_tier_split/model_a_rf_pct_tier_split_metadata.json`
+- `models/model_a/rf_pct_tier_split/*.pkl`
+- `models/model_a/rf_pct_tier_split/model_a_rf_pct_tier_split_metadata.json`
 
 ### 3.4 Reports and charts
-- `/Users/mypc/RentAFit/reports/model_a/metrics/*.json`
-- `/Users/mypc/RentAFit/reports/model_a/analysis/*.csv`
-- `/Users/mypc/RentAFit/reports/model_a/charts/*.png`
+- `reports/model_a/metrics/*.json`
+- `reports/model_a/analysis/*.csv`
+- `reports/model_a/charts/*.png`
 
 ---
 
@@ -103,7 +103,7 @@ From `brand_tier_master_project_final.csv`:
 Model A is trained on labels generated from deterministic rules.
 
 Rule file:
-- `/Users/mypc/RentAFit/code/pricing_rules.py`
+- `code/pricing_rules.py`
 
 ### 5.1 Tier assignment by original price
 - `<= 1200` -> Tier 1
@@ -269,9 +269,9 @@ One-hot encoding is used for all categorical Model A inputs:
 - `tier_primary`
 
 These encoded columns are stored inside the fitted sklearn pipelines and were also exported separately for inspection in:
-- `/Users/mypc/RentAFit/data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_combined.csv`
-- `/Users/mypc/RentAFit/data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_tier1to4.csv`
-- `/Users/mypc/RentAFit/data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_tier5.csv`
+- `data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_combined.csv`
+- `data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_tier1to4.csv`
+- `data/frozen/v1_final/model_a_onehot_exports/model_a_final_onehot_tier5.csv`
 
 ## 8) Feature engineering in v2
 
@@ -318,9 +318,9 @@ These encoded columns are stored inside the fitted sklearn pipelines and were al
 ### 8.5 Model A training architecture
 
 File:
-- `/Users/mypc/RentAFit/reports/model_a/model_a_training_architecture.png`
+- `reports/model_a/model_a_training_architecture.png`
 
-![Model A Training Architecture](/Users/mypc/RentAFit/reports/model_a/model_a_training_architecture.png)
+![Model A Training Architecture](reports/model_a/model_a_training_architecture.png)
 
 Quick pointers:
 - Read this left to right: data and feature building happen first, then route-specific training happens, then outputs are postprocessed and saved.
@@ -344,7 +344,7 @@ Why this matters:
 
 ### 9.1 Training command executed
 ```bash
-python3 /Users/mypc/RentAFit/code/model_a/training/train_model_a_rf_pct_tier_split.py
+python3 code/model_a/training/train_model_a_rf_pct_tier_split.py
 ```
 
 Training output:
@@ -367,21 +367,21 @@ test_rmse_max: 31.634844061234535
 test_range_violations_after_fix: 0
 
 Oversample info: {'oversample_added_rows': 113, 'target_per_brand': 22, 'brands_in_tier5_train': 14}
-Saved models in: /Users/mypc/RentAFit/models/model_a/rf_pct_tier_split
-Saved metrics: /Users/mypc/RentAFit/reports/model_a/metrics/model_a_rf_pct_tier_split_metrics.json
-Saved analysis files in: /Users/mypc/RentAFit/reports/model_a/analysis
+Saved models in: models/model_a/rf_pct_tier_split
+Saved metrics: reports/model_a/metrics/model_a_rf_pct_tier_split_metrics.json
+Saved analysis files in: reports/model_a/analysis
 ```
 
 ### 9.2 Analysis/report command executed
 ```bash
-python3 /Users/mypc/RentAFit/code/model_a/analysis/model_a_full_report.py
+python3 code/model_a/analysis/model_a_full_report.py
 ```
 
 Analysis output:
 ```text
-Saved metrics: /Users/mypc/RentAFit/reports/model_a/metrics/model_a_full_metrics.json
-Saved analysis CSVs in: /Users/mypc/RentAFit/reports/model_a/analysis
-Saved charts in: /Users/mypc/RentAFit/reports/model_a/charts
+Saved metrics: reports/model_a/metrics/model_a_full_metrics.json
+Saved analysis CSVs in: reports/model_a/analysis
+Saved charts in: reports/model_a/charts
 Overall metrics: {'train_mae_min': 2.855822550831793, 'train_rmse_min': 23.62484046244874, 'train_mae_max': 3.068391866913124, 'train_rmse_max': 25.871143796339364, 'train_range_violations_after_fix': 0, 'val_mae_min': 13.066202090592334, 'val_rmse_min': 34.69629306731831, 'val_mae_max': 15.993031358885018, 'val_rmse_max': 47.53505949857537, 'val_range_violations_after_fix': 0, 'test_mae_min': 8.931297709923664, 'test_rmse_min': 25.06480151146544, 'test_mae_max': 13.816793893129772, 'test_rmse_max': 31.634844061234535, 'test_range_violations_after_fix': 0}
 ```
 
@@ -535,9 +535,9 @@ Key interpretation:
 
 ### 11.1) Parity plot: predicted max vs actual max
 File:
-- `/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_parity_val_max.png`
+- `reports/model_a/charts/model_a_tier_split_parity_val_max.png`
 
-![Model A Parity Plot](/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_parity_val_max.png)
+![Model A Parity Plot](reports/model_a/charts/model_a_tier_split_parity_val_max.png)
 
 Quick pointers:
 - Each point compares predicted max price to true max price on validation data.
@@ -558,9 +558,9 @@ Why it matters:
 
 ### 11.2) Residual histogram: validation max error distribution
 File:
-- `/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_residual_hist_val_max.png`
+- `reports/model_a/charts/model_a_tier_split_residual_hist_val_max.png`
 
-![Model A Residual Histogram](/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_residual_hist_val_max.png)
+![Model A Residual Histogram](reports/model_a/charts/model_a_tier_split_residual_hist_val_max.png)
 
 Quick pointers:
 - This chart shows how prediction error is distributed around zero.
@@ -581,9 +581,9 @@ Why it matters:
 
 ### 11.3) Tier-wise MAE chart
 File:
-- `/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_tier_mae_val_max.png`
+- `reports/model_a/charts/model_a_tier_split_tier_mae_val_max.png`
 
-![Model A Tier-wise MAE](/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_tier_mae_val_max.png)
+![Model A Tier-wise MAE](reports/model_a/charts/model_a_tier_split_tier_mae_val_max.png)
 
 Quick pointers:
 - This compares error by tier instead of averaging everything together.
@@ -603,9 +603,9 @@ Why it matters:
 
 ### 11.4) Model-comparison chart
 File:
-- `/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_comparison_val.png`
+- `reports/model_a/charts/model_a_tier_split_comparison_val.png`
 
-![Model A Model Comparison](/Users/mypc/RentAFit/reports/model_a/charts/model_a_tier_split_comparison_val.png)
+![Model A Model Comparison](reports/model_a/charts/model_a_tier_split_comparison_val.png)
 
 Quick pointers:
 - This is the improvement story of Model A in one view.
@@ -652,7 +652,7 @@ Important nuance:
 ## 13) Inference pipeline behavior (runtime)
 
 Inference script:
-- `/Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_input.py`
+- `code/model_a/inference/predict_price_range_simple_input.py`
 
 Pipeline steps:
 1. accept simple input fields,
@@ -683,9 +683,9 @@ If score < 0.55:
 ### 13.2 Runtime inference flow
 
 File:
-- `/Users/mypc/RentAFit/reports/model_a/model_a_inference_flow.png`
+- `reports/model_a/model_a_inference_flow.png`
 
-![Model A Inference Flow](/Users/mypc/RentAFit/reports/model_a/model_a_inference_flow.png)
+![Model A Inference Flow](reports/model_a/model_a_inference_flow.png)
 
 Quick pointers:
 - The user enters only simple listing fields; technical features are derived internally.
@@ -709,7 +709,7 @@ Why this matters:
 ### 14.1 Known Tier 5 brand example
 Command:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_input.py \
+python3 code/model_a/inference/predict_price_range_simple_input.py \
   --brand "Prada" --category "Dress" --material "Silk" --age_months 6 \
   --size "M" --condition "Like New" --original_price 95000 --json
 ```

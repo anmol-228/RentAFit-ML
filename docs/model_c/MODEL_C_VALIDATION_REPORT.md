@@ -5,7 +5,7 @@
 This report records the latest validation pass for RentAFit **Model C** after the policy-aware rewrite.
 
 It complements:
-- `/Users/mypc/RentAFit/docs/model_c/Model_C_Master_Document.md`
+- `docs/model_c/Model_C_Master_Document.md`
 
 and focuses specifically on:
 - smoke-test behavior,
@@ -33,8 +33,8 @@ The validation covered:
 8. artifact and visual availability
 
 Primary cross-check report:
-- `/Users/mypc/RentAFit/reports/validation/model_crosscheck_report.md`
-- `/Users/mypc/RentAFit/reports/validation/model_crosscheck_report.json`
+- `reports/validation/model_crosscheck_report.md`
+- `reports/validation/model_crosscheck_report.json`
 
 ---
 
@@ -56,7 +56,7 @@ Confirmed rules:
 ## 4. Current Proxy Metrics
 
 From:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics.json`
+- `reports/model_c/model_c_proxy_metrics.json`
 
 Current values:
 - `fill_rate_at_5 = 0.9350`
@@ -81,7 +81,7 @@ Important note:
 ## 5. Policy-Aware Random Baseline Comparison
 
 From:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_metrics.json`
+- `reports/model_c/model_c_proxy_vs_random_metrics.json`
 
 Random baseline values:
 - `same_material_at_5 = 0.8069`
@@ -142,23 +142,23 @@ Interpretation:
 ## 7. Artifact And Visual Audit
 
 Confirmed artifacts exist:
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog.csv`
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog_recommendable.csv`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_preprocessor.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_nearest_neighbors.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_feature_matrix.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_metadata.json`
+- `data/generated/model_c_catalog.csv`
+- `data/generated/model_c_catalog_recommendable.csv`
+- `models/model_c/content_based/model_c_preprocessor.joblib`
+- `models/model_c/content_based/model_c_nearest_neighbors.joblib`
+- `models/model_c/content_based/model_c_feature_matrix.joblib`
+- `models/model_c/content_based/model_c_metadata.json`
 
 Confirmed visuals exist:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_data_pipeline.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_architecture.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_similarity_flow.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_catalog_distribution_chart.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics_chart.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_chart.png`
+- `reports/model_c/model_c_data_pipeline.png`
+- `reports/model_c/model_c_architecture.png`
+- `reports/model_c/model_c_similarity_flow.png`
+- `reports/model_c/model_c_catalog_distribution_chart.png`
+- `reports/model_c/model_c_proxy_metrics_chart.png`
+- `reports/model_c/model_c_proxy_vs_random_chart.png`
 
 Word handbook visual check:
-- `/Users/mypc/RentAFit/docs/model_c/Model_C_Master_Document.docx`
+- `docs/model_c/Model_C_Master_Document.docx`
 - embedded images confirmed: `6`
 
 ---

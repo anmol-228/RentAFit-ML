@@ -213,52 +213,52 @@ It is also part of the **listing lifecycle control system**.
 
 ### 6.1 Data files
 
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/pricing_features.csv`
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/model_b_train_manual.csv`
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/model_b_train_manual_gender_policy.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_expansion_candidates_manual_review.csv`
-- `/Users/mypc/RentAFit/data/generated/gold_labels_model_b_expanded.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender_policy.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender_ready.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_live_listings_sample.csv`
-- `/Users/mypc/RentAFit/data/templates/model_b_live_listings_template.csv`
+- `data/frozen/v2_gender/pricing_features.csv`
+- `data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
+- `data/frozen/v2_gender/model_b_train_manual.csv`
+- `data/frozen/v2_gender/model_b_train_manual_gender_policy.csv`
+- `data/generated/model_b_expansion_candidates_manual_review.csv`
+- `data/generated/gold_labels_model_b_expanded.csv`
+- `data/generated/model_b_train_expanded_gender.csv`
+- `data/generated/model_b_train_expanded_gender_policy.csv`
+- `data/generated/model_b_train_expanded_gender_ready.csv`
+- `data/generated/model_b_live_listings_sample.csv`
+- `data/templates/model_b_live_listings_template.csv`
 
 ### 6.2 Code files
 
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_expansion_candidates.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_expanded_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_gender_policy_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_splits.py`
-- `/Users/mypc/RentAFit/code/model_b/gender_policy.py`
-- `/Users/mypc/RentAFit/code/model_b/training/train_model_b_lstm.py`
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
-- `/Users/mypc/RentAFit/code/model_b/runtime.py`
-- `/Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/generate_live_listings_sample.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
-- `/Users/mypc/RentAFit/code/model_b/analysis/model_b_branch_comparison.py`
+- `code/model_b/prepare_model_b_dataset.py`
+- `code/model_b/prepare_model_b_expansion_candidates.py`
+- `code/model_b/prepare_model_b_expanded_dataset.py`
+- `code/model_b/prepare_model_b_gender_policy_dataset.py`
+- `code/model_b/prepare_model_b_splits.py`
+- `code/model_b/gender_policy.py`
+- `code/model_b/training/train_model_b_lstm.py`
+- `code/model_b/lifecycle.py`
+- `code/model_b/runtime.py`
+- `code/model_b/inference/predict_model_b_decision.py`
+- `code/model_b/ops/generate_live_listings_sample.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/analysis/model_b_branch_comparison.py`
 
 ### 6.3 Saved artifacts and reports
 
-- `/Users/mypc/RentAFit/models/model_b/model_b_lstm.pt`
-- `/Users/mypc/RentAFit/models/model_b/model_b_tabular_preprocessor.joblib`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_metrics.json`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_confusion_matrix_test.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_training_history.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_test_predictions.csv`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_split_summary.json`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_branch_comparison_metrics.json`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_branch_comparison_chart.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_dataset_distribution_chart.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_hybrid_architecture.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lifecycle_flow.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_data_pipeline.png`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_listings_scored_sample.csv`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_review_queue_sample.csv`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_ops_summary.json`
+- `models/model_b/model_b_lstm.pt`
+- `models/model_b/model_b_tabular_preprocessor.joblib`
+- `reports/model_b/model_b_lstm_metrics.json`
+- `reports/model_b/model_b_lstm_confusion_matrix_test.png`
+- `reports/model_b/model_b_lstm_training_history.png`
+- `reports/model_b/model_b_lstm_test_predictions.csv`
+- `reports/model_b/model_b_split_summary.json`
+- `reports/model_b/model_b_branch_comparison_metrics.json`
+- `reports/model_b/model_b_branch_comparison_chart.png`
+- `reports/model_b/model_b_dataset_distribution_chart.png`
+- `reports/model_b/model_b_hybrid_architecture.png`
+- `reports/model_b/model_b_lifecycle_flow.png`
+- `reports/model_b/model_b_data_pipeline.png`
+- `reports/model_b/model_b_live_listings_scored_sample.csv`
+- `reports/model_b/model_b_review_queue_sample.csv`
+- `reports/model_b/model_b_live_ops_summary.json`
 
 ---
 
@@ -268,7 +268,7 @@ Model B did not begin from one ready-made dataset. It was built in stages.
 
 ### Stage 1: Manual feature base
 From:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/pricing_features.csv`
+- `data/frozen/v2_gender/pricing_features.csv`
 
 This gave structured listing behavior:
 - metadata,
@@ -279,7 +279,7 @@ This gave structured listing behavior:
 
 ### Stage 2: Manual human labels
 From:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
+- `data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
 
 This gave human-reviewed truth:
 - quality score,
@@ -288,7 +288,7 @@ This gave human-reviewed truth:
 
 ### Stage 3: Manual LSTM-ready dataset
 These two were joined into:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/model_b_train_manual.csv`
+- `data/frozen/v2_gender/model_b_train_manual.csv`
 
 This added:
 - `condition_token`
@@ -298,7 +298,7 @@ This added:
 
 ### Stage 4: Expansion review batch
 A hard-case review batch was generated from the augmented pricing set:
-- `/Users/mypc/RentAFit/data/generated/model_b_expansion_candidates_manual_review.csv`
+- `data/generated/model_b_expansion_candidates_manual_review.csv`
 
 This was chosen to focus on:
 - older listings,
@@ -313,11 +313,11 @@ After manual review, we merged:
 - plus 400 reviewed expansion rows.
 
 This produced:
-- `/Users/mypc/RentAFit/data/generated/gold_labels_model_b_expanded.csv`
+- `data/generated/gold_labels_model_b_expanded.csv`
 
 ### Stage 6: Expanded gender-aware base dataset
 The expanded labels were joined with the augmented pricing features to produce:
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender.csv`
+- `data/generated/model_b_train_expanded_gender.csv`
 
 This is the 775-row base dataset before explicit gender variants are added.
 
@@ -325,7 +325,7 @@ This is the 775-row base dataset before explicit gender variants are added.
 The base dataset was first split into train, validation, and test on the original 775 rows.
 Then gender variants were generated **inside each split**:
 
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender_ready.csv`
+- `data/generated/model_b_train_expanded_gender_ready.csv`
 
 This is the final dataset used for Model B training.
 
@@ -335,9 +335,9 @@ This is the final dataset used for Model B training.
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_data_pipeline.png`
+- `reports/model_b/model_b_data_pipeline.png`
 
-![Model B Data Pipeline](/Users/mypc/RentAFit/reports/model_b/model_b_data_pipeline.png)
+![Model B Data Pipeline](reports/model_b/model_b_data_pipeline.png)
 
 Quick pointers:
 - This shows that Model B training truth came from human-reviewed moderation labels, not only generated rules.
@@ -370,7 +370,7 @@ It was built in a controlled way where:
 
 ### 9.1 Original manual gold dataset
 File:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
+- `data/frozen/v2_gender/gold_labels_model_b_full_manual.csv`
 
 Counts:
 - rows: **375**
@@ -380,7 +380,7 @@ Counts:
 
 ### 9.2 Manual gender-aware LSTM-ready dataset
 File:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/model_b_train_manual.csv`
+- `data/frozen/v2_gender/model_b_train_manual.csv`
 
 Counts:
 - rows: **375**
@@ -393,7 +393,7 @@ Counts:
 
 ### 9.3 Manual gender-policy dataset
 File:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/model_b_train_manual_gender_policy.csv`
+- `data/frozen/v2_gender/model_b_train_manual_gender_policy.csv`
 
 Counts:
 - total rows: **988**
@@ -410,7 +410,7 @@ Effective decision distribution:
 
 ### 9.4 Expanded gold-label dataset
 File:
-- `/Users/mypc/RentAFit/data/generated/gold_labels_model_b_expanded.csv`
+- `data/generated/gold_labels_model_b_expanded.csv`
 
 Counts:
 - total rows: **775**
@@ -424,7 +424,7 @@ Decision distribution:
 
 ### 9.5 Expanded gender-aware base dataset
 File:
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender.csv`
+- `data/generated/model_b_train_expanded_gender.csv`
 
 Counts:
 - total rows: **775**
@@ -434,7 +434,7 @@ Counts:
 
 ### 9.6 Final split-ready gender-policy training dataset
 File:
-- `/Users/mypc/RentAFit/data/generated/model_b_train_expanded_gender_ready.csv`
+- `data/generated/model_b_train_expanded_gender_ready.csv`
 
 Counts:
 - base rows before gender expansion: **775**
@@ -470,9 +470,9 @@ Very important technical note:
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_dataset_distribution_chart.png`
+- `reports/model_b/model_b_dataset_distribution_chart.png`
 
-![Model B Dataset Distribution](/Users/mypc/RentAFit/reports/model_b/model_b_dataset_distribution_chart.png)
+![Model B Dataset Distribution](reports/model_b/model_b_dataset_distribution_chart.png)
 
 Quick pointers:
 - This chart shows how the training data is distributed across decisions and important segments.
@@ -753,9 +753,9 @@ flowchart TD
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_hybrid_architecture.png`
+- `reports/model_b/model_b_hybrid_architecture.png`
 
-![Model B Hybrid Architecture](/Users/mypc/RentAFit/reports/model_b/model_b_hybrid_architecture.png)
+![Model B Hybrid Architecture](reports/model_b/model_b_hybrid_architecture.png)
 
 Quick pointers:
 - The top branch is the LSTM sequence path and the lower branch is the tabular feature path.
@@ -835,11 +835,11 @@ This is one of the most important parts of the document.
 A direct comparison study was run using the same test split.
 
 Files:
-- `/Users/mypc/RentAFit/code/model_b/analysis/model_b_branch_comparison.py`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_branch_comparison_metrics.json`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_branch_comparison_chart.png`
+- `code/model_b/analysis/model_b_branch_comparison.py`
+- `reports/model_b/model_b_branch_comparison_metrics.json`
+- `reports/model_b/model_b_branch_comparison_chart.png`
 
-![Model B Branch Comparison](/Users/mypc/RentAFit/reports/model_b/model_b_branch_comparison_chart.png)
+![Model B Branch Comparison](reports/model_b/model_b_branch_comparison_chart.png)
 
 Quick pointers:
 - This chart is the main proof behind the final Model B design choice.
@@ -930,7 +930,7 @@ Used:
 - `handle_unknown='ignore'` prevents inference crashes on unseen values.
 
 Saved preprocessor:
-- `/Users/mypc/RentAFit/models/model_b/model_b_tabular_preprocessor.joblib`
+- `models/model_b/model_b_tabular_preprocessor.joblib`
 
 ---
 
@@ -1030,7 +1030,7 @@ Training stopped after:
 ## 23. Main Results
 
 From:
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_metrics.json`
+- `reports/model_b/model_b_lstm_metrics.json`
 
 ### Validation
 - accuracy: `1.0`
@@ -1061,9 +1061,9 @@ This means:
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_training_history.png`
+- `reports/model_b/model_b_lstm_training_history.png`
 
-![Model B Training History](/Users/mypc/RentAFit/reports/model_b/model_b_lstm_training_history.png)
+![Model B Training History](reports/model_b/model_b_lstm_training_history.png)
 
 Quick pointers:
 - This graph shows how training and validation behavior changed over epochs.
@@ -1094,9 +1094,9 @@ This proves the training process was stable and not random.
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_confusion_matrix_test.png`
+- `reports/model_b/model_b_lstm_confusion_matrix_test.png`
 
-![Model B Test Confusion Matrix](/Users/mypc/RentAFit/reports/model_b/model_b_lstm_confusion_matrix_test.png)
+![Model B Test Confusion Matrix](reports/model_b/model_b_lstm_confusion_matrix_test.png)
 
 Quick pointers:
 - This matrix shows exactly which classes were predicted correctly and which were confused.
@@ -1152,7 +1152,7 @@ It also has a **lifecycle layer**.
 
 ### 27.2 How listing age is computed
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
+- `code/model_b/lifecycle.py`
 
 Priority used:
 1. `last_reapproved_at`
@@ -1170,9 +1170,9 @@ This means a listing can now become stale because of how long it has existed on 
 
 Image file:
 
-- `/Users/mypc/RentAFit/reports/model_b/model_b_lifecycle_flow.png`
+- `reports/model_b/model_b_lifecycle_flow.png`
 
-![Model B Operational Lifecycle](/Users/mypc/RentAFit/reports/model_b/model_b_lifecycle_flow.png)
+![Model B Operational Lifecycle](reports/model_b/model_b_lifecycle_flow.png)
 
 Quick pointers:
 - This image connects ML output to actual product workflow.
@@ -1216,7 +1216,7 @@ if stale grace is crossed and auto-removal is enabled.
 ## 30. Review Queue Generation
 
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
 
 This script can take a CSV of current live listings and produce:
 - scored listing snapshot,
@@ -1238,7 +1238,7 @@ This script can take a CSV of current live listings and produce:
 ## 31. Sample Live-Ops Result
 
 From:
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_ops_summary.json`
+- `reports/model_b/model_b_live_ops_summary.json`
 
 Sample run summary:
 - input rows: `60`
@@ -1357,12 +1357,12 @@ Meaning:
 
 ### Train Model B
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/training/train_model_b_lstm.py
+python3 code/model_b/training/train_model_b_lstm.py
 ```
 
 ### Single-listing inference
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py \
+python3 code/model_b/inference/predict_model_b_decision.py \
   --brand "Zara" \
   --category "Top" \
   --material "Cotton" \
@@ -1380,17 +1380,17 @@ python3 /Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py 
 
 ### Generate sample live listings
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/ops/generate_live_listings_sample.py
+python3 code/model_b/ops/generate_live_listings_sample.py
 ```
 
 ### Run live-ops scoring
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
+python3 code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
 ```
 
 ### Generate comparison visuals
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/analysis/model_b_branch_comparison.py
+python3 code/model_b/analysis/model_b_branch_comparison.py
 ```
 
 ---

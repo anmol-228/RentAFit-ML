@@ -53,11 +53,9 @@ Documentation anomalies: 0
 | Model A handbook | True | 6 |
 | Model B handbook | True | 7 |
 | Model C handbook | True | 6 |
-| Project master handbook | True | 12 |
 
 | Visual Group | Required Visuals | Missing Visuals |
 | --- | --- | --- |
 | model_a | 6 | None |
 | model_b | 7 | None |
 | model_c | 6 | None |
-| project | 4 | None |

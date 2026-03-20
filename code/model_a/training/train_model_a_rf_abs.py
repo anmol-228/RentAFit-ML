@@ -9,9 +9,10 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import joblib
 
-DATA_PATH = "/Users/mypc/RentAFit/data/frozen/v1_final/model_a_train_ready.csv"
-MODELS_DIR = Path("/Users/mypc/RentAFit/models/model_a/rf_abs")
-REPORTS_DIR = Path("/Users/mypc/RentAFit/reports/model_a/metrics")
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+DATA_PATH = REPO_ROOT / 'data/frozen/v1_final/model_a_train_ready.csv'
+MODELS_DIR = REPO_ROOT / 'models/model_a/rf_abs'
+REPORTS_DIR = REPO_ROOT / 'reports/model_a/metrics'
 MODELS_DIR.mkdir(parents=True, exist_ok=True)
 REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -94,4 +95,3 @@ print("\\nSaved:")
 print(MODELS_DIR / "model_a_min_rf.pkl")
 print(MODELS_DIR / "model_a_max_rf.pkl")
 print(REPORTS_DIR / "model_a_rf_abs_metrics.json")
-

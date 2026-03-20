@@ -6,15 +6,16 @@ import joblib
 import pandas as pd
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
 from model_a.utils.feature_builder import build_model_a_features, load_brand_master, postprocess_range_from_pct
 
-MIN_MODEL = Path('/Users/mypc/RentAFit/models/model_a/rf_pct/model_a_min_rf_pct.pkl')
-MAX_MODEL = Path('/Users/mypc/RentAFit/models/model_a/rf_pct/model_a_max_rf_pct.pkl')
-BRAND_MASTER_PATH = Path('/Users/mypc/RentAFit/data/frozen/v1_final/brand_tier_master_project_final.csv')
+MIN_MODEL = REPO_ROOT / 'models/model_a/rf_pct/model_a_min_rf_pct.pkl'
+MAX_MODEL = REPO_ROOT / 'models/model_a/rf_pct/model_a_max_rf_pct.pkl'
+BRAND_MASTER_PATH = REPO_ROOT / 'data/frozen/v1_final/brand_tier_master_project_final.csv'
 
 FEATURE_COLS = [
     'brand', 'category', 'material', 'size', 'condition', 'tier_primary',

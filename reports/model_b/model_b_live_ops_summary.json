@@ -24,7 +24,7 @@
     "low": 13,
     "medium": 22
   },
-  "input_csv": "/Users/mypc/RentAFit/data/generated/model_b_live_listings_sample.csv",
-  "output_scored_csv": "/Users/mypc/RentAFit/reports/model_b/model_b_live_listings_scored_sample.csv",
-  "output_queue_csv": "/Users/mypc/RentAFit/reports/model_b/model_b_review_queue_sample.csv"
+  "input_csv": "data/generated/model_b_live_listings_sample.csv",
+  "output_scored_csv": "reports/model_b/model_b_live_listings_scored_sample.csv",
+  "output_queue_csv": "reports/model_b/model_b_review_queue_sample.csv"
 }

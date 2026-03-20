@@ -15,7 +15,8 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-BASE = Path('/Users/mypc/RentAFit')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
 DATA_PATH = BASE / 'data/generated/model_b_train_expanded_gender_ready.csv'
 MODEL_DIR = BASE / 'models/model_b'
 REPORT_DIR = BASE / 'reports/model_b'

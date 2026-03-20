@@ -10,12 +10,12 @@ A first PyTorch-based hybrid Model B has been trained with:
 
 ## Main files
 
-- Training script: `/Users/mypc/RentAFit/code/model_b/training/train_model_b_lstm.py`
-- Inference script: `/Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py`
-- Metrics: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_metrics.json`
-- Confusion matrix: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_confusion_matrix_test.png`
-- Training history: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_training_history.png`
-- Test predictions: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_test_predictions.csv`
+- Training script: `code/model_b/training/train_model_b_lstm.py`
+- Inference script: `code/model_b/inference/predict_model_b_decision.py`
+- Metrics: `reports/model_b/model_b_lstm_metrics.json`
+- Confusion matrix: `reports/model_b/model_b_lstm_confusion_matrix_test.png`
+- Training history: `reports/model_b/model_b_lstm_training_history.png`
+- Test predictions: `reports/model_b/model_b_lstm_test_predictions.csv`
 
 ## Current metrics
 

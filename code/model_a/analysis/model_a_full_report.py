@@ -7,13 +7,14 @@ import pandas as pd
 import joblib
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
 from model_a.utils.feature_builder import load_brand_master, postprocess_range_from_pct
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 DATA_PATH = BASE / 'data/frozen/v1_final/model_a_train_ready.csv'
 BRAND_MASTER_PATH = BASE / 'data/frozen/v1_final/brand_tier_master_project_final.csv'
 

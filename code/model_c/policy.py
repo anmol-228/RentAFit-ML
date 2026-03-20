@@ -8,7 +8,8 @@ import pandas as pd
 import sys
 from pathlib import Path
 
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 

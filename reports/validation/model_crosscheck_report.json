@@ -462,15 +462,12 @@
       "model_b_md": true,
       "model_b_docx": true,
       "model_c_md": true,
-      "model_c_docx": true,
-      "project_md": true,
-      "project_docx": true
+      "model_c_docx": true
     },
     "docx_image_counts": {
       "model_a_docx_images": 6,
       "model_b_docx_images": 7,
-      "model_c_docx_images": 6,
-      "project_docx_images": 12
+      "model_c_docx_images": 6
     },
     "visual_summary": {
       "model_a": {
@@ -483,10 +480,6 @@
       },
       "model_c": {
         "required_visual_count": 6,
-        "missing_visuals": []
-      },
-      "project": {
-        "required_visual_count": 4,
         "missing_visuals": []
       }
     },

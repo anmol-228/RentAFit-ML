@@ -9,9 +9,9 @@
   - confidence-based fallback to deterministic rule range
 
 ## Files Generated
-- Details: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_v2_multi_input_validation_details.csv`
-- Summary: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_v2_multi_input_validation_summary.json`
-- Tier summary: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_v2_known_tier_summary.csv`
+- Details: `reports/model_a/analysis/model_a_v2_multi_input_validation_details.csv`
+- Summary: `reports/model_a/analysis/model_a_v2_multi_input_validation_summary.json`
+- Tier summary: `reports/model_a/analysis/model_a_v2_known_tier_summary.csv`
 
 ## Coverage
 - Total tests: **88**

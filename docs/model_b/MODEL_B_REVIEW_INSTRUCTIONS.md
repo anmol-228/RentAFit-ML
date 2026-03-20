@@ -2,7 +2,7 @@
 
 Use the expansion candidate file:
 
-- `/Users/mypc/RentAFit/data/generated/model_b_expansion_candidates_manual_review.csv`
+- `data/generated/model_b_expansion_candidates_manual_review.csv`
 
 ## What to do row by row
 

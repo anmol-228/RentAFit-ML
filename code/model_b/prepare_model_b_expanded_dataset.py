@@ -2,9 +2,10 @@ from pathlib import Path
 import argparse
 import pandas as pd
 
-BASE = Path('/Users/mypc/RentAFit')
-ROOT_CODE_DIR = BASE / 'code'
 import sys
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
+ROOT_CODE_DIR = BASE / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 

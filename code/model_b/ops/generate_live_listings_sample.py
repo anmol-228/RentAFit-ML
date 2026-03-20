@@ -6,7 +6,8 @@ import argparse
 
 import pandas as pd
 
-BASE = Path('/Users/mypc/RentAFit')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
 SOURCE = BASE / 'data/generated/model_b_train_expanded_ready.csv'
 OUTPUT = BASE / 'data/generated/model_b_live_listings_sample.csv'
 

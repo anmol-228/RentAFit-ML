@@ -139,18 +139,18 @@ So freshness is basically:
 ## 6. Data Used By Model C
 
 Primary source file:
-- `/Users/mypc/RentAFit/data/frozen/v2_gender/pricing_features_augmented_1500.csv`
+- `data/frozen/v2_gender/pricing_features_augmented_1500.csv`
 
 Generated catalog files:
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog.csv`
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog_recommendable.csv`
+- `data/generated/model_c_catalog.csv`
+- `data/generated/model_c_catalog_recommendable.csv`
 
 Saved training artifacts:
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_preprocessor.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_nearest_neighbors.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_feature_matrix.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_catalog_recommendable.csv`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_metadata.json`
+- `models/model_c/content_based/model_c_preprocessor.joblib`
+- `models/model_c/content_based/model_c_nearest_neighbors.joblib`
+- `models/model_c/content_based/model_c_feature_matrix.joblib`
+- `models/model_c/content_based/model_c_catalog_recommendable.csv`
+- `models/model_c/content_based/model_c_metadata.json`
 
 Current dataset counts:
 - source rows: `1500`
@@ -243,9 +243,9 @@ This policy means:
 ## 9. Data Pipeline Diagram
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_data_pipeline.png`
+- `reports/model_c/model_c_data_pipeline.png`
 
-![Model C Data Pipeline](/Users/mypc/RentAFit/reports/model_c/model_c_data_pipeline.png)
+![Model C Data Pipeline](reports/model_c/model_c_data_pipeline.png)
 
 Quick pointers:
 - the v2 gender-aware pricing dataset is the starting point
@@ -313,9 +313,9 @@ This feature set helps the recommender understand:
 ## 11. Architecture Diagram
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_architecture.png`
+- `reports/model_c/model_c_architecture.png`
 
-![Model C Architecture](/Users/mypc/RentAFit/reports/model_c/model_c_architecture.png)
+![Model C Architecture](reports/model_c/model_c_architecture.png)
 
 Quick pointers:
 - the recommendable catalog is encoded into vectors
@@ -333,9 +333,9 @@ Why this matters:
 ## 12. Recommendation Flow Diagram
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_similarity_flow.png`
+- `reports/model_c/model_c_similarity_flow.png`
 
-![Model C Recommendation Flow](/Users/mypc/RentAFit/reports/model_c/model_c_similarity_flow.png)
+![Model C Recommendation Flow](reports/model_c/model_c_similarity_flow.png)
 
 Quick pointers:
 - similarity retrieval gives a candidate set first
@@ -361,8 +361,8 @@ Instead, it builds reusable recommender artifacts:
 4. save artifacts for runtime retrieval
 
 Main scripts:
-- `/Users/mypc/RentAFit/code/model_c/prepare_model_c_catalog.py`
-- `/Users/mypc/RentAFit/code/model_c/training/train_model_c_content_based.py`
+- `code/model_c/prepare_model_c_catalog.py`
+- `code/model_c/training/train_model_c_content_based.py`
 
 Saved metadata currently says:
 - model type: `content_based_cosine_similarity`
@@ -417,7 +417,7 @@ This behavior is intentional.
 
 Example:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py \
+python3 code/model_c/inference/recommend_model_c_items.py \
   --seed_item_id L0015 --top_k 5 --json
 ```
 
@@ -425,7 +425,7 @@ python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py \
 
 Example:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py \
+python3 code/model_c/inference/recommend_model_c_items.py \
   --liked_item_ids L0015,L0021,L0100 --top_k 5 --json
 ```
 
@@ -493,7 +493,7 @@ This is important:
 ## 18. Current Metrics
 
 From:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics.json`
+- `reports/model_c/model_c_proxy_metrics.json`
 
 Current Model C proxy metrics:
 - `fill_rate_at_5 = 0.9350`
@@ -510,7 +510,7 @@ Current Model C proxy metrics:
 - `review_fallback_rate_top5 = 0.1296`
 
 From:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_metrics.json`
+- `reports/model_c/model_c_proxy_vs_random_metrics.json`
 
 Policy-aware random baseline:
 - `fill_rate_at_5 = 0.9350`
@@ -550,9 +550,9 @@ That is exactly what we want from a ranking model.
 ## 19. Proxy Metrics Chart
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics_chart.png`
+- `reports/model_c/model_c_proxy_metrics_chart.png`
 
-![Model C Proxy Metrics](/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics_chart.png)
+![Model C Proxy Metrics](reports/model_c/model_c_proxy_metrics_chart.png)
 
 Quick pointers:
 - fill rate shows how often the model can fill the top 5 list
@@ -566,9 +566,9 @@ Quick pointers:
 ## 20. Model C vs Random Baseline Chart
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_chart.png`
+- `reports/model_c/model_c_proxy_vs_random_chart.png`
 
-![Model C vs Random Baseline](/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_chart.png)
+![Model C vs Random Baseline](reports/model_c/model_c_proxy_vs_random_chart.png)
 
 Quick pointers:
 - comparison focuses on ranking-sensitive metrics
@@ -590,9 +590,9 @@ Why this matters:
 ## 21. Catalog Distribution Chart
 
 Image file:
-- `/Users/mypc/RentAFit/reports/model_c/model_c_catalog_distribution_chart.png`
+- `reports/model_c/model_c_catalog_distribution_chart.png`
 
-![Model C Catalog Distribution](/Users/mypc/RentAFit/reports/model_c/model_c_catalog_distribution_chart.png)
+![Model C Catalog Distribution](reports/model_c/model_c_catalog_distribution_chart.png)
 
 Quick pointers:
 - the chart shows the top categories in the recommendable pool
@@ -609,7 +609,7 @@ Why this matters:
 ### 22.1 Women-item query
 Command used:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
 ```
 
 Observed behavior:
@@ -621,7 +621,7 @@ Observed behavior:
 ### 22.2 Unisex-item query
 Command used:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --seed_item_id L0037 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0037 --top_k 5 --json
 ```
 
 Observed behavior:
@@ -633,7 +633,7 @@ Observed behavior:
 ### 22.3 Profile query
 Command used:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --liked_item_ids L0015,L0021,L0100 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --liked_item_ids L0015,L0021,L0100 --top_k 5 --json
 ```
 
 Observed behavior:
@@ -644,7 +644,7 @@ Observed behavior:
 ### 22.4 Review fallback edge case
 Command used:
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --seed_item_id L0080 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0080 --top_k 5 --json
 ```
 
 Observed behavior:
@@ -661,22 +661,22 @@ This proves:
 ## 23. Main Code Files
 
 ### Preparation
-- `/Users/mypc/RentAFit/code/model_c/prepare_model_c_catalog.py`
+- `code/model_c/prepare_model_c_catalog.py`
 
 ### Policy helpers
-- `/Users/mypc/RentAFit/code/model_c/policy.py`
+- `code/model_c/policy.py`
 
 ### Training / artifact building
-- `/Users/mypc/RentAFit/code/model_c/training/train_model_c_content_based.py`
+- `code/model_c/training/train_model_c_content_based.py`
 
 ### Runtime
-- `/Users/mypc/RentAFit/code/model_c/runtime.py`
+- `code/model_c/runtime.py`
 
 ### Inference
-- `/Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py`
+- `code/model_c/inference/recommend_model_c_items.py`
 
 ### Analysis
-- `/Users/mypc/RentAFit/code/model_c/analysis/model_c_report.py`
+- `code/model_c/analysis/model_c_report.py`
 
 ---
 

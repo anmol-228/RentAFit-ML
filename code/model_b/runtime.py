@@ -11,7 +11,8 @@ import torch
 import torch.nn as nn
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
@@ -24,7 +25,7 @@ from model_b.lifecycle import (
 )
 from shared.gender_utils import derive_gender, gender_conflict_flag as compute_gender_conflict_flag
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 MODEL_PATH = BASE / 'models/model_b/model_b_lstm.pt'
 PREPROCESSOR_PATH = BASE / 'models/model_b/model_b_tabular_preprocessor.joblib'
 

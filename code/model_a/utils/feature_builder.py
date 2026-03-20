@@ -6,7 +6,8 @@ import pandas as pd
 
 # Reuse canonical rule maps from the shared project configuration.
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
@@ -39,7 +40,9 @@ def _to_float(value) -> Optional[float]:
         return None
 
 
-def load_brand_master(path: str = '/Users/mypc/RentAFit/data/frozen/v1_final/brand_tier_master_project_final.csv') -> pd.DataFrame:
+def load_brand_master(path=None) -> pd.DataFrame:
+    if path is None:
+        path = REPO_ROOT / 'data/frozen/v1_final/brand_tier_master_project_final.csv'
     df = pd.read_csv(path)
     expected = {'brand', 'tier', 'avg_price_min', 'avg_price_max'}
     missing = [c for c in expected if c not in df.columns]

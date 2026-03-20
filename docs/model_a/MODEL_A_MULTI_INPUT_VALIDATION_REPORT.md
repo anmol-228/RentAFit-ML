@@ -9,9 +9,9 @@
   - non-negative outputs
 
 ## Files Generated
-- Detailed results: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_multi_input_validation_details.csv`
-- Summary JSON: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_multi_input_validation_summary.json`
-- Known-tier summary: `/Users/mypc/RentAFit/reports/model_a/analysis/model_a_multi_input_known_tier_summary.csv`
+- Detailed results: `reports/model_a/analysis/model_a_multi_input_validation_details.csv`
+- Summary JSON: `reports/model_a/analysis/model_a_multi_input_validation_summary.json`
+- Known-tier summary: `reports/model_a/analysis/model_a_multi_input_known_tier_summary.csv`
 
 ## Test Coverage
 - Total tests: **78**

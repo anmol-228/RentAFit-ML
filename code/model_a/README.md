@@ -1,5 +1,7 @@
 # Model A (Pricing Range) - Organized Pipeline
 
+This folder contains the pricing-range pipeline used by RentAFit listings.
+
 ## Folder layout
 - `training/`
   - `train_model_a_baseline.py`
@@ -15,18 +17,18 @@
   - `feature_builder.py`
 
 ## Data input
-- Training dataset: `/Users/mypc/RentAFit/data/frozen/v1_final/model_a_train_ready.csv`
-- Brand master: `/Users/mypc/RentAFit/data/frozen/v1_final/brand_tier_master_project_final.csv`
+- Training dataset: `data/frozen/v1_final/model_a_train_ready.csv`
+- Brand master: `data/frozen/v1_final/brand_tier_master_project_final.csv`
 
 ## Output locations
-- Models: `/Users/mypc/RentAFit/models/model_a/...`
-- Metrics: `/Users/mypc/RentAFit/reports/model_a/metrics/...`
-- Analysis CSVs: `/Users/mypc/RentAFit/reports/model_a/analysis/...`
-- Charts: `/Users/mypc/RentAFit/reports/model_a/charts/...`
+- Models: `models/model_a/...`
+- Metrics: `reports/model_a/metrics/...`
+- Analysis CSVs: `reports/model_a/analysis/...`
+- Charts: `reports/model_a/charts/...`
 
 ## Best current training command
 ```bash
-python3 "/Users/mypc/RentAFit/code/model_a/training/train_model_a_rf_pct_tier_split.py"
+python3 code/model_a/training/train_model_a_rf_pct_tier_split.py
 ```
 
 ## What the current production candidate does
@@ -48,7 +50,7 @@ Model derives internally:
 - Tier-5 brand features from brand master (`brand_avg_price_min/max`, open-ended flag)
 
 ```bash
-python3 "/Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_input.py" \
+python3 code/model_a/inference/predict_price_range_simple_input.py \
   --brand "Prada" \
   --category "Dress" \
   --material "Silk" \
@@ -57,4 +59,21 @@ python3 "/Users/mypc/RentAFit/code/model_a/inference/predict_price_range_simple_
   --condition "Like New" \
   --original_price 95000 \
   --json
+```
+
+Expected headline output for the sample above:
+
+```json
+{
+  "final_price_range": {
+    "min_price": 9300,
+    "max_price": 11900,
+    "source": "model_output"
+  },
+  "confidence": {
+    "score": 0.9,
+    "fallback_to_rule_range": false
+  },
+  "model_route": "tier_split_tier5"
+}
 ```

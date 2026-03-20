@@ -7,7 +7,8 @@ import pandas as pd
 from matplotlib.patches import FancyArrowPatch, FancyBboxPatch
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
@@ -18,7 +19,7 @@ from model_c.runtime import (
     select_recommendations_from_candidates,
 )
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 REPORT_DIR = BASE / 'reports/model_c'
 REPORT_DIR.mkdir(parents=True, exist_ok=True)
 

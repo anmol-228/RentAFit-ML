@@ -6,7 +6,8 @@ import numpy as np
 import pandas as pd
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
@@ -19,7 +20,7 @@ from model_c.policy import (
 )
 from shared.gender_utils import resolve_gender_fields
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 DATA_DIR = BASE / 'data/generated'
 REPORT_DIR = BASE / 'reports/model_c'
 

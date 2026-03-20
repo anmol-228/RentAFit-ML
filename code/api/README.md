@@ -13,10 +13,20 @@ This folder exposes Model A, Model B, and Model C via a simple FastAPI service.
 ## Run locally
 
 ```bash
+cd code/api
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r /Users/mypc/RentAFit/code/api/requirements.txt
+pip install -r requirements.txt
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
+
+If you prefer to work from the repository root instead:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn code.api.app:app --host 0.0.0.0 --port 8000 --reload
 ```
 
 ## Example payloads
@@ -57,3 +67,8 @@ Model C:
   "top_k": 5
 }
 ```
+
+## Notes
+
+- The API depends on the full ML stack, not only FastAPI.
+- Model B requires `torch` because the moderation pipeline uses a PyTorch LSTM + tabular model.

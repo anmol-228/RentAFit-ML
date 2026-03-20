@@ -8,7 +8,7 @@ This guide explains the non-training part of Model B: how the trained moderation
 
 ### 1. Date-based listing age calculation
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
+- `code/model_b/lifecycle.py`
 
 The system can now compute `listing_age_months` from:
 - `last_reapproved_at`
@@ -23,8 +23,8 @@ Priority order:
 
 ### 2. Separation of garment age and listing age
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/runtime.py`
-- `/Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py`
+- `code/model_b/runtime.py`
+- `code/model_b/inference/predict_model_b_decision.py`
 
 Current logic:
 - `garment_age_months` is used as the model input age.
@@ -34,7 +34,7 @@ This means pricing/quality behavior and stale-listing workflow can now be discus
 
 ### 3. Website-ready lifecycle status mapping
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
+- `code/model_b/lifecycle.py`
 
 Current status logic:
 - `Reject` -> `REJECTED`
@@ -49,7 +49,7 @@ If `auto_remove_stale` is enabled and stale grace period is crossed, the lifecyc
 
 ### 4. Reviewer ownership and queue generation
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
 
 Rows needing review are assigned:
 - `assigned_reviewer_role = admin_reviewer`
@@ -62,7 +62,7 @@ Queue fields include:
 
 ### 5. Live-listing batch scoring
 Implemented in:
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
 
 This script reads a CSV of current listings, runs Model B, computes lifecycle age, and writes:
 - scored listing snapshot
@@ -72,36 +72,36 @@ This script reads a CSV of current listings, runs Model B, computes lifecycle ag
 ## Files added for the operational layer
 
 ### Code
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
-- `/Users/mypc/RentAFit/code/model_b/runtime.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/generate_live_listings_sample.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/lifecycle.py`
+- `code/model_b/runtime.py`
+- `code/model_b/ops/generate_live_listings_sample.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
 
 ### Template and sample input
-- `/Users/mypc/RentAFit/data/templates/model_b_live_listings_template.csv`
-- `/Users/mypc/RentAFit/data/generated/model_b_live_listings_sample.csv`
+- `data/templates/model_b_live_listings_template.csv`
+- `data/generated/model_b_live_listings_sample.csv`
 
 ### Sample outputs
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_listings_scored_sample.csv`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_review_queue_sample.csv`
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_ops_summary.json`
+- `reports/model_b/model_b_live_listings_scored_sample.csv`
+- `reports/model_b/model_b_review_queue_sample.csv`
+- `reports/model_b/model_b_live_ops_summary.json`
 
 ## Sample operational run
 
 ### Generate sample live listings
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/ops/generate_live_listings_sample.py
+python3 code/model_b/ops/generate_live_listings_sample.py
 ```
 
 ### Run live operational scoring
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
+python3 code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
 ```
 
 ## Current sample output summary
 
 From:
-- `/Users/mypc/RentAFit/reports/model_b/model_b_live_ops_summary.json`
+- `reports/model_b/model_b_live_ops_summary.json`
 
 Counts:
 - input rows: `60`

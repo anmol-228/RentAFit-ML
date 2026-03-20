@@ -3,7 +3,8 @@ import json
 
 import pandas as pd
 
-BASE = Path('/Users/mypc/RentAFit')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
 DATA_FROZEN = BASE / 'data/frozen/v1_final'
 DATA_GENERATED = BASE / 'data/generated'
 REPORT_DIR = BASE / 'reports/model_b'

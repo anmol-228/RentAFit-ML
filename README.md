@@ -9,6 +9,23 @@ Machine learning workspace for the **RentAFit** platform.
 
 This repository contains the complete ML layer for RentAFit: pricing, moderation, and recommendation systems, along with the datasets, trained artifacts, validation reports, and detailed technical documentation used to support the platform.
 
+## Quick Start
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Run the most useful smoke-test entry points from the repository root:
+
+```bash
+python3 code/model_a/inference/predict_price_range_simple_input.py --brand Prada --category Dress --material Silk --age_months 6 --size M --condition "Like New" --original_price 95000 --json
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
+```
+
+PyTorch is required for Model B runtime and the combined validation script. The repository now uses repo-relative paths throughout the runnable code, so the commands above work from this clone instead of depending on a separate local folder.
+
 ## Overview
 
 ### Model suite
@@ -87,9 +104,65 @@ reports/
 
 | Model | Focus | Current headline result |
 | --- | --- | --- |
-| Model A | Price range prediction | Stable tier-split pricing pipeline with safe fallback behavior |
-| Model B | Moderation | Test macro F1 `0.9765` |
-| Model C | Recommendation | Strong policy-aware ranking over random baseline |
+| Model A | Price range prediction | Test MAE max `13.82` with `0` post-processed range violations |
+| Model B | Moderation | Test macro F1 `0.9765` and test accuracy `0.9772` |
+| Model C | Recommendation | Avg final score `0.7331` vs `0.7023` for the policy-aware random baseline |
+
+## Verified sample outputs
+
+### Model A pricing example
+
+Sample command:
+
+```bash
+python3 code/model_a/inference/predict_price_range_simple_input.py --brand Prada --category Dress --material Silk --age_months 6 --size M --condition "Like New" --original_price 95000 --json
+```
+
+Observed headline output from this repo clone:
+
+```json
+{
+  "final_price_range": {
+    "min_price": 9300,
+    "max_price": 11900,
+    "source": "model_output"
+  },
+  "confidence": {
+    "score": 0.9,
+    "fallback_to_rule_range": false
+  },
+  "model_route": "tier_split_tier5"
+}
+```
+
+### Model C recommendation example
+
+Sample command:
+
+```bash
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
+```
+
+Observed headline output from this repo clone:
+
+```json
+{
+  "query_mode": "item_to_item",
+  "seed_item": {
+    "listing_id": "L0015",
+    "brand": "Prada",
+    "category": "Dress",
+    "gender": "Women",
+    "size": "S"
+  },
+  "policy_summary": {
+    "same_category_only": true,
+    "query_gender": "Women",
+    "query_size": "S",
+    "review_items_used": 0
+  }
+}
+```
 
 ## Documentation
 
@@ -104,6 +177,12 @@ reports/
 
 ### API layer
 - `code/api/app.py`
+- `code/api/README.md`
+
+### Module-level guides
+- `code/model_a/README.md`
+- `code/model_b/README.md`
+- `code/model_c/README.md`
 
 ## Reproducibility notes
 
@@ -113,6 +192,8 @@ This repository includes:
 - trained model files used by the present inference pipelines
 
 These assets were intentionally kept in the repository because they remain within manageable GitHub limits and make the ML work easier to review and reproduce.
+
+The runnable code is now configured to resolve paths from the repository itself, which makes the clone portable and removes the dependency on a machine-specific `/Users/.../RentAFit` folder layout.
 
 ## Relationship to the main platform repository
 

@@ -50,24 +50,24 @@ It also now includes the operational lifecycle layer for:
 ## Main files
 
 ### Preparation
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_expansion_candidates.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_expanded_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_gender_policy_dataset.py`
-- `/Users/mypc/RentAFit/code/model_b/prepare_model_b_splits.py`
-- `/Users/mypc/RentAFit/code/model_b/gender_policy.py`
+- `code/model_b/prepare_model_b_dataset.py`
+- `code/model_b/prepare_model_b_expansion_candidates.py`
+- `code/model_b/prepare_model_b_expanded_dataset.py`
+- `code/model_b/prepare_model_b_gender_policy_dataset.py`
+- `code/model_b/prepare_model_b_splits.py`
+- `code/model_b/gender_policy.py`
 
 ### Training
-- `/Users/mypc/RentAFit/code/model_b/training/train_model_b_lstm.py`
+- `code/model_b/training/train_model_b_lstm.py`
 
 ### Runtime and lifecycle
-- `/Users/mypc/RentAFit/code/model_b/lifecycle.py`
-- `/Users/mypc/RentAFit/code/model_b/runtime.py`
+- `code/model_b/lifecycle.py`
+- `code/model_b/runtime.py`
 
 ### Inference and ops
-- `/Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/generate_live_listings_sample.py`
-- `/Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py`
+- `code/model_b/inference/predict_model_b_decision.py`
+- `code/model_b/ops/generate_live_listings_sample.py`
+- `code/model_b/ops/run_model_b_live_ops.py`
 
 ## Age logic
 
@@ -114,27 +114,27 @@ This makes Model B easier to integrate without reading multiple nested structure
 
 ## Main saved outputs
 
-- model: `/Users/mypc/RentAFit/models/model_b/model_b_lstm.pt`
-- preprocessor: `/Users/mypc/RentAFit/models/model_b/model_b_tabular_preprocessor.joblib`
-- metrics: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_metrics.json`
-- confusion matrix: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_confusion_matrix_test.png`
-- training history: `/Users/mypc/RentAFit/reports/model_b/model_b_lstm_training_history.png`
-- live ops summary: `/Users/mypc/RentAFit/reports/model_b/model_b_live_ops_summary.json`
-- review queue sample: `/Users/mypc/RentAFit/reports/model_b/model_b_review_queue_sample.csv`
-- cross-check report: `/Users/mypc/RentAFit/reports/validation/model_crosscheck_report.md`
+- model: `models/model_b/model_b_lstm.pt`
+- preprocessor: `models/model_b/model_b_tabular_preprocessor.joblib`
+- metrics: `reports/model_b/model_b_lstm_metrics.json`
+- confusion matrix: `reports/model_b/model_b_lstm_confusion_matrix_test.png`
+- training history: `reports/model_b/model_b_lstm_training_history.png`
+- live ops summary: `reports/model_b/model_b_live_ops_summary.json`
+- review queue sample: `reports/model_b/model_b_review_queue_sample.csv`
+- cross-check report: `reports/validation/model_crosscheck_report.md`
 
 ## Supporting docs
 
-- `/Users/mypc/RentAFit/docs/model_b/Model_B_Master_Document.md`
-- `/Users/mypc/RentAFit/docs/model_b/MODEL_B_OPERATIONAL_LIFECYCLE_GUIDE.md`
-- `/Users/mypc/RentAFit/docs/model_b/MODEL_B_LSTM_RESULTS.md`
+- `docs/model_b/Model_B_Master_Document.md`
+- `docs/model_b/MODEL_B_OPERATIONAL_LIFECYCLE_GUIDE.md`
+- `docs/model_b/MODEL_B_LSTM_RESULTS.md`
 
 ## Commands
 
 Single-listing inference:
 
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py \
+python3 code/model_b/inference/predict_model_b_decision.py \
   --brand "Zara" \
   --category "Top" \
   --gender "Women" \
@@ -152,5 +152,11 @@ python3 /Users/mypc/RentAFit/code/model_b/inference/predict_model_b_decision.py 
 Operational batch scoring:
 
 ```bash
-python3 /Users/mypc/RentAFit/code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
+python3 code/model_b/ops/run_model_b_live_ops.py --as_of_date 2026-03-14
 ```
+
+## Headline result
+
+- Test macro F1: `0.9765`
+- Test accuracy: `0.9772`
+- Test rows: `307`

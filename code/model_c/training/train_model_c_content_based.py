@@ -9,7 +9,8 @@ from sklearn.neighbors import NearestNeighbors
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-BASE = Path('/Users/mypc/RentAFit')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+BASE = REPO_ROOT
 INPUT_PATH = BASE / 'data/generated/model_c_catalog_recommendable.csv'
 MODEL_DIR = BASE / 'models/model_c/content_based'
 MODEL_DIR.mkdir(parents=True, exist_ok=True)

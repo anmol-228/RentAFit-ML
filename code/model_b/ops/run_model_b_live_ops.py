@@ -7,13 +7,14 @@ import json
 import pandas as pd
 
 import sys
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
 from model_b.runtime import load_artifacts, predict_one
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 DEFAULT_INPUT = BASE / 'data/generated/model_b_live_listings_sample.csv'
 DEFAULT_SCORED = BASE / 'reports/model_b/model_b_live_listings_scored_sample.csv'
 DEFAULT_QUEUE = BASE / 'reports/model_b/model_b_review_queue_sample.csv'

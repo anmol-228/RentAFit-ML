@@ -33,35 +33,35 @@ So the most honest v1 recommender is content-based:
 ## Main files
 
 ### Policy helpers
-- `/Users/mypc/RentAFit/code/model_c/policy.py`
+- `code/model_c/policy.py`
 
 ### Catalog preparation
-- `/Users/mypc/RentAFit/code/model_c/prepare_model_c_catalog.py`
+- `code/model_c/prepare_model_c_catalog.py`
 
 ### Training / artifact building
-- `/Users/mypc/RentAFit/code/model_c/training/train_model_c_content_based.py`
+- `code/model_c/training/train_model_c_content_based.py`
 
 ### Runtime
-- `/Users/mypc/RentAFit/code/model_c/runtime.py`
+- `code/model_c/runtime.py`
 
 ### Inference
-- `/Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py`
+- `code/model_c/inference/recommend_model_c_items.py`
 
 ### Analysis / reporting
-- `/Users/mypc/RentAFit/code/model_c/analysis/model_c_report.py`
+- `code/model_c/analysis/model_c_report.py`
 
 ## Main data outputs
 
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog.csv`
-- `/Users/mypc/RentAFit/data/generated/model_c_catalog_recommendable.csv`
+- `data/generated/model_c_catalog.csv`
+- `data/generated/model_c_catalog_recommendable.csv`
 
 ## Saved artifacts
 
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_preprocessor.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_nearest_neighbors.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_feature_matrix.joblib`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_catalog_recommendable.csv`
-- `/Users/mypc/RentAFit/models/model_c/content_based/model_c_metadata.json`
+- `models/model_c/content_based/model_c_preprocessor.joblib`
+- `models/model_c/content_based/model_c_nearest_neighbors.joblib`
+- `models/model_c/content_based/model_c_feature_matrix.joblib`
+- `models/model_c/content_based/model_c_catalog_recommendable.csv`
+- `models/model_c/content_based/model_c_metadata.json`
 
 ## Current artifact summary
 
@@ -105,33 +105,51 @@ It is ranking stronger candidates higher than a random selector working under th
 
 ## Reports and visuals
 
-- `/Users/mypc/RentAFit/reports/model_c/model_c_catalog_distribution_chart.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_metrics_chart.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_proxy_vs_random_chart.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_similarity_flow.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_data_pipeline.png`
-- `/Users/mypc/RentAFit/reports/model_c/model_c_architecture.png`
+- `reports/model_c/model_c_catalog_distribution_chart.png`
+- `reports/model_c/model_c_proxy_metrics_chart.png`
+- `reports/model_c/model_c_proxy_vs_random_chart.png`
+- `reports/model_c/model_c_similarity_flow.png`
+- `reports/model_c/model_c_data_pipeline.png`
+- `reports/model_c/model_c_architecture.png`
 
 ## Commands
 
 Rebuild Model C end to end:
 
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/prepare_model_c_catalog.py
-python3 /Users/mypc/RentAFit/code/model_c/training/train_model_c_content_based.py
-python3 /Users/mypc/RentAFit/code/model_c/analysis/model_c_report.py
+python3 code/model_c/prepare_model_c_catalog.py
+python3 code/model_c/training/train_model_c_content_based.py
+python3 code/model_c/analysis/model_c_report.py
 ```
 
 Run item-to-item inference:
 
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --seed_item_id L0015 --top_k 5 --json
 ```
 
 Run profile-from-liked-items inference:
 
 ```bash
-python3 /Users/mypc/RentAFit/code/model_c/inference/recommend_model_c_items.py --liked_item_ids L0015,L0021,L0100 --top_k 5 --json
+python3 code/model_c/inference/recommend_model_c_items.py --liked_item_ids L0015,L0021,L0100 --top_k 5 --json
+```
+
+Sample item-to-item run highlights:
+
+```json
+{
+  "query_mode": "item_to_item",
+  "seed_item": {
+    "listing_id": "L0015",
+    "brand": "Prada",
+    "category": "Dress"
+  },
+  "policy_summary": {
+    "same_category_only": true,
+    "query_gender": "Women",
+    "query_size": "S"
+  }
+}
 ```
 
 ## Important honest limitation

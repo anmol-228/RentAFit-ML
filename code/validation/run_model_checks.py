@@ -9,7 +9,8 @@ import pandas as pd
 
 import sys
 
-ROOT_CODE_DIR = Path('/Users/mypc/RentAFit/code')
+REPO_ROOT = next(parent.parent for parent in Path(__file__).resolve().parents if parent.name == 'code')
+ROOT_CODE_DIR = REPO_ROOT / 'code'
 if str(ROOT_CODE_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_CODE_DIR))
 
@@ -19,7 +20,7 @@ from model_c.runtime import load_artifacts, recommend_from_item, recommend_from_
 from model_c.policy import gender_compatible
 
 
-BASE = Path('/Users/mypc/RentAFit')
+BASE = REPO_ROOT
 REPORT_DIR = BASE / 'reports/validation'
 REPORT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -433,8 +434,6 @@ def run_documentation_audit():
     model_b_docx = BASE / 'docs/model_b/Model_B_Master_Document.docx'
     model_c_md = BASE / 'docs/model_c/Model_C_Master_Document.md'
     model_c_docx = BASE / 'docs/model_c/Model_C_Master_Document.docx'
-    project_md = BASE / 'docs/project/RentAFit_Final_Project_Master_Document.md'
-    project_docx = BASE / 'docs/project/RentAFit_Final_Project_Master_Document.docx'
 
     required_files = {
         'model_a_md': model_a_md,
@@ -443,8 +442,6 @@ def run_documentation_audit():
         'model_b_docx': model_b_docx,
         'model_c_md': model_c_md,
         'model_c_docx': model_c_docx,
-        'project_md': project_md,
-        'project_docx': project_docx,
     }
 
     required_visuals = {
@@ -473,33 +470,24 @@ def run_documentation_audit():
             BASE / 'reports/model_c/model_c_proxy_metrics_chart.png',
             BASE / 'reports/model_c/model_c_proxy_vs_random_chart.png',
         ],
-        'project': [
-            BASE / 'reports/project/project_system_architecture.png',
-            BASE / 'reports/project/project_data_lineage.png',
-            BASE / 'reports/project/project_model_suite_overview.png',
-            BASE / 'reports/project/project_progress_roadmap.png',
-        ],
     }
 
     doc_texts = {
         'model_a': _load_text(model_a_md),
         'model_b': _load_text(model_b_md),
         'model_c': _load_text(model_c_md),
-        'project': _load_text(project_md),
     }
 
     required_sections = {
         'model_a': ['Purpose', 'Architecture', 'Stage-wise results', 'Quick pointers'],
         'model_b': ['Purpose', 'Architecture', 'Main Results', 'Quick pointers'],
         'model_c': ['Purpose', 'Current Metrics', 'Smoke-Test Examples', 'Quick pointers'],
-        'project': ['Project', 'Model A', 'Model B', 'Model C'],
     }
 
     docx_counts = {
         'model_a_docx_images': _count_docx_images(model_a_docx),
         'model_b_docx_images': _count_docx_images(model_b_docx),
         'model_c_docx_images': _count_docx_images(model_c_docx),
-        'project_docx_images': _count_docx_images(project_docx),
     }
 
     anomalies = []
@@ -528,7 +516,6 @@ def run_documentation_audit():
         'model_a_docx_images': 6,
         'model_b_docx_images': 7,
         'model_c_docx_images': 6,
-        'project_docx_images': 10,
     }
     for key, min_expected in minimum_images.items():
         if docx_counts[key] < min_expected:
@@ -600,7 +587,6 @@ def build_markdown(report: dict) -> str:
     lines.append(f"| Model A handbook | {doc_audit['required_files_present']['model_a_docx']} | {doc_audit['docx_image_counts']['model_a_docx_images']} |")
     lines.append(f"| Model B handbook | {doc_audit['required_files_present']['model_b_docx']} | {doc_audit['docx_image_counts']['model_b_docx_images']} |")
     lines.append(f"| Model C handbook | {doc_audit['required_files_present']['model_c_docx']} | {doc_audit['docx_image_counts']['model_c_docx_images']} |")
-    lines.append(f"| Project master handbook | {doc_audit['required_files_present']['project_docx']} | {doc_audit['docx_image_counts']['project_docx_images']} |")
     lines.append('')
     lines.append('| Visual Group | Required Visuals | Missing Visuals |')
     lines.append('| --- | --- | --- |')
