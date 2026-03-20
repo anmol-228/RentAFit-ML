@@ -1,0 +1,30 @@
+{
+  "input_rows": 60,
+  "scored_rows": 60,
+  "review_queue_rows": 47,
+  "recommended_status_counts": {
+    "ACTIVE": 13,
+    "PENDING_REVIEW": 9,
+    "REAPPROVAL_REQUIRED": 18,
+    "REJECTED": 20
+  },
+  "predicted_decision_counts": {
+    "Approve": 20,
+    "Reject": 20,
+    "Review": 20
+  },
+  "stale_listing_flag_counts": {
+    "0": 34,
+    "1": 26
+  },
+  "removal_recommended_count": 7,
+  "auto_removed_count": 0,
+  "review_priority_counts": {
+    "high": 25,
+    "low": 13,
+    "medium": 22
+  },
+  "input_csv": "/Users/mypc/RentAFit/data/generated/model_b_live_listings_sample.csv",
+  "output_scored_csv": "/Users/mypc/RentAFit/reports/model_b/model_b_live_listings_scored_sample.csv",
+  "output_queue_csv": "/Users/mypc/RentAFit/reports/model_b/model_b_review_queue_sample.csv"
+}

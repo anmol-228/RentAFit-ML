@@ -1,0 +1,1501 @@
+listing_id,source_listing_id,data_source,brand,category,material,size,condition,age_months,original_price,tier_primary,base_min_pct,base_max_pct,cond_mult,age_mult,cat_mult,mat_mult,target_rule_min,target_rule_max,check_target_guard,check_age,check_price,check_id_unique,split_num,split_bucket,split_set
+L0001,L0001,manual,Sabyasachi,Ethnic Wear,Silk,M,Like New,4,89999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,9300,11800,1,1,1,1,1,1,train
+L0002,L0002,manual,Zudio,Top,Cotton,S,Like New,4,599,Tier 1,0.05,0.06,0.9,0.9,1,1,20,30,1,1,1,1,2,2,train
+L0003,L0003,manual,Nike,Activewear,Polyester,L,New,2,3999,Tier 3,0.07,0.09,1,1,0.95,1,250,350,1,1,1,1,3,3,train
+L0004,L0004,manual,Gucci,Jacket,Leather,S,New,1,61999,Tier 5,0.11,0.14,1,1,1.05,1.05,7500,9600,1,1,1,1,4,4,train
+L0005,L0005,manual,Rangriti,Kurta,Cotton,S,New,2,999,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,5,5,train
+L0006,L0006,manual,Louis Vuitton,Jacket,Leather,M,Used,10,150000,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,10200,13000,1,1,1,1,6,6,train
+L0007,L0007,manual,Zara,Dress,Linen,L,New,2,9999,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1200,1,1,1,1,7,7,val
+L0008,L0008,manual,Biba,Kurta,Silk,M,Like New,5,1499,Tier 2,0.06,0.07,0.9,0.9,1,1.05,80,90,1,1,1,1,8,8,val
+L0009,L0009,manual,Roadster,Jeans,Denim,XL,New,2,1099,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,9,9,test
+L0010,L0010,manual,Anita Dongre,Saree,Silk,M,New,3,59999,Tier 5,0.11,0.14,1,1,1.1,1.05,7600,9700,1,1,1,1,10,0,train
+L0011,L0011,manual,Easybuy,Top,Polyester,S,Like New,3,499,Tier 1,0.05,0.06,0.9,1,1,1,20,30,1,1,1,1,11,1,train
+L0012,L0012,manual,Manyavar,Ethnic Wear,Silk,XL,New,2,5499,Tier 4,0.09,0.11,1,1,1.1,1.05,550,700,1,1,1,1,12,2,train
+L0013,L0013,manual,GAP,Jeans,Denim,L,Used,11,5999,Tier 4,0.09,0.11,0.7,0.7,0.95,1,250,300,1,1,1,1,13,3,train
+L0014,L0014,manual,Fabindia,Kurta,Silk,M,Used,7,2999,Tier 3,0.07,0.09,0.7,0.8,1,1.05,120,160,1,1,1,1,14,4,train
+L0015,L0015,manual,Prada,Dress,Silk,S,Like New,4,95000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,9300,11900,1,1,1,1,15,5,train
+L0016,L0016,manual,HRX,Activewear,Polyester,XS,New,3,999,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,16,6,train
+L0017,L0017,manual,Sabyasachi,Saree,Silk,L,New,2,145000,Tier 5,0.11,0.14,1,1,1.1,1.05,18400,23400,1,1,1,1,17,7,val
+L0018,L0018,manual,Moda Rapido,Dress,Polyester,S,New,1,1099,Tier 1,0.05,0.06,1,1,1.05,1,60,70,1,1,1,1,18,8,val
+L0019,L0019,manual,Bewakoof,Top,Cotton,S,New,2,899,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,19,9,test
+L0020,L0020,manual,Marks & Spencer,Shirt,Linen,L,Like New,5,3499,Tier 3,0.07,0.09,0.9,0.9,1,1.03,200,250,1,1,1,1,20,0,train
+L0021,L0021,manual,Tarun Tahiliani,Saree,Silk,M,Like New,6,69999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,7200,9200,1,1,1,1,21,1,train
+L0022,L0022,manual,Mufti,Shirt,Linen,L,Used,10,3099,Tier 3,0.07,0.09,0.7,0.8,1,1.03,130,160,1,1,1,1,22,2,train
+L0023,L0023,manual,Libas,Kurta,Cotton,S,New,4,899,Tier 1,0.05,0.06,1,0.9,1,1,40,50,1,1,1,1,23,3,train
+L0024,L0024,manual,Anouk,Saree,Silk,M,New,3,1999,Tier 2,0.06,0.07,1,1,1.1,1.05,140,160,1,1,1,1,24,4,train
+L0025,L0025,manual,Flying Machine,Jeans,Denim,L,Like New,4,1499,Tier 2,0.06,0.07,0.9,0.9,0.95,1,70,80,1,1,1,1,25,5,train
+L0026,L0026,manual,Global Desi,Saree,Silk,S,Like New,6,2499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,140,160,1,1,1,1,26,6,train
+L0027,L0027,manual,Pantaloons,Jeans,Denim,S,Used,9,1099,Tier 1,0.05,0.06,0.7,0.8,0.95,1,30,40,1,1,1,1,27,7,val
+L0028,L0028,manual,Indya,Jacket,Denim,L,Like New,5,1299,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,28,8,val
+L0029,L0029,manual,Zara,Jacket,Denim,M,Used,8,4999,Tier 3,0.07,0.09,0.7,0.8,1.05,1,200,250,1,1,1,1,29,9,test
+L0030,L0030,manual,H&M,Dress,Cotton,S,Used,9,1199,Tier 1,0.05,0.06,0.7,0.8,1.05,1,40,40,1,1,1,1,30,0,train
+L0031,L0031,manual,Suta,Saree,Silk,M,New,1,2999,Tier 3,0.07,0.09,1,1,1.1,1.05,250,300,1,1,1,1,31,1,train
+L0032,L0032,manual,Uniqlo,Jacket,Polyester,M,Like New,5,1999,Tier 2,0.06,0.07,0.9,0.9,1.05,1,100,120,1,1,1,1,32,2,train
+L0033,L0033,manual,Forever 21,Dress,Polyester,S,New,2,1299,Tier 2,0.06,0.07,1,1,1.05,1,80,100,1,1,1,1,33,3,train
+L0034,L0034,manual,Max Fashion,Jeans,Denim,M,New,3,999,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,34,4,train
+L0035,L0035,manual,Highlander,Shirt,Cotton,M,New,3,999,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,35,5,train
+L0036,L0036,manual,Jaypore,Saree,Silk,M,Like New,6,8999,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,750,950,1,1,1,1,36,6,train
+L0037,L0037,manual,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,Tier 5,0.11,0.14,0.9,0.9,1,1.03,6500,8200,1,1,1,1,37,7,val
+L0038,L0038,manual,Armani,Jacket,Leather,S,Used,11,45459,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,1,1,1,1,38,8,val
+L0039,L0039,manual,W for Woman,Saree,Silk,M,New,2,2499,Tier 2,0.06,0.07,1,1,1.1,1.05,170,200,1,1,1,1,39,9,test
+L0040,L0040,manual,Biba,Dress,Silk,M,Like New,6,5500,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,450,550,1,1,1,1,40,0,train
+L0041,L0041,manual,Global Desi,Ethnic Wear,Silk,M,Like New,5,3999,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,1,1,1,1,41,1,train
+L0042,L0042,manual,Soch,Ethnic Wear,Silk,S,Like New,4,1499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,1,1,1,1,42,2,train
+L0043,L0043,manual,Manish Malhotra,Ethnic Wear,Silk,M,Used,8,79999,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5700,7200,1,1,1,1,43,3,train
+L0044,L0044,manual,Aurelia,Kurta,Cotton,S,Used,8,999,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,44,4,train
+L0045,L0045,manual,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,Tier 4,0.09,0.11,0.9,0.9,1,1,450,550,1,1,1,1,45,5,train
+L0046,L0046,manual,Calvin Klein,Jacket,Denim,M,Used,9,7999,Tier 4,0.09,0.11,0.7,0.8,1.05,1,400,500,1,1,1,1,46,6,train
+L0047,L0047,manual,Red Tape,Shirt,Linen,S,New,3,899,Tier 1,0.05,0.06,1,1,1,1.03,50,60,1,1,1,1,47,7,val
+L0048,L0048,manual,Puma,Activewear,Polyester,M,Used,7,2999,Tier 3,0.07,0.09,0.7,0.8,0.95,1,110,140,1,1,1,1,48,8,val
+L0049,L0049,manual,Label Ritu Kumar,Ethnic Wear,Silk,S,New,3,14500,Tier 4,0.09,0.11,1,1,1.1,1.05,1500,1800,1,1,1,1,49,9,test
+L0050,L0050,manual,Fabindia,Kurta,Cotton,XL,Used,10,2799,Tier 3,0.07,0.09,0.7,0.8,1,1,110,140,1,1,1,1,50,0,train
+L0051,L0051,manual,Prada,Dress,Silk,L,Like New,6,85999,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,8400,10800,1,1,1,1,51,1,train
+L0052,L0052,manual,Nalli,Saree,Silk,L,Like New,3,6999,Tier 4,0.09,0.11,0.9,1,1.1,1.05,650,800,1,1,1,1,52,2,train
+L0053,L0053,manual,Zudio,Top,Cotton,S,New,2,499,Tier 1,0.05,0.06,1,1,1,1,20,30,1,1,1,1,53,3,train
+L0054,L0054,manual,Adidas,Activewear,Polyester,S,Like New,5,3499,Tier 3,0.07,0.09,0.9,0.9,0.95,1,190,250,1,1,1,1,54,4,train
+L0055,L0055,manual,Libas,Kurta,Silk,S,New,2,1999,Tier 2,0.06,0.07,1,1,1,1.05,130,150,1,1,1,1,55,5,train
+L0056,L0056,manual,Bewakoof,Top,Polyester,S,Used,6,499,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,56,6,train
+L0057,L0057,manual,Moda Rapido,Dress,Denim,S,New,1,899,Tier 1,0.05,0.06,1,1,1.05,1,50,60,1,1,1,1,57,7,val
+L0058,L0058,manual,Roadster,Shirt,Cotton,M,New,3,1099,Tier 1,0.05,0.06,1,1,1,1,50,70,1,1,1,1,58,8,val
+L0059,L0059,manual,Levi's,Jeans,Denim,M,New,2,3999,Tier 3,0.07,0.09,1,1,0.95,1,250,350,1,1,1,1,59,9,test
+L0060,L0060,manual,FBB,Ethnic Wear,Cotton,L,New,4,699,Tier 1,0.05,0.06,1,0.9,1.1,1,30,40,1,1,1,1,60,0,train
+L0061,L0061,manual,Gucci,Jacket,Leather,M,Like New,6,120000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,11800,15000,1,1,1,1,61,1,train
+L0062,L0062,manual,HRX,Activewear,Polyester,M,New,3,2299,Tier 2,0.06,0.07,1,1,0.95,1,130,150,1,1,1,1,62,2,train
+L0063,L0063,manual,Skechers,Activewear,Polyester,M,Like New,4,4999,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,63,3,train
+L0064,L0064,manual,Versace,Dress,Silk,M,Like New,5,110000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10800,13800,1,1,1,1,64,4,train
+L0065,L0065,manual,Mufti,Shirt,Linen,M,Like New,4,2899,Tier 3,0.07,0.09,0.9,0.9,1,1.03,170,200,1,1,1,1,65,5,train
+L0066,L0066,manual,Reebok,Activewear,Polyester,S,Used,3,2799,Tier 3,0.07,0.09,0.7,1,0.95,1,130,170,1,1,1,1,66,6,train
+L0067,L0067,manual,Anouk,Saree,Cotton,S,Used,7,1899,Tier 2,0.06,0.07,0.7,0.8,1.1,1,70,80,1,1,1,1,67,7,val
+L0068,L0068,manual,Masaba,Dress,Silk,M,Like New,4,12000,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,950,1200,1,1,1,1,68,8,val
+L0069,L0069,manual,Indya,Jacket,Denim,M,Used,9,1499,Tier 2,0.06,0.07,0.7,0.8,1.05,1,50,60,1,1,1,1,69,9,test
+L0070,L0070,manual,Pantaloons,Dress,Cotton,L,Like New,6,2499,Tier 2,0.06,0.07,0.9,0.9,1.05,1,130,150,1,1,1,1,70,0,train
+L0071,L0071,manual,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,71,1,train
+L0072,L0072,manual,Zudio,Shirt,Cotton,M,New,1,399,Tier 1,0.05,0.06,1,1,1,1,20,20,1,1,1,1,72,2,train
+L0073,L0073,manual,Under Armour,Activewear,Polyester,M,New,3,6999,Tier 4,0.09,0.11,1,1,0.95,1,600,750,1,1,1,1,73,3,train
+L0074,L0074,manual,Reliance Trends,Top,Cotton,S,Like New,6,799,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,74,4,train
+L0075,L0075,manual,Easybuy,Shirt,Polyester,M,Used,8,699,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,75,5,train
+L0076,L0076,manual,House of Masaba,Saree,Silk,M,Like New,7,13499,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1,1,1,1,76,6,train
+L0077,L0077,manual,AND,Dress,Cotton,M,Like New,5,4999,Tier 3,0.07,0.09,0.9,0.9,1.05,1,300,400,1,1,1,1,77,7,val
+L0078,L0078,manual,Nicobar,Dress,Linen,S,New,3,7999,Tier 4,0.09,0.11,1,1,1.05,1.03,800,950,1,1,1,1,78,8,val
+L0079,L0079,manual,American Eagle,Jeans,Denim,XS,Used,8,8499,Tier 4,0.09,0.11,0.7,0.8,0.95,1,400,500,1,1,1,1,79,9,test
+L0080,L0080,manual,Anita Dongre,Ethnic Wear,Silk,S,Like New,10,19499,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,1,1,1,1,80,0,train
+L0081,L0081,manual,FBB,Kurta,Cotton,M,Used,9,999,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,81,1,train
+L0082,L0082,manual,Aurelia,Ethnic Wear,Cotton,M,Used,6,1199,Tier 1,0.05,0.06,0.7,0.9,1.1,1,40,50,1,1,1,1,82,2,train
+L0083,L0083,manual,Bewakoof,Top,Polyester,XS,Like New,5,799,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,83,3,train
+L0084,L0084,manual,Style Bazaar,Top,Polyester,XL,Used,8,299,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,84,4,train
+L0085,L0085,manual,Rangriti,Kurta,Cotton,M,New,3,699,Tier 1,0.05,0.06,1,1,1,1,30,40,1,1,1,1,85,5,train
+L0086,L0086,manual,Flying Machine,Jeans,Denim,L,Used,9,3199,Tier 3,0.07,0.09,0.7,0.8,0.95,1,120,150,1,1,1,1,86,6,train
+L0087,L0087,manual,Mufti,Shirt,Linen,M,Used,11,3499,Tier 3,0.07,0.09,0.7,0.7,1,1.03,120,160,1,1,1,1,87,7,val
+L0088,L0088,manual,Suta,Saree,Linen,M,Like New,6,3499,Tier 3,0.07,0.09,0.9,0.9,1.1,1.03,200,300,1,1,1,1,88,8,val
+L0089,L0089,manual,H&M,Dress,Silk,S,Like New,6,1499,Tier 2,0.06,0.07,0.9,0.9,1.05,1.05,80,90,1,1,1,1,89,9,test
+L0090,L0090,manual,Zara,Dress,Linen,S,New,2,6990,Tier 4,0.09,0.11,1,1,1.05,1.03,700,850,1,1,1,1,90,0,train
+L0091,L0091,manual,Forever 21,Top,Cotton,S,Like New,5,1500,Tier 2,0.06,0.07,0.9,0.9,1,1,70,90,1,1,1,1,91,1,train
+L0092,L0092,manual,Highlander,Top,Cotton,XL,Like New,2,599,Tier 1,0.05,0.06,0.9,1,1,1,30,30,1,1,1,1,92,2,train
+L0093,L0093,manual,Prada,Dress,Silk,M,Like New,8,75499,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,6600,8400,1,1,1,1,93,3,train
+L0094,L0094,manual,Soch,Ethnic Wear,Silk,S,Like New,4,1499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,1,1,1,1,94,4,train
+L0095,L0095,manual,Neeru's,Ethnic Wear,Silk,M,Like New,7,14999,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1100,1400,1,1,1,1,95,5,train
+L0096,L0096,manual,Meena Bazaar,Ethnic Wear,Silk,S,New,4,12999,Tier 4,0.09,0.11,1,0.9,1.1,1.05,1200,1500,1,1,1,1,96,6,train
+L0097,L0097,manual,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,4800,6100,1,1,1,1,97,7,val
+L0098,L0098,manual,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,5100,6500,1,1,1,1,98,8,val
+L0099,L0099,manual,W for Woman,Ethnic Wear,Silk,S,Used,7,1199,Tier 1,0.05,0.06,0.7,0.8,1.1,1.05,40,50,1,1,1,1,99,9,test
+L0100,L0100,manual,Armani,Ethnic Wear,Polyester,L,New,2,85000,Tier 5,0.11,0.14,1,1,1.1,1,10300,13100,1,1,1,1,100,0,train
+L0101,L0101,manual,Rangriti,Kurta,Cotton,M,New,3,699,Tier 1,0.05,0.06,1,1,1,1,30,40,1,1,1,1,101,1,train
+L0102,L0102,manual,Style Bazaar,Top,Polyester,XL,Used,8,299,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,102,2,train
+L0103,L0103,manual,Soch,Ethnic Wear,Cotton,XS,Used,9,799,Tier 1,0.05,0.06,0.7,0.8,1.1,1,20,30,1,1,1,1,103,3,train
+L0104,L0104,manual,AND,Dress,Cotton,M,Like New,5,4999,Tier 3,0.07,0.09,0.9,0.9,1.05,1,300,400,1,1,1,1,104,4,train
+L0105,L0105,manual,House of Masaba,Saree,Silk,M,Like New,7,13499,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1,1,1,1,105,5,train
+L0106,L0106,manual,Nicobar,Dress,Linen,S,New,3,7999,Tier 4,0.09,0.11,1,1,1.05,1.03,800,950,1,1,1,1,106,6,train
+L0107,L0107,manual,Zara,Dress,Linen,L,New,2,9999,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1200,1,1,1,1,107,7,val
+L0108,L0108,manual,Armani,Jacket,Leather,S,Used,11,45459,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,1,1,1,1,108,8,val
+L0109,L0109,manual,Zudio,Top,Cotton,S,Like New,4,599,Tier 1,0.05,0.06,0.9,0.9,1,1,20,30,1,1,1,1,109,9,test
+L0110,L0110,manual,Easybuy,Shirt,Polyester,M,Used,8,699,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,110,0,train
+L0111,L0111,manual,W for Woman,Saree,Silk,M,New,2,2499,Tier 2,0.06,0.07,1,1,1.1,1.05,170,200,1,1,1,1,111,1,train
+L0112,L0112,manual,Zudio,Shirt,Cotton,M,New,1,399,Tier 1,0.05,0.06,1,1,1,1,20,20,1,1,1,1,112,2,train
+L0113,L0113,manual,Easybuy,Top,Polyester,S,Like New,3,499,Tier 1,0.05,0.06,0.9,1,1,1,20,30,1,1,1,1,113,3,train
+L0114,L0114,manual,GAP,Jeans,Denim,L,Used,11,5999,Tier 4,0.09,0.11,0.7,0.7,0.95,1,250,300,1,1,1,1,114,4,train
+L0115,L0115,manual,American Eagle,Jeans,Denim,XS,Used,8,8499,Tier 4,0.09,0.11,0.7,0.8,0.95,1,400,500,1,1,1,1,115,5,train
+L0116,L0116,manual,Under Armour,Activewear,Polyester,M,New,3,6999,Tier 4,0.09,0.11,1,1,0.95,1,600,750,1,1,1,1,116,6,train
+L0117,L0117,manual,Anita Dongre,Lehenga,Silk,S,Like New,10,19499,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,1,1,1,1,117,7,val
+L0118,L0118,manual,FBB,Kurta,Cotton,M,Used,9,999,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,118,8,val
+L0119,L0119,manual,Pantaloons,Jeans,Denim,L,Like New,5,1199,Tier 1,0.05,0.06,0.9,0.9,0.95,1,50,60,1,1,1,1,119,9,test
+L0120,L0120,manual,Vishal Mega Mart,Shirt,Cotton,L,Used,7,399,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,120,0,train
+L0121,L0121,manual,Roadster,Shirt,Cotton,M,New,3,1099,Tier 1,0.05,0.06,1,1,1,1,50,70,1,1,1,1,121,1,train
+L0122,L0122,manual,Libas,Kurta,Cotton,M,Like New,4,1199,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,122,2,train
+L0123,L0123,manual,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,4800,6100,1,1,1,1,123,3,train
+L0124,L0124,manual,Gucci,Jacket,Leather,S,New,1,61999,Tier 5,0.11,0.14,1,1,1.05,1.05,7500,9600,1,1,1,1,124,4,train
+L0125,L0125,manual,Max Fashion,Jeans,Denim,M,New,3,999,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,125,5,train
+L0126,L0126,manual,Reliance Trends,Top,Cotton,S,Like New,6,799,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,126,6,train
+L0127,L0127,manual,Aurelia,Ethnic Wear,Cotton,S,Like New,2,699,Tier 1,0.05,0.06,0.9,1,1.1,1,30,40,1,1,1,1,127,7,val
+L0128,L0128,manual,Libas,Kurta,Cotton,S,New,4,899,Tier 1,0.05,0.06,1,0.9,1,1,40,50,1,1,1,1,128,8,val
+L0129,L0129,manual,Max Fashion,Jeans,Denim,M,Used,5,799,Tier 1,0.05,0.06,0.7,0.9,0.95,1,20,30,1,1,1,1,129,9,test
+L0130,L0130,manual,Reliance Trends,Shirt,Cotton,L,New,3,499,Tier 1,0.05,0.06,1,1,1,1,20,30,1,1,1,1,130,0,train
+L0131,L0131,manual,Fabindia,Kurta,Cotton,M,Used,7,2999,Tier 3,0.07,0.09,0.7,0.8,1,1,120,150,1,1,1,1,131,1,train
+L0132,L0132,manual,Suta,Saree,Linen,M,Like New,6,3499,Tier 3,0.07,0.09,0.9,0.9,1.1,1.03,200,300,1,1,1,1,132,2,train
+L0133,L0133,manual,H&M,Dress,Cotton,S,Like New,6,1499,Tier 2,0.06,0.07,0.9,0.9,1.05,1,80,90,1,1,1,1,133,3,train
+L0134,L0134,manual,Levi's,Jeans,Denim,M,New,2,3999,Tier 3,0.07,0.09,1,1,0.95,1,250,350,1,1,1,1,134,4,train
+L0135,L0135,manual,Zara,Jacket,Denim,M,Used,8,4999,Tier 3,0.07,0.09,0.7,0.8,1.05,1,200,250,1,1,1,1,135,5,train
+L0136,L0136,manual,Uniqlo,Jacket,Polyester,M,Like New,5,1999,Tier 2,0.06,0.07,0.9,0.9,1.05,1,100,120,1,1,1,1,136,6,train
+L0137,L0137,manual,Forever 21,Dress,Polyester,S,New,2,1299,Tier 2,0.06,0.07,1,1,1.05,1,80,100,1,1,1,1,137,7,val
+L0138,L0138,manual,GAP,Jeans,Denim,M,Used,10,3999,Tier 3,0.07,0.09,0.7,0.8,0.95,1,150,190,1,1,1,1,138,8,val
+L0139,L0139,manual,FBB,Ethnic Wear,Cotton,L,New,4,699,Tier 1,0.05,0.06,1,0.9,1.1,1,30,40,1,1,1,1,139,9,test
+L0140,L0140,manual,Prada,Dress,Silk,S,Like New,6,85999,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,8400,10800,1,1,1,1,140,0,train
+L0141,L0141,manual,Highlander,Top,Cotton,XL,Like New,2,599,Tier 1,0.05,0.06,0.9,1,1,1,30,30,1,1,1,1,141,1,train
+L0142,L0142,manual,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,Tier 5,0.11,0.14,0.9,0.9,1,1.03,6500,8200,1,1,1,1,142,2,train
+L0143,L0143,manual,Prada,Dress,Silk,M,Like New,8,75499,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,6600,8400,1,1,1,1,143,3,train
+L0144,L0144,manual,Soch,Ethnic Wear,Silk,S,Like New,4,1499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,1,1,1,1,144,4,train
+L0145,L0145,manual,Suta,Saree,Silk,M,New,1,2999,Tier 3,0.07,0.09,1,1,1.1,1.05,250,300,1,1,1,1,145,5,train
+L0146,L0146,manual,Nalli,Saree,Silk,M,Like New,3,6999,Tier 4,0.09,0.11,0.9,1,1.1,1.05,650,800,1,1,1,1,146,6,train
+L0147,L0147,manual,Neeru's,Lehenga,Silk,L,Like New,7,14999,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1100,1400,1,1,1,1,147,7,val
+L0148,L0148,manual,Meena Bazaar,Lehenga,Silk,S,New,4,12999,Tier 4,0.09,0.11,1,0.9,1.1,1.05,1200,1500,1,1,1,1,148,8,val
+L0149,L0149,manual,Rangriti,Kurta,Cotton,M,New,2,999,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,149,9,test
+L0150,L0150,manual,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,150,0,train
+L0151,L0151,manual,Style Bazaar,Shirt,Cotton,XL,Used,7,499,Tier 1,0.05,0.06,0.7,0.8,1,1,10,20,1,1,1,1,151,1,train
+L0152,L0152,manual,American Eagle,Jeans,Denim,L,Like New,4,4999,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,152,2,train
+L0153,L0153,manual,Sabyasachi,Lehenga,Silk,M,Like New,4,89999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,9300,11800,1,1,1,1,153,3,train
+L0154,L0154,manual,Manish Malhotra,Lehenga,Silk,M,Used,8,79999,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5700,7200,1,1,1,1,154,4,train
+L0155,L0155,manual,Uniqlo,Jacket,Denim,XS,Like New,5,1499,Tier 2,0.06,0.07,0.9,0.9,1.05,1,80,90,1,1,1,1,155,5,train
+L0156,L0156,manual,Forever 21,Dress,Cotton,M,Like New,6,1299,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,156,6,train
+L0157,L0157,manual,Manyavar,Ethnic Wear,Silk,XL,Like New,2,5499,Tier 4,0.09,0.11,0.9,1,1.1,1.05,500,650,1,1,1,1,157,7,val
+L0158,L0158,manual,Fabindia,Ethnic Wear,Silk,XS,Used,8,2199,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,90,100,1,1,1,1,158,8,val
+L0159,L0159,manual,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,Tier 4,0.09,0.11,0.9,0.9,1,1,450,550,1,1,1,1,159,9,test
+L0160,L0160,manual,Calvin Klein,Jacket,Denim,M,Used,9,7999,Tier 4,0.09,0.11,0.7,0.8,1.05,1,400,500,1,1,1,1,160,0,train
+L0161,L0161,manual,Aurelia,Kurta,Cotton,S,Used,8,999,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,161,1,train
+L0162,L0162,manual,Biba,Kurta,Cotton,M,Like New,5,1499,Tier 2,0.06,0.07,0.9,0.9,1,1,70,80,1,1,1,1,162,2,train
+L0163,L0163,manual,UCB,Shirt,Cotton,S,Like New,5,3499,Tier 3,0.07,0.09,0.9,0.9,1,1,200,250,1,1,1,1,163,3,train
+L0164,L0164,manual,Global Desi,Saree,Silk,S,Like New,6,2499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,140,160,1,1,1,1,164,4,train
+L0165,L0165,manual,Anouk,Saree,Silk,M,New,3,1999,Tier 2,0.06,0.07,1,1,1.1,1.05,140,160,1,1,1,1,165,5,train
+L0166,L0166,manual,Indya,Jacket,Denim,M,Used,9,1499,Tier 2,0.06,0.07,0.7,0.8,1.05,1,50,60,1,1,1,1,166,6,train
+L0167,L0167,manual,Flying Machine,Jeans,Denim,L,Like New,4,1499,Tier 2,0.06,0.07,0.9,0.9,0.95,1,70,80,1,1,1,1,167,7,val
+L0168,L0168,manual,Mufti,Shirt,Linen,M,Used,11,3499,Tier 3,0.07,0.09,0.7,0.7,1,1.03,120,160,1,1,1,1,168,8,val
+L0169,L0169,manual,Anouk,Saree,Cotton,M,Used,7,1399,Tier 2,0.06,0.07,0.7,0.8,1.1,1,50,60,1,1,1,1,169,9,test
+L0170,L0170,manual,Indya,Jacket,Denim,S,Like New,5,1299,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,170,0,train
+L0171,L0171,manual,Pantaloons,Jeans,Denim,L,Used,9,1099,Tier 1,0.05,0.06,0.7,0.8,0.95,1,30,40,1,1,1,1,171,1,train
+L0172,L0172,manual,Roadster,Jeans,Denim,XL,New,2,1099,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,172,2,train
+L0173,L0173,manual,Armani,Ethnic Wear,Polyester,L,New,2,85000,Tier 5,0.11,0.14,1,1,1.1,1,10300,13100,1,1,1,1,173,3,train
+L0174,L0174,manual,Versace,Dress,Silk,M,Like New,5,110000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10800,13800,1,1,1,1,174,4,train
+L0175,L0175,manual,Spykar,Shirt,Cotton,M,Like New,2,999,Tier 1,0.05,0.06,0.9,1,1,1,40,50,1,1,1,1,175,5,train
+L0176,L0176,manual,Being Human,Top,Linen,S,New,8,999,Tier 1,0.05,0.06,1,0.8,1,1.03,40,50,1,1,1,1,176,6,train
+L0177,L0177,manual,Prada,Dress,Silk,S,Like New,4,95000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,9300,11900,1,1,1,1,177,7,val
+L0178,L0178,manual,Adidas,Activewear,Polyester,S,Like New,5,3499,Tier 3,0.07,0.09,0.9,0.9,0.95,1,190,250,1,1,1,1,178,8,val
+L0179,L0179,manual,Puma,Activewear,Polyester,M,Used,7,2999,Tier 3,0.07,0.09,0.7,0.8,0.95,1,110,140,1,1,1,1,179,9,test
+L0180,L0180,manual,Louis Vuitton,Jacket,Leather,M,Used,10,150000,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,10200,13000,1,1,1,1,180,0,train
+L0181,L0181,manual,Red Tape,Shirt,Linen,S,New,3,899,Tier 1,0.05,0.06,1,1,1,1.03,50,60,1,1,1,1,181,1,train
+L0182,L0182,manual,H&M,Dress,Cotton,S,Used,9,1199,Tier 1,0.05,0.06,0.7,0.8,1.05,1,40,40,1,1,1,1,182,2,train
+L0183,L0183,manual,Gucci,Jacket,Leather,M,Like New,6,120000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,11800,15000,1,1,1,1,183,3,train
+L0184,L0184,manual,Bewakoof,Top,Polyester,S,Used,6,499,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,184,4,train
+L0185,L0185,manual,Reebok,Activewear,Polyester,L,New,3,2799,Tier 3,0.07,0.09,1,1,0.95,1,190,250,1,1,1,1,185,5,train
+L0186,L0186,manual,Skechers,Activewear,Polyester,M,Like New,4,4999,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,186,6,train
+L0187,L0187,manual,Moda Rapido,Dress,Denim,S,New,1,899,Tier 1,0.05,0.06,1,1,1.05,1,50,60,1,1,1,1,187,7,val
+L0188,L0188,manual,Biba,Kurta,Silk,M,Like New,4,999,Tier 1,0.05,0.06,0.9,0.9,1,1.05,40,50,1,1,1,1,188,8,val
+L0189,L0189,manual,W for Woman,Ethnic Wear,Cotton,S,Used,7,1199,Tier 1,0.05,0.06,0.7,0.8,1.1,1,40,40,1,1,1,1,189,9,test
+L0190,L0190,manual,Global Desi,Saree,Silk,M,Like New,6,1499,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,1,1,1,1,190,0,train
+L0191,L0191,manual,Nike,Activewear,Polyester,M,New,2,3999,Tier 3,0.07,0.09,1,1,0.95,1,250,350,1,1,1,1,191,1,train
+L0192,L0192,manual,Tarun Tahiliani,Saree,Silk,S,Like New,6,69999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,7200,9200,1,1,1,1,192,2,train
+L0193,L0193,manual,Anita Dongre,Saree,Silk,M,New,3,59999,Tier 5,0.11,0.14,1,1,1.1,1.05,7600,9700,1,1,1,1,193,3,train
+L0194,L0194,manual,Highlander,Shirt,Cotton,M,New,3,999,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,194,4,train
+L0195,L0195,manual,Moda Rapido,Dress,Polyester,M,Used,7,1199,Tier 1,0.05,0.06,0.7,0.8,1.05,1,40,40,1,1,1,1,195,5,train
+L0196,L0196,manual,Bewakoof,Top,Cotton,S,New,2,899,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,196,6,train
+L0197,L0197,manual,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,5100,6500,1,1,1,1,197,7,val
+L0198,L0198,manual,HRX,Activewear,Polyester,XS,Like New,3,999,Tier 1,0.05,0.06,0.9,1,0.95,1,40,50,1,1,1,1,198,8,val
+L0199,L0199,manual,Flying Machine,Jacket,Denim,S,Like New,4,1299,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,199,9,test
+L0200,L0200,manual,Mufti,Shirt,Linen,L,Used,10,3099,Tier 3,0.07,0.09,0.7,0.8,1,1.03,130,160,1,1,1,1,200,0,train
+L0201,L0201,manual,Killer,Jeans,Denim,L,New,6,1199,Tier 1,0.05,0.06,1,0.9,0.95,1,50,60,1,1,1,1,201,1,train
+L0202,L0202,manual,Zudio,Top,Cotton,M,Like New,5,1200,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,202,2,train
+L0203,L0203,manual,Easybuy,Shirt,Polyester,L,New,2,1500,Tier 2,0.06,0.07,1,1,1,1,90,110,1,1,1,1,203,3,train
+L0204,L0204,manual,Vishal Mega Mart,Jeans,Denim,S,Used,8,1400,Tier 2,0.06,0.07,0.7,0.8,0.95,1,40,50,1,1,1,1,204,4,train
+L0205,L0205,manual,Rangriti,Kurta,Cotton,M,Like New,6,1800,Tier 2,0.06,0.07,0.9,0.9,1,1,90,100,1,1,1,1,205,5,train
+L0206,L0206,manual,Style Bazaar,Top,Polyester,XS,New,1,1000,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,206,6,train
+L0207,L0207,manual,Soch,Ethnic Wear,Silk,M,Like New,4,3200,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,250,1,1,1,1,207,7,val
+L0208,L0208,manual,Aurelia,Kurta,Cotton,L,New,3,2800,Tier 3,0.07,0.09,1,1,1,1,200,250,1,1,1,1,208,8,val
+L0209,L0209,manual,Libas,Dress,Linen,S,Used,10,3000,Tier 3,0.07,0.09,0.7,0.8,1.05,1.03,130,160,1,1,1,1,209,9,test
+L0210,L0210,manual,Max Fashion,Jeans,Denim,M,Like New,7,2200,Tier 2,0.06,0.07,0.9,0.8,0.95,1,90,110,1,1,1,1,210,0,train
+L0211,L0211,manual,Reliance Trends,Shirt,Cotton,XL,New,2,2600,Tier 3,0.07,0.09,1,1,1,1,180,250,1,1,1,1,211,1,train
+L0212,L0212,manual,Brand Factory,Jacket,Polyester,L,Used,12,3500,Tier 3,0.07,0.09,0.7,0.7,1.05,1,130,160,1,1,1,1,212,2,train
+L0213,L0213,manual,FBB,Top,Cotton,M,Like New,5,2000,Tier 2,0.06,0.07,0.9,0.9,1,1,100,110,1,1,1,1,213,3,train
+L0214,L0214,manual,Bewakoof,Activewear,Polyester,S,New,1,1800,Tier 2,0.06,0.07,1,1,0.95,1,100,120,1,1,1,1,214,4,train
+L0215,L0215,manual,Highlander,Jeans,Denim,L,Used,9,2400,Tier 2,0.06,0.07,0.7,0.8,0.95,1,80,90,1,1,1,1,215,5,train
+L0216,L0216,manual,Moda Rapido,Shirt,Cotton,M,Like New,6,2100,Tier 2,0.06,0.07,0.9,0.9,1,1,100,120,1,1,1,1,216,6,train
+L0217,L0217,manual,Biba,Ethnic Wear,Silk,M,New,2,5000,Tier 3,0.07,0.09,1,1,1.1,1.05,400,500,1,1,1,1,217,7,val
+L0218,L0218,manual,W for Woman,Kurta,Cotton,L,Like New,4,4500,Tier 3,0.07,0.09,0.9,0.9,1,1,250,350,1,1,1,1,218,8,val
+L0219,L0219,manual,Global Desi,Dress,Linen,S,Used,11,5200,Tier 4,0.09,0.11,0.7,0.7,1.05,1.03,250,300,1,1,1,1,219,9,test
+L0220,L0220,manual,Anouk,Kurta,Cotton,M,Like New,7,4000,Tier 3,0.07,0.09,0.9,0.8,1,1,200,250,1,1,1,1,220,0,train
+L0221,L0221,manual,Indya,Ethnic Wear,Silk,M,New,3,5500,Tier 4,0.09,0.11,1,1,1.1,1.05,550,700,1,1,1,1,221,1,train
+L0222,L0222,manual,Pantaloons,Shirt,Cotton,L,Used,8,3800,Tier 3,0.07,0.09,0.7,0.8,1,1,150,190,1,1,1,1,222,2,train
+L0223,L0223,manual,Roadster,Jeans,Denim,M,Like New,6,4200,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,223,3,train
+L0224,L0224,manual,HRX,Activewear,Polyester,S,New,2,4800,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,224,4,train
+L0225,L0225,manual,Flying Machine,Jeans,Denim,L,Like New,5,4600,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,225,5,train
+L0226,L0226,manual,Mufti,Shirt,Cotton,M,Used,10,5000,Tier 3,0.07,0.09,0.7,0.8,1,1,200,250,1,1,1,1,226,6,train
+L0227,L0227,manual,Manyavar,Ethnic Wear,Silk,L,New,2,8500,Tier 4,0.09,0.11,1,1,1.1,1.05,900,1100,1,1,1,1,227,7,val
+L0228,L0228,manual,Fabindia,Kurta,Linen,M,Like New,5,7500,Tier 4,0.09,0.11,0.9,0.9,1,1.03,550,700,1,1,1,1,228,8,val
+L0229,L0229,manual,Jaypore,Saree,Silk,S,Used,12,9000,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,450,550,1,1,1,1,229,9,test
+L0230,L0230,manual,Suta,Saree,Cotton,M,Like New,6,8000,Tier 4,0.09,0.11,0.9,0.9,1.1,1,650,800,1,1,1,1,230,0,train
+L0231,L0231,manual,Nalli,Saree,Silk,L,New,1,9500,Tier 4,0.09,0.11,1,1,1.1,1.05,1000,1200,1,1,1,1,231,1,train
+L0232,L0232,manual,Neeru's,Lehenga,Silk,M,Like New,4,11000,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,950,1100,1,1,1,1,232,2,train
+L0233,L0233,manual,Meena Bazaar,Ethnic Wear,Silk,S,Used,10,10000,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,600,700,1,1,1,1,233,3,train
+L0234,L0234,manual,AND,Dress,Linen,M,New,3,7200,Tier 4,0.09,0.11,1,1,1.05,1.03,700,850,1,1,1,1,234,4,train
+L0235,L0235,manual,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,7,12000,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,900,1100,1,1,1,1,235,5,train
+L0236,L0236,manual,Masaba,Dress,Cotton,S,Used,9,9500,Tier 4,0.09,0.11,0.7,0.8,1.05,1,500,600,1,1,1,1,236,6,train
+L0237,L0237,manual,House of Masaba,Dress,Linen,M,Like New,5,10000,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,800,950,1,1,1,1,237,7,val
+L0238,L0238,manual,Nicobar,Kurta,Linen,L,New,2,8000,Tier 4,0.09,0.11,1,1,1,1.03,750,900,1,1,1,1,238,8,val
+L0239,L0239,manual,Zara,Jacket,Polyester,M,Like New,6,9000,Tier 4,0.09,0.11,0.9,0.9,1.05,1,700,850,1,1,1,1,239,9,test
+L0240,L0240,manual,Marks & Spencer,Dress,Cotton,S,Used,8,8500,Tier 4,0.09,0.11,0.7,0.8,1.05,1,450,550,1,1,1,1,240,0,train
+L0241,L0241,manual,GAP,Jeans,Denim,L,Like New,7,7800,Tier 4,0.09,0.11,0.9,0.8,0.95,1,500,600,1,1,1,1,241,1,train
+L0242,L0242,manual,American Eagle,Jeans,Denim,M,New,2,8200,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,242,2,train
+L0243,L0243,manual,Mango,Dress,Linen,S,Like New,5,9500,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,1,1,1,1,243,3,train
+L0244,L0244,manual,Nike,Activewear,Polyester,M,Used,9,10000,Tier 4,0.09,0.11,0.7,0.8,0.95,1,500,600,1,1,1,1,244,4,train
+L0245,L0245,manual,Adidas,Jacket,Polyester,L,Like New,4,11000,Tier 4,0.09,0.11,0.9,0.9,1.05,1,850,1000,1,1,1,1,245,5,train
+L0246,L0246,manual,New Balance,Activewear,Polyester,S,New,3,9500,Tier 4,0.09,0.11,1,1,0.95,1,800,1000,1,1,1,1,246,6,train
+L0247,L0247,manual,Asics,Activewear,Polyester,M,Like New,6,9000,Tier 4,0.09,0.11,0.9,0.9,0.95,1,600,750,1,1,1,1,247,7,val
+L0248,L0248,manual,Under Armour,Activewear,Polyester,L,Used,11,10500,Tier 4,0.09,0.11,0.7,0.7,0.95,1,450,550,1,1,1,1,248,8,val
+L0249,L0249,manual,Tommy Hilfiger,Shirt,Cotton,M,Like New,5,9800,Tier 4,0.09,0.11,0.9,0.9,1,1,700,850,1,1,1,1,249,9,test
+L0250,L0250,manual,Calvin Klein,Jacket,Leather,L,New,2,12000,Tier 4,0.09,0.11,1,1,1.05,1.05,1200,1500,1,1,1,1,250,0,train
+L0251,L0251,manual,Diesel,Jeans,Denim,M,Like New,7,11000,Tier 4,0.09,0.11,0.9,0.8,0.95,1,700,850,1,1,1,1,251,1,train
+L0252,L0252,manual,Superdry,Jacket,Polyester,M,Like New,6,10500,Tier 4,0.09,0.11,0.9,0.9,1.05,1,800,1000,1,1,1,1,252,2,train
+L0253,L0253,manual,Raw Mango,Saree,Silk,L,New,2,18000,Tier 5,0.11,0.14,1,1,1.1,1.05,2300,2900,1,1,1,1,253,3,train
+L0254,L0254,manual,Anita Dongre,Lehenga,Silk,M,Like New,5,22000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2300,2900,1,1,1,1,254,4,train
+L0255,L0255,manual,Sabyasachi,Saree,Silk,S,Used,10,25000,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,1800,2300,1,1,1,1,255,5,train
+L0256,L0256,manual,Tarun Tahiliani,Lehenga,Silk,M,New,3,28000,Tier 5,0.11,0.14,1,1,1.1,1.05,3600,4500,1,1,1,1,256,6,train
+L0257,L0257,manual,Rohit Bal,Ethnic Wear,Silk,L,Like New,7,24000,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2200,2800,1,1,1,1,257,7,val
+L0258,L0258,manual,Anamika Khanna,Lehenga,Silk,M,Used,12,26000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1600,2100,1,1,1,1,258,8,val
+L0259,L0259,manual,Gucci,Jacket,Leather,L,New,2,30000,Tier 5,0.11,0.14,1,1,1.05,1.05,3600,4600,1,1,1,1,259,9,test
+L0260,L0260,manual,Louis Vuitton,Jacket,Leather,M,Like New,4,32000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,1,1,1,1,260,0,train
+L0261,L0261,manual,Prada,Dress,Silk,S,Used,9,27000,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,1800,2300,1,1,1,1,261,1,train
+L0262,L0262,manual,Armani,Shirt,Linen,M,Like New,6,21000,Tier 5,0.11,0.14,0.9,0.9,1,1.03,1900,2500,1,1,1,1,262,2,train
+L0263,L0263,manual,Versace,Dress,Silk,L,New,1,29000,Tier 5,0.11,0.14,1,1,1.05,1.05,3500,4500,1,1,1,1,263,3,train
+L0264,L0264,manual,Burberry,Jacket,Cotton,M,Used,11,26000,Tier 5,0.11,0.14,0.7,0.7,1.05,1,1500,1900,1,1,1,1,264,4,train
+L0265,L0265,manual,Balenciaga,Jacket,Leather,L,Like New,5,31000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3000,3900,1,1,1,1,265,5,train
+L0266,L0266,manual,Dolce & Gabbana,Dress,Silk,S,New,3,28000,Tier 5,0.11,0.14,1,1,1.05,1.05,3400,4300,1,1,1,1,266,6,train
+L0267,L0267,manual,Zudio,Top,Cotton,S,New,2,900,Tier 1,0.05,0.06,1,1,1,1,50,50,1,1,1,1,267,7,val
+L0268,L0268,manual,Soch,Kurta,Cotton,M,Like New,6,3000,Tier 3,0.07,0.09,0.9,0.9,1,1,170,200,1,1,1,1,268,8,val
+L0269,L0269,manual,Biba,Kurta,Cotton,L,Used,9,4200,Tier 3,0.07,0.09,0.7,0.8,1,1,160,200,1,1,1,1,269,9,test
+L0270,L0270,manual,Manyavar,Ethnic Wear,Silk,M,Like New,5,9000,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,750,950,1,1,1,1,270,0,train
+L0271,L0271,manual,Nike,Activewear,Polyester,S,Like New,6,9500,Tier 4,0.09,0.11,0.9,0.9,0.95,1,650,800,1,1,1,1,271,1,train
+L0272,L0272,manual,Levi's,Jeans,Denim,M,New,2,8000,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,272,2,train
+L0273,L0273,manual,Fabindia,Kurta,Linen,L,Used,10,7000,Tier 4,0.09,0.11,0.7,0.8,1,1.03,350,450,1,1,1,1,273,3,train
+L0274,L0274,manual,Pantaloons,Shirt,Cotton,M,Like New,5,4500,Tier 3,0.07,0.09,0.9,0.9,1,1,250,350,1,1,1,1,274,4,train
+L0275,L0275,manual,Reliance Trends,Top,Cotton,S,Used,8,2000,Tier 2,0.06,0.07,0.7,0.8,1,1,70,80,1,1,1,1,275,5,train
+L0276,L0276,manual,Easybuy,Shirt,Cotton,M,New,1,1400,Tier 2,0.06,0.07,1,1,1,1,80,100,1,1,1,1,276,6,train
+L0277,L0277,manual,Vishal Mega Mart,Top,Polyester,S,Like New,6,1200,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,277,7,val
+L0278,L0278,manual,Rangriti,Kurta,Cotton,L,Used,9,1700,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,278,8,val
+L0279,L0279,manual,Style Bazaar,Top,Cotton,M,Like New,5,1100,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,279,9,test
+L0280,L0280,manual,Zudio,Jeans,Denim,S,Used,8,1300,Tier 2,0.06,0.07,0.7,0.8,0.95,1,40,50,1,1,1,1,280,0,train
+L0281,L0281,manual,Aurelia,Dress,Linen,M,New,2,3200,Tier 3,0.07,0.09,1,1,1.05,1.03,250,300,1,1,1,1,281,1,train
+L0282,L0282,manual,Libas,Kurta,Cotton,L,Like New,6,2800,Tier 3,0.07,0.09,0.9,0.9,1,1,160,200,1,1,1,1,282,2,train
+L0283,L0283,manual,Max Fashion,Jeans,Denim,S,Used,11,2500,Tier 2,0.06,0.07,0.7,0.7,0.95,1,70,80,1,1,1,1,283,3,train
+L0284,L0284,manual,Reliance Trends,Shirt,Cotton,M,Like New,4,2600,Tier 3,0.07,0.09,0.9,0.9,1,1,150,190,1,1,1,1,284,4,train
+L0285,L0285,manual,Brand Factory,Jacket,Polyester,L,New,3,3400,Tier 3,0.07,0.09,1,1,1.05,1,250,300,1,1,1,1,285,5,train
+L0286,L0286,manual,Pantaloons,Top,Cotton,S,Like New,5,3800,Tier 3,0.07,0.09,0.9,0.9,1,1,200,300,1,1,1,1,286,6,train
+L0287,L0287,manual,Roadster,Jeans,Denim,M,Used,9,4200,Tier 3,0.07,0.09,0.7,0.8,0.95,1,160,200,1,1,1,1,287,7,val
+L0288,L0288,manual,HRX,Activewear,Polyester,L,Like New,6,5000,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,288,8,val
+L0289,L0289,manual,Flying Machine,Jeans,Denim,M,New,2,4800,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,289,9,test
+L0290,L0290,manual,Mufti,Shirt,Cotton,S,Used,10,5200,Tier 4,0.09,0.11,0.7,0.8,1,1,250,300,1,1,1,1,290,0,train
+L0291,L0291,manual,Fabindia,Kurta,Linen,M,Like New,5,7800,Tier 4,0.09,0.11,0.9,0.9,1,1.03,600,700,1,1,1,1,291,1,train
+L0292,L0292,manual,Zara,Dress,Linen,S,New,2,9000,Tier 4,0.09,0.11,1,1,1.05,1.03,900,1100,1,1,1,1,292,2,train
+L0293,L0293,manual,GAP,Jeans,Denim,L,Used,8,8200,Tier 4,0.09,0.11,0.7,0.8,0.95,1,400,500,1,1,1,1,293,3,train
+L0294,L0294,manual,Nike,Activewear,Polyester,M,New,3,10000,Tier 4,0.09,0.11,1,1,0.95,1,850,1000,1,1,1,1,294,4,train
+L0295,L0295,manual,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,9500,Tier 4,0.09,0.11,0.9,0.9,1,1,700,850,1,1,1,1,295,5,train
+L0296,L0296,manual,Raw Mango,Saree,Silk,M,Like New,5,20000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2100,2600,1,1,1,1,296,6,train
+L0297,L0297,manual,Anita Dongre,Lehenga,Silk,S,New,2,23000,Tier 5,0.11,0.14,1,1,1.1,1.05,2900,3700,1,1,1,1,297,7,val
+L0298,L0298,manual,Sabyasachi,Saree,Silk,L,Used,11,27000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1700,2100,1,1,1,1,298,8,val
+L0299,L0299,manual,Gucci,Jacket,Leather,M,Like New,6,32000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,1,1,1,1,299,9,test
+L0300,L0300,manual,Prada,Dress,Silk,S,New,1,29000,Tier 5,0.11,0.14,1,1,1.05,1.05,3500,4500,1,1,1,1,300,0,train
+L0301,L0301,manual,Easybuy,Top,Cotton,S,Like New,4,1300,Tier 2,0.06,0.07,0.9,0.9,1,1,60,70,1,1,1,1,301,1,train
+L0302,L0302,manual,Vishal Mega Mart,Shirt,Polyester,M,Used,10,1500,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,302,2,train
+L0303,L0303,manual,Rangriti,Kurta,Cotton,M,New,2,1600,Tier 2,0.06,0.07,1,1,1,1,100,110,1,1,1,1,303,3,train
+L0304,L0304,manual,Style Bazaar,Top,Cotton,L,Like New,6,1200,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,304,4,train
+L0305,L0305,manual,Zudio,Shirt,Polyester,M,Used,9,1400,Tier 2,0.06,0.07,0.7,0.8,1,1,50,50,1,1,1,1,305,5,train
+L0306,L0306,manual,Soch,Saree,Silk,L,Like New,5,3500,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,300,1,1,1,1,306,6,train
+L0307,L0307,manual,Aurelia,Kurta,Cotton,S,Used,11,3000,Tier 3,0.07,0.09,0.7,0.7,1,1,100,130,1,1,1,1,307,7,val
+L0308,L0308,manual,Libas,Dress,Linen,M,New,3,3200,Tier 3,0.07,0.09,1,1,1.05,1.03,250,300,1,1,1,1,308,8,val
+L0309,L0309,manual,Max Fashion,Jeans,Denim,L,Like New,7,2600,Tier 3,0.07,0.09,0.9,0.8,0.95,1,120,160,1,1,1,1,309,9,test
+L0310,L0310,manual,Reliance Trends,Top,Cotton,M,Used,8,2400,Tier 2,0.06,0.07,0.7,0.8,1,1,80,90,1,1,1,1,310,0,train
+L0311,L0311,manual,Pantaloons,Shirt,Cotton,M,New,2,4000,Tier 3,0.07,0.09,1,1,1,1,300,350,1,1,1,1,311,1,train
+L0312,L0312,manual,Roadster,Jeans,Denim,S,Like New,6,4500,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,312,2,train
+L0313,L0313,manual,HRX,Activewear,Polyester,M,Used,10,5200,Tier 4,0.09,0.11,0.7,0.8,0.95,1,250,300,1,1,1,1,313,3,train
+L0314,L0314,manual,Flying Machine,Jeans,Denim,L,Like New,5,4800,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,314,4,train
+L0315,L0315,manual,Mufti,Shirt,Cotton,M,New,1,5000,Tier 3,0.07,0.09,1,1,1,1,350,450,1,1,1,1,315,5,train
+L0316,L0316,manual,Fabindia,Kurta,Linen,S,Used,9,8200,Tier 4,0.09,0.11,0.7,0.8,1,1.03,450,500,1,1,1,1,316,6,train
+L0317,L0317,manual,Mango,Dress,Linen,M,Like New,6,9500,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,1,1,1,1,317,7,val
+L0318,L0318,manual,Adidas,Jacket,Polyester,L,New,2,11000,Tier 4,0.09,0.11,1,1,1.05,1,1000,1300,1,1,1,1,318,8,val
+L0319,L0319,manual,Calvin Klein,Jacket,Leather,M,Like New,5,12000,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,950,1200,1,1,1,1,319,9,test
+L0320,L0320,manual,Diesel,Jeans,Denim,S,Used,11,11500,Tier 4,0.09,0.11,0.7,0.7,0.95,1,500,600,1,1,1,1,320,0,train
+L0321,L0321,manual,Raw Mango,Saree,Silk,L,New,3,21000,Tier 5,0.11,0.14,1,1,1.1,1.05,2700,3400,1,1,1,1,321,1,train
+L0322,L0322,manual,Tarun Tahiliani,Lehenga,Silk,M,Like New,6,28000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2900,3700,1,1,1,1,322,2,train
+L0323,L0323,manual,Rohit Bal,Ethnic Wear,Silk,S,Used,12,25000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1600,2000,1,1,1,1,323,3,train
+L0324,L0324,manual,Louis Vuitton,Jacket,Leather,L,Like New,5,33000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3200,4100,1,1,1,1,324,4,train
+L0325,L0325,manual,Versace,Dress,Silk,M,New,2,30000,Tier 5,0.11,0.14,1,1,1.05,1.05,3600,4600,1,1,1,1,325,5,train
+L0326,L0326,manual,Zudio,Top,Cotton,L,Like New,5,1100,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,326,6,train
+L0327,L0327,manual,Easybuy,Jeans,Denim,M,Used,8,1500,Tier 2,0.06,0.07,0.7,0.8,0.95,1,50,60,1,1,1,1,327,7,val
+L0328,L0328,manual,Vishal Mega Mart,Shirt,Polyester,S,New,2,1300,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,328,8,val
+L0329,L0329,manual,Rangriti,Kurta,Cotton,M,Like New,6,1700,Tier 2,0.06,0.07,0.9,0.9,1,1,80,100,1,1,1,1,329,9,test
+L0330,L0330,manual,Style Bazaar,Top,Cotton,M,Used,9,1200,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,330,0,train
+L0331,L0331,manual,Soch,Ethnic Wear,Silk,M,New,3,3800,Tier 3,0.07,0.09,1,1,1.1,1.05,300,400,1,1,1,1,331,1,train
+L0332,L0332,manual,Aurelia,Dress,Linen,L,Like New,5,3400,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,200,250,1,1,1,1,332,2,train
+L0333,L0333,manual,Libas,Kurta,Cotton,S,Used,10,3000,Tier 3,0.07,0.09,0.7,0.8,1,1,120,150,1,1,1,1,333,3,train
+L0334,L0334,manual,Max Fashion,Jeans,Denim,M,New,2,2600,Tier 3,0.07,0.09,1,1,0.95,1,170,200,1,1,1,1,334,4,train
+L0335,L0335,manual,Reliance Trends,Shirt,Cotton,L,Like New,6,2800,Tier 3,0.07,0.09,0.9,0.9,1,1,160,200,1,1,1,1,335,5,train
+L0336,L0336,manual,Pantaloons,Top,Cotton,M,Used,8,4200,Tier 3,0.07,0.09,0.7,0.8,1,1,160,200,1,1,1,1,336,6,train
+L0337,L0337,manual,Roadster,Jeans,Denim,L,New,3,4800,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,337,7,val
+L0338,L0338,manual,HRX,Activewear,Polyester,S,Like New,6,5200,Tier 4,0.09,0.11,0.9,0.9,0.95,1,350,450,1,1,1,1,338,8,val
+L0339,L0339,manual,Flying Machine,Jeans,Denim,M,Used,11,5000,Tier 3,0.07,0.09,0.7,0.7,0.95,1,160,200,1,1,1,1,339,9,test
+L0340,L0340,manual,Mufti,Shirt,Cotton,L,Like New,5,5300,Tier 4,0.09,0.11,0.9,0.9,1,1,400,450,1,1,1,1,340,0,train
+L0341,L0341,manual,Fabindia,Kurta,Linen,M,New,2,8500,Tier 4,0.09,0.11,1,1,1,1.03,800,950,1,1,1,1,341,1,train
+L0342,L0342,manual,Zara,Dress,Linen,S,Like New,6,9200,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,1,1,1,1,342,2,train
+L0343,L0343,manual,Nike,Activewear,Polyester,M,Used,10,10000,Tier 4,0.09,0.11,0.7,0.8,0.95,1,500,600,1,1,1,1,343,3,train
+L0344,L0344,manual,Tommy Hilfiger,Shirt,Cotton,L,Like New,4,9800,Tier 4,0.09,0.11,0.9,0.9,1,1,700,850,1,1,1,1,344,4,train
+L0345,L0345,manual,Diesel,Jeans,Denim,M,New,2,11500,Tier 4,0.09,0.11,1,1,0.95,1,1000,1200,1,1,1,1,345,5,train
+L0346,L0346,manual,Raw Mango,Saree,Silk,S,Like New,6,22000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2300,2900,1,1,1,1,346,6,train
+L0347,L0347,manual,Anita Dongre,Lehenga,Silk,M,Used,12,24000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1500,1900,1,1,1,1,347,7,val
+L0348,L0348,manual,Sabyasachi,Saree,Silk,L,New,2,28000,Tier 5,0.11,0.14,1,1,1.1,1.05,3600,4500,1,1,1,1,348,8,val
+L0349,L0349,manual,Gucci,Jacket,Leather,M,Like New,5,32000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,1,1,1,1,349,9,test
+L0350,L0350,manual,Prada,Dress,Silk,S,Used,9,30000,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2000,2600,1,1,1,1,350,0,train
+L0351,L0351,manual,Easybuy,Shirt,Cotton,M,Like New,6,1400,Tier 2,0.06,0.07,0.9,0.9,1,1,70,80,1,1,1,1,351,1,train
+L0352,L0352,manual,Vishal Mega Mart,Top,Polyester,S,Used,10,1500,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,352,2,train
+L0353,L0353,manual,Rangriti,Kurta,Cotton,L,New,2,1800,Tier 2,0.06,0.07,1,1,1,1,110,130,1,1,1,1,353,3,train
+L0354,L0354,manual,Style Bazaar,Top,Cotton,M,Like New,5,1200,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,354,4,train
+L0355,L0355,manual,Zudio,Jeans,Denim,S,Used,9,1300,Tier 2,0.06,0.07,0.7,0.8,0.95,1,40,50,1,1,1,1,355,5,train
+L0356,L0356,manual,Soch,Saree,Silk,M,Like New,4,4000,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,1,1,1,1,356,6,train
+L0357,L0357,manual,Aurelia,Kurta,Cotton,L,New,3,3200,Tier 3,0.07,0.09,1,1,1,1,200,300,1,1,1,1,357,7,val
+L0358,L0358,manual,Libas,Dress,Linen,S,Used,11,3500,Tier 3,0.07,0.09,0.7,0.7,1.05,1.03,130,170,1,1,1,1,358,8,val
+L0359,L0359,manual,Max Fashion,Jeans,Denim,M,Like New,6,2800,Tier 3,0.07,0.09,0.9,0.9,0.95,1,150,190,1,1,1,1,359,9,test
+L0360,L0360,manual,Reliance Trends,Shirt,Cotton,XL,New,1,3000,Tier 3,0.07,0.09,1,1,1,1,200,250,1,1,1,1,360,0,train
+L0361,L0361,manual,Pantaloons,Top,Cotton,S,Like New,5,4500,Tier 3,0.07,0.09,0.9,0.9,1,1,250,350,1,1,1,1,361,1,train
+L0362,L0362,manual,Roadster,Jeans,Denim,M,Used,8,4800,Tier 3,0.07,0.09,0.7,0.8,0.95,1,180,250,1,1,1,1,362,2,train
+L0363,L0363,manual,HRX,Activewear,Polyester,L,New,2,5500,Tier 4,0.09,0.11,1,1,0.95,1,450,550,1,1,1,1,363,3,train
+L0364,L0364,manual,Flying Machine,Jeans,Denim,M,Like New,6,5200,Tier 4,0.09,0.11,0.9,0.9,0.95,1,350,450,1,1,1,1,364,4,train
+L0365,L0365,manual,Mufti,Shirt,Cotton,S,Used,10,5600,Tier 4,0.09,0.11,0.7,0.8,1,1,300,350,1,1,1,1,365,5,train
+L0366,L0366,manual,Fabindia,Kurta,Linen,M,Like New,5,9000,Tier 4,0.09,0.11,0.9,0.9,1,1.03,700,850,1,1,1,1,366,6,train
+L0367,L0367,manual,Zara,Dress,Linen,S,New,2,10000,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1200,1,1,1,1,367,7,val
+L0368,L0368,manual,Adidas,Jacket,Polyester,L,Like New,6,11500,Tier 4,0.09,0.11,0.9,0.9,1.05,1,900,1100,1,1,1,1,368,8,val
+L0369,L0369,manual,Tommy Hilfiger,Shirt,Cotton,M,Used,9,10500,Tier 4,0.09,0.11,0.7,0.8,1,1,550,650,1,1,1,1,369,9,test
+L0370,L0370,manual,Calvin Klein,Jacket,Leather,L,New,3,13000,Tier 4,0.09,0.11,1,1,1.05,1.05,1300,1600,1,1,1,1,370,0,train
+L0371,L0371,manual,Raw Mango,Saree,Silk,L,New,2,24000,Tier 5,0.11,0.14,1,1,1.1,1.05,3000,3900,1,1,1,1,371,1,train
+L0372,L0372,manual,Anita Dongre,Lehenga,Silk,M,Like New,6,26000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2700,3400,1,1,1,1,372,2,train
+L0373,L0373,manual,Tarun Tahiliani,Lehenga,Silk,S,Used,12,29000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1800,2300,1,1,1,1,373,3,train
+L0374,L0374,manual,Louis Vuitton,Jacket,Leather,M,New,1,35000,Tier 5,0.11,0.14,1,1,1.05,1.05,4200,5400,1,1,1,1,374,4,train
+L0375,L0375,manual,Burberry,Jacket,Cotton,L,Like New,5,27000,Tier 5,0.11,0.14,0.9,0.9,1.05,1,2500,3200,1,1,1,1,375,5,train
+L0376,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,Like New,5,1207,Tier 2,0.06,0.07,0.9,0.9,1,1,60,70,1,1,1,1,328,8,val
+L0377,L0017,synthetic,Sabyasachi,Saree,Silk,L,New,1,151169,Tier 5,0.11,0.14,1,1,1.1,1.05,19200,24400,1,1,1,1,17,7,val
+L0378,L0004,synthetic,Gucci,Jacket,Leather,S,Like New,1,60255,Tier 5,0.11,0.14,0.9,1,1.05,1.05,6600,8400,1,1,1,1,4,4,train
+L0379,L0053,synthetic,Zudio,Top,Cotton,S,New,1,485,Tier 1,0.05,0.06,1,1,1,1,20,30,1,1,1,1,53,3,train
+L0380,L0374,synthetic,Louis Vuitton,Jacket,Leather,M,New,1,34377,Tier 5,0.11,0.14,1,1,1.05,1.05,4200,5300,1,1,1,1,374,4,train
+L0381,L0361,synthetic,Pantaloons,Top,Cotton,S,Like New,8,4281,Tier 3,0.07,0.09,0.9,0.8,1,1,200,300,1,1,1,1,361,1,train
+L0382,L0052,synthetic,Nalli,Saree,Silk,L,Used,4,6849,Tier 4,0.09,0.11,0.7,0.9,1.1,1.05,450,550,1,1,1,1,52,2,train
+L0383,L0360,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,3,3111,Tier 3,0.07,0.09,0.9,1,1,1,200,250,1,1,1,1,360,0,train
+L0384,L0195,synthetic,Moda Rapido,Dress,Polyester,M,Like New,10,1091,Tier 1,0.05,0.06,0.9,0.8,1.05,1,40,50,1,1,1,1,195,5,train
+L0385,L0118,synthetic,FBB,Kurta,Cotton,S,Used,10,905,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,118,8,val
+L0386,L0162,synthetic,Biba,Kurta,Cotton,M,Like New,6,1754,Tier 2,0.06,0.07,0.9,0.9,1,1,90,100,1,1,1,1,162,2,train
+L0387,L0220,synthetic,Anouk,Kurta,Cotton,XL,Like New,7,4797,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,220,0,train
+L0388,L0057,synthetic,Moda Rapido,Dress,Denim,S,Like New,1,909,Tier 1,0.05,0.06,0.9,1,1.05,1,40,50,1,1,1,1,57,7,val
+L0389,L0306,synthetic,Soch,Saree,Silk,XS,Like New,5,4029,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,1,1,1,1,306,6,train
+L0390,L0059,synthetic,Levi's,Jeans,Denim,M,Used,4,4475,Tier 3,0.07,0.09,0.7,0.9,0.95,1,190,250,1,1,1,1,59,9,test
+L0391,L0223,synthetic,Roadster,Jeans,Denim,M,Like New,4,4858,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,223,3,train
+L0392,L0092,synthetic,Highlander,Top,Cotton,XL,Like New,1,569,Tier 1,0.05,0.06,0.9,1,1,1,30,30,1,1,1,1,92,2,train
+L0393,L0272,synthetic,Levi's,Jeans,Denim,XS,New,2,7282,Tier 4,0.09,0.11,1,1,0.95,1,600,750,1,1,1,1,272,2,train
+L0394,L0041,synthetic,Global Desi,Ethnic Wear,Silk,M,Used,6,4768,Tier 3,0.07,0.09,0.7,0.9,1.1,1.05,250,300,1,1,1,1,41,1,train
+L0395,L0244,synthetic,Nike,Activewear,Polyester,M,Used,9,10438,Tier 4,0.09,0.11,0.7,0.8,0.95,1,500,600,1,1,1,1,244,4,train
+L0396,L0374,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,4,40204,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3900,5000,1,1,1,1,374,4,train
+L0397,L0232,synthetic,Neeru's,Lehenga,Silk,M,New,3,9742,Tier 4,0.09,0.11,1,1,1.1,1.05,1000,1200,1,1,1,1,232,2,train
+L0398,L0037,synthetic,Louis Vuitton,Shirt,Linen,XS,Used,5,66117,Tier 5,0.11,0.14,0.7,0.9,1,1.03,4700,6000,1,1,1,1,37,7,val
+L0399,L0296,synthetic,Raw Mango,Saree,Silk,M,Like New,9,19798,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,1,1,1,1,296,6,train
+L0400,L0182,synthetic,H&M,Dress,Cotton,S,Like New,10,992,Tier 1,0.05,0.06,0.9,0.8,1.05,1,40,40,1,1,1,1,182,2,train
+L0401,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,S,Used,16,27020,Tier 5,0.11,0.14,0.7,0.6,1.1,1.05,1400,1800,1,1,1,1,373,3,train
+L0402,L0143,synthetic,Prada,Dress,Silk,M,Like New,12,75472,Tier 5,0.11,0.14,0.9,0.7,1.05,1.05,5800,7300,1,1,1,1,143,3,train
+L0403,L0277,synthetic,Vishal Mega Mart,Top,Polyester,L,Like New,10,1090,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,277,7,val
+L0404,L0031,synthetic,Suta,Saree,Silk,M,New,1,2828,Tier 3,0.07,0.09,1,1,1.1,1.05,250,300,1,1,1,1,31,1,train
+L0405,L0375,synthetic,Burberry,Jacket,Cotton,XS,Used,8,24888,Tier 5,0.11,0.14,0.7,0.8,1.05,1,1600,2000,1,1,1,1,375,5,train
+L0406,L0297,synthetic,Anita Dongre,Lehenga,Silk,S,Like New,1,20595,Tier 5,0.11,0.14,0.9,1,1.1,1.05,2400,3000,1,1,1,1,297,7,val
+L0407,L0036,synthetic,Jaypore,Saree,Silk,M,Like New,9,8900,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,650,800,1,1,1,1,36,6,train
+L0408,L0021,synthetic,Tarun Tahiliani,Saree,Silk,M,Used,7,72282,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5100,6500,1,1,1,1,21,1,train
+L0409,L0105,synthetic,House of Masaba,Saree,Silk,M,Like New,7,13322,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1,1,1,1,105,5,train
+L0410,L0038,synthetic,Armani,Jacket,Leather,S,Used,13,52230,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,3100,4000,1,1,1,1,38,8,val
+L0411,L0140,synthetic,Prada,Dress,Silk,S,Used,5,80407,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,6100,7800,1,1,1,1,140,0,train
+L0412,L0129,synthetic,Max Fashion,Jeans,Denim,L,Like New,3,971,Tier 1,0.05,0.06,0.9,1,0.95,1,40,50,1,1,1,1,129,9,test
+L0413,L0067,synthetic,Anouk,Saree,Cotton,S,Like New,7,1908,Tier 2,0.06,0.07,0.9,0.8,1.1,1,90,110,1,1,1,1,67,7,val
+L0414,L0190,synthetic,Global Desi,Saree,Silk,M,Like New,5,1296,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,70,80,1,1,1,1,190,0,train
+L0415,L0108,synthetic,Armani,Jacket,Leather,S,Used,14,49579,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2900,3700,1,1,1,1,108,8,val
+L0416,L0080,synthetic,Anita Dongre,Ethnic Wear,Silk,M,Used,14,21370,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1300,1700,1,1,1,1,80,0,train
+L0417,L0241,synthetic,GAP,Jeans,Denim,L,Like New,11,7600,Tier 4,0.09,0.11,0.9,0.7,0.95,1,400,500,1,1,1,1,241,1,train
+L0418,L0115,synthetic,American Eagle,Jeans,Denim,XS,Like New,7,8118,Tier 4,0.09,0.11,0.9,0.8,0.95,1,500,600,1,1,1,1,115,5,train
+L0419,L0180,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,11,166168,Tier 5,0.11,0.14,0.9,0.7,1.05,1.05,12700,16200,1,1,1,1,180,0,train
+L0420,L0060,synthetic,FBB,Ethnic Wear,Cotton,S,New,3,903,Tier 1,0.05,0.06,1,1,1.1,1,50,60,1,1,1,1,60,0,train
+L0421,L0177,synthetic,Prada,Dress,Silk,S,Like New,4,108846,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10700,13600,1,1,1,1,177,7,val
+L0422,L0296,synthetic,Raw Mango,Saree,Silk,M,Like New,3,17609,Tier 5,0.11,0.14,0.9,1,1.1,1.05,2000,2600,1,1,1,1,296,6,train
+L0423,L0344,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,5,10382,Tier 4,0.09,0.11,0.9,0.9,1,1,750,950,1,1,1,1,344,4,train
+L0424,L0340,synthetic,Mufti,Shirt,Cotton,S,Like New,7,5248,Tier 4,0.09,0.11,0.9,0.8,1,1,350,400,1,1,1,1,340,0,train
+L0425,L0099,synthetic,W for Woman,Ethnic Wear,Silk,S,Used,8,1500,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,60,70,1,1,1,1,99,9,test
+L0426,L0001,synthetic,Sabyasachi,Ethnic Wear,Silk,M,New,3,93293,Tier 5,0.11,0.14,1,1,1.1,1.05,11900,15100,1,1,1,1,1,1,train
+L0427,L0346,synthetic,Raw Mango,Saree,Silk,S,Used,7,25061,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,1800,2300,1,1,1,1,346,6,train
+L0428,L0340,synthetic,Mufti,Shirt,Cotton,L,Like New,5,6026,Tier 4,0.09,0.11,0.9,0.9,1,1,450,550,1,1,1,1,340,0,train
+L0429,L0116,synthetic,Under Armour,Activewear,Polyester,M,New,1,8018,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,116,6,train
+L0430,L0323,synthetic,Rohit Bal,Ethnic Wear,Silk,S,Like New,15,25337,Tier 5,0.11,0.14,0.9,0.7,1.1,1.05,2000,2600,1,1,1,1,323,3,train
+L0431,L0353,synthetic,Rangriti,Kurta,Cotton,L,New,6,2088,Tier 2,0.06,0.07,1,0.9,1,1,110,130,1,1,1,1,353,3,train
+L0432,L0357,synthetic,Aurelia,Kurta,Cotton,L,New,1,3748,Tier 3,0.07,0.09,1,1,1,1,250,350,1,1,1,1,357,7,val
+L0433,L0238,synthetic,Nicobar,Kurta,Linen,L,Used,4,9092,Tier 4,0.09,0.11,0.7,0.9,1,1.03,550,650,1,1,1,1,238,8,val
+L0434,L0369,synthetic,Tommy Hilfiger,Shirt,Cotton,XL,Used,13,10504,Tier 4,0.09,0.11,0.7,0.7,1,1,450,550,1,1,1,1,369,9,test
+L0435,L0362,synthetic,Roadster,Jeans,Denim,M,Like New,9,4992,Tier 3,0.07,0.09,0.9,0.8,0.95,1,250,300,1,1,1,1,362,2,train
+L0436,L0200,synthetic,Mufti,Shirt,Linen,XS,Used,13,3589,Tier 3,0.07,0.09,0.7,0.7,1,1.03,130,160,1,1,1,1,200,0,train
+L0437,L0181,synthetic,Red Tape,Shirt,Linen,S,New,4,1148,Tier 1,0.05,0.06,1,0.9,1,1.03,50,60,1,1,1,1,181,1,train
+L0438,L0140,synthetic,Prada,Dress,Silk,S,Like New,4,91210,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,9000,11400,1,1,1,1,140,0,train
+L0439,L0240,synthetic,Marks & Spencer,Dress,Cotton,XS,Used,10,8384,Tier 4,0.09,0.11,0.7,0.8,1.05,1,450,550,1,1,1,1,240,0,train
+L0440,L0220,synthetic,Anouk,Kurta,Cotton,M,Like New,8,3764,Tier 3,0.07,0.09,0.9,0.8,1,1,190,250,1,1,1,1,220,0,train
+L0441,L0168,synthetic,Mufti,Shirt,Linen,M,Used,12,4139,Tier 3,0.07,0.09,0.7,0.7,1,1.03,150,190,1,1,1,1,168,8,val
+L0442,L0277,synthetic,Vishal Mega Mart,Top,Polyester,S,Like New,6,1049,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,277,7,val
+L0443,L0127,synthetic,Aurelia,Ethnic Wear,Cotton,S,Like New,1,643,Tier 1,0.05,0.06,0.9,1,1.1,1,30,40,1,1,1,1,127,7,val
+L0444,L0112,synthetic,Zudio,Shirt,Cotton,M,Like New,1,353,Tier 1,0.05,0.06,0.9,1,1,1,20,20,1,1,1,1,112,2,train
+L0445,L0084,synthetic,Style Bazaar,Top,Polyester,L,Used,10,286,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,84,4,train
+L0446,L0367,synthetic,Zara,Dress,Linen,S,Used,4,10494,Tier 4,0.09,0.11,0.7,0.9,1.05,1.03,650,800,1,1,1,1,367,7,val
+L0447,L0155,synthetic,Uniqlo,Jacket,Denim,XS,Like New,9,1790,Tier 2,0.06,0.07,0.9,0.8,1.05,1,80,90,1,1,1,1,155,5,train
+L0448,L0190,synthetic,Global Desi,Saree,Silk,M,Like New,9,1720,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,90,100,1,1,1,1,190,0,train
+L0449,L0326,synthetic,Zudio,Top,Cotton,XL,Like New,8,977,Tier 1,0.05,0.06,0.9,0.8,1,1,40,40,1,1,1,1,326,6,train
+L0450,L0276,synthetic,Easybuy,Shirt,Cotton,M,New,2,1548,Tier 2,0.06,0.07,1,1,1,1,90,110,1,1,1,1,276,6,train
+L0451,L0045,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,7,6032,Tier 4,0.09,0.11,0.9,0.8,1,1,400,500,1,1,1,1,45,5,train
+L0452,L0254,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,6,24099,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2500,3200,1,1,1,1,254,4,train
+L0453,L0306,synthetic,Soch,Saree,Silk,L,Used,5,3608,Tier 3,0.07,0.09,0.7,0.9,1.1,1.05,180,250,1,1,1,1,306,6,train
+L0454,L0369,synthetic,Tommy Hilfiger,Shirt,Cotton,M,Like New,11,11198,Tier 4,0.09,0.11,0.9,0.7,1,1,650,800,1,1,1,1,369,9,test
+L0455,L0009,synthetic,Roadster,Jeans,Denim,XL,New,1,1013,Tier 1,0.05,0.06,1,1,0.95,1,50,60,1,1,1,1,9,9,test
+L0456,L0272,synthetic,Levi's,Jeans,Denim,M,Used,5,7800,Tier 4,0.09,0.11,0.7,0.9,0.95,1,400,500,1,1,1,1,272,2,train
+L0457,L0062,synthetic,HRX,Activewear,Polyester,M,New,3,2385,Tier 2,0.06,0.07,1,1,0.95,1,140,160,1,1,1,1,62,2,train
+L0458,L0248,synthetic,Under Armour,Activewear,Polyester,L,Used,13,10727,Tier 4,0.09,0.11,0.7,0.7,0.95,1,450,550,1,1,1,1,248,8,val
+L0459,L0175,synthetic,Spykar,Shirt,Cotton,M,New,1,1230,Tier 2,0.06,0.07,1,1,1,1,70,90,1,1,1,1,175,5,train
+L0460,L0206,synthetic,Style Bazaar,Top,Polyester,XS,Like New,3,827,Tier 1,0.05,0.06,0.9,1,1,1,40,40,1,1,1,1,206,6,train
+L0461,L0044,synthetic,Aurelia,Kurta,Cotton,L,Like New,10,1102,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,44,4,train
+L0462,L0231,synthetic,Nalli,Saree,Silk,S,Used,5,9460,Tier 4,0.09,0.11,0.7,0.9,1.1,1.05,600,750,1,1,1,1,231,1,train
+L0463,L0051,synthetic,Prada,Dress,Silk,M,Like New,9,91014,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,7900,10100,1,1,1,1,51,1,train
+L0464,L0283,synthetic,Max Fashion,Jeans,Denim,S,Like New,9,2728,Tier 3,0.07,0.09,0.9,0.8,0.95,1,130,170,1,1,1,1,283,3,train
+L0465,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Used,9,10927,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,650,800,1,1,1,1,233,3,train
+L0466,L0279,synthetic,Style Bazaar,Top,Cotton,M,Like New,4,1335,Tier 2,0.06,0.07,0.9,0.9,1,1,60,80,1,1,1,1,279,9,test
+L0467,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,12,2091,Tier 2,0.06,0.07,0.7,0.7,1.1,1.05,70,80,1,1,1,1,158,8,val
+L0468,L0359,synthetic,Max Fashion,Jeans,Denim,M,Used,6,2864,Tier 3,0.07,0.09,0.7,0.9,0.95,1,120,150,1,1,1,1,359,9,test
+L0469,L0222,synthetic,Pantaloons,Shirt,Cotton,L,Used,10,3351,Tier 3,0.07,0.09,0.7,0.8,1,1,130,170,1,1,1,1,222,2,train
+L0470,L0295,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,4,10084,Tier 4,0.09,0.11,0.9,0.9,1,1,750,900,1,1,1,1,295,5,train
+L0471,L0090,synthetic,Zara,Dress,Linen,S,Like New,5,6676,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,550,650,1,1,1,1,90,0,train
+L0472,L0047,synthetic,Red Tape,Shirt,Linen,S,Like New,4,1020,Tier 1,0.05,0.06,0.9,0.9,1,1.03,40,50,1,1,1,1,47,7,val
+L0473,L0148,synthetic,Meena Bazaar,Lehenga,Silk,S,Used,5,13370,Tier 4,0.09,0.11,0.7,0.9,1.1,1.05,900,1100,1,1,1,1,148,8,val
+L0474,L0060,synthetic,FBB,Ethnic Wear,Cotton,XL,Used,8,905,Tier 1,0.05,0.06,0.7,0.8,1.1,1,30,30,1,1,1,1,60,0,train
+L0475,L0097,synthetic,Sabyasachi,Lehenga,Silk,L,Like New,10,54540,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,5000,6300,1,1,1,1,97,7,val
+L0476,L0148,synthetic,Meena Bazaar,Lehenga,Silk,S,Like New,7,11540,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,850,1100,1,1,1,1,148,8,val
+L0477,L0160,synthetic,Calvin Klein,Jacket,Denim,M,Used,11,7524,Tier 4,0.09,0.11,0.7,0.7,1.05,1,350,450,1,1,1,1,160,0,train
+L0478,L0332,synthetic,Aurelia,Dress,Linen,XL,Like New,8,3729,Tier 3,0.07,0.09,0.9,0.8,1.05,1.03,200,250,1,1,1,1,332,2,train
+L0479,L0125,synthetic,Max Fashion,Jeans,Denim,M,New,2,1260,Tier 2,0.06,0.07,1,1,0.95,1,70,80,1,1,1,1,125,5,train
+L0480,L0142,synthetic,Louis Vuitton,Shirt,Linen,XS,Like New,9,79822,Tier 5,0.11,0.14,0.9,0.8,1,1.03,6500,8300,1,1,1,1,142,2,train
+L0481,L0297,synthetic,Anita Dongre,Lehenga,Silk,XL,Like New,6,23585,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2400,3100,1,1,1,1,297,7,val
+L0482,L0279,synthetic,Style Bazaar,Top,Cotton,M,Like New,5,1419,Tier 2,0.06,0.07,0.9,0.9,1,1,70,80,1,1,1,1,279,9,test
+L0483,L0120,synthetic,Vishal Mega Mart,Shirt,Cotton,XL,Like New,5,414,Tier 1,0.05,0.06,0.9,0.9,1,1,20,20,1,1,1,1,120,0,train
+L0484,L0334,synthetic,Max Fashion,Jeans,Denim,XL,New,1,3088,Tier 3,0.07,0.09,1,1,0.95,1,200,250,1,1,1,1,334,4,train
+L0485,L0226,synthetic,Mufti,Shirt,Cotton,M,Used,11,4595,Tier 3,0.07,0.09,0.7,0.7,1,1,160,200,1,1,1,1,226,6,train
+L0486,L0039,synthetic,W for Woman,Saree,Silk,M,New,2,2730,Tier 3,0.07,0.09,1,1,1.1,1.05,200,300,1,1,1,1,39,9,test
+L0487,L0274,synthetic,Pantaloons,Shirt,Cotton,M,Used,5,5223,Tier 4,0.09,0.11,0.7,0.9,1,1,300,350,1,1,1,1,274,4,train
+L0488,L0121,synthetic,Roadster,Shirt,Cotton,M,New,3,1290,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,121,1,train
+L0489,L0361,synthetic,Pantaloons,Top,Cotton,XL,Used,4,5248,Tier 4,0.09,0.11,0.7,0.9,1,1,300,350,1,1,1,1,361,1,train
+L0490,L0029,synthetic,Zara,Jacket,Denim,M,Like New,8,4676,Tier 3,0.07,0.09,0.9,0.8,1.05,1,250,300,1,1,1,1,29,9,test
+L0491,L0196,synthetic,Bewakoof,Top,Cotton,S,New,1,981,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,196,6,train
+L0492,L0236,synthetic,Masaba,Dress,Cotton,S,Used,7,9553,Tier 4,0.09,0.11,0.7,0.8,1.05,1,500,600,1,1,1,1,236,6,train
+L0493,L0081,synthetic,FBB,Kurta,Cotton,M,Used,9,949,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,81,1,train
+L0494,L0234,synthetic,AND,Dress,Linen,M,New,4,6543,Tier 4,0.09,0.11,1,0.9,1.05,1.03,550,700,1,1,1,1,234,4,train
+L0495,L0359,synthetic,Max Fashion,Jeans,Denim,M,Like New,10,2649,Tier 3,0.07,0.09,0.9,0.8,0.95,1,130,160,1,1,1,1,359,9,test
+L0496,L0255,synthetic,Sabyasachi,Saree,Silk,S,Like New,14,26098,Tier 5,0.11,0.14,0.9,0.7,1.1,1.05,2100,2700,1,1,1,1,255,5,train
+L0497,L0098,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Used,8,54360,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,3900,4900,1,1,1,1,98,8,val
+L0498,L0322,synthetic,Tarun Tahiliani,Lehenga,Silk,M,Used,6,24892,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,2000,2500,1,1,1,1,322,2,train
+L0499,L0152,synthetic,American Eagle,Jeans,Denim,L,Like New,5,4480,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,152,2,train
+L0500,L0140,synthetic,Prada,Dress,Silk,S,Like New,10,98142,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,8600,10900,1,1,1,1,140,0,train
+L0501,L0059,synthetic,Levi's,Jeans,Denim,M,New,1,4752,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,59,9,test
+L0502,L0204,synthetic,Vishal Mega Mart,Jeans,Denim,XS,Like New,8,1383,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,204,4,train
+L0503,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Like New,13,10378,Tier 4,0.09,0.11,0.9,0.7,1.1,1.05,700,850,1,1,1,1,233,3,train
+L0504,L0056,synthetic,Bewakoof,Top,Polyester,S,Like New,7,620,Tier 1,0.05,0.06,0.9,0.8,1,1,20,30,1,1,1,1,56,6,train
+L0505,L0326,synthetic,Zudio,Top,Cotton,S,Like New,8,957,Tier 1,0.05,0.06,0.9,0.8,1,1,30,40,1,1,1,1,326,6,train
+L0506,L0050,synthetic,Fabindia,Kurta,Cotton,XL,Used,12,2824,Tier 3,0.07,0.09,0.7,0.7,1,1,100,120,1,1,1,1,50,0,train
+L0507,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,S,Like New,13,32048,Tier 5,0.11,0.14,0.9,0.7,1.1,1.05,2600,3300,1,1,1,1,373,3,train
+L0508,L0190,synthetic,Global Desi,Saree,Silk,M,Like New,7,1723,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,90,100,1,1,1,1,190,0,train
+L0509,L0189,synthetic,W for Woman,Ethnic Wear,Cotton,S,Used,10,1198,Tier 1,0.05,0.06,0.7,0.8,1.1,1,40,40,1,1,1,1,189,9,test
+L0510,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Used,9,10412,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,600,750,1,1,1,1,233,3,train
+L0511,L0171,synthetic,Pantaloons,Jeans,Denim,L,Used,8,992,Tier 1,0.05,0.06,0.7,0.8,0.95,1,30,30,1,1,1,1,171,1,train
+L0512,L0120,synthetic,Vishal Mega Mart,Shirt,Cotton,L,Used,6,438,Tier 1,0.05,0.06,0.7,0.9,1,1,10,20,1,1,1,1,120,0,train
+L0513,L0067,synthetic,Anouk,Saree,Cotton,S,Used,11,2054,Tier 2,0.06,0.07,0.7,0.7,1.1,1,70,80,1,1,1,1,67,7,val
+L0514,L0184,synthetic,Bewakoof,Top,Polyester,M,Like New,8,443,Tier 1,0.05,0.06,0.9,0.8,1,1,20,20,1,1,1,1,184,4,train
+L0515,L0270,synthetic,Manyavar,Ethnic Wear,Silk,M,New,3,9811,Tier 4,0.09,0.11,1,1,1.1,1.05,1000,1200,1,1,1,1,270,0,train
+L0516,L0114,synthetic,GAP,Jeans,Denim,L,Like New,14,6683,Tier 4,0.09,0.11,0.9,0.7,0.95,1,350,450,1,1,1,1,114,4,train
+L0517,L0016,synthetic,HRX,Activewear,Polyester,XS,Used,4,1012,Tier 1,0.05,0.06,0.7,0.9,0.95,1,30,40,1,1,1,1,16,6,train
+L0518,L0228,synthetic,Fabindia,Kurta,Linen,M,New,3,6900,Tier 4,0.09,0.11,1,1,1,1.03,650,800,1,1,1,1,228,8,val
+L0519,L0325,synthetic,Versace,Dress,Silk,M,Like New,5,34456,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3400,4300,1,1,1,1,325,5,train
+L0520,L0221,synthetic,Indya,Ethnic Wear,Silk,M,Like New,6,5812,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,500,600,1,1,1,1,221,1,train
+L0521,L0221,synthetic,Indya,Ethnic Wear,Silk,M,New,2,6069,Tier 4,0.09,0.11,1,1,1.1,1.05,650,750,1,1,1,1,221,1,train
+L0522,L0161,synthetic,Aurelia,Kurta,Cotton,S,Used,8,1142,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,161,1,train
+L0523,L0048,synthetic,Puma,Activewear,Polyester,M,Like New,10,3401,Tier 3,0.07,0.09,0.9,0.8,0.95,1,160,200,1,1,1,1,48,8,val
+L0524,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,New,5,2595,Tier 3,0.07,0.09,1,0.9,1,1,160,200,1,1,1,1,211,1,train
+L0525,L0160,synthetic,Calvin Klein,Jacket,Denim,M,Used,11,7373,Tier 4,0.09,0.11,0.7,0.7,1.05,1,350,400,1,1,1,1,160,0,train
+L0526,L0285,synthetic,Brand Factory,Jacket,Polyester,L,Like New,7,3159,Tier 3,0.07,0.09,0.9,0.8,1.05,1,170,200,1,1,1,1,285,5,train
+L0527,L0337,synthetic,Roadster,Jeans,Denim,S,New,1,5261,Tier 4,0.09,0.11,1,1,0.95,1,450,550,1,1,1,1,337,7,val
+L0528,L0180,synthetic,Louis Vuitton,Jacket,Leather,M,Used,14,158622,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,9400,12000,1,1,1,1,180,0,train
+L0529,L0317,synthetic,Mango,Dress,Linen,M,Like New,4,10058,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,800,950,1,1,1,1,317,7,val
+L0530,L0111,synthetic,W for Woman,Saree,Silk,M,New,1,2221,Tier 2,0.06,0.07,1,1,1.1,1.05,150,180,1,1,1,1,111,1,train
+L0531,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,9,1911,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,70,90,1,1,1,1,158,8,val
+L0532,L0071,synthetic,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,642,Tier 1,0.05,0.06,0.9,0.9,1,1,30,30,1,1,1,1,71,1,train
+L0533,L0343,synthetic,Nike,Activewear,Polyester,L,Like New,11,8914,Tier 4,0.09,0.11,0.9,0.7,0.95,1,500,600,1,1,1,1,343,3,train
+L0534,L0161,synthetic,Aurelia,Kurta,Cotton,S,Used,10,1119,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,161,1,train
+L0535,L0011,synthetic,Easybuy,Top,Polyester,M,Like New,7,514,Tier 1,0.05,0.06,0.9,0.8,1,1,20,20,1,1,1,1,11,1,train
+L0536,L0203,synthetic,Easybuy,Shirt,Polyester,S,New,1,1363,Tier 2,0.06,0.07,1,1,1,1,80,100,1,1,1,1,203,3,train
+L0537,L0100,synthetic,Armani,Ethnic Wear,Polyester,S,Like New,2,93595,Tier 5,0.11,0.14,0.9,1,1.1,1,10200,13000,1,1,1,1,100,0,train
+L0538,L0102,synthetic,Style Bazaar,Top,Polyester,XL,Used,7,337,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,102,2,train
+L0539,L0238,synthetic,Nicobar,Kurta,Linen,L,Used,6,8511,Tier 4,0.09,0.11,0.7,0.9,1,1.03,500,600,1,1,1,1,238,8,val
+L0540,L0320,synthetic,Diesel,Jeans,Denim,S,Used,14,11485,Tier 4,0.09,0.11,0.7,0.7,0.95,1,500,600,1,1,1,1,320,0,train
+L0541,L0303,synthetic,Rangriti,Kurta,Cotton,M,Like New,4,1619,Tier 2,0.06,0.07,0.9,0.9,1,1,80,90,1,1,1,1,303,3,train
+L0542,L0147,synthetic,Neeru's,Lehenga,Silk,L,Like New,11,13565,Tier 4,0.09,0.11,0.9,0.7,1.1,1.05,900,1100,1,1,1,1,147,7,val
+L0543,L0284,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,5,2730,Tier 3,0.07,0.09,0.9,0.9,1,1,150,200,1,1,1,1,284,4,train
+L0544,L0244,synthetic,Nike,Activewear,Polyester,M,Like New,7,10990,Tier 4,0.09,0.11,0.9,0.8,0.95,1,700,850,1,1,1,1,244,4,train
+L0545,L0044,synthetic,Aurelia,Kurta,Cotton,S,Like New,7,1153,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,44,4,train
+L0546,L0187,synthetic,Moda Rapido,Dress,Denim,S,New,1,1067,Tier 1,0.05,0.06,1,1,1.05,1,60,70,1,1,1,1,187,7,val
+L0547,L0332,synthetic,Aurelia,Dress,Linen,L,Like New,5,3697,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,250,300,1,1,1,1,332,2,train
+L0548,L0309,synthetic,Max Fashion,Jeans,Denim,S,Used,5,2339,Tier 2,0.06,0.07,0.7,0.9,0.95,1,80,100,1,1,1,1,309,9,test
+L0549,L0358,synthetic,Libas,Dress,Linen,S,Used,10,4124,Tier 3,0.07,0.09,0.7,0.8,1.05,1.03,170,200,1,1,1,1,358,8,val
+L0550,L0330,synthetic,Style Bazaar,Top,Cotton,M,Like New,12,1418,Tier 2,0.06,0.07,0.9,0.7,1,1,50,60,1,1,1,1,330,0,train
+L0551,L0048,synthetic,Puma,Activewear,Polyester,M,Used,8,2568,Tier 3,0.07,0.09,0.7,0.8,0.95,1,100,120,1,1,1,1,48,8,val
+L0552,L0175,synthetic,Spykar,Shirt,Cotton,XL,New,1,868,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,175,5,train
+L0553,L0260,synthetic,Louis Vuitton,Jacket,Leather,M,Used,8,32709,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2200,2800,1,1,1,1,260,0,train
+L0554,L0079,synthetic,American Eagle,Jeans,Denim,XS,Like New,12,8913,Tier 4,0.09,0.11,0.9,0.7,0.95,1,500,600,1,1,1,1,79,9,test
+L0555,L0023,synthetic,Libas,Kurta,Cotton,S,Used,7,1155,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,23,3,train
+L0556,L0123,synthetic,Sabyasachi,Lehenga,Silk,L,Like New,12,58451,Tier 5,0.11,0.14,0.9,0.7,1.1,1.05,4700,6000,1,1,1,1,123,3,train
+L0557,L0293,synthetic,GAP,Jeans,Denim,XL,Used,12,8061,Tier 4,0.09,0.11,0.7,0.7,0.95,1,350,400,1,1,1,1,293,3,train
+L0558,L0310,synthetic,Reliance Trends,Top,Cotton,M,Like New,8,2444,Tier 2,0.06,0.07,0.9,0.8,1,1,110,120,1,1,1,1,310,0,train
+L0559,L0265,synthetic,Balenciaga,Jacket,Leather,S,Like New,3,29563,Tier 5,0.11,0.14,0.9,1,1.05,1.05,3200,4100,1,1,1,1,265,5,train
+L0560,L0114,synthetic,GAP,Jeans,Denim,S,Like New,9,5921,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,450,1,1,1,1,114,4,train
+L0561,L0192,synthetic,Tarun Tahiliani,Saree,Silk,S,Like New,6,77459,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,8000,10100,1,1,1,1,192,2,train
+L0562,L0242,synthetic,American Eagle,Jeans,Denim,M,Like New,1,8255,Tier 4,0.09,0.11,0.9,1,0.95,1,650,800,1,1,1,1,242,2,train
+L0563,L0281,synthetic,Aurelia,Dress,Linen,XS,Like New,4,3589,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,200,300,1,1,1,1,281,1,train
+L0564,L0025,synthetic,Flying Machine,Jeans,Denim,L,Used,7,1514,Tier 2,0.06,0.07,0.7,0.8,0.95,1,50,60,1,1,1,1,25,5,train
+L0565,L0306,synthetic,Soch,Saree,Silk,L,Used,8,3271,Tier 3,0.07,0.09,0.7,0.8,1.1,1.05,150,190,1,1,1,1,306,6,train
+L0566,L0001,synthetic,Sabyasachi,Ethnic Wear,Silk,M,New,3,83751,Tier 5,0.11,0.14,1,1,1.1,1.05,10600,13500,1,1,1,1,1,1,train
+L0567,L0241,synthetic,GAP,Jeans,Denim,L,Like New,8,7398,Tier 4,0.09,0.11,0.9,0.8,0.95,1,450,550,1,1,1,1,241,1,train
+L0568,L0177,synthetic,Prada,Dress,Silk,S,Used,7,103389,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,7000,8900,1,1,1,1,177,7,val
+L0569,L0181,synthetic,Red Tape,Shirt,Linen,S,Used,7,1092,Tier 1,0.05,0.06,0.7,0.8,1,1.03,30,40,1,1,1,1,181,1,train
+L0570,L0070,synthetic,Pantaloons,Dress,Cotton,L,Like New,10,2156,Tier 2,0.06,0.07,0.9,0.8,1.05,1,100,110,1,1,1,1,70,0,train
+L0571,L0022,synthetic,Mufti,Shirt,Linen,L,Used,10,3707,Tier 3,0.07,0.09,0.7,0.8,1,1.03,150,190,1,1,1,1,22,2,train
+L0572,L0332,synthetic,Aurelia,Dress,Linen,L,Like New,5,2947,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,180,250,1,1,1,1,332,2,train
+L0573,L0205,synthetic,Rangriti,Kurta,Cotton,M,Like New,7,1648,Tier 2,0.06,0.07,0.9,0.8,1,1,70,80,1,1,1,1,205,5,train
+L0574,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,Like New,1,25237,Tier 5,0.11,0.14,0.9,1,1.05,1.05,2800,3500,1,1,1,1,266,6,train
+L0575,L0165,synthetic,Anouk,Saree,Silk,M,Like New,3,1914,Tier 2,0.06,0.07,0.9,1,1.1,1.05,120,140,1,1,1,1,165,5,train
+L0576,L0022,synthetic,Mufti,Shirt,Linen,L,Used,10,3106,Tier 3,0.07,0.09,0.7,0.8,1,1.03,130,160,1,1,1,1,22,2,train
+L0577,L0327,synthetic,Easybuy,Jeans,Denim,M,Like New,10,1632,Tier 2,0.06,0.07,0.9,0.8,0.95,1,70,80,1,1,1,1,327,7,val
+L0578,L0225,synthetic,Flying Machine,Jeans,Denim,L,New,3,4949,Tier 3,0.07,0.09,1,1,0.95,1,350,400,1,1,1,1,225,5,train
+L0579,L0348,synthetic,Sabyasachi,Saree,Silk,L,New,2,30409,Tier 5,0.11,0.14,1,1,1.1,1.05,3900,4900,1,1,1,1,348,8,val
+L0580,L0333,synthetic,Libas,Kurta,Cotton,S,Like New,8,2745,Tier 3,0.07,0.09,0.9,0.8,1,1,140,180,1,1,1,1,333,3,train
+L0581,L0110,synthetic,Easybuy,Shirt,Polyester,S,Used,11,731,Tier 1,0.05,0.06,0.7,0.7,1,1,20,20,1,1,1,1,110,0,train
+L0582,L0232,synthetic,Neeru's,Lehenga,Silk,M,Like New,7,9941,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,750,900,1,1,1,1,232,2,train
+L0583,L0364,synthetic,Flying Machine,Jeans,Denim,M,Like New,8,4997,Tier 3,0.07,0.09,0.9,0.8,0.95,1,250,300,1,1,1,1,364,4,train
+L0584,L0327,synthetic,Easybuy,Jeans,Denim,M,Used,8,1339,Tier 2,0.06,0.07,0.7,0.8,0.95,1,40,50,1,1,1,1,327,7,val
+L0585,L0122,synthetic,Libas,Kurta,Cotton,L,Used,4,1180,Tier 1,0.05,0.06,0.7,0.9,1,1,40,40,1,1,1,1,122,2,train
+L0586,L0045,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,7,6443,Tier 4,0.09,0.11,0.9,0.8,1,1,400,500,1,1,1,1,45,5,train
+L0587,L0038,synthetic,Armani,Jacket,Leather,S,Used,11,45527,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,1,1,1,1,38,8,val
+L0588,L0283,synthetic,Max Fashion,Jeans,Denim,S,Like New,10,2238,Tier 2,0.06,0.07,0.9,0.8,0.95,1,90,110,1,1,1,1,283,3,train
+L0589,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,New,2,31707,Tier 5,0.11,0.14,1,1,1.05,1.05,3800,4900,1,1,1,1,266,6,train
+L0590,L0146,synthetic,Nalli,Saree,Silk,S,Like New,2,7200,Tier 4,0.09,0.11,0.9,1,1.1,1.05,650,800,1,1,1,1,146,6,train
+L0591,L0315,synthetic,Mufti,Shirt,Cotton,M,Like New,3,5199,Tier 4,0.09,0.11,0.9,1,1,1,400,500,1,1,1,1,315,5,train
+L0592,L0369,synthetic,Tommy Hilfiger,Shirt,Cotton,S,Used,13,9357,Tier 4,0.09,0.11,0.7,0.7,1,1,400,500,1,1,1,1,369,9,test
+L0593,L0296,synthetic,Raw Mango,Saree,Silk,M,Used,4,19850,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,1600,2000,1,1,1,1,296,6,train
+L0594,L0280,synthetic,Zudio,Jeans,Denim,S,Like New,8,1471,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,280,0,train
+L0595,L0353,synthetic,Rangriti,Kurta,Cotton,L,New,3,1823,Tier 2,0.06,0.07,1,1,1,1,110,130,1,1,1,1,353,3,train
+L0596,L0161,synthetic,Aurelia,Kurta,Cotton,S,Used,11,972,Tier 1,0.05,0.06,0.7,0.7,1,1,20,30,1,1,1,1,161,1,train
+L0597,L0055,synthetic,Libas,Kurta,Silk,S,New,3,2014,Tier 2,0.06,0.07,1,1,1,1.05,130,150,1,1,1,1,55,5,train
+L0598,L0149,synthetic,Rangriti,Kurta,Cotton,XS,New,3,1231,Tier 2,0.06,0.07,1,1,1,1,70,90,1,1,1,1,149,9,test
+L0599,L0296,synthetic,Raw Mango,Saree,Silk,M,Used,4,20291,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,1600,2100,1,1,1,1,296,6,train
+L0600,L0255,synthetic,Sabyasachi,Saree,Silk,S,Used,11,28525,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1800,2300,1,1,1,1,255,5,train
+L0601,L0025,synthetic,Flying Machine,Jeans,Denim,L,Used,5,1716,Tier 2,0.06,0.07,0.7,0.9,0.95,1,60,70,1,1,1,1,25,5,train
+L0602,L0056,synthetic,Bewakoof,Top,Polyester,S,Used,6,590,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,56,6,train
+L0603,L0288,synthetic,HRX,Activewear,Polyester,L,Like New,8,4922,Tier 3,0.07,0.09,0.9,0.8,0.95,1,250,300,1,1,1,1,288,8,val
+L0604,L0320,synthetic,Diesel,Jeans,Denim,S,Like New,9,10420,Tier 4,0.09,0.11,0.9,0.8,0.95,1,650,800,1,1,1,1,320,0,train
+L0605,L0188,synthetic,Biba,Kurta,Silk,M,Like New,3,1000,Tier 1,0.05,0.06,0.9,1,1,1.05,50,60,1,1,1,1,188,8,val
+L0606,L0071,synthetic,Vishal Mega Mart,Kurta,Cotton,L,Like New,9,822,Tier 1,0.05,0.06,0.9,0.8,1,1,30,40,1,1,1,1,71,1,train
+L0607,L0260,synthetic,Louis Vuitton,Jacket,Leather,XS,Used,5,30750,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2300,3000,1,1,1,1,260,0,train
+L0608,L0214,synthetic,Bewakoof,Activewear,Polyester,S,New,5,2079,Tier 2,0.06,0.07,1,0.9,0.95,1,110,120,1,1,1,1,214,4,train
+L0609,L0299,synthetic,Gucci,Jacket,Leather,M,Used,8,33515,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2300,2900,1,1,1,1,299,9,test
+L0610,L0017,synthetic,Sabyasachi,Saree,Silk,L,Like New,5,128341,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,13200,16800,1,1,1,1,17,7,val
+L0611,L0212,synthetic,Brand Factory,Jacket,Polyester,L,Used,13,3724,Tier 3,0.07,0.09,0.7,0.7,1.05,1,130,170,1,1,1,1,212,2,train
+L0612,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,New,3,28256,Tier 5,0.11,0.14,1,1,1.05,1.05,3400,4400,1,1,1,1,266,6,train
+L0613,L0273,synthetic,Fabindia,Kurta,Linen,L,Like New,10,7800,Tier 4,0.09,0.11,0.9,0.8,1,1.03,500,650,1,1,1,1,273,3,train
+L0614,L0099,synthetic,W for Woman,Ethnic Wear,Silk,S,Like New,9,1524,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,80,90,1,1,1,1,99,9,test
+L0615,L0361,synthetic,Pantaloons,Top,Cotton,S,Like New,8,4581,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,361,1,train
+L0616,L0203,synthetic,Easybuy,Shirt,Polyester,M,New,2,1777,Tier 2,0.06,0.07,1,1,1,1,110,120,1,1,1,1,203,3,train
+L0617,L0336,synthetic,Pantaloons,Top,Cotton,M,Like New,9,4787,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,336,6,train
+L0618,L0357,synthetic,Aurelia,Kurta,Cotton,L,Like New,1,3377,Tier 3,0.07,0.09,0.9,1,1,1,200,250,1,1,1,1,357,7,val
+L0619,L0116,synthetic,Under Armour,Activewear,Polyester,M,New,1,6783,Tier 4,0.09,0.11,1,1,0.95,1,600,700,1,1,1,1,116,6,train
+L0620,L0244,synthetic,Nike,Activewear,Polyester,M,Used,8,9576,Tier 4,0.09,0.11,0.7,0.8,0.95,1,450,550,1,1,1,1,244,4,train
+L0621,L0046,synthetic,Calvin Klein,Jacket,Denim,M,Used,8,8601,Tier 4,0.09,0.11,0.7,0.8,1.05,1,450,550,1,1,1,1,46,6,train
+L0622,L0090,synthetic,Zara,Dress,Linen,S,Like New,6,7887,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,600,750,1,1,1,1,90,0,train
+L0623,L0149,synthetic,Rangriti,Kurta,Cotton,L,New,2,853,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,149,9,test
+L0624,L0279,synthetic,Style Bazaar,Top,Cotton,M,Like New,4,1137,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,279,9,test
+L0625,L0170,synthetic,Indya,Jacket,Denim,S,Used,6,1431,Tier 2,0.06,0.07,0.7,0.9,1.05,1,60,70,1,1,1,1,170,0,train
+L0626,L0152,synthetic,American Eagle,Jeans,Denim,L,Like New,8,5318,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,400,1,1,1,1,152,2,train
+L0627,L0264,synthetic,Burberry,Jacket,Cotton,M,Like New,12,24177,Tier 5,0.11,0.14,0.9,0.7,1.05,1,1800,2200,1,1,1,1,264,4,train
+L0628,L0128,synthetic,Libas,Kurta,Cotton,S,Like New,5,1058,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,128,8,val
+L0629,L0006,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,10,134516,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,11700,14900,1,1,1,1,6,6,train
+L0630,L0082,synthetic,Aurelia,Ethnic Wear,Cotton,M,Used,8,1491,Tier 2,0.06,0.07,0.7,0.8,1.1,1,60,60,1,1,1,1,82,2,train
+L0631,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,Like New,2,1205,Tier 2,0.06,0.07,0.9,1,1,1,70,80,1,1,1,1,328,8,val
+L0632,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Used,12,10695,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,550,650,1,1,1,1,233,3,train
+L0633,L0341,synthetic,Fabindia,Kurta,Linen,M,Used,5,9484,Tier 4,0.09,0.11,0.7,0.9,1,1.03,550,700,1,1,1,1,341,1,train
+L0634,L0271,synthetic,Nike,Activewear,Polyester,S,Like New,4,8648,Tier 4,0.09,0.11,0.9,0.9,0.95,1,600,750,1,1,1,1,271,1,train
+L0635,L0104,synthetic,AND,Dress,Cotton,M,Like New,4,5744,Tier 4,0.09,0.11,0.9,0.9,1.05,1,450,550,1,1,1,1,104,4,train
+L0636,L0251,synthetic,Diesel,Jeans,Denim,M,Like New,9,9845,Tier 4,0.09,0.11,0.9,0.8,0.95,1,600,750,1,1,1,1,251,1,train
+L0637,L0234,synthetic,AND,Dress,Linen,M,Like New,5,7905,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,600,750,1,1,1,1,234,4,train
+L0638,L0297,synthetic,Anita Dongre,Lehenga,Silk,S,New,3,20636,Tier 5,0.11,0.14,1,1,1.1,1.05,2600,3300,1,1,1,1,297,7,val
+L0639,L0036,synthetic,Jaypore,Saree,Silk,XL,Like New,4,8356,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,700,850,1,1,1,1,36,6,train
+L0640,L0374,synthetic,Louis Vuitton,Jacket,Leather,M,New,2,39223,Tier 5,0.11,0.14,1,1,1.05,1.05,4800,6100,1,1,1,1,374,4,train
+L0641,L0350,synthetic,Prada,Dress,Silk,XS,Used,8,29217,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2000,2500,1,1,1,1,350,0,train
+L0642,L0202,synthetic,Zudio,Top,Cotton,M,Like New,8,1371,Tier 2,0.06,0.07,0.9,0.8,1,1,60,70,1,1,1,1,202,2,train
+L0643,L0238,synthetic,Nicobar,Kurta,Linen,L,Like New,4,7859,Tier 4,0.09,0.11,0.9,0.9,1,1.03,600,700,1,1,1,1,238,8,val
+L0644,L0178,synthetic,Adidas,Activewear,Polyester,S,Like New,4,3862,Tier 3,0.07,0.09,0.9,0.9,0.95,1,200,250,1,1,1,1,178,8,val
+L0645,L0315,synthetic,Mufti,Shirt,Cotton,M,New,1,4491,Tier 3,0.07,0.09,1,1,1,1,300,400,1,1,1,1,315,5,train
+L0646,L0361,synthetic,Pantaloons,Top,Cotton,M,Like New,8,4516,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,361,1,train
+L0647,L0345,synthetic,Diesel,Jeans,Denim,M,New,2,13181,Tier 4,0.09,0.11,1,1,0.95,1,1100,1400,1,1,1,1,345,5,train
+L0648,L0032,synthetic,Uniqlo,Jacket,Polyester,M,Like New,7,2337,Tier 2,0.06,0.07,0.9,0.8,1.05,1,110,120,1,1,1,1,32,2,train
+L0649,L0025,synthetic,Flying Machine,Jeans,Denim,XL,Used,8,1639,Tier 2,0.06,0.07,0.7,0.8,0.95,1,50,60,1,1,1,1,25,5,train
+L0650,L0276,synthetic,Easybuy,Shirt,Cotton,M,Like New,5,1610,Tier 2,0.06,0.07,0.9,0.9,1,1,80,90,1,1,1,1,276,6,train
+L0651,L0030,synthetic,H&M,Dress,Cotton,S,Used,10,1040,Tier 1,0.05,0.06,0.7,0.8,1.05,1,30,40,1,1,1,1,30,0,train
+L0652,L0170,synthetic,Indya,Jacket,Denim,S,Used,6,1146,Tier 1,0.05,0.06,0.7,0.9,1.05,1,40,50,1,1,1,1,170,0,train
+L0653,L0194,synthetic,Highlander,Shirt,Cotton,M,Like New,5,836,Tier 1,0.05,0.06,0.9,0.9,1,1,30,40,1,1,1,1,194,4,train
+L0654,L0112,synthetic,Zudio,Shirt,Cotton,M,New,5,380,Tier 1,0.05,0.06,1,0.9,1,1,20,20,1,1,1,1,112,2,train
+L0655,L0061,synthetic,Gucci,Jacket,Leather,M,Used,10,113460,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,7700,9800,1,1,1,1,61,1,train
+L0656,L0123,synthetic,Sabyasachi,Lehenga,Silk,L,Used,12,52305,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,3300,4100,1,1,1,1,123,3,train
+L0657,L0263,synthetic,Versace,Dress,Silk,XL,Like New,1,31176,Tier 5,0.11,0.14,0.9,1,1.05,1.05,3400,4300,1,1,1,1,263,3,train
+L0658,L0161,synthetic,Aurelia,Kurta,Cotton,S,Like New,10,1169,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,161,1,train
+L0659,L0300,synthetic,Prada,Dress,Silk,S,New,2,27056,Tier 5,0.11,0.14,1,1,1.05,1.05,3300,4200,1,1,1,1,300,0,train
+L0660,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,9,774,Tier 1,0.05,0.06,0.9,0.8,1,1,30,30,1,1,1,1,126,6,train
+L0661,L0252,synthetic,Superdry,Jacket,Polyester,M,Used,9,9720,Tier 4,0.09,0.11,0.7,0.8,1.05,1,500,650,1,1,1,1,252,2,train
+L0662,L0278,synthetic,Rangriti,Kurta,Cotton,L,Used,11,1949,Tier 2,0.06,0.07,0.7,0.7,1,1,60,70,1,1,1,1,278,8,val
+L0663,L0004,synthetic,Gucci,Jacket,Leather,S,Used,5,55697,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,4300,5400,1,1,1,1,4,4,train
+L0664,L0259,synthetic,Gucci,Jacket,Leather,L,Like New,1,31801,Tier 5,0.11,0.14,0.9,1,1.05,1.05,3500,4400,1,1,1,1,259,9,test
+L0665,L0009,synthetic,Roadster,Jeans,Denim,XL,Like New,4,888,Tier 1,0.05,0.06,0.9,0.9,0.95,1,30,40,1,1,1,1,9,9,test
+L0666,L0092,synthetic,Highlander,Top,Cotton,XL,New,1,551,Tier 1,0.05,0.06,1,1,1,1,30,30,1,1,1,1,92,2,train
+L0667,L0137,synthetic,Forever 21,Dress,Polyester,L,New,2,1313,Tier 2,0.06,0.07,1,1,1.05,1,80,100,1,1,1,1,137,7,val
+L0668,L0116,synthetic,Under Armour,Activewear,Polyester,M,Used,7,7395,Tier 4,0.09,0.11,0.7,0.8,0.95,1,350,450,1,1,1,1,116,6,train
+L0669,L0048,synthetic,Puma,Activewear,Polyester,M,Used,8,2608,Tier 3,0.07,0.09,0.7,0.8,0.95,1,100,120,1,1,1,1,48,8,val
+L0670,L0043,synthetic,Manish Malhotra,Ethnic Wear,Silk,M,Used,9,77554,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5500,7000,1,1,1,1,43,3,train
+L0671,L0271,synthetic,Nike,Activewear,Polyester,M,Like New,5,10136,Tier 4,0.09,0.11,0.9,0.9,0.95,1,700,850,1,1,1,1,271,1,train
+L0672,L0144,synthetic,Soch,Ethnic Wear,Silk,XS,Like New,7,1761,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,90,100,1,1,1,1,144,4,train
+L0673,L0301,synthetic,Easybuy,Top,Cotton,S,Used,8,1286,Tier 2,0.06,0.07,0.7,0.8,1,1,40,50,1,1,1,1,301,1,train
+L0674,L0289,synthetic,Flying Machine,Jeans,Denim,M,Used,6,5217,Tier 4,0.09,0.11,0.7,0.9,0.95,1,300,350,1,1,1,1,289,9,test
+L0675,L0072,synthetic,Zudio,Shirt,Cotton,L,Like New,3,388,Tier 1,0.05,0.06,0.9,1,1,1,20,20,1,1,1,1,72,2,train
+L0676,L0039,synthetic,W for Woman,Saree,Silk,M,Used,6,2645,Tier 3,0.07,0.09,0.7,0.9,1.1,1.05,130,170,1,1,1,1,39,9,test
+L0677,L0231,synthetic,Nalli,Saree,Silk,L,New,1,9323,Tier 4,0.09,0.11,1,1,1.1,1.05,950,1200,1,1,1,1,231,1,train
+L0678,L0339,synthetic,Flying Machine,Jeans,Denim,M,Used,15,5477,Tier 4,0.09,0.11,0.7,0.7,0.95,1,250,300,1,1,1,1,339,9,test
+L0679,L0195,synthetic,Moda Rapido,Dress,Polyester,M,Used,10,1193,Tier 1,0.05,0.06,0.7,0.8,1.05,1,40,40,1,1,1,1,195,5,train
+L0680,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,12,1971,Tier 2,0.06,0.07,0.7,0.7,1.1,1.05,70,80,1,1,1,1,158,8,val
+L0681,L0286,synthetic,Pantaloons,Top,Cotton,S,Like New,6,3349,Tier 3,0.07,0.09,0.9,0.9,1,1,190,250,1,1,1,1,286,6,train
+L0682,L0007,synthetic,Zara,Dress,Linen,L,Like New,3,10756,Tier 4,0.09,0.11,0.9,1,1.05,1.03,950,1200,1,1,1,1,7,7,val
+L0683,L0087,synthetic,Mufti,Shirt,Linen,M,Used,10,3343,Tier 3,0.07,0.09,0.7,0.8,1,1.03,130,170,1,1,1,1,87,7,val
+L0684,L0142,synthetic,Louis Vuitton,Shirt,Linen,XS,Used,6,68913,Tier 5,0.11,0.14,0.7,0.9,1,1.03,4900,6300,1,1,1,1,142,2,train
+L0685,L0254,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,4,20165,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2100,2600,1,1,1,1,254,4,train
+L0686,L0171,synthetic,Pantaloons,Jeans,Denim,XL,Like New,13,1121,Tier 1,0.05,0.06,0.9,0.7,0.95,1,30,40,1,1,1,1,171,1,train
+L0687,L0309,synthetic,Max Fashion,Jeans,Denim,M,Like New,8,3088,Tier 3,0.07,0.09,0.9,0.8,0.95,1,150,190,1,1,1,1,309,9,test
+L0688,L0252,synthetic,Superdry,Jacket,Polyester,M,Like New,6,11555,Tier 4,0.09,0.11,0.9,0.9,1.05,1,900,1100,1,1,1,1,252,2,train
+L0689,L0103,synthetic,Soch,Ethnic Wear,Cotton,XS,Used,11,946,Tier 1,0.05,0.06,0.7,0.7,1.1,1,30,30,1,1,1,1,103,3,train
+L0690,L0363,synthetic,HRX,Activewear,Polyester,L,Like New,6,5869,Tier 4,0.09,0.11,0.9,0.9,0.95,1,400,500,1,1,1,1,363,3,train
+L0691,L0210,synthetic,Max Fashion,Jeans,Denim,M,Used,6,2056,Tier 2,0.06,0.07,0.7,0.9,0.95,1,70,90,1,1,1,1,210,0,train
+L0692,L0038,synthetic,Armani,Jacket,Leather,S,Used,13,44923,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,1,1,1,1,38,8,val
+L0693,L0185,synthetic,Reebok,Activewear,Polyester,L,Used,7,3004,Tier 3,0.07,0.09,0.7,0.8,0.95,1,110,140,1,1,1,1,185,5,train
+L0694,L0337,synthetic,Roadster,Jeans,Denim,L,Like New,2,4154,Tier 3,0.07,0.09,0.9,1,0.95,1,250,300,1,1,1,1,337,7,val
+L0695,L0205,synthetic,Rangriti,Kurta,Cotton,S,Used,10,1537,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,205,5,train
+L0696,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,Used,6,28010,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2100,2700,1,1,1,1,266,6,train
+L0697,L0013,synthetic,GAP,Jeans,Denim,L,Used,11,6837,Tier 4,0.09,0.11,0.7,0.7,0.95,1,300,350,1,1,1,1,13,3,train
+L0698,L0073,synthetic,Under Armour,Activewear,Polyester,M,New,3,6550,Tier 4,0.09,0.11,1,1,0.95,1,550,700,1,1,1,1,73,3,train
+L0699,L0154,synthetic,Manish Malhotra,Lehenga,Silk,M,Used,11,88741,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,5500,7000,1,1,1,1,154,4,train
+L0700,L0125,synthetic,Max Fashion,Jeans,Denim,M,Like New,5,1079,Tier 1,0.05,0.06,0.9,0.9,0.95,1,40,50,1,1,1,1,125,5,train
+L0701,L0095,synthetic,Neeru's,Ethnic Wear,Silk,M,Used,10,13317,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,800,950,1,1,1,1,95,5,train
+L0702,L0220,synthetic,Anouk,Kurta,Cotton,M,Used,10,3790,Tier 3,0.07,0.09,0.7,0.8,1,1,150,190,1,1,1,1,220,0,train
+L0703,L0275,synthetic,Reliance Trends,Top,Cotton,S,Like New,8,1780,Tier 2,0.06,0.07,0.9,0.8,1,1,80,90,1,1,1,1,275,5,train
+L0704,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,Like New,3,1372,Tier 2,0.06,0.07,0.9,1,1,1,70,90,1,1,1,1,328,8,val
+L0705,L0317,synthetic,Mango,Dress,Linen,M,Used,9,9123,Tier 4,0.09,0.11,0.7,0.8,1.05,1.03,500,600,1,1,1,1,317,7,val
+L0706,L0161,synthetic,Aurelia,Kurta,Cotton,S,Like New,8,986,Tier 1,0.05,0.06,0.9,0.8,1,1,40,40,1,1,1,1,161,1,train
+L0707,L0215,synthetic,Highlander,Jeans,Denim,L,Used,11,2196,Tier 2,0.06,0.07,0.7,0.7,0.95,1,60,70,1,1,1,1,215,5,train
+L0708,L0251,synthetic,Diesel,Jeans,Denim,M,Like New,6,11019,Tier 4,0.09,0.11,0.9,0.9,0.95,1,750,950,1,1,1,1,251,1,train
+L0709,L0005,synthetic,Rangriti,Kurta,Cotton,S,Like New,1,1281,Tier 2,0.06,0.07,0.9,1,1,1,70,80,1,1,1,1,5,5,train
+L0710,L0252,synthetic,Superdry,Jacket,Polyester,M,Used,10,9714,Tier 4,0.09,0.11,0.7,0.8,1.05,1,500,650,1,1,1,1,252,2,train
+L0711,L0141,synthetic,Highlander,Top,Cotton,XL,New,2,616,Tier 1,0.05,0.06,1,1,1,1,30,40,1,1,1,1,141,1,train
+L0712,L0058,synthetic,Roadster,Shirt,Cotton,M,Like New,3,1332,Tier 2,0.06,0.07,0.9,1,1,1,70,80,1,1,1,1,58,8,val
+L0713,L0226,synthetic,Mufti,Shirt,Cotton,M,Used,11,5521,Tier 4,0.09,0.11,0.7,0.7,1,1,250,300,1,1,1,1,226,6,train
+L0714,L0231,synthetic,Nalli,Saree,Silk,L,Used,5,9486,Tier 4,0.09,0.11,0.7,0.9,1.1,1.05,600,750,1,1,1,1,231,1,train
+L0715,L0122,synthetic,Libas,Kurta,Cotton,M,Used,7,1169,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,122,2,train
+L0716,L0072,synthetic,Zudio,Shirt,Cotton,M,Like New,5,389,Tier 1,0.05,0.06,0.9,0.9,1,1,20,20,1,1,1,1,72,2,train
+L0717,L0166,synthetic,Indya,Jacket,Denim,S,Used,9,1774,Tier 2,0.06,0.07,0.7,0.8,1.05,1,60,70,1,1,1,1,166,6,train
+L0718,L0211,synthetic,Reliance Trends,Shirt,Cotton,S,Used,6,2848,Tier 3,0.07,0.09,0.7,0.9,1,1,130,160,1,1,1,1,211,1,train
+L0719,L0365,synthetic,Mufti,Shirt,Cotton,S,Used,9,5950,Tier 4,0.09,0.11,0.7,0.8,1,1,300,350,1,1,1,1,365,5,train
+L0720,L0193,synthetic,Anita Dongre,Saree,Silk,M,Used,6,65255,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,5200,6600,1,1,1,1,193,3,train
+L0721,L0189,synthetic,W for Woman,Ethnic Wear,Cotton,S,Like New,8,961,Tier 1,0.05,0.06,0.9,0.8,1.1,1,40,50,1,1,1,1,189,9,test
+L0722,L0375,synthetic,Burberry,Jacket,Cotton,S,Like New,9,27656,Tier 5,0.11,0.14,0.9,0.8,1.05,1,2300,2900,1,1,1,1,375,5,train
+L0723,L0109,synthetic,Zudio,Top,Cotton,S,Used,4,580,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,109,9,test
+L0724,L0350,synthetic,Prada,Dress,Silk,S,Like New,7,32750,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,2900,3600,1,1,1,1,350,0,train
+L0725,L0081,synthetic,FBB,Kurta,Cotton,M,Used,7,1013,Tier 1,0.05,0.06,0.7,0.8,1,1,30,30,1,1,1,1,81,1,train
+L0726,L0333,synthetic,Libas,Kurta,Cotton,S,Used,14,2838,Tier 3,0.07,0.09,0.7,0.7,1,1,100,130,1,1,1,1,333,3,train
+L0727,L0341,synthetic,Fabindia,Kurta,Linen,M,New,1,8181,Tier 4,0.09,0.11,1,1,1,1.03,750,950,1,1,1,1,341,1,train
+L0728,L0047,synthetic,Red Tape,Shirt,Linen,S,New,1,754,Tier 1,0.05,0.06,1,1,1,1.03,40,50,1,1,1,1,47,7,val
+L0729,L0217,synthetic,Biba,Ethnic Wear,Silk,M,New,3,4917,Tier 3,0.07,0.09,1,1,1.1,1.05,400,500,1,1,1,1,217,7,val
+L0730,L0071,synthetic,Vishal Mega Mart,Kurta,Cotton,L,Used,9,692,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,71,1,train
+L0731,L0005,synthetic,Rangriti,Kurta,Cotton,S,New,1,1160,Tier 1,0.05,0.06,1,1,1,1,60,70,1,1,1,1,5,5,train
+L0732,L0316,synthetic,Fabindia,Kurta,Linen,S,Used,13,9201,Tier 4,0.09,0.11,0.7,0.7,1,1.03,400,500,1,1,1,1,316,6,train
+L0733,L0058,synthetic,Roadster,Shirt,Cotton,M,Used,6,1169,Tier 1,0.05,0.06,0.7,0.9,1,1,40,40,1,1,1,1,58,8,val
+L0734,L0163,synthetic,UCB,Shirt,Cotton,S,Used,9,3490,Tier 3,0.07,0.09,0.7,0.8,1,1,140,180,1,1,1,1,163,3,train
+L0735,L0038,synthetic,Armani,Jacket,Leather,S,Like New,9,42652,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,3700,4700,1,1,1,1,38,8,val
+L0736,L0204,synthetic,Vishal Mega Mart,Jeans,Denim,S,Like New,11,1566,Tier 2,0.06,0.07,0.9,0.7,0.95,1,60,70,1,1,1,1,204,4,train
+L0737,L0275,synthetic,Reliance Trends,Top,Cotton,S,Like New,7,1917,Tier 2,0.06,0.07,0.9,0.8,1,1,80,100,1,1,1,1,275,5,train
+L0738,L0080,synthetic,Anita Dongre,Ethnic Wear,Silk,S,Used,11,21177,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1300,1700,1,1,1,1,80,0,train
+L0739,L0224,synthetic,HRX,Activewear,Polyester,S,Like New,6,4491,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,224,4,train
+L0740,L0029,synthetic,Zara,Jacket,Denim,M,Like New,11,4556,Tier 3,0.07,0.09,0.9,0.7,1.05,1,200,250,1,1,1,1,29,9,test
+L0741,L0360,synthetic,Reliance Trends,Shirt,Cotton,XL,New,2,3099,Tier 3,0.07,0.09,1,1,1,1,200,300,1,1,1,1,360,0,train
+L0742,L0086,synthetic,Flying Machine,Jeans,Denim,L,Like New,12,3020,Tier 3,0.07,0.09,0.9,0.7,0.95,1,130,160,1,1,1,1,86,6,train
+L0743,L0016,synthetic,HRX,Activewear,Polyester,XS,Like New,4,831,Tier 1,0.05,0.06,0.9,0.9,0.95,1,30,40,1,1,1,1,16,6,train
+L0744,L0262,synthetic,Armani,Shirt,Linen,M,Like New,7,19426,Tier 5,0.11,0.14,0.9,0.8,1,1.03,1600,2000,1,1,1,1,262,2,train
+L0745,L0294,synthetic,Nike,Activewear,Polyester,M,New,1,10174,Tier 4,0.09,0.11,1,1,0.95,1,850,1100,1,1,1,1,294,4,train
+L0746,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,6,699,Tier 1,0.05,0.06,0.9,0.9,1,1,30,30,1,1,1,1,126,6,train
+L0747,L0284,synthetic,Reliance Trends,Shirt,Cotton,XL,New,3,2589,Tier 3,0.07,0.09,1,1,1,1,180,250,1,1,1,1,284,4,train
+L0748,L0293,synthetic,GAP,Jeans,Denim,L,Like New,10,7333,Tier 4,0.09,0.11,0.9,0.8,0.95,1,450,550,1,1,1,1,293,3,train
+L0749,L0024,synthetic,Anouk,Saree,Silk,L,New,4,2240,Tier 2,0.06,0.07,1,0.9,1.1,1.05,140,160,1,1,1,1,24,4,train
+L0750,L0284,synthetic,Reliance Trends,Shirt,Cotton,M,Like New,4,2723,Tier 3,0.07,0.09,0.9,0.9,1,1,150,200,1,1,1,1,284,4,train
+L0751,L0125,synthetic,Max Fashion,Jeans,Denim,M,New,5,1298,Tier 2,0.06,0.07,1,0.9,0.95,1,70,80,1,1,1,1,125,5,train
+L0752,L0280,synthetic,Zudio,Jeans,Denim,S,Like New,7,1529,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,280,0,train
+L0753,L0178,synthetic,Adidas,Activewear,Polyester,S,Like New,8,4139,Tier 3,0.07,0.09,0.9,0.8,0.95,1,200,250,1,1,1,1,178,8,val
+L0754,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,S,Used,11,27385,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1700,2200,1,1,1,1,373,3,train
+L0755,L0073,synthetic,Under Armour,Activewear,Polyester,M,New,1,6597,Tier 4,0.09,0.11,1,1,0.95,1,550,700,1,1,1,1,73,3,train
+L0756,L0235,synthetic,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,9,10993,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,800,1000,1,1,1,1,235,5,train
+L0757,L0223,synthetic,Roadster,Jeans,Denim,M,Like New,5,3954,Tier 3,0.07,0.09,0.9,0.9,0.95,1,200,250,1,1,1,1,223,3,train
+L0758,L0359,synthetic,Max Fashion,Jeans,Denim,S,Like New,6,2609,Tier 3,0.07,0.09,0.9,0.9,0.95,1,140,180,1,1,1,1,359,9,test
+L0759,L0056,synthetic,Bewakoof,Top,Polyester,S,Like New,5,478,Tier 1,0.05,0.06,0.9,0.9,1,1,20,20,1,1,1,1,56,6,train
+L0760,L0107,synthetic,Zara,Dress,Linen,L,New,3,9123,Tier 4,0.09,0.11,1,1,1.05,1.03,900,1100,1,1,1,1,107,7,val
+L0761,L0361,synthetic,Pantaloons,Top,Cotton,S,New,3,5174,Tier 4,0.09,0.11,1,1,1,1,450,550,1,1,1,1,361,1,train
+L0762,L0183,synthetic,Gucci,Jacket,Leather,M,Used,4,114029,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,8700,11100,1,1,1,1,183,3,train
+L0763,L0232,synthetic,Neeru's,Lehenga,Silk,M,Like New,6,11052,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,950,1100,1,1,1,1,232,2,train
+L0764,L0114,synthetic,GAP,Jeans,Denim,L,Used,15,6391,Tier 4,0.09,0.11,0.7,0.7,0.95,1,250,350,1,1,1,1,114,4,train
+L0765,L0039,synthetic,W for Woman,Saree,Silk,M,New,1,2689,Tier 3,0.07,0.09,1,1,1.1,1.05,200,300,1,1,1,1,39,9,test
+L0766,L0170,synthetic,Indya,Jacket,Denim,S,Like New,6,1524,Tier 2,0.06,0.07,0.9,0.9,1.05,1,80,90,1,1,1,1,170,0,train
+L0767,L0196,synthetic,Bewakoof,Top,Cotton,S,New,1,1127,Tier 1,0.05,0.06,1,1,1,1,60,70,1,1,1,1,196,6,train
+L0768,L0077,synthetic,AND,Dress,Cotton,M,Used,7,5382,Tier 4,0.09,0.11,0.7,0.8,1.05,1,300,350,1,1,1,1,77,7,val
+L0769,L0144,synthetic,Soch,Ethnic Wear,Silk,S,Like New,5,1738,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,100,110,1,1,1,1,144,4,train
+L0770,L0366,synthetic,Fabindia,Kurta,Linen,M,Used,7,8756,Tier 4,0.09,0.11,0.7,0.8,1,1.03,450,550,1,1,1,1,366,6,train
+L0771,L0093,synthetic,Prada,Dress,Silk,M,Used,10,84699,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,5800,7300,1,1,1,1,93,3,train
+L0772,L0272,synthetic,Levi's,Jeans,Denim,M,New,4,9144,Tier 4,0.09,0.11,1,0.9,0.95,1,700,850,1,1,1,1,272,2,train
+L0773,L0124,synthetic,Gucci,Jacket,Leather,S,Used,5,66897,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,5100,6500,1,1,1,1,124,4,train
+L0774,L0295,synthetic,Tommy Hilfiger,Shirt,Cotton,XL,Like New,6,10903,Tier 4,0.09,0.11,0.9,0.9,1,1,800,950,1,1,1,1,295,5,train
+L0775,L0304,synthetic,Style Bazaar,Top,Cotton,L,Used,9,1404,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,304,4,train
+L0776,L0291,synthetic,Fabindia,Kurta,Linen,M,Like New,7,8626,Tier 4,0.09,0.11,0.9,0.8,1,1.03,600,700,1,1,1,1,291,1,train
+L0777,L0278,synthetic,Rangriti,Kurta,Cotton,L,Used,10,1478,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,278,8,val
+L0778,L0001,synthetic,Sabyasachi,Ethnic Wear,Silk,M,Like New,6,82370,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,8500,10800,1,1,1,1,1,1,train
+L0779,L0073,synthetic,Under Armour,Activewear,Polyester,M,Used,7,6849,Tier 4,0.09,0.11,0.7,0.8,0.95,1,350,400,1,1,1,1,73,3,train
+L0780,L0340,synthetic,Mufti,Shirt,Cotton,L,New,3,5126,Tier 4,0.09,0.11,1,1,1,1,450,550,1,1,1,1,340,0,train
+L0781,L0224,synthetic,HRX,Activewear,Polyester,XL,Like New,5,5268,Tier 4,0.09,0.11,0.9,0.9,0.95,1,350,450,1,1,1,1,224,4,train
+L0782,L0353,synthetic,Rangriti,Kurta,Cotton,L,Like New,1,2128,Tier 2,0.06,0.07,0.9,1,1,1,110,130,1,1,1,1,353,3,train
+L0783,L0291,synthetic,Fabindia,Kurta,Linen,M,Like New,7,8567,Tier 4,0.09,0.11,0.9,0.8,1,1.03,550,700,1,1,1,1,291,1,train
+L0784,L0073,synthetic,Under Armour,Activewear,Polyester,M,New,1,8016,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,73,3,train
+L0785,L0046,synthetic,Calvin Klein,Jacket,Denim,S,Used,10,7492,Tier 4,0.09,0.11,0.7,0.8,1.05,1,400,500,1,1,1,1,46,6,train
+L0786,L0056,synthetic,Bewakoof,Top,Polyester,S,Like New,4,582,Tier 1,0.05,0.06,0.9,0.9,1,1,20,30,1,1,1,1,56,6,train
+L0787,L0253,synthetic,Raw Mango,Saree,Silk,S,Like New,4,19868,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2000,2600,1,1,1,1,253,3,train
+L0788,L0116,synthetic,Under Armour,Activewear,Polyester,M,Like New,1,6222,Tier 4,0.09,0.11,0.9,1,0.95,1,500,600,1,1,1,1,116,6,train
+L0789,L0054,synthetic,Adidas,Activewear,Polyester,S,Like New,4,3171,Tier 3,0.07,0.09,0.9,0.9,0.95,1,170,200,1,1,1,1,54,4,train
+L0790,L0048,synthetic,Puma,Activewear,Polyester,M,Used,9,3289,Tier 3,0.07,0.09,0.7,0.8,0.95,1,120,160,1,1,1,1,48,8,val
+L0791,L0223,synthetic,Roadster,Jeans,Denim,M,Like New,4,5002,Tier 4,0.09,0.11,0.9,0.9,0.95,1,350,400,1,1,1,1,223,3,train
+L0792,L0153,synthetic,Sabyasachi,Lehenga,Silk,M,New,2,92556,Tier 5,0.11,0.14,1,1,1.1,1.05,11800,15000,1,1,1,1,153,3,train
+L0793,L0219,synthetic,Global Desi,Dress,Linen,S,Like New,15,5419,Tier 4,0.09,0.11,0.9,0.7,1.05,1.03,350,400,1,1,1,1,219,9,test
+L0794,L0106,synthetic,Nicobar,Dress,Linen,S,New,3,8062,Tier 4,0.09,0.11,1,1,1.05,1.03,800,950,1,1,1,1,106,6,train
+L0795,L0242,synthetic,American Eagle,Jeans,Denim,M,Like New,5,8637,Tier 4,0.09,0.11,0.9,0.9,0.95,1,600,750,1,1,1,1,242,2,train
+L0796,L0190,synthetic,Global Desi,Saree,Silk,M,Like New,4,1518,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,90,100,1,1,1,1,190,0,train
+L0797,L0289,synthetic,Flying Machine,Jeans,Denim,M,Used,6,4242,Tier 3,0.07,0.09,0.7,0.9,0.95,1,180,250,1,1,1,1,289,9,test
+L0798,L0302,synthetic,Vishal Mega Mart,Shirt,Polyester,M,Used,8,1705,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,302,2,train
+L0799,L0121,synthetic,Roadster,Shirt,Cotton,M,New,1,1348,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,121,1,train
+L0800,L0265,synthetic,Balenciaga,Jacket,Leather,XS,Like New,4,33618,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3300,4200,1,1,1,1,265,5,train
+L0801,L0109,synthetic,Zudio,Top,Cotton,M,New,2,775,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,109,9,test
+L0802,L0133,synthetic,H&M,Dress,Cotton,S,Like New,9,1309,Tier 2,0.06,0.07,0.9,0.8,1.05,1,60,70,1,1,1,1,133,3,train
+L0803,L0142,synthetic,Louis Vuitton,Shirt,Linen,XS,Like New,9,75371,Tier 5,0.11,0.14,0.9,0.8,1,1.03,6100,7800,1,1,1,1,142,2,train
+L0804,L0289,synthetic,Flying Machine,Jeans,Denim,M,Like New,6,4980,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,289,9,test
+L0805,L0136,synthetic,Uniqlo,Jacket,Polyester,M,Used,6,2030,Tier 2,0.06,0.07,0.7,0.9,1.05,1,80,90,1,1,1,1,136,6,train
+L0806,L0074,synthetic,Reliance Trends,Top,Cotton,S,Used,9,655,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,74,4,train
+L0807,L0244,synthetic,Nike,Activewear,Polyester,S,Like New,7,10943,Tier 4,0.09,0.11,0.9,0.8,0.95,1,650,800,1,1,1,1,244,4,train
+L0808,L0252,synthetic,Superdry,Jacket,Polyester,L,Used,10,10092,Tier 4,0.09,0.11,0.7,0.8,1.05,1,550,650,1,1,1,1,252,2,train
+L0809,L0214,synthetic,Bewakoof,Activewear,Polyester,S,New,1,1663,Tier 2,0.06,0.07,1,1,0.95,1,90,110,1,1,1,1,214,4,train
+L0810,L0265,synthetic,Balenciaga,Jacket,Leather,L,Used,7,27829,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,1900,2400,1,1,1,1,265,5,train
+L0811,L0269,synthetic,Biba,Kurta,Cotton,L,Like New,8,4794,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,269,9,test
+L0812,L0185,synthetic,Reebok,Activewear,Polyester,L,New,3,2834,Tier 3,0.07,0.09,1,1,0.95,1,190,250,1,1,1,1,185,5,train
+L0813,L0124,synthetic,Gucci,Jacket,Leather,S,New,3,70638,Tier 5,0.11,0.14,1,1,1.05,1.05,8600,10900,1,1,1,1,124,4,train
+L0814,L0133,synthetic,H&M,Dress,Cotton,S,Like New,9,1289,Tier 2,0.06,0.07,0.9,0.8,1.05,1,60,70,1,1,1,1,133,3,train
+L0815,L0110,synthetic,Easybuy,Shirt,Polyester,M,Used,11,787,Tier 1,0.05,0.06,0.7,0.7,1,1,20,20,1,1,1,1,110,0,train
+L0816,L0068,synthetic,Masaba,Dress,Silk,M,Used,6,11285,Tier 4,0.09,0.11,0.7,0.9,1.05,1.05,700,850,1,1,1,1,68,8,val
+L0817,L0364,synthetic,Flying Machine,Jeans,Denim,M,Like New,7,5772,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,450,1,1,1,1,364,4,train
+L0818,L0347,synthetic,Anita Dongre,Lehenga,Silk,M,Used,14,21783,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1400,1700,1,1,1,1,347,7,val
+L0819,L0305,synthetic,Zudio,Shirt,Polyester,M,Used,9,1426,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,305,5,train
+L0820,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,New,2,1429,Tier 2,0.06,0.07,1,1,1,1,90,100,1,1,1,1,328,8,val
+L0821,L0124,synthetic,Gucci,Jacket,Leather,XS,Like New,2,65955,Tier 5,0.11,0.14,0.9,1,1.05,1.05,7200,9200,1,1,1,1,124,4,train
+L0822,L0133,synthetic,H&M,Dress,Cotton,XL,Used,7,1580,Tier 2,0.06,0.07,0.7,0.8,1.05,1,60,70,1,1,1,1,133,3,train
+L0823,L0176,synthetic,Being Human,Top,Linen,S,Used,7,1118,Tier 1,0.05,0.06,0.7,0.8,1,1.03,30,40,1,1,1,1,176,6,train
+L0824,L0088,synthetic,Suta,Saree,Linen,XS,Like New,5,3551,Tier 3,0.07,0.09,0.9,0.9,1.1,1.03,250,300,1,1,1,1,88,8,val
+L0825,L0172,synthetic,Roadster,Jeans,Denim,XL,New,1,1288,Tier 2,0.06,0.07,1,1,0.95,1,70,90,1,1,1,1,172,2,train
+L0826,L0170,synthetic,Indya,Jacket,Denim,S,Like New,7,1491,Tier 2,0.06,0.07,0.9,0.8,1.05,1,70,80,1,1,1,1,170,0,train
+L0827,L0100,synthetic,Armani,Ethnic Wear,Polyester,L,Used,6,86960,Tier 5,0.11,0.14,0.7,0.9,1.1,1,6600,8400,1,1,1,1,100,0,train
+L0828,L0103,synthetic,Soch,Ethnic Wear,Cotton,XS,Like New,11,1033,Tier 1,0.05,0.06,0.9,0.7,1.1,1,40,40,1,1,1,1,103,3,train
+L0829,L0042,synthetic,Soch,Ethnic Wear,Silk,S,Like New,7,1439,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,70,80,1,1,1,1,42,2,train
+L0830,L0141,synthetic,Highlander,Top,Cotton,XL,Like New,6,708,Tier 1,0.05,0.06,0.9,0.9,1,1,30,30,1,1,1,1,141,1,train
+L0831,L0207,synthetic,Soch,Ethnic Wear,Silk,M,Like New,5,2762,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,180,250,1,1,1,1,207,7,val
+L0832,L0008,synthetic,Biba,Kurta,Silk,XS,Like New,4,1276,Tier 2,0.06,0.07,0.9,0.9,1,1.05,70,80,1,1,1,1,8,8,val
+L0833,L0177,synthetic,Prada,Dress,Silk,S,New,2,98699,Tier 5,0.11,0.14,1,1,1.05,1.05,12000,15200,1,1,1,1,177,7,val
+L0834,L0153,synthetic,Sabyasachi,Lehenga,Silk,XL,Used,7,91935,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,6500,8300,1,1,1,1,153,3,train
+L0835,L0251,synthetic,Diesel,Jeans,Denim,M,Like New,6,12373,Tier 4,0.09,0.11,0.9,0.9,0.95,1,850,1000,1,1,1,1,251,1,train
+L0836,L0068,synthetic,Masaba,Dress,Silk,M,New,2,11108,Tier 4,0.09,0.11,1,1,1.05,1.05,1100,1300,1,1,1,1,68,8,val
+L0837,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,Used,4,1375,Tier 2,0.06,0.07,0.7,0.9,1,1,50,60,1,1,1,1,328,8,val
+L0838,L0335,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,9,2815,Tier 3,0.07,0.09,0.9,0.8,1,1,140,180,1,1,1,1,335,5,train
+L0839,L0243,synthetic,Mango,Dress,Linen,S,Used,4,9977,Tier 4,0.09,0.11,0.7,0.9,1.05,1.03,600,750,1,1,1,1,243,3,train
+L0840,L0052,synthetic,Nalli,Saree,Silk,L,Like New,3,7483,Tier 4,0.09,0.11,0.9,1,1.1,1.05,700,850,1,1,1,1,52,2,train
+L0841,L0317,synthetic,Mango,Dress,Linen,M,Used,4,9637,Tier 4,0.09,0.11,0.7,0.9,1.05,1.03,600,700,1,1,1,1,317,7,val
+L0842,L0104,synthetic,AND,Dress,Cotton,M,Like New,6,4318,Tier 3,0.07,0.09,0.9,0.9,1.05,1,250,350,1,1,1,1,104,4,train
+L0843,L0247,synthetic,Asics,Activewear,Polyester,M,Like New,4,8136,Tier 4,0.09,0.11,0.9,0.9,0.95,1,550,700,1,1,1,1,247,7,val
+L0844,L0343,synthetic,Nike,Activewear,Polyester,M,Used,8,9003,Tier 4,0.09,0.11,0.7,0.8,0.95,1,450,550,1,1,1,1,343,3,train
+L0845,L0234,synthetic,AND,Dress,Linen,S,New,3,6530,Tier 4,0.09,0.11,1,1,1.05,1.03,650,800,1,1,1,1,234,4,train
+L0846,L0149,synthetic,Rangriti,Kurta,Cotton,M,Like New,5,1168,Tier 1,0.05,0.06,0.9,0.9,1,1,50,60,1,1,1,1,149,9,test
+L0847,L0005,synthetic,Rangriti,Kurta,Cotton,M,New,2,1018,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,5,5,train
+L0848,L0176,synthetic,Being Human,Top,Linen,S,Like New,9,1027,Tier 1,0.05,0.06,0.9,0.8,1,1.03,40,50,1,1,1,1,176,6,train
+L0849,L0245,synthetic,Adidas,Jacket,Polyester,M,New,2,11837,Tier 4,0.09,0.11,1,1,1.05,1,1100,1400,1,1,1,1,245,5,train
+L0850,L0054,synthetic,Adidas,Activewear,Polyester,S,Like New,7,3671,Tier 3,0.07,0.09,0.9,0.8,0.95,1,180,250,1,1,1,1,54,4,train
+L0851,L0314,synthetic,Flying Machine,Jeans,Denim,L,Like New,8,5302,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,400,1,1,1,1,314,4,train
+L0852,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,New,1,2496,Tier 2,0.06,0.07,1,1,1,1,150,170,1,1,1,1,211,1,train
+L0853,L0343,synthetic,Nike,Activewear,Polyester,XS,Like New,12,10469,Tier 4,0.09,0.11,0.9,0.7,0.95,1,550,700,1,1,1,1,343,3,train
+L0854,L0340,synthetic,Mufti,Shirt,Cotton,L,Like New,6,5847,Tier 4,0.09,0.11,0.9,0.9,1,1,450,500,1,1,1,1,340,0,train
+L0855,L0006,synthetic,Louis Vuitton,Jacket,Leather,M,Used,9,151006,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,10300,13100,1,1,1,1,6,6,train
+L0856,L0252,synthetic,Superdry,Jacket,Polyester,M,Like New,6,9383,Tier 4,0.09,0.11,0.9,0.9,1.05,1,700,900,1,1,1,1,252,2,train
+L0857,L0207,synthetic,Soch,Ethnic Wear,Silk,L,Like New,5,3362,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,300,1,1,1,1,207,7,val
+L0858,L0229,synthetic,Jaypore,Saree,Silk,S,Like New,13,7963,Tier 4,0.09,0.11,0.9,0.7,1.1,1.05,500,650,1,1,1,1,229,9,test
+L0859,L0001,synthetic,Sabyasachi,Ethnic Wear,Silk,XS,Used,6,100829,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,8100,10300,1,1,1,1,1,1,train
+L0860,L0187,synthetic,Moda Rapido,Dress,Denim,M,Like New,5,971,Tier 1,0.05,0.06,0.9,0.9,1.05,1,40,50,1,1,1,1,187,7,val
+L0861,L0187,synthetic,Moda Rapido,Dress,Denim,S,New,1,1015,Tier 1,0.05,0.06,1,1,1.05,1,50,60,1,1,1,1,187,7,val
+L0862,L0325,synthetic,Versace,Dress,Silk,S,Used,4,32087,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2500,3100,1,1,1,1,325,5,train
+L0863,L0253,synthetic,Raw Mango,Saree,Silk,L,Used,5,17829,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,1400,1800,1,1,1,1,253,3,train
+L0864,L0097,synthetic,Sabyasachi,Lehenga,Silk,L,Used,12,52176,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,3200,4100,1,1,1,1,97,7,val
+L0865,L0056,synthetic,Bewakoof,Top,Polyester,S,Used,4,608,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,56,6,train
+L0866,L0302,synthetic,Vishal Mega Mart,Shirt,Polyester,M,Used,11,1662,Tier 2,0.06,0.07,0.7,0.7,1,1,50,60,1,1,1,1,302,2,train
+L0867,L0248,synthetic,Under Armour,Activewear,Polyester,M,Used,14,11311,Tier 4,0.09,0.11,0.7,0.7,0.95,1,450,600,1,1,1,1,248,8,val
+L0868,L0324,synthetic,Louis Vuitton,Jacket,Leather,L,Used,4,31629,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2400,3100,1,1,1,1,324,4,train
+L0869,L0068,synthetic,Masaba,Dress,Silk,M,Used,6,12623,Tier 4,0.09,0.11,0.7,0.9,1.05,1.05,800,950,1,1,1,1,68,8,val
+L0870,L0299,synthetic,Gucci,Jacket,Leather,M,Used,9,33985,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2300,2900,1,1,1,1,299,9,test
+L0871,L0217,synthetic,Biba,Ethnic Wear,Silk,XS,New,1,4596,Tier 3,0.07,0.09,1,1,1.1,1.05,350,500,1,1,1,1,217,7,val
+L0872,L0350,synthetic,Prada,Dress,Silk,S,Used,13,32753,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,1900,2500,1,1,1,1,350,0,train
+L0873,L0007,synthetic,Zara,Dress,Linen,L,Like New,1,10907,Tier 4,0.09,0.11,0.9,1,1.05,1.03,950,1200,1,1,1,1,7,7,val
+L0874,L0325,synthetic,Versace,Dress,Silk,M,Like New,5,31166,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,3900,1,1,1,1,325,5,train
+L0875,L0100,synthetic,Armani,Ethnic Wear,Polyester,L,New,1,76509,Tier 5,0.11,0.14,1,1,1.1,1,9300,11800,1,1,1,1,100,0,train
+L0876,L0062,synthetic,HRX,Activewear,Polyester,M,Like New,4,2167,Tier 2,0.06,0.07,0.9,0.9,0.95,1,100,120,1,1,1,1,62,2,train
+L0877,L0003,synthetic,Nike,Activewear,Polyester,L,New,5,3455,Tier 3,0.07,0.09,1,0.9,0.95,1,200,250,1,1,1,1,3,3,train
+L0878,L0321,synthetic,Raw Mango,Saree,Silk,L,Like New,6,22959,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2400,3000,1,1,1,1,321,1,train
+L0879,L0163,synthetic,UCB,Shirt,Cotton,S,Used,4,3937,Tier 3,0.07,0.09,0.7,0.9,1,1,170,200,1,1,1,1,163,3,train
+L0880,L0275,synthetic,Reliance Trends,Top,Cotton,S,Like New,8,1849,Tier 2,0.06,0.07,0.9,0.8,1,1,80,90,1,1,1,1,275,5,train
+L0881,L0151,synthetic,Style Bazaar,Shirt,Cotton,XL,Used,11,518,Tier 1,0.05,0.06,0.7,0.7,1,1,10,20,1,1,1,1,151,1,train
+L0882,L0178,synthetic,Adidas,Activewear,Polyester,S,Used,8,3735,Tier 3,0.07,0.09,0.7,0.8,0.95,1,140,180,1,1,1,1,178,8,val
+L0883,L0165,synthetic,Anouk,Saree,Silk,M,New,7,1969,Tier 2,0.06,0.07,1,0.8,1.1,1.05,110,130,1,1,1,1,165,5,train
+L0884,L0261,synthetic,Prada,Dress,Silk,S,Like New,7,28510,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,2500,3200,1,1,1,1,261,1,train
+L0885,L0050,synthetic,Fabindia,Kurta,Cotton,XL,Used,14,2386,Tier 2,0.06,0.07,0.7,0.7,1,1,70,80,1,1,1,1,50,0,train
+L0886,L0295,synthetic,Tommy Hilfiger,Shirt,Cotton,S,Like New,7,9977,Tier 4,0.09,0.11,0.9,0.8,1,1,650,800,1,1,1,1,295,5,train
+L0887,L0061,synthetic,Gucci,Jacket,Leather,M,Used,9,107649,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,7300,9300,1,1,1,1,61,1,train
+L0888,L0038,synthetic,Armani,Jacket,Leather,S,Used,13,49662,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,3000,3800,1,1,1,1,38,8,val
+L0889,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,7,28857,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2600,3400,1,1,1,1,372,2,train
+L0890,L0114,synthetic,GAP,Jeans,Denim,L,Used,11,5573,Tier 4,0.09,0.11,0.7,0.7,0.95,1,250,300,1,1,1,1,114,4,train
+L0891,L0282,synthetic,Libas,Kurta,Cotton,L,Like New,8,3038,Tier 3,0.07,0.09,0.9,0.8,1,1,150,200,1,1,1,1,282,2,train
+L0892,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,6,27592,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2800,3600,1,1,1,1,372,2,train
+L0893,L0318,synthetic,Adidas,Jacket,Polyester,L,New,1,11018,Tier 4,0.09,0.11,1,1,1.05,1,1000,1300,1,1,1,1,318,8,val
+L0894,L0079,synthetic,American Eagle,Jeans,Denim,XS,Used,8,9679,Tier 4,0.09,0.11,0.7,0.8,0.95,1,450,550,1,1,1,1,79,9,test
+L0895,L0127,synthetic,Aurelia,Ethnic Wear,Cotton,XL,Like New,2,606,Tier 1,0.05,0.06,0.9,1,1.1,1,30,40,1,1,1,1,127,7,val
+L0896,L0184,synthetic,Bewakoof,Top,Polyester,S,Used,7,443,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,184,4,train
+L0897,L0072,synthetic,Zudio,Shirt,Cotton,M,Like New,1,444,Tier 1,0.05,0.06,0.9,1,1,1,20,20,1,1,1,1,72,2,train
+L0898,L0324,synthetic,Louis Vuitton,Jacket,Leather,L,Used,7,35894,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2400,3100,1,1,1,1,324,4,train
+L0899,L0283,synthetic,Max Fashion,Jeans,Denim,S,Used,13,2803,Tier 3,0.07,0.09,0.7,0.7,0.95,1,90,120,1,1,1,1,283,3,train
+L0900,L0257,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Like New,8,21189,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1900,2500,1,1,1,1,257,7,val
+L0901,L0351,synthetic,Easybuy,Shirt,Cotton,M,Like New,8,1268,Tier 2,0.06,0.07,0.9,0.8,1,1,50,60,1,1,1,1,351,1,train
+L0902,L0248,synthetic,Under Armour,Activewear,Polyester,L,Like New,10,9897,Tier 4,0.09,0.11,0.9,0.8,0.95,1,600,750,1,1,1,1,248,8,val
+L0903,L0022,synthetic,Mufti,Shirt,Linen,L,Used,12,3026,Tier 3,0.07,0.09,0.7,0.7,1,1.03,110,140,1,1,1,1,22,2,train
+L0904,L0021,synthetic,Tarun Tahiliani,Saree,Silk,S,Used,4,71453,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,5700,7300,1,1,1,1,21,1,train
+L0905,L0135,synthetic,Zara,Jacket,Denim,M,Used,10,5393,Tier 4,0.09,0.11,0.7,0.8,1.05,1,300,350,1,1,1,1,135,5,train
+L0906,L0193,synthetic,Anita Dongre,Saree,Silk,M,Like New,5,66038,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,6800,8600,1,1,1,1,193,3,train
+L0907,L0310,synthetic,Reliance Trends,Top,Cotton,M,Like New,7,2233,Tier 2,0.06,0.07,0.9,0.8,1,1,100,110,1,1,1,1,310,0,train
+L0908,L0213,synthetic,FBB,Top,Cotton,L,Used,6,2035,Tier 2,0.06,0.07,0.7,0.9,1,1,80,90,1,1,1,1,213,3,train
+L0909,L0023,synthetic,Libas,Kurta,Cotton,S,Like New,6,1002,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,23,3,train
+L0910,L0029,synthetic,Zara,Jacket,Denim,M,Used,7,4959,Tier 3,0.07,0.09,0.7,0.8,1.05,1,200,250,1,1,1,1,29,9,test
+L0911,L0369,synthetic,Tommy Hilfiger,Shirt,Cotton,M,Used,13,9483,Tier 4,0.09,0.11,0.7,0.7,1,1,400,500,1,1,1,1,369,9,test
+L0912,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,Used,6,2908,Tier 3,0.07,0.09,0.7,0.9,1,1,130,160,1,1,1,1,211,1,train
+L0913,L0352,synthetic,Vishal Mega Mart,Top,Polyester,S,Used,11,1311,Tier 2,0.06,0.07,0.7,0.7,1,1,40,40,1,1,1,1,352,2,train
+L0914,L0104,synthetic,AND,Dress,Cotton,M,Used,7,5695,Tier 4,0.09,0.11,0.7,0.8,1.05,1,300,350,1,1,1,1,104,4,train
+L0915,L0315,synthetic,Mufti,Shirt,Cotton,M,Used,5,5416,Tier 4,0.09,0.11,0.7,0.9,1,1,300,400,1,1,1,1,315,5,train
+L0916,L0067,synthetic,Anouk,Saree,Cotton,XS,Used,11,2237,Tier 2,0.06,0.07,0.7,0.7,1.1,1,70,80,1,1,1,1,67,7,val
+L0917,L0190,synthetic,Global Desi,Saree,Silk,XS,Like New,7,1695,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,80,100,1,1,1,1,190,0,train
+L0918,L0357,synthetic,Aurelia,Kurta,Cotton,L,Like New,4,3254,Tier 3,0.07,0.09,0.9,0.9,1,1,180,250,1,1,1,1,357,7,val
+L0919,L0146,synthetic,Nalli,Saree,Silk,M,Like New,5,6516,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,550,650,1,1,1,1,146,6,train
+L0920,L0061,synthetic,Gucci,Jacket,Leather,M,Used,7,127884,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,8700,11100,1,1,1,1,61,1,train
+L0921,L0055,synthetic,Libas,Kurta,Silk,S,Used,5,1882,Tier 2,0.06,0.07,0.7,0.9,1,1.05,70,90,1,1,1,1,55,5,train
+L0922,L0349,synthetic,Gucci,Jacket,Leather,M,Like New,4,34932,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3400,4400,1,1,1,1,349,9,test
+L0923,L0248,synthetic,Under Armour,Activewear,Polyester,L,Used,11,11435,Tier 4,0.09,0.11,0.7,0.7,0.95,1,500,600,1,1,1,1,248,8,val
+L0924,L0338,synthetic,HRX,Activewear,Polyester,S,Like New,5,5558,Tier 4,0.09,0.11,0.9,0.9,0.95,1,400,450,1,1,1,1,338,8,val
+L0925,L0261,synthetic,Prada,Dress,Silk,S,Used,9,28236,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,1900,2400,1,1,1,1,261,1,train
+L0926,L0326,synthetic,Zudio,Top,Cotton,L,Like New,3,1139,Tier 1,0.05,0.06,0.9,1,1,1,50,60,1,1,1,1,326,6,train
+L0927,L0312,synthetic,Roadster,Jeans,Denim,S,Like New,7,4456,Tier 3,0.07,0.09,0.9,0.8,0.95,1,200,250,1,1,1,1,312,2,train
+L0928,L0306,synthetic,Soch,Saree,Silk,L,Used,9,3759,Tier 3,0.07,0.09,0.7,0.8,1.1,1.05,170,200,1,1,1,1,306,6,train
+L0929,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,Like New,1,28500,Tier 5,0.11,0.14,0.9,1,1.05,1.05,3100,4000,1,1,1,1,266,6,train
+L0930,L0185,synthetic,Reebok,Activewear,Polyester,L,New,1,2464,Tier 2,0.06,0.07,1,1,0.95,1,140,160,1,1,1,1,185,5,train
+L0931,L0181,synthetic,Red Tape,Shirt,Linen,S,Used,4,952,Tier 1,0.05,0.06,0.7,0.9,1,1.03,30,40,1,1,1,1,181,1,train
+L0932,L0282,synthetic,Libas,Kurta,Cotton,L,Used,10,2951,Tier 3,0.07,0.09,0.7,0.8,1,1,120,150,1,1,1,1,282,2,train
+L0933,L0116,synthetic,Under Armour,Activewear,Polyester,M,New,2,6922,Tier 4,0.09,0.11,1,1,0.95,1,600,700,1,1,1,1,116,6,train
+L0934,L0209,synthetic,Libas,Dress,Linen,S,Used,12,2859,Tier 3,0.07,0.09,0.7,0.7,1.05,1.03,110,140,1,1,1,1,209,9,test
+L0935,L0132,synthetic,Suta,Saree,Linen,XS,Used,6,4157,Tier 3,0.07,0.09,0.7,0.9,1.1,1.03,200,250,1,1,1,1,132,2,train
+L0936,L0235,synthetic,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,9,12122,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,900,1100,1,1,1,1,235,5,train
+L0937,L0325,synthetic,Versace,Dress,Silk,M,Used,5,32881,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2500,3200,1,1,1,1,325,5,train
+L0938,L0005,synthetic,Rangriti,Kurta,Cotton,S,New,2,846,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,5,5,train
+L0939,L0182,synthetic,H&M,Dress,Cotton,S,Used,11,1527,Tier 2,0.06,0.07,0.7,0.7,1.05,1,50,50,1,1,1,1,182,2,train
+L0940,L0103,synthetic,Soch,Ethnic Wear,Cotton,XS,Used,8,722,Tier 1,0.05,0.06,0.7,0.8,1.1,1,20,30,1,1,1,1,103,3,train
+L0941,L0317,synthetic,Mango,Dress,Linen,M,Used,10,10720,Tier 4,0.09,0.11,0.7,0.8,1.05,1.03,600,700,1,1,1,1,317,7,val
+L0942,L0278,synthetic,Rangriti,Kurta,Cotton,XL,Used,9,1738,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,278,8,val
+L0943,L0141,synthetic,Highlander,Top,Cotton,XL,Like New,6,563,Tier 1,0.05,0.06,0.9,0.9,1,1,20,30,1,1,1,1,141,1,train
+L0944,L0066,synthetic,Reebok,Activewear,Polyester,S,Like New,7,3300,Tier 3,0.07,0.09,0.9,0.8,0.95,1,160,200,1,1,1,1,66,6,train
+L0945,L0202,synthetic,Zudio,Top,Cotton,M,Like New,6,1313,Tier 2,0.06,0.07,0.9,0.9,1,1,60,70,1,1,1,1,202,2,train
+L0946,L0052,synthetic,Nalli,Saree,Silk,L,Like New,5,6513,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,550,650,1,1,1,1,52,2,train
+L0947,L0242,synthetic,American Eagle,Jeans,Denim,S,New,2,8155,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,242,2,train
+L0948,L0206,synthetic,Style Bazaar,Top,Polyester,XS,New,1,1290,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,206,6,train
+L0949,L0121,synthetic,Roadster,Shirt,Cotton,M,Like New,7,959,Tier 1,0.05,0.06,0.9,0.8,1,1,30,40,1,1,1,1,121,1,train
+L0950,L0091,synthetic,Forever 21,Top,Cotton,S,Like New,4,1721,Tier 2,0.06,0.07,0.9,0.9,1,1,80,100,1,1,1,1,91,1,train
+L0951,L0154,synthetic,Manish Malhotra,Lehenga,Silk,M,Used,12,79004,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,4900,6300,1,1,1,1,154,4,train
+L0952,L0131,synthetic,Fabindia,Kurta,Cotton,M,Used,10,3331,Tier 3,0.07,0.09,0.7,0.8,1,1,130,170,1,1,1,1,131,1,train
+L0953,L0287,synthetic,Roadster,Jeans,Denim,M,Used,13,3599,Tier 3,0.07,0.09,0.7,0.7,0.95,1,120,150,1,1,1,1,287,7,val
+L0954,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,S,Like New,3,1365,Tier 2,0.06,0.07,0.9,1,1,1,70,90,1,1,1,1,328,8,val
+L0955,L0117,synthetic,Anita Dongre,Lehenga,Silk,S,Used,13,18567,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1200,1500,1,1,1,1,117,7,val
+L0956,L0267,synthetic,Zudio,Top,Cotton,XL,New,1,730,Tier 1,0.05,0.06,1,1,1,1,40,40,1,1,1,1,267,7,val
+L0957,L0359,synthetic,Max Fashion,Jeans,Denim,M,Like New,5,2481,Tier 2,0.06,0.07,0.9,0.9,0.95,1,110,130,1,1,1,1,359,9,test
+L0958,L0281,synthetic,Aurelia,Dress,Linen,M,Like New,6,3577,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,200,300,1,1,1,1,281,1,train
+L0959,L0317,synthetic,Mango,Dress,Linen,M,Like New,9,9360,Tier 4,0.09,0.11,0.9,0.8,1.05,1.03,650,800,1,1,1,1,317,7,val
+L0960,L0146,synthetic,Nalli,Saree,Silk,M,New,2,7744,Tier 4,0.09,0.11,1,1,1.1,1.05,800,1000,1,1,1,1,146,6,train
+L0961,L0167,synthetic,Flying Machine,Jeans,Denim,XL,Used,8,1417,Tier 2,0.06,0.07,0.7,0.8,0.95,1,50,50,1,1,1,1,167,7,val
+L0962,L0234,synthetic,AND,Dress,Linen,M,New,6,7182,Tier 4,0.09,0.11,1,0.9,1.05,1.03,650,750,1,1,1,1,234,4,train
+L0963,L0247,synthetic,Asics,Activewear,Polyester,M,Used,10,8668,Tier 4,0.09,0.11,0.7,0.8,0.95,1,400,500,1,1,1,1,247,7,val
+L0964,L0001,synthetic,Sabyasachi,Ethnic Wear,Silk,M,Used,8,87555,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,6200,7900,1,1,1,1,1,1,train
+L0965,L0252,synthetic,Superdry,Jacket,Polyester,XL,Like New,6,10460,Tier 4,0.09,0.11,0.9,0.9,1.05,1,800,1000,1,1,1,1,252,2,train
+L0966,L0004,synthetic,Gucci,Jacket,Leather,S,New,1,63943,Tier 5,0.11,0.14,1,1,1.05,1.05,7800,9900,1,1,1,1,4,4,train
+L0967,L0331,synthetic,Soch,Ethnic Wear,Silk,M,Like New,4,3335,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,300,1,1,1,1,331,1,train
+L0968,L0036,synthetic,Jaypore,Saree,Silk,M,Like New,6,9025,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,750,950,1,1,1,1,36,6,train
+L0969,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,S,Used,10,29385,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,2100,2700,1,1,1,1,373,3,train
+L0970,L0256,synthetic,Tarun Tahiliani,Lehenga,Silk,XL,Used,6,27137,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,2200,2800,1,1,1,1,256,6,train
+L0971,L0029,synthetic,Zara,Jacket,Denim,M,Like New,9,5072,Tier 4,0.09,0.11,0.9,0.8,1.05,1,350,400,1,1,1,1,29,9,test
+L0972,L0196,synthetic,Bewakoof,Top,Cotton,L,Used,6,892,Tier 1,0.05,0.06,0.7,0.9,1,1,30,30,1,1,1,1,196,6,train
+L0973,L0102,synthetic,Style Bazaar,Top,Polyester,XL,Used,12,339,Tier 1,0.05,0.06,0.7,0.7,1,1,10,10,1,1,1,1,102,2,train
+L0974,L0349,synthetic,Gucci,Jacket,Leather,S,Used,4,28524,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,2200,2800,1,1,1,1,349,9,test
+L0975,L0327,synthetic,Easybuy,Jeans,Denim,M,Used,8,1728,Tier 2,0.06,0.07,0.7,0.8,0.95,1,60,60,1,1,1,1,327,7,val
+L0976,L0121,synthetic,Roadster,Shirt,Cotton,M,New,3,1316,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,121,1,train
+L0977,L0005,synthetic,Rangriti,Kurta,Cotton,XS,Used,6,1143,Tier 1,0.05,0.06,0.7,0.9,1,1,40,40,1,1,1,1,5,5,train
+L0978,L0128,synthetic,Libas,Kurta,Cotton,S,Like New,2,871,Tier 1,0.05,0.06,0.9,1,1,1,40,50,1,1,1,1,128,8,val
+L0979,L0031,synthetic,Suta,Saree,Silk,M,Like New,4,3112,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,250,1,1,1,1,31,1,train
+L0980,L0120,synthetic,Vishal Mega Mart,Shirt,Cotton,L,Used,9,470,Tier 1,0.05,0.06,0.7,0.8,1,1,10,20,1,1,1,1,120,0,train
+L0981,L0353,synthetic,Rangriti,Kurta,Cotton,L,Like New,5,2096,Tier 2,0.06,0.07,0.9,0.9,1,1,100,120,1,1,1,1,353,3,train
+L0982,L0278,synthetic,Rangriti,Kurta,Cotton,L,Used,8,1768,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,278,8,val
+L0983,L0141,synthetic,Highlander,Top,Cotton,XS,Used,6,500,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,141,1,train
+L0984,L0135,synthetic,Zara,Jacket,Denim,M,Like New,9,5365,Tier 4,0.09,0.11,0.9,0.8,1.05,1,350,450,1,1,1,1,135,5,train
+L0985,L0318,synthetic,Adidas,Jacket,Polyester,XS,New,1,9868,Tier 4,0.09,0.11,1,1,1.05,1,950,1100,1,1,1,1,318,8,val
+L0986,L0098,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Used,6,46080,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,3700,4700,1,1,1,1,98,8,val
+L0987,L0329,synthetic,Rangriti,Kurta,Cotton,M,Used,4,1485,Tier 2,0.06,0.07,0.7,0.9,1,1,60,70,1,1,1,1,329,9,test
+L0988,L0104,synthetic,AND,Dress,Cotton,M,Like New,4,5248,Tier 4,0.09,0.11,0.9,0.9,1.05,1,400,500,1,1,1,1,104,4,train
+L0989,L0270,synthetic,Manyavar,Ethnic Wear,Silk,M,Like New,7,8810,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,650,800,1,1,1,1,270,0,train
+L0990,L0041,synthetic,Global Desi,Ethnic Wear,Silk,M,Like New,8,4180,Tier 3,0.07,0.09,0.9,0.8,1.1,1.05,250,300,1,1,1,1,41,1,train
+L0991,L0363,synthetic,HRX,Activewear,Polyester,L,Like New,4,4900,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,363,3,train
+L0992,L0040,synthetic,Biba,Dress,Silk,XS,Like New,4,5183,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,400,500,1,1,1,1,40,0,train
+L0993,L0128,synthetic,Libas,Kurta,Cotton,S,New,3,970,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,128,8,val
+L0994,L0360,synthetic,Reliance Trends,Shirt,Cotton,XL,New,1,2739,Tier 3,0.07,0.09,1,1,1,1,190,250,1,1,1,1,360,0,train
+L0995,L0274,synthetic,Pantaloons,Shirt,Cotton,XL,Like New,5,4691,Tier 3,0.07,0.09,0.9,0.9,1,1,250,350,1,1,1,1,274,4,train
+L0996,L0212,synthetic,Brand Factory,Jacket,Polyester,L,Like New,13,3371,Tier 3,0.07,0.09,0.9,0.7,1.05,1,160,200,1,1,1,1,212,2,train
+L0997,L0110,synthetic,Easybuy,Shirt,Polyester,M,Used,10,648,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,110,0,train
+L0998,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Used,6,26514,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,2100,2700,1,1,1,1,372,2,train
+L0999,L0114,synthetic,GAP,Jeans,Denim,L,Used,11,6610,Tier 4,0.09,0.11,0.7,0.7,0.95,1,300,350,1,1,1,1,114,4,train
+L1000,L0262,synthetic,Armani,Shirt,Linen,M,Like New,8,18694,Tier 5,0.11,0.14,0.9,0.8,1,1.03,1500,1900,1,1,1,1,262,2,train
+L1001,L0136,synthetic,Uniqlo,Jacket,Polyester,M,Like New,7,1878,Tier 2,0.06,0.07,0.9,0.8,1.05,1,90,100,1,1,1,1,136,6,train
+L1002,L0205,synthetic,Rangriti,Kurta,Cotton,M,Used,5,1986,Tier 2,0.06,0.07,0.7,0.9,1,1,80,90,1,1,1,1,205,5,train
+L1003,L0354,synthetic,Style Bazaar,Top,Cotton,M,Like New,9,1270,Tier 2,0.06,0.07,0.9,0.8,1,1,50,60,1,1,1,1,354,4,train
+L1004,L0041,synthetic,Global Desi,Ethnic Wear,Silk,S,Like New,5,4007,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,1,1,1,1,41,1,train
+L1005,L0335,synthetic,Reliance Trends,Shirt,Cotton,L,Used,9,2755,Tier 3,0.07,0.09,0.7,0.8,1,1,110,140,1,1,1,1,335,5,train
+L1006,L0164,synthetic,Global Desi,Saree,Silk,S,Like New,5,2734,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,180,250,1,1,1,1,164,4,train
+L1007,L0229,synthetic,Jaypore,Saree,Silk,S,Used,14,8460,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,450,550,1,1,1,1,229,9,test
+L1008,L0288,synthetic,HRX,Activewear,Polyester,L,Used,9,4727,Tier 3,0.07,0.09,0.7,0.8,0.95,1,180,250,1,1,1,1,288,8,val
+L1009,L0166,synthetic,Indya,Jacket,Denim,M,Used,11,1627,Tier 2,0.06,0.07,0.7,0.7,1.05,1,50,60,1,1,1,1,166,6,train
+L1010,L0177,synthetic,Prada,Dress,Silk,S,Like New,2,87941,Tier 5,0.11,0.14,0.9,1,1.05,1.05,9600,12200,1,1,1,1,177,7,val
+L1011,L0227,synthetic,Manyavar,Ethnic Wear,Silk,L,New,3,9358,Tier 4,0.09,0.11,1,1,1.1,1.05,950,1200,1,1,1,1,227,7,val
+L1012,L0080,synthetic,Anita Dongre,Ethnic Wear,Silk,S,Used,14,21053,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1300,1700,1,1,1,1,80,0,train
+L1013,L0133,synthetic,H&M,Dress,Cotton,S,Used,8,1348,Tier 2,0.06,0.07,0.7,0.8,1.05,1,50,60,1,1,1,1,133,3,train
+L1014,L0340,synthetic,Mufti,Shirt,Cotton,L,Like New,5,5070,Tier 4,0.09,0.11,0.9,0.9,1,1,350,450,1,1,1,1,340,0,train
+L1015,L0028,synthetic,Indya,Jacket,Denim,L,New,3,1404,Tier 2,0.06,0.07,1,1,1.05,1,90,100,1,1,1,1,28,8,val
+L1016,L0010,synthetic,Anita Dongre,Saree,Silk,M,Like New,6,68671,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,7100,9000,1,1,1,1,10,0,train
+L1017,L0249,synthetic,Tommy Hilfiger,Shirt,Cotton,XS,New,3,9949,Tier 4,0.09,0.11,1,1,1,1,900,1100,1,1,1,1,249,9,test
+L1018,L0202,synthetic,Zudio,Top,Cotton,M,New,3,1168,Tier 1,0.05,0.06,1,1,1,1,60,70,1,1,1,1,202,2,train
+L1019,L0257,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Used,5,26814,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,2100,2700,1,1,1,1,257,7,val
+L1020,L0016,synthetic,HRX,Activewear,Polyester,S,New,2,1247,Tier 2,0.06,0.07,1,1,0.95,1,70,80,1,1,1,1,16,6,train
+L1021,L0267,synthetic,Zudio,Top,Cotton,XS,Used,6,822,Tier 1,0.05,0.06,0.7,0.9,1,1,30,30,1,1,1,1,267,7,val
+L1022,L0219,synthetic,Global Desi,Dress,Linen,XS,Used,11,4761,Tier 3,0.07,0.09,0.7,0.7,1.05,1.03,180,250,1,1,1,1,219,9,test
+L1023,L0159,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,8,5976,Tier 4,0.09,0.11,0.9,0.8,1,1,400,450,1,1,1,1,159,9,test
+L1024,L0336,synthetic,Pantaloons,Top,Cotton,M,Like New,8,4353,Tier 3,0.07,0.09,0.9,0.8,1,1,200,300,1,1,1,1,336,6,train
+L1025,L0075,synthetic,Easybuy,Shirt,Polyester,M,Used,12,899,Tier 1,0.05,0.06,0.7,0.7,1,1,20,30,1,1,1,1,75,5,train
+L1026,L0327,synthetic,Easybuy,Jeans,Denim,S,Used,7,1331,Tier 2,0.06,0.07,0.7,0.8,0.95,1,40,50,1,1,1,1,327,7,val
+L1027,L0311,synthetic,Pantaloons,Shirt,Cotton,M,New,1,3723,Tier 3,0.07,0.09,1,1,1,1,250,350,1,1,1,1,311,1,train
+L1028,L0353,synthetic,Rangriti,Kurta,Cotton,L,New,1,1911,Tier 2,0.06,0.07,1,1,1,1,110,130,1,1,1,1,353,3,train
+L1029,L0071,synthetic,Vishal Mega Mart,Kurta,Cotton,L,Like New,4,945,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,71,1,train
+L1030,L0212,synthetic,Brand Factory,Jacket,Polyester,L,Used,15,3903,Tier 3,0.07,0.09,0.7,0.7,1.05,1,140,180,1,1,1,1,212,2,train
+L1031,L0329,synthetic,Rangriti,Kurta,Cotton,L,Like New,8,1717,Tier 2,0.06,0.07,0.9,0.8,1,1,70,90,1,1,1,1,329,9,test
+L1032,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,7,655,Tier 1,0.05,0.06,0.9,0.8,1,1,20,30,1,1,1,1,126,6,train
+L1033,L0156,synthetic,Forever 21,Dress,Cotton,M,Like New,6,1296,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,156,6,train
+L1034,L0073,synthetic,Under Armour,Activewear,Polyester,M,Like New,6,7525,Tier 4,0.09,0.11,0.9,0.9,0.95,1,500,650,1,1,1,1,73,3,train
+L1035,L0357,synthetic,Aurelia,Kurta,Cotton,L,Like New,4,3225,Tier 3,0.07,0.09,0.9,0.9,1,1,180,250,1,1,1,1,357,7,val
+L1036,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Like New,10,11249,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,850,1000,1,1,1,1,233,3,train
+L1037,L0064,synthetic,Versace,Dress,Silk,M,Like New,8,107579,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,9400,12000,1,1,1,1,64,4,train
+L1038,L0262,synthetic,Armani,Shirt,Linen,M,Like New,5,20638,Tier 5,0.11,0.14,0.9,0.9,1,1.03,1900,2400,1,1,1,1,262,2,train
+L1039,L0290,synthetic,Mufti,Shirt,Cotton,M,Used,9,4827,Tier 3,0.07,0.09,0.7,0.8,1,1,190,250,1,1,1,1,290,0,train
+L1040,L0374,synthetic,Louis Vuitton,Jacket,Leather,M,New,2,32508,Tier 5,0.11,0.14,1,1,1.05,1.05,3900,5000,1,1,1,1,374,4,train
+L1041,L0002,synthetic,Zudio,Top,Cotton,S,Like New,4,628,Tier 1,0.05,0.06,0.9,0.9,1,1,30,30,1,1,1,1,2,2,train
+L1042,L0253,synthetic,Raw Mango,Saree,Silk,L,Used,4,18045,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,1400,1800,1,1,1,1,253,3,train
+L1043,L0281,synthetic,Aurelia,Dress,Linen,M,Used,5,3644,Tier 3,0.07,0.09,0.7,0.9,1.05,1.03,170,200,1,1,1,1,281,1,train
+L1044,L0029,synthetic,Zara,Jacket,Denim,M,Like New,6,4306,Tier 3,0.07,0.09,0.9,0.9,1.05,1,250,350,1,1,1,1,29,9,test
+L1045,L0045,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,7,5540,Tier 4,0.09,0.11,0.9,0.8,1,1,350,450,1,1,1,1,45,5,train
+L1046,L0234,synthetic,AND,Dress,Linen,M,New,3,6517,Tier 4,0.09,0.11,1,1,1.05,1.03,650,800,1,1,1,1,234,4,train
+L1047,L0195,synthetic,Moda Rapido,Dress,Polyester,XL,Used,11,1135,Tier 1,0.05,0.06,0.7,0.7,1.05,1,30,40,1,1,1,1,195,5,train
+L1048,L0141,synthetic,Highlander,Top,Cotton,XL,New,3,688,Tier 1,0.05,0.06,1,1,1,1,30,40,1,1,1,1,141,1,train
+L1049,L0323,synthetic,Rohit Bal,Ethnic Wear,Silk,S,Used,10,26648,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,1900,2400,1,1,1,1,323,3,train
+L1050,L0148,synthetic,Meena Bazaar,Lehenga,Silk,S,Like New,8,13283,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1,1,1,1,148,8,val
+L1051,L0289,synthetic,Flying Machine,Jeans,Denim,M,Used,5,4907,Tier 3,0.07,0.09,0.7,0.9,0.95,1,200,250,1,1,1,1,289,9,test
+L1052,L0363,synthetic,HRX,Activewear,Polyester,L,New,1,4876,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,363,3,train
+L1053,L0107,synthetic,Zara,Dress,Linen,XL,New,3,9743,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1200,1,1,1,1,107,7,val
+L1054,L0354,synthetic,Style Bazaar,Top,Cotton,M,Like New,9,1146,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,354,4,train
+L1055,L0371,synthetic,Raw Mango,Saree,Silk,L,Like New,1,22377,Tier 5,0.11,0.14,0.9,1,1.1,1.05,2600,3300,1,1,1,1,371,1,train
+L1056,L0246,synthetic,New Balance,Activewear,Polyester,L,Like New,6,8759,Tier 4,0.09,0.11,0.9,0.9,0.95,1,600,750,1,1,1,1,246,6,train
+L1057,L0212,synthetic,Brand Factory,Jacket,Polyester,L,Used,16,3667,Tier 3,0.07,0.09,0.7,0.6,1.05,1,110,150,1,1,1,1,212,2,train
+L1058,L0351,synthetic,Easybuy,Shirt,Cotton,M,Used,10,1665,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,351,1,train
+L1059,L0174,synthetic,Versace,Dress,Silk,XS,Like New,9,114789,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,10000,12800,1,1,1,1,174,4,train
+L1060,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,8,2078,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,80,90,1,1,1,1,158,8,val
+L1061,L0191,synthetic,Nike,Activewear,Polyester,M,New,2,3822,Tier 3,0.07,0.09,1,1,0.95,1,250,350,1,1,1,1,191,1,train
+L1062,L0104,synthetic,AND,Dress,Cotton,XL,Like New,7,5094,Tier 4,0.09,0.11,0.9,0.8,1.05,1,350,400,1,1,1,1,104,4,train
+L1063,L0248,synthetic,Under Armour,Activewear,Polyester,L,Used,13,10168,Tier 4,0.09,0.11,0.7,0.7,0.95,1,450,500,1,1,1,1,248,8,val
+L1064,L0265,synthetic,Balenciaga,Jacket,Leather,L,Like New,4,27586,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,2700,3400,1,1,1,1,265,5,train
+L1065,L0305,synthetic,Zudio,Shirt,Polyester,S,Like New,10,1241,Tier 2,0.06,0.07,0.9,0.8,1,1,50,60,1,1,1,1,305,5,train
+L1066,L0012,synthetic,Manyavar,Ethnic Wear,Silk,XL,Like New,2,5151,Tier 4,0.09,0.11,0.9,1,1.1,1.05,500,600,1,1,1,1,12,2,train
+L1067,L0142,synthetic,Louis Vuitton,Shirt,Linen,XS,Like New,9,64279,Tier 5,0.11,0.14,0.9,0.8,1,1.03,5200,6700,1,1,1,1,142,2,train
+L1068,L0059,synthetic,Levi's,Jeans,Denim,M,Used,4,3542,Tier 3,0.07,0.09,0.7,0.9,0.95,1,150,190,1,1,1,1,59,9,test
+L1069,L0361,synthetic,Pantaloons,Top,Cotton,XS,Like New,4,4315,Tier 3,0.07,0.09,0.9,0.9,1,1,250,300,1,1,1,1,361,1,train
+L1070,L0015,synthetic,Prada,Dress,Silk,S,Like New,7,93439,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,8200,10400,1,1,1,1,15,5,train
+L1071,L0092,synthetic,Highlander,Top,Cotton,XL,Used,4,686,Tier 1,0.05,0.06,0.7,0.9,1,1,20,30,1,1,1,1,92,2,train
+L1072,L0102,synthetic,Style Bazaar,Top,Polyester,XL,Like New,11,251,Tier 1,0.05,0.06,0.9,0.7,1,1,10,10,1,1,1,1,102,2,train
+L1073,L0291,synthetic,Fabindia,Kurta,Linen,M,Used,9,8335,Tier 4,0.09,0.11,0.7,0.8,1,1.03,450,550,1,1,1,1,291,1,train
+L1074,L0351,synthetic,Easybuy,Shirt,Cotton,M,Used,10,1304,Tier 2,0.06,0.07,0.7,0.8,1,1,40,50,1,1,1,1,351,1,train
+L1075,L0187,synthetic,Moda Rapido,Dress,Denim,S,New,4,868,Tier 1,0.05,0.06,1,0.9,1.05,1,40,50,1,1,1,1,187,7,val
+L1076,L0034,synthetic,Max Fashion,Jeans,Denim,M,New,3,1222,Tier 2,0.06,0.07,1,1,0.95,1,70,80,1,1,1,1,34,4,train
+L1077,L0310,synthetic,Reliance Trends,Top,Cotton,M,Used,10,2727,Tier 3,0.07,0.09,0.7,0.8,1,1,110,140,1,1,1,1,310,0,train
+L1078,L0155,synthetic,Uniqlo,Jacket,Denim,XS,Used,6,1399,Tier 2,0.06,0.07,0.7,0.9,1.05,1,60,60,1,1,1,1,155,5,train
+L1079,L0247,synthetic,Asics,Activewear,Polyester,M,Like New,6,9607,Tier 4,0.09,0.11,0.9,0.9,0.95,1,650,800,1,1,1,1,247,7,val
+L1080,L0176,synthetic,Being Human,Top,Linen,S,Like New,7,1134,Tier 1,0.05,0.06,0.9,0.8,1,1.03,40,50,1,1,1,1,176,6,train
+L1081,L0050,synthetic,Fabindia,Kurta,Cotton,M,Used,10,2447,Tier 2,0.06,0.07,0.7,0.8,1,1,80,100,1,1,1,1,50,0,train
+L1082,L0306,synthetic,Soch,Saree,Silk,L,Like New,6,3765,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,300,1,1,1,1,306,6,train
+L1083,L0072,synthetic,Zudio,Shirt,Cotton,L,Like New,5,349,Tier 1,0.05,0.06,0.9,0.9,1,1,10,20,1,1,1,1,72,2,train
+L1084,L0229,synthetic,Jaypore,Saree,Silk,S,Like New,15,8648,Tier 4,0.09,0.11,0.9,0.7,1.1,1.05,550,700,1,1,1,1,229,9,test
+L1085,L0223,synthetic,Roadster,Jeans,Denim,M,Like New,6,4427,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,223,3,train
+L1086,L0151,synthetic,Style Bazaar,Shirt,Cotton,XL,Used,9,399,Tier 1,0.05,0.06,0.7,0.8,1,1,10,10,1,1,1,1,151,1,train
+L1087,L0145,synthetic,Suta,Saree,Silk,M,Like New,2,2963,Tier 3,0.07,0.09,0.9,1,1.1,1.05,200,300,1,1,1,1,145,5,train
+L1088,L0208,synthetic,Aurelia,Kurta,Cotton,L,Like New,5,2550,Tier 3,0.07,0.09,0.9,0.9,1,1,140,190,1,1,1,1,208,8,val
+L1089,L0197,synthetic,Rohit Bal,Ethnic Wear,Silk,S,Like New,9,47893,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,4400,5600,1,1,1,1,197,7,val
+L1090,L0332,synthetic,Aurelia,Dress,Linen,L,Like New,8,3673,Tier 3,0.07,0.09,0.9,0.8,1.05,1.03,200,250,1,1,1,1,332,2,train
+L1091,L0213,synthetic,FBB,Top,Cotton,XS,Used,6,2018,Tier 2,0.06,0.07,0.7,0.9,1,1,80,90,1,1,1,1,213,3,train
+L1092,L0116,synthetic,Under Armour,Activewear,Polyester,M,Like New,5,7101,Tier 4,0.09,0.11,0.9,0.9,0.95,1,500,600,1,1,1,1,116,6,train
+L1093,L0280,synthetic,Zudio,Jeans,Denim,S,Used,6,1364,Tier 2,0.06,0.07,0.7,0.9,0.95,1,50,60,1,1,1,1,280,0,train
+L1094,L0354,synthetic,Style Bazaar,Top,Cotton,M,Used,8,1433,Tier 2,0.06,0.07,0.7,0.8,1,1,50,60,1,1,1,1,354,4,train
+L1095,L0239,synthetic,Zara,Jacket,Polyester,M,Like New,8,8135,Tier 4,0.09,0.11,0.9,0.8,1.05,1,550,700,1,1,1,1,239,9,test
+L1096,L0277,synthetic,Vishal Mega Mart,Top,Polyester,S,Like New,8,1164,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,277,7,val
+L1097,L0241,synthetic,GAP,Jeans,Denim,L,Like New,7,8887,Tier 4,0.09,0.11,0.9,0.8,0.95,1,550,650,1,1,1,1,241,1,train
+L1098,L0306,synthetic,Soch,Saree,Silk,L,Used,8,3294,Tier 3,0.07,0.09,0.7,0.8,1.1,1.05,150,190,1,1,1,1,306,6,train
+L1099,L0337,synthetic,Roadster,Jeans,Denim,XS,New,1,4219,Tier 3,0.07,0.09,1,1,0.95,1,300,350,1,1,1,1,337,7,val
+L1100,L0303,synthetic,Rangriti,Kurta,Cotton,M,Like New,5,1812,Tier 2,0.06,0.07,0.9,0.9,1,1,90,100,1,1,1,1,303,3,train
+L1101,L0249,synthetic,Tommy Hilfiger,Shirt,Cotton,M,Like New,7,9531,Tier 4,0.09,0.11,0.9,0.8,1,1,600,750,1,1,1,1,249,9,test
+L1102,L0305,synthetic,Zudio,Shirt,Polyester,M,Used,13,1677,Tier 2,0.06,0.07,0.7,0.7,1,1,50,60,1,1,1,1,305,5,train
+L1103,L0327,synthetic,Easybuy,Jeans,Denim,M,Like New,10,1456,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,327,7,val
+L1104,L0238,synthetic,Nicobar,Kurta,Linen,L,New,2,9088,Tier 4,0.09,0.11,1,1,1,1.03,850,1000,1,1,1,1,238,8,val
+L1105,L0200,synthetic,Mufti,Shirt,Linen,L,Used,9,3106,Tier 3,0.07,0.09,0.7,0.8,1,1.03,130,160,1,1,1,1,200,0,train
+L1106,L0196,synthetic,Bewakoof,Top,Cotton,S,Used,4,738,Tier 1,0.05,0.06,0.7,0.9,1,1,20,30,1,1,1,1,196,6,train
+L1107,L0222,synthetic,Pantaloons,Shirt,Cotton,L,Like New,11,3676,Tier 3,0.07,0.09,0.9,0.7,1,1,160,200,1,1,1,1,222,2,train
+L1108,L0131,synthetic,Fabindia,Kurta,Cotton,M,Like New,8,3258,Tier 3,0.07,0.09,0.9,0.8,1,1,160,200,1,1,1,1,131,1,train
+L1109,L0302,synthetic,Vishal Mega Mart,Shirt,Polyester,M,Used,12,1637,Tier 2,0.06,0.07,0.7,0.7,1,1,50,60,1,1,1,1,302,2,train
+L1110,L0006,synthetic,Louis Vuitton,Jacket,Leather,M,Used,14,148656,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,8800,11200,1,1,1,1,6,6,train
+L1111,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,5,27228,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2800,3600,1,1,1,1,372,2,train
+L1112,L0307,synthetic,Aurelia,Kurta,Cotton,S,Used,14,2641,Tier 3,0.07,0.09,0.7,0.7,1,1,90,120,1,1,1,1,307,7,val
+L1113,L0332,synthetic,Aurelia,Dress,Linen,L,Like New,4,3718,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,250,300,1,1,1,1,332,2,train
+L1114,L0339,synthetic,Flying Machine,Jeans,Denim,XL,Like New,11,5334,Tier 4,0.09,0.11,0.9,0.7,0.95,1,300,350,1,1,1,1,339,9,test
+L1115,L0038,synthetic,Armani,Jacket,Leather,S,Like New,9,44087,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,3800,4900,1,1,1,1,38,8,val
+L1116,L0092,synthetic,Highlander,Top,Cotton,XL,Like New,3,539,Tier 1,0.05,0.06,0.9,1,1,1,20,30,1,1,1,1,92,2,train
+L1117,L0367,synthetic,Zara,Dress,Linen,S,New,1,10343,Tier 4,0.09,0.11,1,1,1.05,1.03,1000,1200,1,1,1,1,367,7,val
+L1118,L0010,synthetic,Anita Dongre,Saree,Silk,M,Used,6,67912,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,5400,6900,1,1,1,1,10,0,train
+L1119,L0169,synthetic,Anouk,Saree,Cotton,XS,Used,5,1649,Tier 2,0.06,0.07,0.7,0.9,1.1,1,70,80,1,1,1,1,169,9,test
+L1120,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,L,Used,14,28530,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1800,2300,1,1,1,1,373,3,train
+L1121,L0275,synthetic,Reliance Trends,Top,Cotton,S,Used,8,1980,Tier 2,0.06,0.07,0.7,0.8,1,1,70,80,1,1,1,1,275,5,train
+L1122,L0175,synthetic,Spykar,Shirt,Cotton,M,Like New,3,944,Tier 1,0.05,0.06,0.9,1,1,1,40,50,1,1,1,1,175,5,train
+L1123,L0021,synthetic,Tarun Tahiliani,Saree,Silk,M,Used,6,78542,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,6300,8000,1,1,1,1,21,1,train
+L1124,L0324,synthetic,Louis Vuitton,Jacket,Leather,L,Like New,4,30760,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3000,3800,1,1,1,1,324,4,train
+L1125,L0033,synthetic,Forever 21,Dress,Polyester,S,New,3,1483,Tier 2,0.06,0.07,1,1,1.05,1,90,110,1,1,1,1,33,3,train
+L1126,L0370,synthetic,Calvin Klein,Jacket,Leather,L,New,1,13735,Tier 4,0.09,0.11,1,1,1.05,1.05,1400,1700,1,1,1,1,370,0,train
+L1127,L0120,synthetic,Vishal Mega Mart,Shirt,Cotton,L,Used,10,450,Tier 1,0.05,0.06,0.7,0.8,1,1,10,20,1,1,1,1,120,0,train
+L1128,L0333,synthetic,Libas,Kurta,Cotton,S,Used,9,3500,Tier 3,0.07,0.09,0.7,0.8,1,1,140,180,1,1,1,1,333,3,train
+L1129,L0303,synthetic,Rangriti,Kurta,Cotton,M,Like New,6,1638,Tier 2,0.06,0.07,0.9,0.9,1,1,80,90,1,1,1,1,303,3,train
+L1130,L0219,synthetic,Global Desi,Dress,Linen,S,Used,15,5528,Tier 4,0.09,0.11,0.7,0.7,1.05,1.03,250,300,1,1,1,1,219,9,test
+L1131,L0069,synthetic,Indya,Jacket,Denim,M,Used,13,1471,Tier 2,0.06,0.07,0.7,0.7,1.05,1,50,50,1,1,1,1,69,9,test
+L1132,L0003,synthetic,Nike,Activewear,Polyester,L,New,1,4141,Tier 3,0.07,0.09,1,1,0.95,1,300,350,1,1,1,1,3,3,train
+L1133,L0277,synthetic,Vishal Mega Mart,Top,Polyester,S,Used,7,1297,Tier 2,0.06,0.07,0.7,0.8,1,1,40,50,1,1,1,1,277,7,val
+L1134,L0058,synthetic,Roadster,Shirt,Cotton,XL,Like New,4,1247,Tier 2,0.06,0.07,0.9,0.9,1,1,60,70,1,1,1,1,58,8,val
+L1135,L0187,synthetic,Moda Rapido,Dress,Denim,S,New,2,996,Tier 1,0.05,0.06,1,1,1.05,1,50,60,1,1,1,1,187,7,val
+L1136,L0027,synthetic,Pantaloons,Jeans,Denim,M,Used,8,1146,Tier 1,0.05,0.06,0.7,0.8,0.95,1,30,40,1,1,1,1,27,7,val
+L1137,L0370,synthetic,Calvin Klein,Jacket,Leather,L,Like New,5,12138,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,1000,1200,1,1,1,1,370,0,train
+L1138,L0051,synthetic,Prada,Dress,Silk,L,Like New,7,84399,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,7400,9400,1,1,1,1,51,1,train
+L1139,L0300,synthetic,Prada,Dress,Silk,S,New,2,32785,Tier 5,0.11,0.14,1,1,1.05,1.05,4000,5100,1,1,1,1,300,0,train
+L1140,L0235,synthetic,Label Ritu Kumar,Ethnic Wear,Silk,L,Used,10,11434,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,650,800,1,1,1,1,235,5,train
+L1141,L0355,synthetic,Zudio,Jeans,Denim,S,Like New,9,1493,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,355,5,train
+L1142,L0113,synthetic,Easybuy,Top,Polyester,XS,Like New,2,558,Tier 1,0.05,0.06,0.9,1,1,1,30,30,1,1,1,1,113,3,train
+L1143,L0284,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,5,2655,Tier 3,0.07,0.09,0.9,0.9,1,1,150,190,1,1,1,1,284,4,train
+L1144,L0143,synthetic,Prada,Dress,Silk,M,Used,9,71467,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,4900,6200,1,1,1,1,143,3,train
+L1145,L0114,synthetic,GAP,Jeans,Denim,XS,Used,10,6734,Tier 4,0.09,0.11,0.7,0.8,0.95,1,300,400,1,1,1,1,114,4,train
+L1146,L0241,synthetic,GAP,Jeans,Denim,L,Like New,9,7983,Tier 4,0.09,0.11,0.9,0.8,0.95,1,500,600,1,1,1,1,241,1,train
+L1147,L0124,synthetic,Gucci,Jacket,Leather,S,Like New,5,66809,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,6600,8400,1,1,1,1,124,4,train
+L1148,L0332,synthetic,Aurelia,Dress,Linen,L,Used,6,3083,Tier 3,0.07,0.09,0.7,0.9,1.05,1.03,150,190,1,1,1,1,332,2,train
+L1149,L0238,synthetic,Nicobar,Kurta,Linen,L,Used,6,7439,Tier 4,0.09,0.11,0.7,0.9,1,1.03,450,550,1,1,1,1,238,8,val
+L1150,L0361,synthetic,Pantaloons,Top,Cotton,S,Used,9,4431,Tier 3,0.07,0.09,0.7,0.8,1,1,170,200,1,1,1,1,361,1,train
+L1151,L0139,synthetic,FBB,Ethnic Wear,Cotton,L,Used,6,837,Tier 1,0.05,0.06,0.7,0.9,1.1,1,30,30,1,1,1,1,139,9,test
+L1152,L0029,synthetic,Zara,Jacket,Denim,M,Used,11,4339,Tier 3,0.07,0.09,0.7,0.7,1.05,1,160,200,1,1,1,1,29,9,test
+L1153,L0188,synthetic,Biba,Kurta,Silk,M,Used,7,833,Tier 1,0.05,0.06,0.7,0.8,1,1.05,20,30,1,1,1,1,188,8,val
+L1154,L0172,synthetic,Roadster,Jeans,Denim,XL,Like New,1,1284,Tier 2,0.06,0.07,0.9,1,0.95,1,70,80,1,1,1,1,172,2,train
+L1155,L0360,synthetic,Reliance Trends,Shirt,Cotton,XL,Used,4,2886,Tier 3,0.07,0.09,0.7,0.9,1,1,130,160,1,1,1,1,360,0,train
+L1156,L0028,synthetic,Indya,Jacket,Denim,L,Like New,5,1332,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,28,8,val
+L1157,L0273,synthetic,Fabindia,Kurta,Linen,XL,Used,12,7433,Tier 4,0.09,0.11,0.7,0.7,1,1.03,350,400,1,1,1,1,273,3,train
+L1158,L0235,synthetic,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,8,11494,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,850,1100,1,1,1,1,235,5,train
+L1159,L0357,synthetic,Aurelia,Kurta,Cotton,L,New,2,3303,Tier 3,0.07,0.09,1,1,1,1,250,300,1,1,1,1,357,7,val
+L1160,L0350,synthetic,Prada,Dress,Silk,S,Like New,8,29803,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,2600,3300,1,1,1,1,350,0,train
+L1161,L0033,synthetic,Forever 21,Dress,Polyester,S,Like New,6,1535,Tier 2,0.06,0.07,0.9,0.9,1.05,1,80,90,1,1,1,1,33,3,train
+L1162,L0336,synthetic,Pantaloons,Top,Cotton,M,Like New,8,4549,Tier 3,0.07,0.09,0.9,0.8,1,1,250,300,1,1,1,1,336,6,train
+L1163,L0291,synthetic,Fabindia,Kurta,Linen,M,Like New,9,8526,Tier 4,0.09,0.11,0.9,0.8,1,1.03,550,700,1,1,1,1,291,1,train
+L1164,L0148,synthetic,Meena Bazaar,Lehenga,Silk,S,New,2,12437,Tier 4,0.09,0.11,1,1,1.1,1.05,1300,1600,1,1,1,1,148,8,val
+L1165,L0083,synthetic,Bewakoof,Top,Polyester,XS,Like New,5,709,Tier 1,0.05,0.06,0.9,0.9,1,1,30,30,1,1,1,1,83,3,train
+L1166,L0226,synthetic,Mufti,Shirt,Cotton,M,Like New,9,5355,Tier 4,0.09,0.11,0.9,0.8,1,1,350,400,1,1,1,1,226,6,train
+L1167,L0084,synthetic,Style Bazaar,Top,Polyester,XL,Used,6,300,Tier 1,0.05,0.06,0.7,0.9,1,1,10,10,1,1,1,1,84,4,train
+L1168,L0164,synthetic,Global Desi,Saree,Silk,S,Used,9,2568,Tier 3,0.07,0.09,0.7,0.8,1.1,1.05,120,150,1,1,1,1,164,4,train
+L1169,L0149,synthetic,Rangriti,Kurta,Cotton,XS,Like New,5,1082,Tier 1,0.05,0.06,0.9,0.9,1,1,40,50,1,1,1,1,149,9,test
+L1170,L0375,synthetic,Burberry,Jacket,Cotton,L,New,3,27776,Tier 5,0.11,0.14,1,1,1.05,1,3200,4100,1,1,1,1,375,5,train
+L1171,L0317,synthetic,Mango,Dress,Linen,XL,Like New,6,8501,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,650,800,1,1,1,1,317,7,val
+L1172,L0143,synthetic,Prada,Dress,Silk,M,Used,6,75520,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,5800,7300,1,1,1,1,143,3,train
+L1173,L0202,synthetic,Zudio,Top,Cotton,M,Used,5,1235,Tier 2,0.06,0.07,0.7,0.9,1,1,50,50,1,1,1,1,202,2,train
+L1174,L0204,synthetic,Vishal Mega Mart,Jeans,Denim,S,Used,12,1379,Tier 2,0.06,0.07,0.7,0.7,0.95,1,40,40,1,1,1,1,204,4,train
+L1175,L0180,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,11,135548,Tier 5,0.11,0.14,0.9,0.7,1.05,1.05,10400,13200,1,1,1,1,180,0,train
+L1176,L0213,synthetic,FBB,Top,Cotton,S,Used,4,2379,Tier 2,0.06,0.07,0.7,0.9,1,1,90,100,1,1,1,1,213,3,train
+L1177,L0301,synthetic,Easybuy,Top,Cotton,S,New,3,1321,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,301,1,train
+L1178,L0034,synthetic,Max Fashion,Jeans,Denim,XS,Like New,7,803,Tier 1,0.05,0.06,0.9,0.8,0.95,1,30,30,1,1,1,1,34,4,train
+L1179,L0285,synthetic,Brand Factory,Jacket,Polyester,L,Used,5,3053,Tier 3,0.07,0.09,0.7,0.9,1.05,1,140,180,1,1,1,1,285,5,train
+L1180,L0149,synthetic,Rangriti,Kurta,Cotton,M,Like New,1,950,Tier 1,0.05,0.06,0.9,1,1,1,40,50,1,1,1,1,149,9,test
+L1181,L0238,synthetic,Nicobar,Kurta,Linen,L,Like New,6,7607,Tier 4,0.09,0.11,0.9,0.9,1,1.03,550,700,1,1,1,1,238,8,val
+L1182,L0242,synthetic,American Eagle,Jeans,Denim,M,New,5,8140,Tier 4,0.09,0.11,1,0.9,0.95,1,650,750,1,1,1,1,242,2,train
+L1183,L0035,synthetic,Highlander,Shirt,Cotton,M,New,3,1082,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,35,5,train
+L1184,L0244,synthetic,Nike,Activewear,Polyester,L,Used,9,10353,Tier 4,0.09,0.11,0.7,0.8,0.95,1,500,600,1,1,1,1,244,4,train
+L1185,L0164,synthetic,Global Desi,Saree,Silk,S,Like New,9,2267,Tier 2,0.06,0.07,0.9,0.8,1.1,1.05,110,130,1,1,1,1,164,4,train
+L1186,L0326,synthetic,Zudio,Top,Cotton,S,New,3,1171,Tier 1,0.05,0.06,1,1,1,1,60,70,1,1,1,1,326,6,train
+L1187,L0094,synthetic,Soch,Ethnic Wear,Silk,S,Used,6,1559,Tier 2,0.06,0.07,0.7,0.9,1.1,1.05,70,80,1,1,1,1,94,4,train
+L1188,L0351,synthetic,Easybuy,Shirt,Cotton,S,Used,9,1368,Tier 2,0.06,0.07,0.7,0.8,1,1,50,50,1,1,1,1,351,1,train
+L1189,L0007,synthetic,Zara,Dress,Linen,L,New,2,10108,Tier 4,0.09,0.11,1,1,1.05,1.03,1000,1200,1,1,1,1,7,7,val
+L1190,L0053,synthetic,Zudio,Top,Cotton,S,Like New,4,446,Tier 1,0.05,0.06,0.9,0.9,1,1,20,20,1,1,1,1,53,3,train
+L1191,L0270,synthetic,Manyavar,Ethnic Wear,Silk,XS,Used,8,8197,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,500,600,1,1,1,1,270,0,train
+L1192,L0068,synthetic,Masaba,Dress,Silk,XL,Like New,4,11735,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,950,1200,1,1,1,1,68,8,val
+L1193,L0306,synthetic,Soch,Saree,Silk,L,Like New,5,3348,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,300,1,1,1,1,306,6,train
+L1194,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,7,2196,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,90,100,1,1,1,1,158,8,val
+L1195,L0248,synthetic,Under Armour,Activewear,Polyester,L,Like New,9,9333,Tier 4,0.09,0.11,0.9,0.8,0.95,1,550,700,1,1,1,1,248,8,val
+L1196,L0130,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,3,587,Tier 1,0.05,0.06,0.9,1,1,1,30,30,1,1,1,1,130,0,train
+L1197,L0106,synthetic,Nicobar,Dress,Linen,S,New,2,7798,Tier 4,0.09,0.11,1,1,1.05,1.03,750,950,1,1,1,1,106,6,train
+L1198,L0297,synthetic,Anita Dongre,Lehenga,Silk,S,New,1,25089,Tier 5,0.11,0.14,1,1,1.1,1.05,3200,4100,1,1,1,1,297,7,val
+L1199,L0367,synthetic,Zara,Dress,Linen,S,New,2,10836,Tier 4,0.09,0.11,1,1,1.05,1.03,1100,1300,1,1,1,1,367,7,val
+L1200,L0051,synthetic,Prada,Dress,Silk,XS,Like New,10,84188,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,7400,9400,1,1,1,1,51,1,train
+L1201,L0055,synthetic,Libas,Kurta,Silk,S,New,2,1996,Tier 2,0.06,0.07,1,1,1,1.05,130,150,1,1,1,1,55,5,train
+L1202,L0254,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,8,23649,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2200,2800,1,1,1,1,254,4,train
+L1203,L0060,synthetic,FBB,Ethnic Wear,Cotton,L,Used,5,668,Tier 1,0.05,0.06,0.7,0.9,1.1,1,20,30,1,1,1,1,60,0,train
+L1204,L0149,synthetic,Rangriti,Kurta,Cotton,XL,New,1,1246,Tier 2,0.06,0.07,1,1,1,1,70,90,1,1,1,1,149,9,test
+L1205,L0189,synthetic,W for Woman,Ethnic Wear,Cotton,S,Used,10,1022,Tier 1,0.05,0.06,0.7,0.8,1.1,1,30,40,1,1,1,1,189,9,test
+L1206,L0203,synthetic,Easybuy,Shirt,Polyester,L,New,4,1664,Tier 2,0.06,0.07,1,0.9,1,1,90,100,1,1,1,1,203,3,train
+L1207,L0102,synthetic,Style Bazaar,Top,Polyester,XL,Like New,10,300,Tier 1,0.05,0.06,0.9,0.8,1,1,10,10,1,1,1,1,102,2,train
+L1208,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Like New,10,26965,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2500,3100,1,1,1,1,372,2,train
+L1209,L0330,synthetic,Style Bazaar,Top,Cotton,S,Like New,10,1419,Tier 2,0.06,0.07,0.9,0.8,1,1,60,70,1,1,1,1,330,0,train
+L1210,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,Used,10,9423,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,550,650,1,1,1,1,233,3,train
+L1211,L0035,synthetic,Highlander,Shirt,Cotton,M,New,1,990,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,35,5,train
+L1212,L0339,synthetic,Flying Machine,Jeans,Denim,M,Used,15,5029,Tier 4,0.09,0.11,0.7,0.7,0.95,1,200,250,1,1,1,1,339,9,test
+L1213,L0252,synthetic,Superdry,Jacket,Polyester,M,Used,6,10622,Tier 4,0.09,0.11,0.7,0.9,1.05,1,650,750,1,1,1,1,252,2,train
+L1214,L0252,synthetic,Superdry,Jacket,Polyester,M,Used,9,10572,Tier 4,0.09,0.11,0.7,0.8,1.05,1,550,700,1,1,1,1,252,2,train
+L1215,L0201,synthetic,Killer,Jeans,Denim,L,New,8,1329,Tier 2,0.06,0.07,1,0.8,0.95,1,60,70,1,1,1,1,201,1,train
+L1216,L0165,synthetic,Anouk,Saree,Silk,M,Like New,5,2285,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,130,150,1,1,1,1,165,5,train
+L1217,L0014,synthetic,Fabindia,Kurta,Silk,M,Used,10,2651,Tier 3,0.07,0.09,0.7,0.8,1,1.05,110,140,1,1,1,1,14,4,train
+L1218,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,Like New,5,2424,Tier 2,0.06,0.07,0.9,0.9,1,1,120,140,1,1,1,1,211,1,train
+L1219,L0353,synthetic,Rangriti,Kurta,Cotton,L,New,2,1637,Tier 2,0.06,0.07,1,1,1,1,100,110,1,1,1,1,353,3,train
+L1220,L0217,synthetic,Biba,Ethnic Wear,Silk,M,New,3,5340,Tier 4,0.09,0.11,1,1,1.1,1.05,550,700,1,1,1,1,217,7,val
+L1221,L0200,synthetic,Mufti,Shirt,Linen,L,Used,8,2743,Tier 3,0.07,0.09,0.7,0.8,1,1.03,110,140,1,1,1,1,200,0,train
+L1222,L0342,synthetic,Zara,Dress,Linen,S,Like New,8,10504,Tier 4,0.09,0.11,0.9,0.8,1.05,1.03,750,900,1,1,1,1,342,2,train
+L1223,L0275,synthetic,Reliance Trends,Top,Cotton,S,Like New,8,2397,Tier 2,0.06,0.07,0.9,0.8,1,1,100,120,1,1,1,1,275,5,train
+L1224,L0048,synthetic,Puma,Activewear,Polyester,M,Like New,9,2903,Tier 3,0.07,0.09,0.9,0.8,0.95,1,140,180,1,1,1,1,48,8,val
+L1225,L0272,synthetic,Levi's,Jeans,Denim,M,New,1,7206,Tier 4,0.09,0.11,1,1,0.95,1,600,750,1,1,1,1,272,2,train
+L1226,L0340,synthetic,Mufti,Shirt,Cotton,L,Like New,4,5024,Tier 4,0.09,0.11,0.9,0.9,1,1,350,450,1,1,1,1,340,0,train
+L1227,L0322,synthetic,Tarun Tahiliani,Lehenga,Silk,M,Used,10,28414,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,2000,2600,1,1,1,1,322,2,train
+L1228,L0327,synthetic,Easybuy,Jeans,Denim,M,Like New,10,1751,Tier 2,0.06,0.07,0.9,0.8,0.95,1,70,80,1,1,1,1,327,7,val
+L1229,L0031,synthetic,Suta,Saree,Silk,M,New,1,2801,Tier 3,0.07,0.09,1,1,1.1,1.05,250,300,1,1,1,1,31,1,train
+L1230,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,New,6,2787,Tier 3,0.07,0.09,1,0.9,1,1,180,250,1,1,1,1,211,1,train
+L1231,L0083,synthetic,Bewakoof,Top,Polyester,XS,Like New,7,734,Tier 1,0.05,0.06,0.9,0.8,1,1,30,30,1,1,1,1,83,3,train
+L1232,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,7,1035,Tier 1,0.05,0.06,0.9,0.8,1,1,40,40,1,1,1,1,126,6,train
+L1233,L0143,synthetic,Prada,Dress,Silk,M,Used,7,67300,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,4600,5800,1,1,1,1,143,3,train
+L1234,L0043,synthetic,Manish Malhotra,Ethnic Wear,Silk,M,Used,8,89851,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,6400,8100,1,1,1,1,43,3,train
+L1235,L0047,synthetic,Red Tape,Shirt,Linen,S,Used,7,782,Tier 1,0.05,0.06,0.7,0.8,1,1.03,20,30,1,1,1,1,47,7,val
+L1236,L0062,synthetic,HRX,Activewear,Polyester,M,Used,7,2578,Tier 3,0.07,0.09,0.7,0.8,0.95,1,100,120,1,1,1,1,62,2,train
+L1237,L0122,synthetic,Libas,Kurta,Cotton,M,Used,8,1157,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,122,2,train
+L1238,L0121,synthetic,Roadster,Shirt,Cotton,M,New,2,997,Tier 1,0.05,0.06,1,1,1,1,50,60,1,1,1,1,121,1,train
+L1239,L0131,synthetic,Fabindia,Kurta,Cotton,L,Used,8,3284,Tier 3,0.07,0.09,0.7,0.8,1,1,130,170,1,1,1,1,131,1,train
+L1240,L0217,synthetic,Biba,Ethnic Wear,Silk,M,New,1,5587,Tier 4,0.09,0.11,1,1,1.1,1.05,600,700,1,1,1,1,217,7,val
+L1241,L0158,synthetic,Fabindia,Ethnic Wear,Silk,XS,Used,10,2438,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,90,110,1,1,1,1,158,8,val
+L1242,L0344,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,10315,Tier 4,0.09,0.11,0.9,0.9,1,1,750,900,1,1,1,1,344,4,train
+L1243,L0122,synthetic,Libas,Kurta,Cotton,XL,Like New,2,1195,Tier 1,0.05,0.06,0.9,1,1,1,50,60,1,1,1,1,122,2,train
+L1244,L0121,synthetic,Roadster,Shirt,Cotton,M,New,7,1382,Tier 2,0.06,0.07,1,0.8,1,1,70,80,1,1,1,1,121,1,train
+L1245,L0141,synthetic,Highlander,Top,Cotton,XL,Like New,3,757,Tier 1,0.05,0.06,0.9,1,1,1,30,40,1,1,1,1,141,1,train
+L1246,L0052,synthetic,Nalli,Saree,Silk,S,Like New,5,6954,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,600,700,1,1,1,1,52,2,train
+L1247,L0015,synthetic,Prada,Dress,Silk,S,Used,7,99764,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,6800,8600,1,1,1,1,15,5,train
+L1248,L0322,synthetic,Tarun Tahiliani,Lehenga,Silk,M,Like New,8,25833,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2400,3000,1,1,1,1,322,2,train
+L1249,L0352,synthetic,Vishal Mega Mart,Top,Polyester,S,Used,10,1734,Tier 2,0.06,0.07,0.7,0.8,1,1,60,70,1,1,1,1,352,2,train
+L1250,L0352,synthetic,Vishal Mega Mart,Top,Polyester,S,Like New,10,1379,Tier 2,0.06,0.07,0.9,0.8,1,1,60,70,1,1,1,1,352,2,train
+L1251,L0194,synthetic,Highlander,Shirt,Cotton,XS,New,2,811,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,194,4,train
+L1252,L0237,synthetic,House of Masaba,Dress,Linen,M,Like New,8,8934,Tier 4,0.09,0.11,0.9,0.8,1.05,1.03,650,750,1,1,1,1,237,7,val
+L1253,L0233,synthetic,Meena Bazaar,Ethnic Wear,Silk,XL,Like New,8,9348,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,700,850,1,1,1,1,233,3,train
+L1254,L0137,synthetic,Forever 21,Dress,Polyester,S,New,3,1300,Tier 2,0.06,0.07,1,1,1.05,1,80,100,1,1,1,1,137,7,val
+L1255,L0145,synthetic,Suta,Saree,Silk,M,New,1,2978,Tier 3,0.07,0.09,1,1,1.1,1.05,250,300,1,1,1,1,145,5,train
+L1256,L0135,synthetic,Zara,Jacket,Denim,M,Used,9,4896,Tier 3,0.07,0.09,0.7,0.8,1.05,1,200,250,1,1,1,1,135,5,train
+L1257,L0241,synthetic,GAP,Jeans,Denim,L,Like New,7,7701,Tier 4,0.09,0.11,0.9,0.8,0.95,1,450,600,1,1,1,1,241,1,train
+L1258,L0363,synthetic,HRX,Activewear,Polyester,L,Like New,4,4981,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,350,1,1,1,1,363,3,train
+L1259,L0121,synthetic,Roadster,Shirt,Cotton,M,New,3,1395,Tier 2,0.06,0.07,1,1,1,1,80,100,1,1,1,1,121,1,train
+L1260,L0024,synthetic,Anouk,Saree,Silk,M,Used,5,1911,Tier 2,0.06,0.07,0.7,0.9,1.1,1.05,80,100,1,1,1,1,24,4,train
+L1261,L0287,synthetic,Roadster,Jeans,Denim,M,Like New,8,4311,Tier 3,0.07,0.09,0.9,0.8,0.95,1,200,250,1,1,1,1,287,7,val
+L1262,L0068,synthetic,Masaba,Dress,Silk,M,Used,7,11019,Tier 4,0.09,0.11,0.7,0.8,1.05,1.05,600,750,1,1,1,1,68,8,val
+L1263,L0066,synthetic,Reebok,Activewear,Polyester,S,Like New,7,2732,Tier 3,0.07,0.09,0.9,0.8,0.95,1,130,170,1,1,1,1,66,6,train
+L1264,L0136,synthetic,Uniqlo,Jacket,Polyester,M,Like New,6,1920,Tier 2,0.06,0.07,0.9,0.9,1.05,1,100,110,1,1,1,1,136,6,train
+L1265,L0078,synthetic,Nicobar,Dress,Linen,S,Used,6,7989,Tier 4,0.09,0.11,0.7,0.9,1.05,1.03,500,600,1,1,1,1,78,8,val
+L1266,L0118,synthetic,FBB,Kurta,Cotton,M,Used,10,1152,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,118,8,val
+L1267,L0183,synthetic,Gucci,Jacket,Leather,XS,Like New,7,109245,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,9500,12100,1,1,1,1,183,3,train
+L1268,L0140,synthetic,Prada,Dress,Silk,S,Used,9,89229,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,6100,7700,1,1,1,1,140,0,train
+L1269,L0214,synthetic,Bewakoof,Activewear,Polyester,M,Like New,5,1589,Tier 2,0.06,0.07,0.9,0.9,0.95,1,70,90,1,1,1,1,214,4,train
+L1270,L0349,synthetic,Gucci,Jacket,Leather,L,Like New,6,36188,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3600,4500,1,1,1,1,349,9,test
+L1271,L0079,synthetic,American Eagle,Jeans,Denim,XS,Used,9,8993,Tier 4,0.09,0.11,0.7,0.8,0.95,1,450,550,1,1,1,1,79,9,test
+L1272,L0003,synthetic,Nike,Activewear,Polyester,L,Like New,1,4730,Tier 3,0.07,0.09,0.9,1,0.95,1,300,350,1,1,1,1,3,3,train
+L1273,L0292,synthetic,Zara,Dress,Linen,S,Like New,6,9484,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,1,1,1,1,292,2,train
+L1274,L0037,synthetic,Louis Vuitton,Shirt,Linen,XS,Like New,7,69631,Tier 5,0.11,0.14,0.9,0.8,1,1.03,5700,7200,1,1,1,1,37,7,val
+L1275,L0046,synthetic,Calvin Klein,Jacket,Denim,M,Like New,8,8723,Tier 4,0.09,0.11,0.9,0.8,1.05,1,600,750,1,1,1,1,46,6,train
+L1276,L0335,synthetic,Reliance Trends,Shirt,Cotton,L,Like New,6,2804,Tier 3,0.07,0.09,0.9,0.9,1,1,160,200,1,1,1,1,335,5,train
+L1277,L0068,synthetic,Masaba,Dress,Silk,M,Like New,2,12221,Tier 4,0.09,0.11,0.9,1,1.05,1.05,1100,1300,1,1,1,1,68,8,val
+L1278,L0289,synthetic,Flying Machine,Jeans,Denim,M,Like New,1,5442,Tier 4,0.09,0.11,0.9,1,0.95,1,400,500,1,1,1,1,289,9,test
+L1279,L0048,synthetic,Puma,Activewear,Polyester,M,Used,7,3259,Tier 3,0.07,0.09,0.7,0.8,0.95,1,120,160,1,1,1,1,48,8,val
+L1280,L0270,synthetic,Manyavar,Ethnic Wear,Silk,M,Like New,7,9058,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,700,850,1,1,1,1,270,0,train
+L1281,L0245,synthetic,Adidas,Jacket,Polyester,L,Like New,3,10572,Tier 4,0.09,0.11,0.9,1,1.05,1,900,1100,1,1,1,1,245,5,train
+L1282,L0152,synthetic,American Eagle,Jeans,Denim,L,Like New,6,4328,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,152,2,train
+L1283,L0212,synthetic,Brand Factory,Jacket,Polyester,L,Like New,15,3971,Tier 3,0.07,0.09,0.9,0.7,1.05,1,180,250,1,1,1,1,212,2,train
+L1284,L0258,synthetic,Anamika Khanna,Lehenga,Silk,M,Like New,15,24140,Tier 5,0.11,0.14,0.9,0.7,1.1,1.05,1900,2500,1,1,1,1,258,8,val
+L1285,L0024,synthetic,Anouk,Saree,Silk,M,Like New,6,2110,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,120,140,1,1,1,1,24,4,train
+L1286,L0136,synthetic,Uniqlo,Jacket,Polyester,M,Used,9,1847,Tier 2,0.06,0.07,0.7,0.8,1.05,1,70,80,1,1,1,1,136,6,train
+L1287,L0133,synthetic,H&M,Dress,Cotton,L,Used,7,1277,Tier 2,0.06,0.07,0.7,0.8,1.05,1,50,50,1,1,1,1,133,3,train
+L1288,L0336,synthetic,Pantaloons,Top,Cotton,M,Used,11,4537,Tier 3,0.07,0.09,0.7,0.7,1,1,160,200,1,1,1,1,336,6,train
+L1289,L0316,synthetic,Fabindia,Kurta,Linen,S,Used,12,8711,Tier 4,0.09,0.11,0.7,0.7,1,1.03,400,500,1,1,1,1,316,6,train
+L1290,L0098,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Like New,3,46540,Tier 5,0.11,0.14,0.9,1,1.1,1.05,5300,6800,1,1,1,1,98,8,val
+L1291,L0333,synthetic,Libas,Kurta,Cotton,S,Like New,9,3207,Tier 3,0.07,0.09,0.9,0.8,1,1,160,200,1,1,1,1,333,3,train
+L1292,L0238,synthetic,Nicobar,Kurta,Linen,L,New,3,7399,Tier 4,0.09,0.11,1,1,1,1.03,700,850,1,1,1,1,238,8,val
+L1293,L0228,synthetic,Fabindia,Kurta,Linen,XL,Like New,3,7785,Tier 4,0.09,0.11,0.9,1,1,1.03,650,800,1,1,1,1,228,8,val
+L1294,L0201,synthetic,Killer,Jeans,Denim,L,Like New,4,1467,Tier 2,0.06,0.07,0.9,0.9,0.95,1,70,80,1,1,1,1,201,1,train
+L1295,L0297,synthetic,Anita Dongre,Lehenga,Silk,S,New,4,20470,Tier 5,0.11,0.14,1,0.9,1.1,1.05,2300,3000,1,1,1,1,297,7,val
+L1296,L0217,synthetic,Biba,Ethnic Wear,Silk,M,Like New,4,5605,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,450,600,1,1,1,1,217,7,val
+L1297,L0224,synthetic,HRX,Activewear,Polyester,S,Like New,2,4868,Tier 3,0.07,0.09,0.9,1,0.95,1,300,350,1,1,1,1,224,4,train
+L1298,L0351,synthetic,Easybuy,Shirt,Cotton,M,Like New,8,1540,Tier 2,0.06,0.07,0.9,0.8,1,1,70,80,1,1,1,1,351,1,train
+L1299,L0200,synthetic,Mufti,Shirt,Linen,S,Used,14,3687,Tier 3,0.07,0.09,0.7,0.7,1,1.03,130,170,1,1,1,1,200,0,train
+L1300,L0183,synthetic,Gucci,Jacket,Leather,M,Used,5,134580,Tier 5,0.11,0.14,0.7,0.9,1.05,1.05,10300,13100,1,1,1,1,183,3,train
+L1301,L0173,synthetic,Armani,Ethnic Wear,Polyester,L,Like New,4,87697,Tier 5,0.11,0.14,0.9,0.9,1.1,1,8600,10900,1,1,1,1,173,3,train
+L1302,L0024,synthetic,Anouk,Saree,Silk,M,Like New,5,1805,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,100,120,1,1,1,1,24,4,train
+L1303,L0225,synthetic,Flying Machine,Jeans,Denim,L,Like New,3,4892,Tier 3,0.07,0.09,0.9,1,0.95,1,300,400,1,1,1,1,225,5,train
+L1304,L0260,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,7,29935,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,2600,3300,1,1,1,1,260,0,train
+L1305,L0260,synthetic,Louis Vuitton,Jacket,Leather,M,Like New,8,33751,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,2900,3800,1,1,1,1,260,0,train
+L1306,L0063,synthetic,Skechers,Activewear,Polyester,XL,Used,5,4261,Tier 3,0.07,0.09,0.7,0.9,0.95,1,180,250,1,1,1,1,63,3,train
+L1307,L0088,synthetic,Suta,Saree,Linen,M,Used,6,3482,Tier 3,0.07,0.09,0.7,0.9,1.1,1.03,170,200,1,1,1,1,88,8,val
+L1308,L0272,synthetic,Levi's,Jeans,Denim,M,New,1,7966,Tier 4,0.09,0.11,1,1,0.95,1,700,850,1,1,1,1,272,2,train
+L1309,L0265,synthetic,Balenciaga,Jacket,Leather,S,New,3,33726,Tier 5,0.11,0.14,1,1,1.05,1.05,4100,5200,1,1,1,1,265,5,train
+L1310,L0085,synthetic,Rangriti,Kurta,Cotton,M,Used,4,790,Tier 1,0.05,0.06,0.7,0.9,1,1,20,30,1,1,1,1,85,5,train
+L1311,L0366,synthetic,Fabindia,Kurta,Linen,XS,Like New,5,10072,Tier 4,0.09,0.11,0.9,0.9,1,1.03,750,900,1,1,1,1,366,6,train
+L1312,L0161,synthetic,Aurelia,Kurta,Cotton,L,Used,12,1063,Tier 1,0.05,0.06,0.7,0.7,1,1,30,30,1,1,1,1,161,1,train
+L1313,L0229,synthetic,Jaypore,Saree,Silk,S,Used,14,9422,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,500,600,1,1,1,1,229,9,test
+L1314,L0155,synthetic,Uniqlo,Jacket,Denim,XS,Like New,7,1655,Tier 2,0.06,0.07,0.9,0.8,1.05,1,80,90,1,1,1,1,155,5,train
+L1315,L0277,synthetic,Vishal Mega Mart,Top,Polyester,S,Used,4,1151,Tier 1,0.05,0.06,0.7,0.9,1,1,40,40,1,1,1,1,277,7,val
+L1316,L0012,synthetic,Manyavar,Ethnic Wear,Silk,XL,Used,6,5223,Tier 4,0.09,0.11,0.7,0.9,1.1,1.05,350,400,1,1,1,1,12,2,train
+L1317,L0259,synthetic,Gucci,Jacket,Leather,L,Like New,1,28504,Tier 5,0.11,0.14,0.9,1,1.05,1.05,3100,4000,1,1,1,1,259,9,test
+L1318,L0294,synthetic,Nike,Activewear,Polyester,M,Like New,4,9437,Tier 4,0.09,0.11,0.9,0.9,0.95,1,650,800,1,1,1,1,294,4,train
+L1319,L0146,synthetic,Nalli,Saree,Silk,M,Used,7,7430,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,450,550,1,1,1,1,146,6,train
+L1320,L0265,synthetic,Balenciaga,Jacket,Leather,L,Used,9,31083,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2100,2700,1,1,1,1,265,5,train
+L1321,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,New,1,2328,Tier 2,0.06,0.07,1,1,1,1,140,160,1,1,1,1,211,1,train
+L1322,L0190,synthetic,Global Desi,Saree,Silk,M,Used,7,1546,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,60,70,1,1,1,1,190,0,train
+L1323,L0326,synthetic,Zudio,Top,Cotton,L,Used,6,1401,Tier 2,0.06,0.07,0.7,0.9,1,1,50,60,1,1,1,1,326,6,train
+L1324,L0074,synthetic,Reliance Trends,Top,Cotton,S,Used,7,691,Tier 1,0.05,0.06,0.7,0.8,1,1,20,20,1,1,1,1,74,4,train
+L1325,L0234,synthetic,AND,Dress,Linen,M,Like New,6,7423,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,600,700,1,1,1,1,234,4,train
+L1326,L0057,synthetic,Moda Rapido,Dress,Denim,S,New,3,954,Tier 1,0.05,0.06,1,1,1.05,1,50,60,1,1,1,1,57,7,val
+L1327,L0192,synthetic,Tarun Tahiliani,Saree,Silk,S,Like New,7,64299,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,5900,7500,1,1,1,1,192,2,train
+L1328,L0157,synthetic,Manyavar,Ethnic Wear,Silk,M,Like New,1,5565,Tier 4,0.09,0.11,0.9,1,1.1,1.05,500,650,1,1,1,1,157,7,val
+L1329,L0035,synthetic,Highlander,Shirt,Cotton,XL,Used,4,1082,Tier 1,0.05,0.06,0.7,0.9,1,1,30,40,1,1,1,1,35,5,train
+L1330,L0244,synthetic,Nike,Activewear,Polyester,XS,Used,8,10163,Tier 4,0.09,0.11,0.7,0.8,0.95,1,500,600,1,1,1,1,244,4,train
+L1331,L0077,synthetic,AND,Dress,Cotton,S,Like New,3,5412,Tier 4,0.09,0.11,0.9,1,1.05,1,450,550,1,1,1,1,77,7,val
+L1332,L0174,synthetic,Versace,Dress,Silk,M,Like New,8,118657,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,10400,13200,1,1,1,1,174,4,train
+L1333,L0293,synthetic,GAP,Jeans,Denim,L,Like New,12,8458,Tier 4,0.09,0.11,0.9,0.7,0.95,1,450,550,1,1,1,1,293,3,train
+L1334,L0044,synthetic,Aurelia,Kurta,Cotton,S,Used,10,1178,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,44,4,train
+L1335,L0258,synthetic,Anamika Khanna,Lehenga,Silk,L,Used,15,24142,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1500,1900,1,1,1,1,258,8,val
+L1336,L0094,synthetic,Soch,Ethnic Wear,Silk,S,New,2,1774,Tier 2,0.06,0.07,1,1,1.1,1.05,120,140,1,1,1,1,94,4,train
+L1337,L0167,synthetic,Flying Machine,Jeans,Denim,L,Like New,7,1479,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,167,7,val
+L1338,L0166,synthetic,Indya,Jacket,Denim,M,Like New,13,1301,Tier 2,0.06,0.07,0.9,0.7,1.05,1,50,60,1,1,1,1,166,6,train
+L1339,L0253,synthetic,Raw Mango,Saree,Silk,L,Like New,4,16399,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,1700,2100,1,1,1,1,253,3,train
+L1340,L0284,synthetic,Reliance Trends,Shirt,Cotton,M,Like New,5,2787,Tier 3,0.07,0.09,0.9,0.9,1,1,160,200,1,1,1,1,284,4,train
+L1341,L0301,synthetic,Easybuy,Top,Cotton,S,Like New,3,1401,Tier 2,0.06,0.07,0.9,1,1,1,80,90,1,1,1,1,301,1,train
+L1342,L0209,synthetic,Libas,Dress,Linen,S,Used,14,2764,Tier 3,0.07,0.09,0.7,0.7,1.05,1.03,100,130,1,1,1,1,209,9,test
+L1343,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,7,861,Tier 1,0.05,0.06,0.9,0.8,1,1,30,40,1,1,1,1,126,6,train
+L1344,L0238,synthetic,Nicobar,Kurta,Linen,XS,Like New,2,7402,Tier 4,0.09,0.11,0.9,1,1,1.03,600,750,1,1,1,1,238,8,val
+L1345,L0140,synthetic,Prada,Dress,Silk,S,Like New,10,98881,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,8600,11000,1,1,1,1,140,0,train
+L1346,L0145,synthetic,Suta,Saree,Silk,M,Used,4,2623,Tier 3,0.07,0.09,0.7,0.9,1.1,1.05,130,170,1,1,1,1,145,5,train
+L1347,L0063,synthetic,Skechers,Activewear,Polyester,XS,Like New,4,4618,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,63,3,train
+L1348,L0176,synthetic,Being Human,Top,Linen,S,Like New,12,936,Tier 1,0.05,0.06,0.9,0.7,1,1.03,30,40,1,1,1,1,176,6,train
+L1349,L0236,synthetic,Masaba,Dress,Cotton,S,Used,7,8703,Tier 4,0.09,0.11,0.7,0.8,1.05,1,450,550,1,1,1,1,236,6,train
+L1350,L0003,synthetic,Nike,Activewear,Polyester,M,New,3,4374,Tier 3,0.07,0.09,1,1,0.95,1,300,350,1,1,1,1,3,3,train
+L1351,L0333,synthetic,Libas,Kurta,Cotton,S,Used,12,3424,Tier 3,0.07,0.09,0.7,0.7,1,1,120,150,1,1,1,1,333,3,train
+L1352,L0193,synthetic,Anita Dongre,Saree,Silk,S,Like New,4,65240,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,6700,8500,1,1,1,1,193,3,train
+L1353,L0228,synthetic,Fabindia,Kurta,Linen,M,Like New,8,7169,Tier 4,0.09,0.11,0.9,0.8,1,1.03,500,600,1,1,1,1,228,8,val
+L1354,L0315,synthetic,Mufti,Shirt,Cotton,M,Used,5,4716,Tier 3,0.07,0.09,0.7,0.9,1,1,200,250,1,1,1,1,315,5,train
+L1355,L0253,synthetic,Raw Mango,Saree,Silk,XS,New,1,20624,Tier 5,0.11,0.14,1,1,1.1,1.05,2600,3300,1,1,1,1,253,3,train
+L1356,L0292,synthetic,Zara,Dress,Linen,S,New,1,9523,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1100,1,1,1,1,292,2,train
+L1357,L0066,synthetic,Reebok,Activewear,Polyester,S,Used,5,3242,Tier 3,0.07,0.09,0.7,0.9,0.95,1,140,170,1,1,1,1,66,6,train
+L1358,L0348,synthetic,Sabyasachi,Saree,Silk,L,Used,5,29285,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,2300,3000,1,1,1,1,348,8,val
+L1359,L0219,synthetic,Global Desi,Dress,Linen,S,Used,14,5894,Tier 4,0.09,0.11,0.7,0.7,1.05,1.03,300,350,1,1,1,1,219,9,test
+L1360,L0349,synthetic,Gucci,Jacket,Leather,M,Like New,6,34718,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3400,4300,1,1,1,1,349,9,test
+L1361,L0216,synthetic,Moda Rapido,Shirt,Cotton,M,Like New,6,1928,Tier 2,0.06,0.07,0.9,0.9,1,1,90,110,1,1,1,1,216,6,train
+L1362,L0116,synthetic,Under Armour,Activewear,Polyester,XL,New,1,6531,Tier 4,0.09,0.11,1,1,0.95,1,550,700,1,1,1,1,116,6,train
+L1363,L0321,synthetic,Raw Mango,Saree,Silk,L,New,1,23062,Tier 5,0.11,0.14,1,1,1.1,1.05,2900,3700,1,1,1,1,321,1,train
+L1364,L0127,synthetic,Aurelia,Ethnic Wear,Cotton,S,Like New,1,850,Tier 1,0.05,0.06,0.9,1,1.1,1,40,50,1,1,1,1,127,7,val
+L1365,L0038,synthetic,Armani,Jacket,Leather,S,Used,13,41178,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2400,3100,1,1,1,1,38,8,val
+L1366,L0032,synthetic,Uniqlo,Jacket,Polyester,XL,Like New,5,2184,Tier 2,0.06,0.07,0.9,0.9,1.05,1,110,130,1,1,1,1,32,2,train
+L1367,L0029,synthetic,Zara,Jacket,Denim,M,Used,11,4427,Tier 3,0.07,0.09,0.7,0.7,1.05,1,160,200,1,1,1,1,29,9,test
+L1368,L0151,synthetic,Style Bazaar,Shirt,Cotton,XL,Used,5,502,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,151,1,train
+L1369,L0320,synthetic,Diesel,Jeans,Denim,S,Used,12,11449,Tier 4,0.09,0.11,0.7,0.7,0.95,1,500,600,1,1,1,1,320,0,train
+L1370,L0346,synthetic,Raw Mango,Saree,Silk,XL,Like New,8,20503,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1900,2400,1,1,1,1,346,6,train
+L1371,L0366,synthetic,Fabindia,Kurta,Linen,M,Used,9,10118,Tier 4,0.09,0.11,0.7,0.8,1,1.03,550,650,1,1,1,1,366,6,train
+L1372,L0132,synthetic,Suta,Saree,Linen,M,Used,7,3519,Tier 3,0.07,0.09,0.7,0.8,1.1,1.03,160,200,1,1,1,1,132,2,train
+L1373,L0023,synthetic,Libas,Kurta,Cotton,S,Used,4,950,Tier 1,0.05,0.06,0.7,0.9,1,1,30,40,1,1,1,1,23,3,train
+L1374,L0278,synthetic,Rangriti,Kurta,Cotton,L,Like New,8,1804,Tier 2,0.06,0.07,0.9,0.8,1,1,80,90,1,1,1,1,278,8,val
+L1375,L0266,synthetic,Dolce & Gabbana,Dress,Silk,S,Like New,6,26435,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,2600,3300,1,1,1,1,266,6,train
+L1376,L0177,synthetic,Prada,Dress,Silk,S,Like New,3,88762,Tier 5,0.11,0.14,0.9,1,1.05,1.05,9700,12300,1,1,1,1,177,7,val
+L1377,L0342,synthetic,Zara,Dress,Linen,S,Like New,9,9586,Tier 4,0.09,0.11,0.9,0.8,1.05,1.03,650,800,1,1,1,1,342,2,train
+L1378,L0290,synthetic,Mufti,Shirt,Cotton,XS,Used,10,4804,Tier 3,0.07,0.09,0.7,0.8,1,1,190,250,1,1,1,1,290,0,train
+L1379,L0002,synthetic,Zudio,Top,Cotton,S,Like New,7,666,Tier 1,0.05,0.06,0.9,0.8,1,1,20,30,1,1,1,1,2,2,train
+L1380,L0193,synthetic,Anita Dongre,Saree,Silk,M,Like New,2,52908,Tier 5,0.11,0.14,0.9,1,1.1,1.05,6000,7700,1,1,1,1,193,3,train
+L1381,L0016,synthetic,HRX,Activewear,Polyester,XS,New,2,896,Tier 1,0.05,0.06,1,1,0.95,1,40,50,1,1,1,1,16,6,train
+L1382,L0174,synthetic,Versace,Dress,Silk,M,Like New,4,102029,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10000,12800,1,1,1,1,174,4,train
+L1383,L0011,synthetic,Easybuy,Top,Polyester,M,Used,4,620,Tier 1,0.05,0.06,0.7,0.9,1,1,20,20,1,1,1,1,11,1,train
+L1384,L0157,synthetic,Manyavar,Ethnic Wear,Silk,XL,Like New,2,5820,Tier 4,0.09,0.11,0.9,1,1.1,1.05,550,650,1,1,1,1,157,7,val
+L1385,L0320,synthetic,Diesel,Jeans,Denim,L,Like New,9,12990,Tier 4,0.09,0.11,0.9,0.8,0.95,1,800,1000,1,1,1,1,320,0,train
+L1386,L0192,synthetic,Tarun Tahiliani,Saree,Silk,S,Like New,7,66221,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,6100,7700,1,1,1,1,192,2,train
+L1387,L0275,synthetic,Reliance Trends,Top,Cotton,S,Like New,7,1737,Tier 2,0.06,0.07,0.9,0.8,1,1,80,90,1,1,1,1,275,5,train
+L1388,L0261,synthetic,Prada,Dress,Silk,XL,Used,8,29480,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2000,2500,1,1,1,1,261,1,train
+L1389,L0086,synthetic,Flying Machine,Jeans,Denim,L,Like New,13,3560,Tier 3,0.07,0.09,0.9,0.7,0.95,1,150,190,1,1,1,1,86,6,train
+L1390,L0365,synthetic,Mufti,Shirt,Cotton,S,Used,13,6373,Tier 4,0.09,0.11,0.7,0.7,1,1,300,350,1,1,1,1,365,5,train
+L1391,L0299,synthetic,Gucci,Jacket,Leather,M,Like New,5,29914,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,2900,3700,1,1,1,1,299,9,test
+L1392,L0194,synthetic,Highlander,Shirt,Cotton,M,Like New,7,1074,Tier 1,0.05,0.06,0.9,0.8,1,1,40,50,1,1,1,1,194,4,train
+L1393,L0152,synthetic,American Eagle,Jeans,Denim,L,Like New,4,4321,Tier 3,0.07,0.09,0.9,0.9,0.95,1,250,300,1,1,1,1,152,2,train
+L1394,L0240,synthetic,Marks & Spencer,Dress,Cotton,S,Used,8,8208,Tier 4,0.09,0.11,0.7,0.8,1.05,1,450,550,1,1,1,1,240,0,train
+L1395,L0136,synthetic,Uniqlo,Jacket,Polyester,M,Like New,5,1905,Tier 2,0.06,0.07,0.9,0.9,1.05,1,100,110,1,1,1,1,136,6,train
+L1396,L0117,synthetic,Anita Dongre,Lehenga,Silk,S,Like New,8,20034,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,1,1,1,1,117,7,val
+L1397,L0129,synthetic,Max Fashion,Jeans,Denim,M,Used,9,977,Tier 1,0.05,0.06,0.7,0.8,0.95,1,30,30,1,1,1,1,129,9,test
+L1398,L0367,synthetic,Zara,Dress,Linen,S,New,2,9609,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1100,1,1,1,1,367,7,val
+L1399,L0207,synthetic,Soch,Ethnic Wear,Silk,XS,Used,8,3249,Tier 3,0.07,0.09,0.7,0.8,1.1,1.05,150,190,1,1,1,1,207,7,val
+L1400,L0117,synthetic,Anita Dongre,Lehenga,Silk,S,Used,13,18390,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1100,1500,1,1,1,1,117,7,val
+L1401,L0237,synthetic,House of Masaba,Dress,Linen,M,New,3,9307,Tier 4,0.09,0.11,1,1,1.05,1.03,900,1100,1,1,1,1,237,7,val
+L1402,L0108,synthetic,Armani,Jacket,Leather,S,Used,15,44603,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,1,1,1,1,108,8,val
+L1403,L0005,synthetic,Rangriti,Kurta,Cotton,S,Used,5,969,Tier 1,0.05,0.06,0.7,0.9,1,1,30,40,1,1,1,1,5,5,train
+L1404,L0354,synthetic,Style Bazaar,Top,Cotton,M,Used,5,1258,Tier 2,0.06,0.07,0.7,0.9,1,1,50,60,1,1,1,1,354,4,train
+L1405,L0079,synthetic,American Eagle,Jeans,Denim,S,Used,10,8863,Tier 4,0.09,0.11,0.7,0.8,0.95,1,400,500,1,1,1,1,79,9,test
+L1406,L0105,synthetic,House of Masaba,Saree,Silk,L,Like New,9,13610,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1,1,1,1,105,5,train
+L1407,L0328,synthetic,Vishal Mega Mart,Shirt,Polyester,L,New,1,1357,Tier 2,0.06,0.07,1,1,1,1,80,90,1,1,1,1,328,8,val
+L1408,L0251,synthetic,Diesel,Jeans,Denim,M,Like New,6,12540,Tier 4,0.09,0.11,0.9,0.9,0.95,1,850,1100,1,1,1,1,251,1,train
+L1409,L0150,synthetic,Vishal Mega Mart,Kurta,Cotton,L,New,3,786,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,150,0,train
+L1410,L0211,synthetic,Reliance Trends,Shirt,Cotton,XL,New,1,2591,Tier 3,0.07,0.09,1,1,1,1,180,250,1,1,1,1,211,1,train
+L1411,L0106,synthetic,Nicobar,Dress,Linen,S,New,2,8806,Tier 4,0.09,0.11,1,1,1.05,1.03,850,1000,1,1,1,1,106,6,train
+L1412,L0159,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Used,8,6023,Tier 4,0.09,0.11,0.7,0.8,1,1,300,350,1,1,1,1,159,9,test
+L1413,L0229,synthetic,Jaypore,Saree,Silk,S,Used,13,8520,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,450,550,1,1,1,1,229,9,test
+L1414,L0202,synthetic,Zudio,Top,Cotton,M,New,3,1386,Tier 2,0.06,0.07,1,1,1,1,80,100,1,1,1,1,202,2,train
+L1415,L0276,synthetic,Easybuy,Shirt,Cotton,M,Like New,1,1544,Tier 2,0.06,0.07,0.9,1,1,1,80,100,1,1,1,1,276,6,train
+L1416,L0211,synthetic,Reliance Trends,Shirt,Cotton,XS,New,1,2280,Tier 2,0.06,0.07,1,1,1,1,140,160,1,1,1,1,211,1,train
+L1417,L0210,synthetic,Max Fashion,Jeans,Denim,M,Like New,7,1904,Tier 2,0.06,0.07,0.9,0.8,0.95,1,80,90,1,1,1,1,210,0,train
+L1418,L0356,synthetic,Soch,Saree,Silk,M,Like New,5,4444,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,300,350,1,1,1,1,356,6,train
+L1419,L0059,synthetic,Levi's,Jeans,Denim,M,New,1,4447,Tier 3,0.07,0.09,1,1,0.95,1,300,400,1,1,1,1,59,9,test
+L1420,L0225,synthetic,Flying Machine,Jeans,Denim,L,Like New,9,4170,Tier 3,0.07,0.09,0.9,0.8,0.95,1,200,250,1,1,1,1,225,5,train
+L1421,L0091,synthetic,Forever 21,Top,Cotton,S,Used,7,1363,Tier 2,0.06,0.07,0.7,0.8,1,1,50,50,1,1,1,1,91,1,train
+L1422,L0079,synthetic,American Eagle,Jeans,Denim,XS,Like New,7,7558,Tier 4,0.09,0.11,0.9,0.8,0.95,1,450,550,1,1,1,1,79,9,test
+L1423,L0025,synthetic,Flying Machine,Jeans,Denim,XS,Used,7,1620,Tier 2,0.06,0.07,0.7,0.8,0.95,1,50,60,1,1,1,1,25,5,train
+L1424,L0228,synthetic,Fabindia,Kurta,Linen,M,New,3,7364,Tier 4,0.09,0.11,1,1,1,1.03,700,850,1,1,1,1,228,8,val
+L1425,L0192,synthetic,Tarun Tahiliani,Saree,Silk,M,Like New,4,62127,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,6400,8100,1,1,1,1,192,2,train
+L1426,L0349,synthetic,Gucci,Jacket,Leather,M,Like New,4,28995,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,2800,3600,1,1,1,1,349,9,test
+L1427,L0371,synthetic,Raw Mango,Saree,Silk,L,New,3,26405,Tier 5,0.11,0.14,1,1,1.1,1.05,3400,4300,1,1,1,1,371,1,train
+L1428,L0320,synthetic,Diesel,Jeans,Denim,S,Used,13,11449,Tier 4,0.09,0.11,0.7,0.7,0.95,1,500,600,1,1,1,1,320,0,train
+L1429,L0307,synthetic,Aurelia,Kurta,Cotton,S,Used,9,3381,Tier 3,0.07,0.09,0.7,0.8,1,1,130,170,1,1,1,1,307,7,val
+L1430,L0049,synthetic,Label Ritu Kumar,Ethnic Wear,Silk,S,Used,6,15414,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,1200,1600,1,1,1,1,49,9,test
+L1431,L0171,synthetic,Pantaloons,Jeans,Denim,L,Like New,13,1054,Tier 1,0.05,0.06,0.9,0.7,0.95,1,30,40,1,1,1,1,171,1,train
+L1432,L0312,synthetic,Roadster,Jeans,Denim,XL,Used,7,4993,Tier 3,0.07,0.09,0.7,0.8,0.95,1,190,250,1,1,1,1,312,2,train
+L1433,L0316,synthetic,Fabindia,Kurta,Linen,S,Like New,7,8850,Tier 4,0.09,0.11,0.9,0.8,1,1.03,600,700,1,1,1,1,316,6,train
+L1434,L0031,synthetic,Suta,Saree,Silk,M,New,2,2708,Tier 3,0.07,0.09,1,1,1.1,1.05,200,300,1,1,1,1,31,1,train
+L1435,L0122,synthetic,Libas,Kurta,Cotton,XS,Used,5,1156,Tier 1,0.05,0.06,0.7,0.9,1,1,40,40,1,1,1,1,122,2,train
+L1436,L0267,synthetic,Zudio,Top,Cotton,XL,Used,5,1058,Tier 1,0.05,0.06,0.7,0.9,1,1,30,40,1,1,1,1,267,7,val
+L1437,L0170,synthetic,Indya,Jacket,Denim,S,Used,4,1516,Tier 2,0.06,0.07,0.7,0.9,1.05,1,60,70,1,1,1,1,170,0,train
+L1438,L0357,synthetic,Aurelia,Kurta,Cotton,L,New,5,3304,Tier 3,0.07,0.09,1,0.9,1,1,200,250,1,1,1,1,357,7,val
+L1439,L0034,synthetic,Max Fashion,Jeans,Denim,L,New,2,1295,Tier 2,0.06,0.07,1,1,0.95,1,70,90,1,1,1,1,34,4,train
+L1440,L0282,synthetic,Libas,Kurta,Cotton,M,Used,5,2798,Tier 3,0.07,0.09,0.7,0.9,1,1,120,160,1,1,1,1,282,2,train
+L1441,L0126,synthetic,Reliance Trends,Top,Cotton,S,Like New,8,753,Tier 1,0.05,0.06,0.9,0.8,1,1,30,30,1,1,1,1,126,6,train
+L1442,L0086,synthetic,Flying Machine,Jeans,Denim,L,Used,10,3542,Tier 3,0.07,0.09,0.7,0.8,0.95,1,130,170,1,1,1,1,86,6,train
+L1443,L0247,synthetic,Asics,Activewear,Polyester,M,Like New,7,8122,Tier 4,0.09,0.11,0.9,0.8,0.95,1,500,600,1,1,1,1,247,7,val
+L1444,L0284,synthetic,Reliance Trends,Shirt,Cotton,M,Like New,4,2488,Tier 2,0.06,0.07,0.9,0.9,1,1,120,140,1,1,1,1,284,4,train
+L1445,L0311,synthetic,Pantaloons,Shirt,Cotton,M,New,2,4057,Tier 3,0.07,0.09,1,1,1,1,300,350,1,1,1,1,311,1,train
+L1446,L0003,synthetic,Nike,Activewear,Polyester,L,Used,4,3923,Tier 3,0.07,0.09,0.7,0.9,0.95,1,160,200,1,1,1,1,3,3,train
+L1447,L0192,synthetic,Tarun Tahiliani,Saree,Silk,S,Used,6,72718,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,5800,7400,1,1,1,1,192,2,train
+L1448,L0064,synthetic,Versace,Dress,Silk,M,Like New,7,119460,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,10400,13300,1,1,1,1,64,4,train
+L1449,L0370,synthetic,Calvin Klein,Jacket,Leather,L,Like New,6,13857,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,1100,1400,1,1,1,1,370,0,train
+L1450,L0127,synthetic,Aurelia,Ethnic Wear,Cotton,S,Like New,1,686,Tier 1,0.05,0.06,0.9,1,1.1,1,30,40,1,1,1,1,127,7,val
+L1451,L0331,synthetic,Soch,Ethnic Wear,Silk,M,Like New,5,4136,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,1,1,1,1,331,1,train
+L1452,L0297,synthetic,Anita Dongre,Lehenga,Silk,M,New,1,20813,Tier 5,0.11,0.14,1,1,1.1,1.05,2600,3400,1,1,1,1,297,7,val
+L1453,L0301,synthetic,Easybuy,Top,Cotton,L,Like New,6,1504,Tier 2,0.06,0.07,0.9,0.9,1,1,70,90,1,1,1,1,301,1,train
+L1454,L0130,synthetic,Reliance Trends,Shirt,Cotton,L,New,5,563,Tier 1,0.05,0.06,1,0.9,1,1,30,30,1,1,1,1,130,0,train
+L1455,L0373,synthetic,Tarun Tahiliani,Lehenga,Silk,L,Used,15,31765,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,2000,2500,1,1,1,1,373,3,train
+L1456,L0204,synthetic,Vishal Mega Mart,Jeans,Denim,S,Used,6,1590,Tier 2,0.06,0.07,0.7,0.9,0.95,1,60,70,1,1,1,1,204,4,train
+L1457,L0357,synthetic,Aurelia,Kurta,Cotton,L,Used,4,3541,Tier 3,0.07,0.09,0.7,0.9,1,1,160,200,1,1,1,1,357,7,val
+L1458,L0096,synthetic,Meena Bazaar,Ethnic Wear,Silk,S,New,3,13203,Tier 4,0.09,0.11,1,1,1.1,1.05,1400,1700,1,1,1,1,96,6,train
+L1459,L0109,synthetic,Zudio,Top,Cotton,S,Like New,2,722,Tier 1,0.05,0.06,0.9,1,1,1,30,40,1,1,1,1,109,9,test
+L1460,L0210,synthetic,Max Fashion,Jeans,Denim,M,Like New,9,2360,Tier 2,0.06,0.07,0.9,0.8,0.95,1,100,110,1,1,1,1,210,0,train
+L1461,L0194,synthetic,Highlander,Shirt,Cotton,M,New,1,1092,Tier 1,0.05,0.06,1,1,1,1,50,70,1,1,1,1,194,4,train
+L1462,L0004,synthetic,Gucci,Jacket,Leather,S,New,5,56180,Tier 5,0.11,0.14,1,0.9,1.05,1.05,6100,7800,1,1,1,1,4,4,train
+L1463,L0267,synthetic,Zudio,Top,Cotton,S,New,3,872,Tier 1,0.05,0.06,1,1,1,1,40,50,1,1,1,1,267,7,val
+L1464,L0176,synthetic,Being Human,Top,Linen,M,Used,8,988,Tier 1,0.05,0.06,0.7,0.8,1,1.03,30,30,1,1,1,1,176,6,train
+L1465,L0170,synthetic,Indya,Jacket,Denim,L,Like New,6,1287,Tier 2,0.06,0.07,0.9,0.9,1.05,1,70,80,1,1,1,1,170,0,train
+L1466,L0014,synthetic,Fabindia,Kurta,Silk,M,Used,11,3547,Tier 3,0.07,0.09,0.7,0.7,1,1.05,130,160,1,1,1,1,14,4,train
+L1467,L0352,synthetic,Vishal Mega Mart,Top,Polyester,S,Used,11,1622,Tier 2,0.06,0.07,0.7,0.7,1,1,50,60,1,1,1,1,352,2,train
+L1468,L0009,synthetic,Roadster,Jeans,Denim,XL,Like New,6,1323,Tier 2,0.06,0.07,0.9,0.9,0.95,1,60,70,1,1,1,1,9,9,test
+L1469,L0120,synthetic,Vishal Mega Mart,Shirt,Cotton,L,Used,8,478,Tier 1,0.05,0.06,0.7,0.8,1,1,10,20,1,1,1,1,120,0,train
+L1470,L0338,synthetic,HRX,Activewear,Polyester,L,Like New,9,5428,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,400,1,1,1,1,338,8,val
+L1471,L0345,synthetic,Diesel,Jeans,Denim,XL,New,1,13085,Tier 4,0.09,0.11,1,1,0.95,1,1100,1400,1,1,1,1,345,5,train
+L1472,L0338,synthetic,HRX,Activewear,Polyester,S,Like New,4,5581,Tier 4,0.09,0.11,0.9,0.9,0.95,1,400,450,1,1,1,1,338,8,val
+L1473,L0197,synthetic,Rohit Bal,Ethnic Wear,Silk,L,Used,4,52989,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,4200,5400,1,1,1,1,197,7,val
+L1474,L0341,synthetic,Fabindia,Kurta,Linen,M,Used,4,8609,Tier 4,0.09,0.11,0.7,0.9,1,1.03,500,600,1,1,1,1,341,1,train
+L1475,L0295,synthetic,Tommy Hilfiger,Shirt,Cotton,L,Like New,8,9240,Tier 4,0.09,0.11,0.9,0.8,1,1,600,750,1,1,1,1,295,5,train
+L1476,L0372,synthetic,Anita Dongre,Lehenga,Silk,M,Used,9,29663,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,2100,2700,1,1,1,1,372,2,train
+L1477,L0060,synthetic,FBB,Ethnic Wear,Cotton,L,New,2,818,Tier 1,0.05,0.06,1,1,1.1,1,40,50,1,1,1,1,60,0,train
+L1478,L0060,synthetic,FBB,Ethnic Wear,Cotton,L,New,3,893,Tier 1,0.05,0.06,1,1,1.1,1,50,60,1,1,1,1,60,0,train
+L1479,L0217,synthetic,Biba,Ethnic Wear,Silk,M,Like New,2,5661,Tier 4,0.09,0.11,0.9,1,1.1,1.05,550,650,1,1,1,1,217,7,val
+L1480,L0309,synthetic,Max Fashion,Jeans,Denim,L,Like New,5,2700,Tier 3,0.07,0.09,0.9,0.9,0.95,1,150,190,1,1,1,1,309,9,test
+L1481,L0152,synthetic,American Eagle,Jeans,Denim,XL,Like New,7,5302,Tier 4,0.09,0.11,0.9,0.8,0.95,1,350,400,1,1,1,1,152,2,train
+L1482,L0360,synthetic,Reliance Trends,Shirt,Cotton,XL,New,1,3590,Tier 3,0.07,0.09,1,1,1,1,250,300,1,1,1,1,360,0,train
+L1483,L0245,synthetic,Adidas,Jacket,Polyester,L,New,3,11771,Tier 4,0.09,0.11,1,1,1.05,1,1100,1400,1,1,1,1,245,5,train
+L1484,L0116,synthetic,Under Armour,Activewear,Polyester,M,New,1,7626,Tier 4,0.09,0.11,1,1,0.95,1,650,800,1,1,1,1,116,6,train
+L1485,L0154,synthetic,Manish Malhotra,Lehenga,Silk,M,Used,6,77687,Tier 5,0.11,0.14,0.7,0.9,1.1,1.05,6200,7900,1,1,1,1,154,4,train
+L1486,L0201,synthetic,Killer,Jeans,Denim,L,Like New,9,1377,Tier 2,0.06,0.07,0.9,0.8,0.95,1,60,70,1,1,1,1,201,1,train
+L1487,L0202,synthetic,Zudio,Top,Cotton,M,Used,5,1264,Tier 2,0.06,0.07,0.7,0.9,1,1,50,60,1,1,1,1,202,2,train
+L1488,L0364,synthetic,Flying Machine,Jeans,Denim,M,Like New,9,4769,Tier 3,0.07,0.09,0.9,0.8,0.95,1,250,300,1,1,1,1,364,4,train
+L1489,L0108,synthetic,Armani,Jacket,Leather,S,Used,14,47997,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2900,3600,1,1,1,1,108,8,val
+L1490,L0076,synthetic,House of Masaba,Saree,Silk,M,Used,8,12492,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,750,900,1,1,1,1,76,6,train
+L1491,L0243,synthetic,Mango,Dress,Linen,S,New,3,9682,Tier 4,0.09,0.11,1,1,1.05,1.03,950,1200,1,1,1,1,243,3,train
+L1492,L0077,synthetic,AND,Dress,Cotton,M,Like New,6,4457,Tier 3,0.07,0.09,0.9,0.9,1.05,1,250,350,1,1,1,1,77,7,val
+L1493,L0089,synthetic,H&M,Dress,Silk,S,Used,7,1794,Tier 2,0.06,0.07,0.7,0.8,1.05,1.05,70,80,1,1,1,1,89,9,test
+L1494,L0333,synthetic,Libas,Kurta,Cotton,S,Like New,13,2936,Tier 3,0.07,0.09,0.9,0.7,1,1,130,170,1,1,1,1,333,3,train
+L1495,L0063,synthetic,Skechers,Activewear,Polyester,M,Like New,7,4643,Tier 3,0.07,0.09,0.9,0.8,0.95,1,200,300,1,1,1,1,63,3,train
+L1496,L0093,synthetic,Prada,Dress,Silk,M,Like New,11,72521,Tier 5,0.11,0.14,0.9,0.7,1.05,1.05,5500,7100,1,1,1,1,93,3,train
+L1497,L0033,synthetic,Forever 21,Dress,Polyester,S,Used,6,1188,Tier 1,0.05,0.06,0.7,0.9,1.05,1,40,50,1,1,1,1,33,3,train
+L1498,L0275,synthetic,Reliance Trends,Top,Cotton,XS,Like New,9,2286,Tier 2,0.06,0.07,0.9,0.8,1,1,100,120,1,1,1,1,275,5,train
+L1499,L0107,synthetic,Zara,Dress,Linen,L,New,1,10676,Tier 4,0.09,0.11,1,1,1.05,1.03,1000,1300,1,1,1,1,107,7,val
+L1500,L0161,synthetic,Aurelia,Kurta,Cotton,S,Used,7,1125,Tier 1,0.05,0.06,0.7,0.8,1,1,30,40,1,1,1,1,161,1,train

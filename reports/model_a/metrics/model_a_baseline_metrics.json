@@ -1,0 +1,12 @@
+{
+  "val_mae_min": 380.97326347650517,
+  "val_rmse_min": 697.9598787032935,
+  "val_mae_max": 457.769234529116,
+  "val_rmse_max": 874.1685295221739,
+  "val_range_violations_before_fix": 54,
+  "test_mae_min": 224.41912491811217,
+  "test_rmse_min": 286.98259871532446,
+  "test_mae_max": 253.29068999484954,
+  "test_rmse_max": 323.0178702816897,
+  "test_range_violations_before_fix": 41
+}

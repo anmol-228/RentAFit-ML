@@ -1,0 +1,16 @@
+{
+  "evaluation_type": "policy_aware_random_baseline",
+  "sample_query_count": 80,
+  "fill_rate_at_5": 0.9349999999999999,
+  "same_category_at_5": 1.0,
+  "gender_compatible_at_5": 1.0,
+  "exact_size_at_5": 0.6560416666666666,
+  "size_compatible_at_5": 0.8881249999999999,
+  "same_material_at_5": 0.8068750000000001,
+  "same_tier_at_5": 0.53125,
+  "avg_rule_quality_score_top5": 83.56062499999999,
+  "avg_similarity_score_top5": 0.6247419609155771,
+  "avg_budget_alignment_top5": 0.6726544566828974,
+  "avg_final_score_top5": 0.7022972973200053,
+  "review_fallback_rate_top5": 0.12958333333333333
+}

@@ -1,0 +1,499 @@
+{
+  "generated_on": "2026-03-18",
+  "model_a": {
+    "cases": [
+      {
+        "case_id": "A1",
+        "input": {
+          "case_id": "A1",
+          "brand": "Zara",
+          "category": "Top",
+          "material": "Cotton",
+          "size": "S",
+          "condition": "New",
+          "age_months": 2,
+          "original_price": 1200
+        },
+        "model_route": "tier_split_tier1to4",
+        "confidence_score": 1.0,
+        "confidence_fallback": false,
+        "final_min_price": 60,
+        "final_max_price": 70,
+        "source": "model_output",
+        "rule_min_price": 60,
+        "rule_max_price": 70
+      },
+      {
+        "case_id": "A2",
+        "input": {
+          "case_id": "A2",
+          "brand": "H&M",
+          "category": "Jeans",
+          "material": "Denim",
+          "size": "M",
+          "condition": "Like New",
+          "age_months": 6,
+          "original_price": 2400
+        },
+        "model_route": "tier_split_tier1to4",
+        "confidence_score": 1.0,
+        "confidence_fallback": false,
+        "final_min_price": 120,
+        "final_max_price": 140,
+        "source": "model_output",
+        "rule_min_price": 110,
+        "rule_max_price": 130
+      },
+      {
+        "case_id": "A3",
+        "input": {
+          "case_id": "A3",
+          "brand": "Biba",
+          "category": "Kurta",
+          "material": "Silk",
+          "size": "M",
+          "condition": "Like New",
+          "age_months": 4,
+          "original_price": 4200
+        },
+        "model_route": "tier_split_tier1to4",
+        "confidence_score": 1.0,
+        "confidence_fallback": false,
+        "final_min_price": 250,
+        "final_max_price": 300,
+        "source": "model_output",
+        "rule_min_price": 250,
+        "rule_max_price": 300
+      },
+      {
+        "case_id": "A4",
+        "input": {
+          "case_id": "A4",
+          "brand": "Anita Dongre",
+          "category": "Lehenga",
+          "material": "Silk",
+          "size": "L",
+          "condition": "New",
+          "age_months": 2,
+          "original_price": 22000
+        },
+        "model_route": "tier_split_tier5",
+        "confidence_score": 0.9,
+        "confidence_fallback": false,
+        "final_min_price": 2800,
+        "final_max_price": 3500,
+        "source": "model_output",
+        "rule_min_price": 2800,
+        "rule_max_price": 3600
+      },
+      {
+        "case_id": "A5",
+        "input": {
+          "case_id": "A5",
+          "brand": "Uniqlo",
+          "category": "Jacket",
+          "material": "Polyester",
+          "size": "M",
+          "condition": "Used",
+          "age_months": 12,
+          "original_price": 8000
+        },
+        "model_route": "tier_split_tier1to4",
+        "confidence_score": 1.0,
+        "confidence_fallback": false,
+        "final_min_price": 400,
+        "final_max_price": 450,
+        "source": "model_output",
+        "rule_min_price": 350,
+        "rule_max_price": 450
+      },
+      {
+        "case_id": "A6",
+        "input": {
+          "case_id": "A6",
+          "brand": "BrandX",
+          "category": "Dress",
+          "material": "Linen",
+          "size": "S",
+          "condition": "Like New",
+          "age_months": 3,
+          "original_price": 3000
+        },
+        "model_route": "tier_split_tier1to4",
+        "confidence_score": 0.45,
+        "confidence_fallback": true,
+        "final_min_price": 200,
+        "final_max_price": 250,
+        "source": "rule_fallback",
+        "rule_min_price": 200,
+        "rule_max_price": 250
+      },
+      {
+        "case_id": "A7",
+        "input": {
+          "case_id": "A7",
+          "brand": "Louis Vuitton",
+          "category": "Shirt",
+          "material": "Linen",
+          "size": "XS",
+          "condition": "Like New",
+          "age_months": 5,
+          "original_price": 70499
+        },
+        "model_route": "tier_split_tier5",
+        "confidence_score": 0.9,
+        "confidence_fallback": false,
+        "final_min_price": 6500,
+        "final_max_price": 8300,
+        "source": "model_output",
+        "rule_min_price": 6500,
+        "rule_max_price": 8200
+      }
+    ],
+    "anomalies": []
+  },
+  "model_b": {
+    "cases": [
+      {
+        "case_id": "B1",
+        "input": {
+          "case_id": "B1",
+          "brand": "Zara",
+          "category": "Top",
+          "gender": "Women",
+          "material": "Cotton",
+          "size": "M",
+          "condition": "New",
+          "garment_age_months": 2,
+          "original_price": 2000,
+          "provider_price": 180,
+          "listing_created_at": "2026-02-01",
+          "as_of_date": "2026-03-18",
+          "current_status": "PENDING_REVIEW"
+        },
+        "resolved_gender": "Women",
+        "gender_conflict_flag": 0,
+        "predicted_decision": "Review",
+        "suggested_status": "PENDING_REVIEW",
+        "listing_age_months": 1,
+        "stale_flag": false,
+        "auto_removed": false,
+        "popup_recommended": false
+      },
+      {
+        "case_id": "B2",
+        "input": {
+          "case_id": "B2",
+          "brand": "Prada",
+          "category": "Dress",
+          "gender": "Men",
+          "material": "Silk",
+          "size": "S",
+          "condition": "Like New",
+          "garment_age_months": 4,
+          "original_price": 95000,
+          "provider_price": 11650,
+          "listing_created_at": "2026-01-20",
+          "as_of_date": "2026-03-18",
+          "current_status": "PENDING_REVIEW"
+        },
+        "resolved_gender": "Men",
+        "gender_conflict_flag": 1,
+        "predicted_decision": "Review",
+        "suggested_status": "PENDING_REVIEW",
+        "listing_age_months": 1,
+        "stale_flag": false,
+        "auto_removed": false,
+        "popup_recommended": true
+      },
+      {
+        "case_id": "B3",
+        "input": {
+          "case_id": "B3",
+          "brand": "Biba",
+          "category": "Kurta",
+          "gender": "Women",
+          "material": "Silk",
+          "size": "M",
+          "condition": "Like New",
+          "garment_age_months": 8,
+          "original_price": 4000,
+          "provider_price": 320,
+          "listing_created_at": "2025-01-01",
+          "as_of_date": "2026-03-18",
+          "current_status": "ACTIVE"
+        },
+        "resolved_gender": "Women",
+        "gender_conflict_flag": 0,
+        "predicted_decision": "Review",
+        "suggested_status": "REAPPROVAL_REQUIRED",
+        "listing_age_months": 14,
+        "stale_flag": true,
+        "auto_removed": false,
+        "popup_recommended": false
+      },
+      {
+        "case_id": "B4",
+        "input": {
+          "case_id": "B4",
+          "brand": "Gucci",
+          "category": "Dress",
+          "gender": "Women",
+          "material": "Silk",
+          "size": "S",
+          "condition": "Used",
+          "garment_age_months": 12,
+          "original_price": 120000,
+          "provider_price": 60000,
+          "listing_created_at": "2025-04-01",
+          "as_of_date": "2026-03-18",
+          "current_status": "ACTIVE"
+        },
+        "resolved_gender": "Women",
+        "gender_conflict_flag": 0,
+        "predicted_decision": "Reject",
+        "suggested_status": "REJECTED",
+        "listing_age_months": 11,
+        "stale_flag": true,
+        "auto_removed": false,
+        "popup_recommended": false
+      },
+      {
+        "case_id": "B5",
+        "input": {
+          "case_id": "B5",
+          "brand": "H&M",
+          "category": "Jeans",
+          "gender": "Men",
+          "material": "Denim",
+          "size": "M",
+          "condition": "Like New",
+          "garment_age_months": 4,
+          "original_price": 3000,
+          "provider_price": 260,
+          "listing_created_at": "2024-12-01",
+          "as_of_date": "2026-03-18",
+          "current_status": "ACTIVE",
+          "auto_remove_stale": true,
+          "removal_grace_months": 3
+        },
+        "resolved_gender": "Men",
+        "gender_conflict_flag": 0,
+        "predicted_decision": "Review",
+        "suggested_status": "REMOVED",
+        "listing_age_months": 15,
+        "stale_flag": true,
+        "auto_removed": true,
+        "popup_recommended": false
+      },
+      {
+        "case_id": "B6",
+        "input": {
+          "case_id": "B6",
+          "brand": "Uniqlo",
+          "category": "Jacket",
+          "gender": "Men",
+          "material": "Polyester",
+          "size": "L",
+          "condition": "Like New",
+          "garment_age_months": 5,
+          "original_price": 8000,
+          "provider_price": 1200,
+          "listing_created_at": "2026-01-15",
+          "as_of_date": "2026-03-18",
+          "current_status": "PENDING_REVIEW"
+        },
+        "resolved_gender": "Men",
+        "gender_conflict_flag": 0,
+        "predicted_decision": "Reject",
+        "suggested_status": "REJECTED",
+        "listing_age_months": 2,
+        "stale_flag": false,
+        "auto_removed": false,
+        "popup_recommended": false
+      }
+    ],
+    "anomalies": []
+  },
+  "model_c": {
+    "cases": [
+      {
+        "case_id": "C1",
+        "query_mode": "item_to_item",
+        "seed_or_profile": "L0007",
+        "query_category": "Dress",
+        "query_gender": "Women",
+        "top_k_requested": 5,
+        "results_returned": 5,
+        "budget_source": "category_average_budget",
+        "review_items_used": 0,
+        "top_recommendations": [
+          "L1499",
+          "L1189",
+          "L0107"
+        ],
+        "top_categories": [
+          "Dress",
+          "Dress",
+          "Dress"
+        ],
+        "top_pool_statuses": [
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE"
+        ],
+        "shortfall_is_valid": false
+      },
+      {
+        "case_id": "C2",
+        "query_mode": "item_to_item",
+        "seed_or_profile": "L0037",
+        "query_category": "Shirt",
+        "query_gender": "Unisex",
+        "top_k_requested": 5,
+        "results_returned": 5,
+        "budget_source": "category_average_budget",
+        "review_items_used": 0,
+        "top_recommendations": [
+          "L0470",
+          "L0295",
+          "L0142"
+        ],
+        "top_categories": [
+          "Shirt",
+          "Shirt",
+          "Shirt"
+        ],
+        "top_pool_statuses": [
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE"
+        ],
+        "shortfall_is_valid": false
+      },
+      {
+        "case_id": "C3",
+        "query_mode": "profile_from_liked_items",
+        "seed_or_profile": "L0007,L0015,L0051",
+        "query_category": "Dress",
+        "query_gender": "Women",
+        "top_k_requested": 5,
+        "results_returned": 5,
+        "budget_source": "category_average_budget",
+        "review_items_used": 0,
+        "top_recommendations": [
+          "L0884",
+          "L0862",
+          "L0350"
+        ],
+        "top_categories": [
+          "Dress",
+          "Dress",
+          "Dress"
+        ],
+        "top_pool_statuses": [
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE"
+        ],
+        "shortfall_is_valid": false
+      },
+      {
+        "case_id": "C4",
+        "query_mode": "item_to_item",
+        "seed_or_profile": "L0003",
+        "query_category": "Activewear",
+        "query_gender": "Unisex",
+        "top_k_requested": 5,
+        "results_returned": 4,
+        "budget_source": "category_average_budget",
+        "review_items_used": 2,
+        "top_recommendations": [
+          "L0185",
+          "L1020",
+          "L0603"
+        ],
+        "top_categories": [
+          "Activewear",
+          "Activewear",
+          "Activewear"
+        ],
+        "top_pool_statuses": [
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE",
+          "REVIEW_FALLBACK"
+        ],
+        "shortfall_is_valid": true
+      },
+      {
+        "case_id": "C5",
+        "query_mode": "item_to_item",
+        "seed_or_profile": "L0007",
+        "query_category": "Dress",
+        "query_gender": "Women",
+        "top_k_requested": 5,
+        "results_returned": 5,
+        "budget_source": "explicit_user_budget",
+        "review_items_used": 0,
+        "top_recommendations": [
+          "L1499",
+          "L1189",
+          "L0107"
+        ],
+        "top_categories": [
+          "Dress",
+          "Dress",
+          "Dress"
+        ],
+        "top_pool_statuses": [
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE",
+          "PRIMARY_APPROVE"
+        ],
+        "shortfall_is_valid": false
+      }
+    ],
+    "anomalies": []
+  },
+  "documentation_audit": {
+    "required_files_present": {
+      "model_a_md": true,
+      "model_a_docx": true,
+      "model_b_md": true,
+      "model_b_docx": true,
+      "model_c_md": true,
+      "model_c_docx": true,
+      "project_md": true,
+      "project_docx": true
+    },
+    "docx_image_counts": {
+      "model_a_docx_images": 6,
+      "model_b_docx_images": 7,
+      "model_c_docx_images": 6,
+      "project_docx_images": 12
+    },
+    "visual_summary": {
+      "model_a": {
+        "required_visual_count": 6,
+        "missing_visuals": []
+      },
+      "model_b": {
+        "required_visual_count": 7,
+        "missing_visuals": []
+      },
+      "model_c": {
+        "required_visual_count": 6,
+        "missing_visuals": []
+      },
+      "project": {
+        "required_visual_count": 4,
+        "missing_visuals": []
+      }
+    },
+    "anomalies": []
+  },
+  "improvement_check": {
+    "model_c_weight_tuning_attempted": true,
+    "result": "No material gain found; current weights retained because the best safe alternative improved the composite objective by only about 0.0003."
+  }
+}

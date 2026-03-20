@@ -1,0 +1,30 @@
+{
+  "source_rows": 1500,
+  "catalog_rows": 1500,
+  "recommendable_rows": 1122,
+  "filtered_out_rows": 378,
+  "recommendable_rate": 0.748,
+  "category_counts_recommendable": {
+    "Dress": 154,
+    "Shirt": 147,
+    "Jeans": 139,
+    "Jacket": 125,
+    "Top": 116,
+    "Kurta": 113,
+    "Saree": 110,
+    "Activewear": 85,
+    "Ethnic Wear": 84,
+    "Lehenga": 49
+  },
+  "gender_counts_recommendable": {
+    "Unisex": 693,
+    "Women": 429
+  },
+  "tier_counts_recommendable": {
+    "Tier 4": 302,
+    "Tier 3": 225,
+    "Tier 5": 224,
+    "Tier 2": 208,
+    "Tier 1": 163
+  }
+}

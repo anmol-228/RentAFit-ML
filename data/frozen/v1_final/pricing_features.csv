@@ -1,0 +1,376 @@
+listing_id,brand,category,material,size,condition,age_months,original_price,provider_price,tier_primary,base_min_pct,base_max_pct,cond_mult,age_mult,cat_mult,mat_mult,rule_min,rule_max,rule_mid,deviation_M,condition_penalty,age_penalty,deviation_penalty,total_penalty,penalties,rule_quality_score,rule_decision
+L0001,Sabyasachi,Ethnic Wear,Silk,M,Like New,4,89999,12400,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,9300,11800,10550.0,5.0847,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0002,Zudio,Top,Cotton,S,Like New,4,599,65,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,20,30,25.0,116.6667,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0003,Nike,Activewear,Polyester,L,New,2,3999,480,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,250,350,300.0,37.1429,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0004,Gucci,Jacket,Leather,S,New,1,61999,9100,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,7500,9600,8550.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0005,Rangriti,Kurta,Cotton,S,New,2,999,125,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,60,55.0,108.3333,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0006,Louis Vuitton,Jacket,Leather,M,Used,10,150000,14850,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,10200,13000,11600.0,14.2308,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0007,Zara,Dress,Linen,L,New,2,9999,1155,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,950,1200,1075.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0008,Biba,Kurta,Silk,M,Like New,5,1499,185,Tier 2,0.06,0.07,0.9,0.9,1.0,1.05,80,90,85.0,105.5556,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0009,Roadster,Jeans,Denim,XL,New,2,1099,135,Tier 1,0.05,0.06,1.0,1.0,0.95,1.0,50,60,55.0,125.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0010,Anita Dongre,Saree,Silk,M,New,3,59999,8580,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,7600,9700,8650.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0011,Easybuy,Top,Polyester,S,Like New,3,499,60,Tier 1,0.05,0.06,0.9,1.0,1.0,1.0,20,30,25.0,100.0,8,0,45,53,cond=8|age=0|dev=45|total=53,47,Reject
+L0012,Manyavar,Ethnic Wear,Silk,XL,New,2,5499,785,Tier 4,0.09,0.11,1.0,1.0,1.1,1.05,550,700,625.0,12.1429,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0013,GAP,Jeans,Denim,L,Used,11,5999,515,Tier 4,0.09,0.11,0.7,0.7,0.95,1.0,250,300,275.0,71.6667,18,12,45,75,cond=18|age=12|dev=45|total=75,25,Reject
+L0014,Fabindia,Kurta,Silk,M,Used,7,2999,280,Tier 3,0.07,0.09,0.7,0.8,1.0,1.05,120,160,140.0,75.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0015,Prada,Dress,Silk,S,Like New,4,95000,11650,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,9300,11900,10600.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0016,HRX,Activewear,Polyester,XS,New,3,999,120,Tier 1,0.05,0.06,1.0,1.0,0.95,1.0,50,60,55.0,100.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0017,Sabyasachi,Saree,Silk,L,New,2,145000,19800,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,18400,23400,20900.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0018,Moda Rapido,Dress,Polyester,S,New,1,1099,160,Tier 1,0.05,0.06,1.0,1.0,1.05,1.0,60,70,65.0,128.5714,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0019,Bewakoof,Top,Cotton,S,New,2,899,110,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,40,50,45.0,120.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0020,Marks & Spencer,Shirt,Linen,L,Like New,5,3499,525,Tier 3,0.07,0.09,0.9,0.9,1.0,1.03,200,250,225.0,110.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0021,Tarun Tahiliani,Saree,Silk,M,Like New,6,69999,8850,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,7200,9200,8200.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0022,Mufti,Shirt,Linen,L,Used,10,3099,265,Tier 3,0.07,0.09,0.7,0.8,1.0,1.03,130,160,145.0,65.625,18,12,45,75,cond=18|age=12|dev=45|total=75,25,Reject
+L0023,Libas,Kurta,Cotton,S,New,4,899,100,Tier 1,0.05,0.06,1.0,0.9,1.0,1.0,40,50,45.0,100.0,0,4,45,49,cond=0|age=4|dev=45|total=49,51,Reject
+L0024,Anouk,Saree,Silk,M,New,3,1999,285,Tier 2,0.06,0.07,1.0,1.0,1.1,1.05,140,160,150.0,78.125,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0025,Flying Machine,Jeans,Denim,L,Like New,4,1499,185,Tier 2,0.06,0.07,0.9,0.9,0.95,1.0,70,80,75.0,131.25,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0026,Global Desi,Saree,Silk,S,Like New,6,2499,330,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,140,160,150.0,106.25,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0027,Pantaloons,Jeans,Denim,S,Used,9,1099,95,Tier 1,0.05,0.06,0.7,0.8,0.95,1.0,30,40,35.0,137.5,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0028,Indya,Jacket,Denim,L,Like New,5,1299,145,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,70,80,75.0,81.25,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0029,Zara,Jacket,Denim,M,Used,8,4999,475,Tier 3,0.07,0.09,0.7,0.8,1.05,1.0,200,250,225.0,90.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0030,H&M,Dress,Cotton,S,Used,9,1199,105,Tier 1,0.05,0.06,0.7,0.8,1.05,1.0,40,40,40.0,162.5,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0031,Suta,Saree,Silk,M,New,1,2999,430,Tier 3,0.07,0.09,1.0,1.0,1.1,1.05,250,300,275.0,43.3333,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0032,Uniqlo,Jacket,Polyester,M,Like New,5,1999,220,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,100,120,110.0,83.3333,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0033,Forever 21,Dress,Polyester,S,New,2,1299,175,Tier 2,0.06,0.07,1.0,1.0,1.05,1.0,80,100,90.0,75.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0034,Max Fashion,Jeans,Denim,M,New,3,999,120,Tier 1,0.05,0.06,1.0,1.0,0.95,1.0,50,60,55.0,100.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0035,Highlander,Shirt,Cotton,M,New,3,999,125,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,60,55.0,108.3333,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0036,Jaypore,Saree,Silk,M,Like New,6,8999,1150,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,750,950,850.0,21.0526,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0037,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,8550,Tier 5,0.11,0.14,0.9,0.9,1.0,1.03,6500,8200,7350.0,4.2683,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0038,Armani,Jacket,Leather,S,Used,11,45459,4150,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,3050.0,22.0588,18,12,20,50,cond=18|age=12|dev=20|total=50,50,Review
+L0039,W for Woman,Saree,Silk,M,New,2,2499,330,Tier 2,0.06,0.07,1.0,1.0,1.1,1.05,170,200,185.0,65.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0040,Biba,Dress,Silk,M,Like New,6,5500,825,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,450,550,500.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0041,Global Desi,Ethnic Wear,Silk,M,Like New,5,3999,600,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,300.0,71.4286,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0042,Soch,Ethnic Wear,Silk,S,Like New,4,1499,205,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,90.0,105.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0043,Manish Malhotra,Ethnic Wear,Silk,M,Used,8,79999,8700,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5700,7200,6450.0,20.8333,18,8,20,46,cond=18|age=8|dev=20|total=46,54,Review
+L0044,Aurelia,Kurta,Cotton,S,Used,8,999,100,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,30,30,30.0,233.3333,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0045,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,735,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,450,550,500.0,33.6364,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0046,Calvin Klein,Jacket,Denim,M,Used,9,7999,760,Tier 4,0.09,0.11,0.7,0.8,1.05,1.0,400,500,450.0,52.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0047,Red Tape,Shirt,Linen,S,New,3,899,110,Tier 1,0.05,0.06,1.0,1.0,1.0,1.03,50,60,55.0,83.3333,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0048,Puma,Activewear,Polyester,M,Used,7,2999,260,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,110,140,125.0,85.7143,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0049,Label Ritu Kumar,Ethnic Wear,Silk,S,New,3,14500,2175,Tier 4,0.09,0.11,1.0,1.0,1.1,1.05,1500,1800,1650.0,20.8333,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0050,Fabindia,Kurta,Cotton,XL,Used,10,2799,280,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,110,140,125.0,100.0,18,12,45,75,cond=18|age=12|dev=45|total=75,25,Reject
+L0051,Prada,Dress,Silk,L,Like New,6,85999,10600,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,8400,10800,9600.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0052,Nalli,Saree,Silk,L,Like New,3,6999,965,Tier 4,0.09,0.11,0.9,1.0,1.1,1.05,650,800,725.0,20.625,8,0,20,28,cond=8|age=0|dev=20|total=28,72,Review
+L0053,Zudio,Top,Cotton,S,New,2,499,75,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,20,30,25.0,150.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0054,Adidas,Activewear,Polyester,S,Like New,5,3499,425,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,190,250,220.0,70.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0055,Libas,Kurta,Silk,S,New,2,1999,300,Tier 2,0.06,0.07,1.0,1.0,1.0,1.05,130,150,140.0,100.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0056,Bewakoof,Top,Polyester,S,Used,6,499,45,Tier 1,0.05,0.06,0.7,0.9,1.0,1.0,20,20,20.0,125.0,18,4,45,67,cond=18|age=4|dev=45|total=67,33,Reject
+L0057,Moda Rapido,Dress,Denim,S,New,1,899,115,Tier 1,0.05,0.06,1.0,1.0,1.05,1.0,50,60,55.0,91.6667,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0058,Roadster,Shirt,Cotton,M,New,3,1099,135,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,70,60.0,92.8571,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0059,Levi's,Jeans,Denim,M,New,2,3999,480,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,250,350,300.0,37.1429,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0060,FBB,Ethnic Wear,Cotton,L,New,4,699,90,Tier 1,0.05,0.06,1.0,0.9,1.1,1.0,30,40,35.0,125.0,0,4,45,49,cond=0|age=4|dev=45|total=49,51,Reject
+L0061,Gucci,Jacket,Leather,M,Like New,6,120000,13300,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,11800,15000,13400.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0062,HRX,Activewear,Polyester,M,New,3,2299,345,Tier 2,0.06,0.07,1.0,1.0,0.95,1.0,130,150,140.0,130.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0063,Skechers,Activewear,Polyester,M,Like New,4,4999,610,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,350,300.0,74.2857,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0064,Versace,Dress,Silk,M,Like New,5,110000,13400,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10800,13800,12300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0065,Mufti,Shirt,Linen,M,Like New,4,2899,435,Tier 3,0.07,0.09,0.9,0.9,1.0,1.03,170,200,185.0,117.5,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0066,Reebok,Activewear,Polyester,S,Used,3,2799,285,Tier 3,0.07,0.09,0.7,1.0,0.95,1.0,130,170,150.0,67.6471,18,0,45,63,cond=18|age=0|dev=45|total=63,37,Reject
+L0067,Anouk,Saree,Cotton,S,Used,7,1899,155,Tier 2,0.06,0.07,0.7,0.8,1.1,1.0,70,80,75.0,93.75,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0068,Masaba,Dress,Silk,M,Like New,4,12000,1800,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,950,1200,1075.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0069,Indya,Jacket,Denim,M,Used,9,1499,145,Tier 2,0.06,0.07,0.7,0.8,1.05,1.0,50,60,55.0,141.6667,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0070,Pantaloons,Dress,Cotton,L,Like New,6,2499,375,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,130,150,140.0,150.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0071,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,90,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,30,40,35.0,125.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0072,Zudio,Shirt,Cotton,M,New,1,399,50,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,20,20,20.0,150.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0073,Under Armour,Activewear,Polyester,M,New,3,6999,840,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,600,750,675.0,12.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0074,Reliance Trends,Top,Cotton,S,Like New,6,799,90,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,30,40,35.0,125.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0075,Easybuy,Shirt,Polyester,M,Used,8,699,65,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,20,20,20.0,225.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0076,House of Masaba,Saree,Silk,M,Like New,7,13499,1650,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1100.0,37.5,8,8,30,46,cond=8|age=8|dev=30|total=46,54,Review
+L0077,AND,Dress,Cotton,M,Like New,5,4999,525,Tier 3,0.07,0.09,0.9,0.9,1.05,1.0,300,400,350.0,31.25,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0078,Nicobar,Dress,Linen,S,New,3,7999,925,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,800,950,875.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0079,American Eagle,Jeans,Denim,XS,Used,8,8499,730,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,400,500,450.0,46.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0080,Anita Dongre,Ethnic Wear,Silk,S,Like New,10,19499,2350,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,2050.0,2.1739,8,12,5,25,cond=8|age=12|dev=5|total=25,75,Approve
+L0081,FBB,Kurta,Cotton,M,Used,9,999,100,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,30,30,30.0,233.3333,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0082,Aurelia,Ethnic Wear,Cotton,M,Used,6,1199,150,Tier 1,0.05,0.06,0.7,0.9,1.1,1.0,40,50,45.0,200.0,18,4,45,67,cond=18|age=4|dev=45|total=67,33,Reject
+L0083,Bewakoof,Top,Polyester,XS,Like New,5,799,110,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,30,40,35.0,175.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0084,Style Bazaar,Top,Polyester,XL,Used,8,299,30,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,10,10,10.0,200.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0085,Rangriti,Kurta,Cotton,M,New,3,699,90,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,30,40,35.0,125.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0086,Flying Machine,Jeans,Denim,L,Used,9,3199,420,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,120,150,135.0,180.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0087,Mufti,Shirt,Linen,M,Used,11,3499,300,Tier 3,0.07,0.09,0.7,0.7,1.0,1.03,120,160,140.0,87.5,18,12,45,75,cond=18|age=12|dev=45|total=75,25,Reject
+L0088,Suta,Saree,Linen,M,Like New,6,3499,440,Tier 3,0.07,0.09,0.9,0.9,1.1,1.03,200,300,250.0,46.6667,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0089,H&M,Dress,Silk,S,Like New,6,1499,180,Tier 2,0.06,0.07,0.9,0.9,1.05,1.05,80,90,85.0,100.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0090,Zara,Dress,Linen,S,New,2,6990,1050,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,700,850,775.0,23.5294,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0091,Forever 21,Top,Cotton,S,Like New,5,1500,225,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,70,90,80.0,150.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0092,Highlander,Top,Cotton,XL,Like New,2,599,80,Tier 1,0.05,0.06,0.9,1.0,1.0,1.0,30,30,30.0,166.6667,8,0,45,53,cond=8|age=0|dev=45|total=53,47,Reject
+L0093,Prada,Dress,Silk,M,Like New,8,75499,8250,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,6600,8400,7500.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0094,Soch,Ethnic Wear,Silk,S,Like New,4,1499,205,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,90.0,105.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0095,Neeru's,Ethnic Wear,Silk,M,Like New,7,14999,1850,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1100,1400,1250.0,32.1429,8,8,20,36,cond=8|age=8|dev=20|total=36,64,Review
+L0096,Meena Bazaar,Ethnic Wear,Silk,S,New,4,12999,1720,Tier 4,0.09,0.11,1.0,0.9,1.1,1.05,1200,1500,1350.0,14.6667,0,4,12,16,cond=0|age=4|dev=12|total=16,84,Approve
+L0097,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,7150,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,4800,6100,5450.0,17.2131,8,8,12,28,cond=8|age=8|dev=12|total=28,72,Approve
+L0098,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,6350,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,5100,6500,5800.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0099,W for Woman,Ethnic Wear,Silk,S,Used,7,1199,135,Tier 1,0.05,0.06,0.7,0.8,1.1,1.05,40,50,45.0,170.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0100,Armani,Ethnic Wear,Polyester,L,New,2,85000,12100,Tier 5,0.11,0.14,1.0,1.0,1.1,1.0,10300,13100,11700.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0101,Rangriti,Kurta,Cotton,M,New,3,699,65,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,30,40,35.0,62.5,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0102,Style Bazaar,Top,Polyester,XL,Used,8,299,20,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,10,10,10.0,100.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0103,Soch,Ethnic Wear,Cotton,XS,Used,9,799,35,Tier 1,0.05,0.06,0.7,0.8,1.1,1.0,20,30,25.0,16.6667,18,8,12,38,cond=18|age=8|dev=12|total=38,62,Review
+L0104,AND,Dress,Cotton,M,Like New,5,4999,510,Tier 3,0.07,0.09,0.9,0.9,1.05,1.0,300,400,350.0,27.5,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0105,House of Masaba,Saree,Silk,M,Like New,7,13499,1500,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1000,1200,1100.0,25.0,8,8,20,36,cond=8|age=8|dev=20|total=36,64,Review
+L0106,Nicobar,Dress,Linen,S,New,3,7999,1000,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,800,950,875.0,5.2632,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0107,Zara,Dress,Linen,L,New,2,9999,1320,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,950,1200,1075.0,10.0,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0108,Armani,Jacket,Leather,S,Used,11,45459,3700,Tier 5,0.11,0.14,0.7,0.7,1.05,1.05,2700,3400,3050.0,8.8235,18,12,5,35,cond=18|age=12|dev=5|total=35,65,Review
+L0109,Zudio,Top,Cotton,S,Like New,4,599,40,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,20,30,25.0,33.3333,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0110,Easybuy,Shirt,Polyester,M,Used,8,699,40,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,20,20,20.0,100.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0111,W for Woman,Saree,Silk,M,New,2,2499,330,Tier 2,0.06,0.07,1.0,1.0,1.1,1.05,170,200,185.0,65.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0112,Zudio,Shirt,Cotton,M,New,1,399,30,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,20,20,20.0,50.0,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0113,Easybuy,Top,Polyester,S,Like New,3,499,35,Tier 1,0.05,0.06,0.9,1.0,1.0,1.0,20,30,25.0,16.6667,8,0,12,20,cond=8|age=0|dev=12|total=20,80,Approve
+L0114,GAP,Jeans,Denim,L,Used,11,5999,335,Tier 4,0.09,0.11,0.7,0.7,0.95,1.0,250,300,275.0,11.6667,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0115,American Eagle,Jeans,Denim,XS,Used,8,8499,550,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,400,500,450.0,10.0,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0116,Under Armour,Activewear,Polyester,M,New,3,6999,800,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,600,750,675.0,6.6667,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0117,Anita Dongre,Lehenga,Silk,S,Like New,10,19499,1950,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,1800,2300,2050.0,0.0,8,12,0,20,cond=8|age=12|dev=0|total=20,80,Approve
+L0118,FBB,Kurta,Cotton,M,Used,9,999,50,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,30,30,30.0,66.6667,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0119,Pantaloons,Jeans,Denim,L,Like New,5,1199,80,Tier 1,0.05,0.06,0.9,0.9,0.95,1.0,50,60,55.0,33.3333,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0120,Vishal Mega Mart,Shirt,Cotton,L,Used,7,399,25,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,10,10,10.0,150.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0121,Roadster,Shirt,Cotton,M,New,3,1099,80,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,70,60.0,14.2857,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0122,Libas,Kurta,Cotton,M,Like New,4,1199,90,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,50,60,55.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0123,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,6400,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,4800,6100,5450.0,4.918,8,8,5,21,cond=8|age=8|dev=5|total=21,79,Approve
+L0124,Gucci,Jacket,Leather,S,New,1,61999,10200,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,7500,9600,8550.0,6.25,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0125,Max Fashion,Jeans,Denim,M,New,3,999,70,Tier 1,0.05,0.06,1.0,1.0,0.95,1.0,50,60,55.0,16.6667,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0126,Reliance Trends,Top,Cotton,S,Like New,6,799,50,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,30,40,35.0,25.0,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0127,Aurelia,Ethnic Wear,Cotton,S,Like New,2,699,60,Tier 1,0.05,0.06,0.9,1.0,1.1,1.0,30,40,35.0,50.0,8,0,30,38,cond=8|age=0|dev=30|total=38,62,Review
+L0128,Libas,Kurta,Cotton,S,New,4,899,65,Tier 1,0.05,0.06,1.0,0.9,1.0,1.0,40,50,45.0,30.0,0,4,20,24,cond=0|age=4|dev=20|total=24,76,Review
+L0129,Max Fashion,Jeans,Denim,M,Used,5,799,40,Tier 1,0.05,0.06,0.7,0.9,0.95,1.0,20,30,25.0,33.3333,18,4,20,42,cond=18|age=4|dev=20|total=42,58,Review
+L0130,Reliance Trends,Shirt,Cotton,L,New,3,499,40,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,20,30,25.0,33.3333,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0131,Fabindia,Kurta,Cotton,M,Used,7,2999,200,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,120,150,135.0,33.3333,18,8,20,46,cond=18|age=8|dev=20|total=46,54,Review
+L0132,Suta,Saree,Linen,M,Like New,6,3499,320,Tier 3,0.07,0.09,0.9,0.9,1.1,1.03,200,300,250.0,6.6667,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0133,H&M,Dress,Cotton,S,Like New,6,1499,120,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,80,90,85.0,33.3333,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0134,Levi's,Jeans,Denim,M,New,2,3999,480,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,250,350,300.0,37.1429,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0135,Zara,Jacket,Denim,M,Used,8,4999,350,Tier 3,0.07,0.09,0.7,0.8,1.05,1.0,200,250,225.0,40.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0136,Uniqlo,Jacket,Polyester,M,Like New,5,1999,170,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,100,120,110.0,41.6667,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0137,Forever 21,Dress,Polyester,S,New,2,1299,140,Tier 2,0.06,0.07,1.0,1.0,1.05,1.0,80,100,90.0,40.0,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0138,GAP,Jeans,Denim,M,Used,10,3999,260,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,150,190,170.0,36.8421,18,12,30,60,cond=18|age=12|dev=30|total=60,40,Review
+L0139,FBB,Ethnic Wear,Cotton,L,New,4,699,60,Tier 1,0.05,0.06,1.0,0.9,1.1,1.0,30,40,35.0,50.0,0,4,30,34,cond=0|age=4|dev=30|total=34,66,Review
+L0140,Prada,Dress,Silk,S,Like New,6,85999,9800,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,8400,10800,9600.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0141,Highlander,Top,Cotton,XL,Like New,2,599,45,Tier 1,0.05,0.06,0.9,1.0,1.0,1.0,30,30,30.0,50.0,8,0,30,38,cond=8|age=0|dev=30|total=38,62,Review
+L0142,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,8800,Tier 5,0.11,0.14,0.9,0.9,1.0,1.03,6500,8200,7350.0,7.3171,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0143,Prada,Dress,Silk,M,Like New,8,75499,8900,Tier 5,0.11,0.14,0.9,0.8,1.05,1.05,6600,8400,7500.0,5.9524,8,8,5,21,cond=8|age=8|dev=5|total=21,79,Approve
+L0144,Soch,Ethnic Wear,Silk,S,Like New,4,1499,160,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,90.0,60.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Review
+L0145,Suta,Saree,Silk,M,New,1,2999,415,Tier 3,0.07,0.09,1.0,1.0,1.1,1.05,250,300,275.0,38.3333,0,0,30,30,cond=0|age=0|dev=30|total=30,70,Review
+L0146,Nalli,Saree,Silk,M,Like New,3,6999,875,Tier 4,0.09,0.11,0.9,1.0,1.1,1.05,650,800,725.0,9.375,8,0,5,13,cond=8|age=0|dev=5|total=13,87,Approve
+L0147,Neeru's,Lehenga,Silk,L,Like New,7,14999,1500,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,1100,1400,1250.0,7.1429,8,8,5,21,cond=8|age=8|dev=5|total=21,79,Approve
+L0148,Meena Bazaar,Lehenga,Silk,S,New,4,12999,1620,Tier 4,0.09,0.11,1.0,0.9,1.1,1.05,1200,1500,1350.0,8.0,0,4,5,9,cond=0|age=4|dev=5|total=9,91,Approve
+L0149,Rangriti,Kurta,Cotton,M,New,2,999,70,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,60,55.0,16.6667,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0150,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,50,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,30,40,35.0,25.0,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0151,Style Bazaar,Shirt,Cotton,XL,Used,7,499,30,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,10,20,15.0,50.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0152,American Eagle,Jeans,Denim,L,Like New,4,4999,450,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,350,300.0,28.5714,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0153,Sabyasachi,Lehenga,Silk,M,Like New,4,89999,14000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,9300,11800,10550.0,18.6441,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0154,Manish Malhotra,Lehenga,Silk,M,Used,8,79999,9000,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,5700,7200,6450.0,25.0,18,8,20,46,cond=18|age=8|dev=20|total=46,54,Review
+L0155,Uniqlo,Jacket,Denim,XS,Like New,5,1499,130,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,80,90,85.0,44.4444,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0156,Forever 21,Dress,Cotton,M,Like New,6,1299,110,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,70,80,75.0,37.5,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0157,Manyavar,Ethnic Wear,Silk,XL,Like New,2,5499,690,Tier 4,0.09,0.11,0.9,1.0,1.1,1.05,500,650,575.0,6.1538,8,0,5,13,cond=8|age=0|dev=5|total=13,87,Approve
+L0158,Fabindia,Ethnic Wear,Silk,XS,Used,8,2199,175,Tier 2,0.06,0.07,0.7,0.8,1.1,1.05,90,100,95.0,75.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0159,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,600,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,450,550,500.0,9.0909,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0160,Calvin Klein,Jacket,Denim,M,Used,9,7999,550,Tier 4,0.09,0.11,0.7,0.8,1.05,1.0,400,500,450.0,10.0,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0161,Aurelia,Kurta,Cotton,S,Used,8,999,60,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,30,30,30.0,100.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0162,Biba,Kurta,Cotton,M,Like New,5,1499,120,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,70,80,75.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0163,UCB,Shirt,Cotton,S,Like New,5,3499,300,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,200,250,225.0,20.0,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0164,Global Desi,Saree,Silk,S,Like New,6,2499,270,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,140,160,150.0,68.75,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0165,Anouk,Saree,Silk,M,New,3,1999,250,Tier 2,0.06,0.07,1.0,1.0,1.1,1.05,140,160,150.0,56.25,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Review
+L0166,Indya,Jacket,Denim,M,Used,9,1499,100,Tier 2,0.06,0.07,0.7,0.8,1.05,1.0,50,60,55.0,66.6667,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0167,Flying Machine,Jeans,Denim,L,Like New,4,1499,150,Tier 2,0.06,0.07,0.9,0.9,0.95,1.0,70,80,75.0,87.5,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0168,Mufti,Shirt,Linen,M,Used,11,3499,200,Tier 3,0.07,0.09,0.7,0.7,1.0,1.03,120,160,140.0,25.0,18,12,20,50,cond=18|age=12|dev=20|total=50,50,Review
+L0169,Anouk,Saree,Cotton,M,Used,7,1399,90,Tier 2,0.06,0.07,0.7,0.8,1.1,1.0,50,60,55.0,50.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0170,Indya,Jacket,Denim,S,Like New,5,1299,120,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,70,80,75.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0171,Pantaloons,Jeans,Denim,L,Used,9,1099,60,Tier 1,0.05,0.06,0.7,0.8,0.95,1.0,30,40,35.0,50.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0172,Roadster,Jeans,Denim,XL,New,2,1099,110,Tier 1,0.05,0.06,1.0,1.0,0.95,1.0,50,60,55.0,83.3333,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0173,Armani,Ethnic Wear,Polyester,L,New,2,85000,11000,Tier 5,0.11,0.14,1.0,1.0,1.1,1.0,10300,13100,11700.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0174,Versace,Dress,Silk,M,Like New,5,110000,14000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,10800,13800,12300.0,1.4493,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0175,Spykar,Shirt,Cotton,M,Like New,2,999,90,Tier 1,0.05,0.06,0.9,1.0,1.0,1.0,40,50,45.0,80.0,8,0,45,53,cond=8|age=0|dev=45|total=53,47,Reject
+L0176,Being Human,Top,Linen,S,New,8,999,85,Tier 1,0.05,0.06,1.0,0.8,1.0,1.03,40,50,45.0,70.0,0,8,45,53,cond=0|age=8|dev=45|total=53,47,Reject
+L0177,Prada,Dress,Silk,S,Like New,4,95000,9000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,9300,11900,10600.0,3.2258,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0178,Adidas,Activewear,Polyester,S,Like New,5,3499,330,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,190,250,220.0,32.0,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0179,Puma,Activewear,Polyester,M,Used,7,2999,210,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,110,140,125.0,50.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0180,Louis Vuitton,Jacket,Leather,M,Used,10,150000,15000,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,10200,13000,11600.0,15.3846,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0181,Red Tape,Shirt,Linen,S,New,3,899,95,Tier 1,0.05,0.06,1.0,1.0,1.0,1.03,50,60,55.0,58.3333,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Review
+L0182,H&M,Dress,Cotton,S,Used,9,1199,70,Tier 1,0.05,0.06,0.7,0.8,1.05,1.0,40,40,40.0,75.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0183,Gucci,Jacket,Leather,M,Like New,6,120000,18000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,11800,15000,13400.0,20.0,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0184,Bewakoof,Top,Polyester,S,Used,6,499,25,Tier 1,0.05,0.06,0.7,0.9,1.0,1.0,20,20,20.0,25.0,18,4,20,42,cond=18|age=4|dev=20|total=42,58,Review
+L0185,Reebok,Activewear,Polyester,L,New,3,2799,300,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,190,250,220.0,20.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0186,Skechers,Activewear,Polyester,M,Like New,4,4999,480,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,350,300.0,37.1429,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0187,Moda Rapido,Dress,Denim,S,New,1,899,80,Tier 1,0.05,0.06,1.0,1.0,1.05,1.0,50,60,55.0,33.3333,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0188,Biba,Kurta,Silk,M,Like New,4,999,85,Tier 1,0.05,0.06,0.9,0.9,1.0,1.05,40,50,45.0,70.0,8,4,45,57,cond=8|age=4|dev=45|total=57,43,Reject
+L0189,W for Woman,Ethnic Wear,Cotton,S,Used,7,1199,75,Tier 1,0.05,0.06,0.7,0.8,1.1,1.0,40,40,40.0,87.5,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0190,Global Desi,Saree,Silk,M,Like New,6,1499,140,Tier 2,0.06,0.07,0.9,0.9,1.1,1.05,80,100,90.0,40.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0191,Nike,Activewear,Polyester,M,New,2,3999,450,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,250,350,300.0,28.5714,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0192,Tarun Tahiliani,Saree,Silk,S,Like New,6,69999,10000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,7200,9200,8200.0,8.6957,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0193,Anita Dongre,Saree,Silk,M,New,3,59999,9000,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,7600,9700,8650.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0194,Highlander,Shirt,Cotton,M,New,3,999,100,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,60,55.0,66.6667,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0195,Moda Rapido,Dress,Polyester,M,Used,7,1199,90,Tier 1,0.05,0.06,0.7,0.8,1.05,1.0,40,40,40.0,125.0,18,8,45,71,cond=18|age=8|dev=45|total=71,29,Reject
+L0196,Bewakoof,Top,Cotton,S,New,2,899,90,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,40,50,45.0,80.0,0,0,45,45,cond=0|age=0|dev=45|total=45,55,Reject
+L0197,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,8000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,5100,6500,5800.0,23.0769,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0198,HRX,Activewear,Polyester,XS,Like New,3,999,85,Tier 1,0.05,0.06,0.9,1.0,0.95,1.0,40,50,45.0,70.0,8,0,45,53,cond=8|age=0|dev=45|total=53,47,Reject
+L0199,Flying Machine,Jacket,Denim,S,Like New,4,1299,110,Tier 2,0.06,0.07,0.9,0.9,1.05,1.0,70,80,75.0,37.5,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0200,Mufti,Shirt,Linen,L,Used,10,3099,180,Tier 3,0.07,0.09,0.7,0.8,1.0,1.03,130,160,145.0,12.5,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0201,Killer,Jeans,Denim,L,New,6,1199,100,Tier 1,0.05,0.06,1.0,0.9,0.95,1.0,50,60,55.0,66.6667,0,4,45,49,cond=0|age=4|dev=45|total=49,51,Reject
+L0202,Zudio,Top,Cotton,M,Like New,5,1200,70,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,50,60,55.0,16.6667,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0203,Easybuy,Shirt,Polyester,L,New,2,1500,110,Tier 2,0.06,0.07,1.0,1.0,1.0,1.0,90,110,100.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0204,Vishal Mega Mart,Jeans,Denim,S,Used,8,1400,50,Tier 2,0.06,0.07,0.7,0.8,0.95,1.0,40,50,45.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0205,Rangriti,Kurta,Cotton,M,Like New,6,1800,100,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,90,100,95.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0206,Style Bazaar,Top,Polyester,XS,New,1,1000,70,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,60,55.0,16.6667,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0207,Soch,Ethnic Wear,Silk,M,Like New,4,3200,250,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,200,250,225.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0208,Aurelia,Kurta,Cotton,L,New,3,2800,250,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,200,250,225.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0209,Libas,Dress,Linen,S,Used,10,3000,150,Tier 3,0.07,0.09,0.7,0.8,1.05,1.03,130,160,145.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0210,Max Fashion,Jeans,Denim,M,Like New,7,2200,100,Tier 2,0.06,0.07,0.9,0.8,0.95,1.0,90,110,100.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0211,Reliance Trends,Shirt,Cotton,XL,New,2,2600,250,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,180,250,215.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0212,Brand Factory,Jacket,Polyester,L,Used,12,3500,150,Tier 3,0.07,0.09,0.7,0.7,1.05,1.0,130,160,145.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0213,FBB,Top,Cotton,M,Like New,5,2000,150,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,100,110,105.0,36.3636,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0214,Bewakoof,Activewear,Polyester,S,New,1,1800,150,Tier 2,0.06,0.07,1.0,1.0,0.95,1.0,100,120,110.0,25.0,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0215,Highlander,Jeans,Denim,L,Used,9,2400,100,Tier 2,0.06,0.07,0.7,0.8,0.95,1.0,80,90,85.0,11.1111,18,8,12,38,cond=18|age=8|dev=12|total=38,62,Review
+L0216,Moda Rapido,Shirt,Cotton,M,Like New,6,2100,150,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,100,120,110.0,25.0,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0217,Biba,Ethnic Wear,Silk,M,New,2,5000,600,Tier 3,0.07,0.09,1.0,1.0,1.1,1.05,400,500,450.0,20.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0218,W for Woman,Kurta,Cotton,L,Like New,4,4500,350,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0219,Global Desi,Dress,Linen,S,Used,11,5200,250,Tier 4,0.09,0.11,0.7,0.7,1.05,1.03,250,300,275.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0220,Anouk,Kurta,Cotton,M,Like New,7,4000,250,Tier 3,0.07,0.09,0.9,0.8,1.0,1.0,200,250,225.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0221,Indya,Ethnic Wear,Silk,M,New,3,5500,600,Tier 4,0.09,0.11,1.0,1.0,1.1,1.05,550,700,625.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0222,Pantaloons,Shirt,Cotton,L,Used,8,3800,200,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,150,190,170.0,5.2632,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0223,Roadster,Jeans,Denim,M,Like New,6,4200,250,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,300,275.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0224,HRX,Activewear,Polyester,S,New,2,4800,450,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,300,400,350.0,12.5,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0225,Flying Machine,Jeans,Denim,L,Like New,5,4600,300,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,300,275.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0226,Mufti,Shirt,Cotton,M,Used,10,5000,250,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,200,250,225.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0227,Manyavar,Ethnic Wear,Silk,L,New,2,8500,1200,Tier 4,0.09,0.11,1.0,1.0,1.1,1.05,900,1100,1000.0,9.0909,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0228,Fabindia,Kurta,Linen,M,Like New,5,7500,700,Tier 4,0.09,0.11,0.9,0.9,1.0,1.03,550,700,625.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0229,Jaypore,Saree,Silk,S,Used,12,9000,700,Tier 4,0.09,0.11,0.7,0.7,1.1,1.05,450,550,500.0,27.2727,18,12,20,50,cond=18|age=12|dev=20|total=50,50,Review
+L0230,Suta,Saree,Cotton,M,Like New,6,8000,650,Tier 4,0.09,0.11,0.9,0.9,1.1,1.0,650,800,725.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0231,Nalli,Saree,Silk,L,New,1,9500,1300,Tier 4,0.09,0.11,1.0,1.0,1.1,1.05,1000,1200,1100.0,8.3333,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0232,Neeru's,Lehenga,Silk,M,Like New,4,11000,1000,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,950,1100,1025.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0233,Meena Bazaar,Ethnic Wear,Silk,S,Used,10,10000,700,Tier 4,0.09,0.11,0.7,0.8,1.1,1.05,600,700,650.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0234,AND,Dress,Linen,M,New,3,7200,900,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,700,850,775.0,5.8824,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0235,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,7,12000,1000,Tier 4,0.09,0.11,0.9,0.8,1.1,1.05,900,1100,1000.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0236,Masaba,Dress,Cotton,S,Used,9,9500,600,Tier 4,0.09,0.11,0.7,0.8,1.05,1.0,500,600,550.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0237,House of Masaba,Dress,Linen,M,Like New,5,10000,900,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,800,950,875.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0238,Nicobar,Kurta,Linen,L,New,2,8000,1000,Tier 4,0.09,0.11,1.0,1.0,1.0,1.03,750,900,825.0,11.1111,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0239,Zara,Jacket,Polyester,M,Like New,6,9000,800,Tier 4,0.09,0.11,0.9,0.9,1.05,1.0,700,850,775.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0240,Marks & Spencer,Dress,Cotton,S,Used,8,8500,600,Tier 4,0.09,0.11,0.7,0.8,1.05,1.0,450,550,500.0,9.0909,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0241,GAP,Jeans,Denim,L,Like New,7,7800,650,Tier 4,0.09,0.11,0.9,0.8,0.95,1.0,500,600,550.0,8.3333,8,8,5,21,cond=8|age=8|dev=5|total=21,79,Approve
+L0242,American Eagle,Jeans,Denim,M,New,2,8200,900,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,700,850,775.0,5.8824,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0243,Mango,Dress,Linen,S,Like New,5,9500,900,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,825.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0244,Nike,Activewear,Polyester,M,Used,9,10000,600,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,500,600,550.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0245,Adidas,Jacket,Polyester,L,Like New,4,11000,1100,Tier 4,0.09,0.11,0.9,0.9,1.05,1.0,850,1000,925.0,10.0,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0246,New Balance,Activewear,Polyester,S,New,3,9500,1100,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,800,1000,900.0,10.0,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0247,Asics,Activewear,Polyester,M,Like New,6,9000,800,Tier 4,0.09,0.11,0.9,0.9,0.95,1.0,600,750,675.0,6.6667,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0248,Under Armour,Activewear,Polyester,L,Used,11,10500,600,Tier 4,0.09,0.11,0.7,0.7,0.95,1.0,450,550,500.0,9.0909,18,12,5,35,cond=18|age=12|dev=5|total=35,65,Review
+L0249,Tommy Hilfiger,Shirt,Cotton,M,Like New,5,9800,850,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,700,850,775.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0250,Calvin Klein,Jacket,Leather,L,New,2,12000,1500,Tier 4,0.09,0.11,1.0,1.0,1.05,1.05,1200,1500,1350.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0251,Diesel,Jeans,Denim,M,Like New,7,11000,950,Tier 4,0.09,0.11,0.9,0.8,0.95,1.0,700,850,775.0,11.7647,8,8,12,28,cond=8|age=8|dev=12|total=28,72,Approve
+L0252,Superdry,Jacket,Polyester,M,Like New,6,10500,950,Tier 4,0.09,0.11,0.9,0.9,1.05,1.0,800,1000,900.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0253,Raw Mango,Saree,Silk,L,New,2,18000,2700,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,2300,2900,2600.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0254,Anita Dongre,Lehenga,Silk,M,Like New,5,22000,2500,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2300,2900,2600.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0255,Sabyasachi,Saree,Silk,S,Used,10,25000,2000,Tier 5,0.11,0.14,0.7,0.8,1.1,1.05,1800,2300,2050.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0256,Tarun Tahiliani,Lehenga,Silk,M,New,3,28000,4200,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,3600,4500,4050.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0257,Rohit Bal,Ethnic Wear,Silk,L,Like New,7,24000,2500,Tier 5,0.11,0.14,0.9,0.8,1.1,1.05,2200,2800,2500.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0258,Anamika Khanna,Lehenga,Silk,M,Used,12,26000,2000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1600,2100,1850.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0259,Gucci,Jacket,Leather,L,New,2,30000,4500,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,3600,4600,4100.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0260,Louis Vuitton,Jacket,Leather,M,Like New,4,32000,4000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,3550.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0261,Prada,Dress,Silk,S,Used,9,27000,2500,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,1800,2300,2050.0,8.6957,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0262,Armani,Shirt,Linen,M,Like New,6,21000,2000,Tier 5,0.11,0.14,0.9,0.9,1.0,1.03,1900,2500,2200.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0263,Versace,Dress,Silk,L,New,1,29000,4500,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,3500,4500,4000.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0264,Burberry,Jacket,Cotton,M,Used,11,26000,2000,Tier 5,0.11,0.14,0.7,0.7,1.05,1.0,1500,1900,1700.0,5.2632,18,12,5,35,cond=18|age=12|dev=5|total=35,65,Review
+L0265,Balenciaga,Jacket,Leather,L,Like New,5,31000,4000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3000,3900,3450.0,2.5641,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0266,Dolce & Gabbana,Dress,Silk,S,New,3,28000,4200,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,3400,4300,3850.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0267,Zudio,Top,Cotton,S,New,2,900,60,Tier 1,0.05,0.06,1.0,1.0,1.0,1.0,50,50,50.0,20.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0268,Soch,Kurta,Cotton,M,Like New,6,3000,200,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,170,200,185.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0269,Biba,Kurta,Cotton,L,Used,9,4200,200,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,160,200,180.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0270,Manyavar,Ethnic Wear,Silk,M,Like New,5,9000,900,Tier 4,0.09,0.11,0.9,0.9,1.1,1.05,750,950,850.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0271,Nike,Activewear,Polyester,S,Like New,6,9500,800,Tier 4,0.09,0.11,0.9,0.9,0.95,1.0,650,800,725.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0272,Levi's,Jeans,Denim,M,New,2,8000,800,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,700,850,775.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0273,Fabindia,Kurta,Linen,L,Used,10,7000,400,Tier 4,0.09,0.11,0.7,0.8,1.0,1.03,350,450,400.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0274,Pantaloons,Shirt,Cotton,M,Like New,5,4500,300,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0275,Reliance Trends,Top,Cotton,S,Used,8,2000,100,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,70,80,75.0,25.0,18,8,20,46,cond=18|age=8|dev=20|total=46,54,Review
+L0276,Easybuy,Shirt,Cotton,M,New,1,1400,100,Tier 2,0.06,0.07,1.0,1.0,1.0,1.0,80,100,90.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0277,Vishal Mega Mart,Top,Polyester,S,Like New,6,1200,70,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,50,60,55.0,16.6667,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0278,Rangriti,Kurta,Cotton,L,Used,9,1700,60,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,60,70,65.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0279,Style Bazaar,Top,Cotton,M,Like New,5,1100,70,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,40,50,45.0,40.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0280,Zudio,Jeans,Denim,S,Used,8,1300,50,Tier 2,0.06,0.07,0.7,0.8,0.95,1.0,40,50,45.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0281,Aurelia,Dress,Linen,M,New,2,3200,300,Tier 3,0.07,0.09,1.0,1.0,1.05,1.03,250,300,275.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0282,Libas,Kurta,Cotton,L,Like New,6,2800,200,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,160,200,180.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0283,Max Fashion,Jeans,Denim,S,Used,11,2500,100,Tier 2,0.06,0.07,0.7,0.7,0.95,1.0,70,80,75.0,25.0,18,12,20,50,cond=18|age=12|dev=20|total=50,50,Review
+L0284,Reliance Trends,Shirt,Cotton,M,Like New,4,2600,200,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,150,190,170.0,5.2632,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0285,Brand Factory,Jacket,Polyester,L,New,3,3400,350,Tier 3,0.07,0.09,1.0,1.0,1.05,1.0,250,300,275.0,16.6667,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0286,Pantaloons,Top,Cotton,S,Like New,5,3800,300,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,200,300,250.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0287,Roadster,Jeans,Denim,M,Used,9,4200,200,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,160,200,180.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0288,HRX,Activewear,Polyester,L,Like New,6,5000,350,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0289,Flying Machine,Jeans,Denim,M,New,2,4800,500,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,300,400,350.0,25.0,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0290,Mufti,Shirt,Cotton,S,Used,10,5200,250,Tier 4,0.09,0.11,0.7,0.8,1.0,1.0,250,300,275.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0291,Fabindia,Kurta,Linen,M,Like New,5,7800,700,Tier 4,0.09,0.11,0.9,0.9,1.0,1.03,600,700,650.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0292,Zara,Dress,Linen,S,New,2,9000,1100,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,900,1100,1000.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0293,GAP,Jeans,Denim,L,Used,8,8200,500,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,400,500,450.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0294,Nike,Activewear,Polyester,M,New,3,10000,1200,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,850,1000,925.0,20.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0295,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,9500,800,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,700,850,775.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0296,Raw Mango,Saree,Silk,M,Like New,5,20000,2500,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2100,2600,2350.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0297,Anita Dongre,Lehenga,Silk,S,New,2,23000,3500,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,2900,3700,3300.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0298,Sabyasachi,Saree,Silk,L,Used,11,27000,2000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1700,2100,1900.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0299,Gucci,Jacket,Leather,M,Like New,6,32000,4000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,3550.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0300,Prada,Dress,Silk,S,New,1,29000,4500,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,3500,4500,4000.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0301,Easybuy,Top,Cotton,S,Like New,4,1300,80,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,60,70,65.0,14.2857,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0302,Vishal Mega Mart,Shirt,Polyester,M,Used,10,1500,60,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,50,60,55.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0303,Rangriti,Kurta,Cotton,M,New,2,1600,110,Tier 2,0.06,0.07,1.0,1.0,1.0,1.0,100,110,105.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0304,Style Bazaar,Top,Cotton,L,Like New,6,1200,70,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,50,60,55.0,16.6667,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0305,Zudio,Shirt,Polyester,M,Used,9,1400,60,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,50,50,50.0,20.0,18,8,12,38,cond=18|age=8|dev=12|total=38,62,Review
+L0306,Soch,Saree,Silk,L,Like New,5,3500,300,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,300,275.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0307,Aurelia,Kurta,Cotton,S,Used,11,3000,150,Tier 3,0.07,0.09,0.7,0.7,1.0,1.0,100,130,115.0,15.3846,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0308,Libas,Dress,Linen,M,New,3,3200,300,Tier 3,0.07,0.09,1.0,1.0,1.05,1.03,250,300,275.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0309,Max Fashion,Jeans,Denim,L,Like New,7,2600,150,Tier 3,0.07,0.09,0.9,0.8,0.95,1.0,120,160,140.0,0.0,8,8,0,16,cond=8|age=8|dev=0|total=16,84,Approve
+L0310,Reliance Trends,Top,Cotton,M,Used,8,2400,100,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,80,90,85.0,11.1111,18,8,12,38,cond=18|age=8|dev=12|total=38,62,Review
+L0311,Pantaloons,Shirt,Cotton,M,New,2,4000,400,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,300,350,325.0,14.2857,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0312,Roadster,Jeans,Denim,S,Like New,6,4500,300,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,300,275.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0313,HRX,Activewear,Polyester,M,Used,10,5200,250,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,250,300,275.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0314,Flying Machine,Jeans,Denim,L,Like New,5,4800,300,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0315,Mufti,Shirt,Cotton,M,New,1,5000,500,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,350,450,400.0,11.1111,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0316,Fabindia,Kurta,Linen,S,Used,9,8200,500,Tier 4,0.09,0.11,0.7,0.8,1.0,1.03,450,500,475.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0317,Mango,Dress,Linen,M,Like New,6,9500,900,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,825.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0318,Adidas,Jacket,Polyester,L,New,2,11000,1300,Tier 4,0.09,0.11,1.0,1.0,1.05,1.0,1000,1300,1150.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0319,Calvin Klein,Jacket,Leather,M,Like New,5,12000,1500,Tier 4,0.09,0.11,0.9,0.9,1.05,1.05,950,1200,1075.0,25.0,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0320,Diesel,Jeans,Denim,S,Used,11,11500,700,Tier 4,0.09,0.11,0.7,0.7,0.95,1.0,500,600,550.0,16.6667,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0321,Raw Mango,Saree,Silk,L,New,3,21000,3200,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,2700,3400,3050.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0322,Tarun Tahiliani,Lehenga,Silk,M,Like New,6,28000,3000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2900,3700,3300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0323,Rohit Bal,Ethnic Wear,Silk,S,Used,12,25000,2000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1600,2000,1800.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0324,Louis Vuitton,Jacket,Leather,L,Like New,5,33000,4000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3200,4100,3650.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0325,Versace,Dress,Silk,M,New,2,30000,4500,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,3600,4600,4100.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0326,Zudio,Top,Cotton,L,Like New,5,1100,70,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,40,50,45.0,40.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0327,Easybuy,Jeans,Denim,M,Used,8,1500,50,Tier 2,0.06,0.07,0.7,0.8,0.95,1.0,50,60,55.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0328,Vishal Mega Mart,Shirt,Polyester,S,New,2,1300,90,Tier 2,0.06,0.07,1.0,1.0,1.0,1.0,80,90,85.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0329,Rangriti,Kurta,Cotton,M,Like New,6,1700,100,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,80,100,90.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0330,Style Bazaar,Top,Cotton,M,Used,9,1200,60,Tier 1,0.05,0.06,0.7,0.8,1.0,1.0,30,40,35.0,50.0,18,8,30,56,cond=18|age=8|dev=30|total=56,44,Review
+L0331,Soch,Ethnic Wear,Silk,M,New,3,3800,400,Tier 3,0.07,0.09,1.0,1.0,1.1,1.05,300,400,350.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0332,Aurelia,Dress,Linen,L,Like New,5,3400,250,Tier 3,0.07,0.09,0.9,0.9,1.05,1.03,200,250,225.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0333,Libas,Kurta,Cotton,S,Used,10,3000,150,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,120,150,135.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0334,Max Fashion,Jeans,Denim,M,New,2,2600,250,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,170,200,185.0,25.0,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0335,Reliance Trends,Shirt,Cotton,L,Like New,6,2800,200,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,160,200,180.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0336,Pantaloons,Top,Cotton,M,Used,8,4200,200,Tier 3,0.07,0.09,0.7,0.8,1.0,1.0,160,200,180.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0337,Roadster,Jeans,Denim,L,New,3,4800,450,Tier 3,0.07,0.09,1.0,1.0,0.95,1.0,300,400,350.0,12.5,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0338,HRX,Activewear,Polyester,S,Like New,6,5200,350,Tier 4,0.09,0.11,0.9,0.9,0.95,1.0,350,450,400.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0339,Flying Machine,Jeans,Denim,M,Used,11,5000,250,Tier 3,0.07,0.09,0.7,0.7,0.95,1.0,160,200,180.0,25.0,18,12,20,50,cond=18|age=12|dev=20|total=50,50,Review
+L0340,Mufti,Shirt,Cotton,L,Like New,5,5300,400,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,400,450,425.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0341,Fabindia,Kurta,Linen,M,New,2,8500,1000,Tier 4,0.09,0.11,1.0,1.0,1.0,1.03,800,950,875.0,5.2632,0,0,5,5,cond=0|age=0|dev=5|total=5,95,Approve
+L0342,Zara,Dress,Linen,S,Like New,6,9200,900,Tier 4,0.09,0.11,0.9,0.9,1.05,1.03,750,900,825.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0343,Nike,Activewear,Polyester,M,Used,10,10000,600,Tier 4,0.09,0.11,0.7,0.8,0.95,1.0,500,600,550.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0344,Tommy Hilfiger,Shirt,Cotton,L,Like New,4,9800,1000,Tier 4,0.09,0.11,0.9,0.9,1.0,1.0,700,850,775.0,17.6471,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0345,Diesel,Jeans,Denim,M,New,2,11500,1400,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,1000,1200,1100.0,16.6667,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0346,Raw Mango,Saree,Silk,S,Like New,6,22000,2500,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2300,2900,2600.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0347,Anita Dongre,Lehenga,Silk,M,Used,12,24000,2000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1500,1900,1700.0,5.2632,18,12,5,35,cond=18|age=12|dev=5|total=35,65,Review
+L0348,Sabyasachi,Saree,Silk,L,New,2,28000,4200,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,3600,4500,4050.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0349,Gucci,Jacket,Leather,M,Like New,5,32000,6000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.05,3100,4000,3550.0,50.0,8,4,30,42,cond=8|age=4|dev=30|total=42,58,Review
+L0350,Prada,Dress,Silk,S,Used,9,30000,2500,Tier 5,0.11,0.14,0.7,0.8,1.05,1.05,2000,2600,2300.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0351,Easybuy,Shirt,Cotton,M,Like New,6,1400,90,Tier 2,0.06,0.07,0.9,0.9,1.0,1.0,70,80,75.0,12.5,8,4,12,24,cond=8|age=4|dev=12|total=24,76,Approve
+L0352,Vishal Mega Mart,Top,Polyester,S,Used,10,1500,60,Tier 2,0.06,0.07,0.7,0.8,1.0,1.0,50,60,55.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0353,Rangriti,Kurta,Cotton,L,New,2,1800,130,Tier 2,0.06,0.07,1.0,1.0,1.0,1.0,110,130,120.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0354,Style Bazaar,Top,Cotton,M,Like New,5,1200,80,Tier 1,0.05,0.06,0.9,0.9,1.0,1.0,50,60,55.0,33.3333,8,4,20,32,cond=8|age=4|dev=20|total=32,68,Review
+L0355,Zudio,Jeans,Denim,S,Used,9,1300,50,Tier 2,0.06,0.07,0.7,0.8,0.95,1.0,40,50,45.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0356,Soch,Saree,Silk,M,Like New,4,4000,350,Tier 3,0.07,0.09,0.9,0.9,1.1,1.05,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0357,Aurelia,Kurta,Cotton,L,New,3,3200,300,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,200,300,250.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0358,Libas,Dress,Linen,S,Used,11,3500,200,Tier 3,0.07,0.09,0.7,0.7,1.05,1.03,130,170,150.0,17.6471,18,12,12,42,cond=18|age=12|dev=12|total=42,58,Review
+L0359,Max Fashion,Jeans,Denim,M,Like New,6,2800,200,Tier 3,0.07,0.09,0.9,0.9,0.95,1.0,150,190,170.0,5.2632,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0360,Reliance Trends,Shirt,Cotton,XL,New,1,3000,300,Tier 3,0.07,0.09,1.0,1.0,1.0,1.0,200,250,225.0,20.0,0,0,12,12,cond=0|age=0|dev=12|total=12,88,Approve
+L0361,Pantaloons,Top,Cotton,S,Like New,5,4500,350,Tier 3,0.07,0.09,0.9,0.9,1.0,1.0,250,350,300.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0362,Roadster,Jeans,Denim,M,Used,8,4800,250,Tier 3,0.07,0.09,0.7,0.8,0.95,1.0,180,250,215.0,0.0,18,8,0,26,cond=18|age=8|dev=0|total=26,74,Approve
+L0363,HRX,Activewear,Polyester,L,New,2,5500,550,Tier 4,0.09,0.11,1.0,1.0,0.95,1.0,450,550,500.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0364,Flying Machine,Jeans,Denim,M,Like New,6,5200,350,Tier 4,0.09,0.11,0.9,0.9,0.95,1.0,350,450,400.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0365,Mufti,Shirt,Cotton,S,Used,10,5600,300,Tier 4,0.09,0.11,0.7,0.8,1.0,1.0,300,350,325.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0366,Fabindia,Kurta,Linen,M,Like New,5,9000,900,Tier 4,0.09,0.11,0.9,0.9,1.0,1.03,700,850,775.0,5.8824,8,4,5,17,cond=8|age=4|dev=5|total=17,83,Approve
+L0367,Zara,Dress,Linen,S,New,2,10000,1200,Tier 4,0.09,0.11,1.0,1.0,1.05,1.03,950,1200,1075.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0368,Adidas,Jacket,Polyester,L,Like New,6,11500,1000,Tier 4,0.09,0.11,0.9,0.9,1.05,1.0,900,1100,1000.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0369,Tommy Hilfiger,Shirt,Cotton,M,Used,9,10500,700,Tier 4,0.09,0.11,0.7,0.8,1.0,1.0,550,650,600.0,7.6923,18,8,5,31,cond=18|age=8|dev=5|total=31,69,Review
+L0370,Calvin Klein,Jacket,Leather,L,New,3,13000,2000,Tier 4,0.09,0.11,1.0,1.0,1.05,1.05,1300,1600,1450.0,25.0,0,0,20,20,cond=0|age=0|dev=20|total=20,80,Review
+L0371,Raw Mango,Saree,Silk,L,New,2,24000,3600,Tier 5,0.11,0.14,1.0,1.0,1.1,1.05,3000,3900,3450.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0372,Anita Dongre,Lehenga,Silk,M,Like New,6,26000,3000,Tier 5,0.11,0.14,0.9,0.9,1.1,1.05,2700,3400,3050.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve
+L0373,Tarun Tahiliani,Lehenga,Silk,S,Used,12,29000,2000,Tier 5,0.11,0.14,0.7,0.7,1.1,1.05,1800,2300,2050.0,0.0,18,12,0,30,cond=18|age=12|dev=0|total=30,70,Approve
+L0374,Louis Vuitton,Jacket,Leather,M,New,1,35000,5200,Tier 5,0.11,0.14,1.0,1.0,1.05,1.05,4200,5400,4800.0,0.0,0,0,0,0,cond=0|age=0|dev=0|total=0,100,Approve
+L0375,Burberry,Jacket,Cotton,L,Like New,5,27000,3000,Tier 5,0.11,0.14,0.9,0.9,1.05,1.0,2500,3200,2850.0,0.0,8,4,0,12,cond=8|age=4|dev=0|total=12,88,Approve

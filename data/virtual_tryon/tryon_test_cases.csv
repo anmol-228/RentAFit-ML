@@ -1,0 +1,4 @@
+test_id,person_image,garment_image,category,result_status,quality_note
+T001,person_01.jpg,shirt_01.jpg,Shirt,pending,
+T002,person_02.jpg,top_01.jpg,Top,pending,
+T003,person_03.jpg,jacket_01.jpg,Jacket,pending,

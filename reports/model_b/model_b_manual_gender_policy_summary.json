@@ -1,0 +1,28 @@
+{
+  "rows_total": 988,
+  "gender_counts": {
+    "Women": 375,
+    "Men": 375,
+    "Unisex": 238
+  },
+  "gender_source_counts": {
+    "user_selected": 613,
+    "category_derived": 375
+  },
+  "gender_variant_type_counts": {
+    "base": 375,
+    "explicit_women_allowed": 238,
+    "explicit_men_allowed": 238,
+    "explicit_men_conflict": 137
+  },
+  "gender_conflict_flag_counts": {
+    "0": 851,
+    "1": 137
+  },
+  "gender_policy_override_applied": 110,
+  "effective_decision_counts": {
+    "Approve": 387,
+    "Review": 376,
+    "Reject": 225
+  }
+}

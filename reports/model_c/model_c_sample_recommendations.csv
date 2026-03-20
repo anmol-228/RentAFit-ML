@@ -1,0 +1,375 @@
+seed_item_id,seed_category,seed_gender,seed_size,recommended_item_id,recommended_category,recommended_gender,recommended_size,recommended_brand,recommended_provider_price,recommendation_pool_status,similarity_score,budget_alignment_score,final_score,explanation_reasons
+L0001,Ethnic Wear,Unisex,M,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.509892,0.859049,0.647234,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0001,Ethnic Wear,Unisex,M,L0900,Ethnic Wear,Unisex,L,Rohit Bal,2338.0,PRIMARY_APPROVE,0.451668,0.932983,0.61816,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0001,Ethnic Wear,Unisex,M,L0049,Ethnic Wear,Unisex,S,Label Ritu Kumar,2175.0,PRIMARY_APPROVE,0.362871,0.992627,0.591508,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0001,Ethnic Wear,Unisex,M,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.291654,0.716973,0.554774,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0001,Ethnic Wear,Unisex,M,L0096,Ethnic Wear,Unisex,S,Meena Bazaar,1720.0,PRIMARY_APPROVE,0.327899,0.784974,0.553064,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0012,Ethnic Wear,Unisex,XL,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.463804,0.859049,0.621886,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0012,Ethnic Wear,Unisex,XL,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.810257,0.716973,0.808506,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0012,Ethnic Wear,Unisex,XL,L0096,Ethnic Wear,Unisex,S,Meena Bazaar,1720.0,PRIMARY_APPROVE,0.832797,0.784974,0.799258,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0012,Ethnic Wear,Unisex,XL,L0049,Ethnic Wear,Unisex,S,Label Ritu Kumar,2175.0,PRIMARY_APPROVE,0.788241,0.992627,0.793962,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0012,Ethnic Wear,Unisex,XL,L0157,Ethnic Wear,Unisex,XL,Manyavar,690.0,PRIMARY_APPROVE,0.934527,0.314902,0.867091,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0049,Ethnic Wear,Unisex,S,L0096,Ethnic Wear,Unisex,S,Meena Bazaar,1720.0,PRIMARY_APPROVE,0.86894,0.784974,0.864637,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0049,Ethnic Wear,Unisex,S,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.705496,0.716973,0.796387,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0049,Ethnic Wear,Unisex,S,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.437532,0.859049,0.589936,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0049,Ethnic Wear,Unisex,S,L0900,Ethnic Wear,Unisex,L,Rohit Bal,2338.0,PRIMARY_APPROVE,0.409694,0.932983,0.577574,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0049,Ethnic Wear,Unisex,S,L1336,Ethnic Wear,Unisex,S,Soch,85.0,PRIMARY_APPROVE,0.449166,0.038792,0.562031,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0080,Ethnic Wear,Unisex,S,L0430,Ethnic Wear,Unisex,S,Rohit Bal,2451.0,REVIEW_FALLBACK,0.878391,0.881412,0.79859,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0080,Ethnic Wear,Unisex,S,L0323,Ethnic Wear,Unisex,S,Rohit Bal,2000.0,REVIEW_FALLBACK,0.8387,0.912761,0.784228,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0095,Ethnic Wear,Unisex,M,L0416,Ethnic Wear,Unisex,M,Anita Dongre,1599.0,REVIEW_FALLBACK,0.651228,0.729752,0.647928,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0095,Ethnic Wear,Unisex,M,L0080,Ethnic Wear,Unisex,S,Anita Dongre,2350.0,REVIEW_FALLBACK,0.727664,0.927506,0.727021,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0096,Ethnic Wear,Unisex,S,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.884455,0.716973,0.894814,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0096,Ethnic Wear,Unisex,S,L0049,Ethnic Wear,Unisex,S,Label Ritu Kumar,2175.0,PRIMARY_APPROVE,0.86894,0.992627,0.883846,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0096,Ethnic Wear,Unisex,S,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.553269,0.859049,0.653592,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0096,Ethnic Wear,Unisex,S,L0900,Ethnic Wear,Unisex,L,Rohit Bal,2338.0,PRIMARY_APPROVE,0.530269,0.932983,0.643891,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0096,Ethnic Wear,Unisex,S,L0420,Ethnic Wear,Unisex,S,FBB,57.0,PRIMARY_APPROVE,0.547203,0.026014,0.64023,same_category|exact_gender_match|exact_size_match|same_condition|high_quality_item
+L0098,Ethnic Wear,Unisex,L,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.834672,0.859049,0.839863,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0098,Ethnic Wear,Unisex,L,L0900,Ethnic Wear,Unisex,L,Rohit Bal,2338.0,PRIMARY_APPROVE,0.783624,0.932983,0.814736,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0098,Ethnic Wear,Unisex,L,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.518393,0.716973,0.66198,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0098,Ethnic Wear,Unisex,L,L0049,Ethnic Wear,Unisex,S,Label Ritu Kumar,2175.0,PRIMARY_APPROVE,0.483695,0.992627,0.640461,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0098,Ethnic Wear,Unisex,L,L0096,Ethnic Wear,Unisex,S,Meena Bazaar,1720.0,PRIMARY_APPROVE,0.515231,0.784974,0.638597,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0100,Ethnic Wear,Unisex,L,L0257,Ethnic Wear,Unisex,L,Rohit Bal,2500.0,PRIMARY_APPROVE,0.476213,0.859049,0.642711,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0100,Ethnic Wear,Unisex,L,L0900,Ethnic Wear,Unisex,L,Rohit Bal,2338.0,PRIMARY_APPROVE,0.408451,0.932983,0.608391,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0100,Ethnic Wear,Unisex,L,L1458,Ethnic Wear,Unisex,S,Meena Bazaar,1571.0,PRIMARY_APPROVE,0.467471,0.716973,0.633973,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0100,Ethnic Wear,Unisex,L,L0049,Ethnic Wear,Unisex,S,Label Ritu Kumar,2175.0,PRIMARY_APPROVE,0.390914,0.992627,0.589432,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0100,Ethnic Wear,Unisex,L,L0096,Ethnic Wear,Unisex,S,Meena Bazaar,1720.0,PRIMARY_APPROVE,0.386064,0.784974,0.567555,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0003,Activewear,Unisex,L,L0185,Activewear,Unisex,L,Reebok,300.0,PRIMARY_APPROVE,0.372322,0.706093,0.594053,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0003,Activewear,Unisex,L,L1020,Activewear,Unisex,S,HRX,47.0,PRIMARY_APPROVE,0.41465,0.110621,0.518731,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0003,Activewear,Unisex,L,L0603,Activewear,Unisex,L,HRX,405.0,REVIEW_FALLBACK,0.634582,0.953225,0.684787,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0003,Activewear,Unisex,L,L1195,Activewear,Unisex,L,Under Armour,412.0,REVIEW_FALLBACK,0.434645,0.969701,0.572025,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0073,Activewear,Unisex,M,L0788,Activewear,Unisex,M,Under Armour,539.0,PRIMARY_APPROVE,0.874514,0.731387,0.887677,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0073,Activewear,Unisex,M,L1061,Activewear,Unisex,M,Nike,278.0,PRIMARY_APPROVE,0.75183,0.654313,0.820049,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0073,Activewear,Unisex,M,L1034,Activewear,Unisex,M,Under Armour,603.0,PRIMARY_APPROVE,0.809905,0.580754,0.808856,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0073,Activewear,Unisex,M,L0779,Activewear,Unisex,M,Under Armour,395.0,PRIMARY_APPROVE,0.507766,0.929689,0.652129,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0073,Activewear,Unisex,M,L0363,Activewear,Unisex,L,HRX,550.0,PRIMARY_APPROVE,0.815126,0.705497,0.84598,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0116,Activewear,Unisex,M,L0788,Activewear,Unisex,M,Under Armour,539.0,PRIMARY_APPROVE,0.895392,0.731387,0.89916,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0116,Activewear,Unisex,M,L1061,Activewear,Unisex,M,Nike,278.0,PRIMARY_APPROVE,0.827163,0.654313,0.861482,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0116,Activewear,Unisex,M,L1034,Activewear,Unisex,M,Under Armour,603.0,PRIMARY_APPROVE,0.824774,0.580754,0.817035,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0116,Activewear,Unisex,M,L0363,Activewear,Unisex,L,HRX,550.0,PRIMARY_APPROVE,0.876255,0.705497,0.879601,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0116,Activewear,Unisex,M,L1132,Activewear,Unisex,L,Nike,323.0,PRIMARY_APPROVE,0.784368,0.760226,0.838981,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0178,Activewear,Unisex,S,L0850,Activewear,Unisex,S,Adidas,335.0,REVIEW_FALLBACK,0.969277,0.78847,0.856838,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0178,Activewear,Unisex,S,L1318,Activewear,Unisex,M,Nike,508.0,REVIEW_FALLBACK,0.722263,0.80435,0.727902,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0185,Activewear,Unisex,L,L1132,Activewear,Unisex,L,Nike,323.0,PRIMARY_APPROVE,0.863114,0.760226,0.896291,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0185,Activewear,Unisex,L,L0363,Activewear,Unisex,L,HRX,550.0,PRIMARY_APPROVE,0.824515,0.705497,0.865144,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0185,Activewear,Unisex,L,L1272,Activewear,Unisex,L,Nike,346.0,PRIMARY_APPROVE,0.817232,0.81436,0.864469,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0185,Activewear,Unisex,L,L0991,Activewear,Unisex,L,HRX,295.0,PRIMARY_APPROVE,0.775773,0.694324,0.81033,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0185,Activewear,Unisex,L,L1258,Activewear,Unisex,L,HRX,297.0,PRIMARY_APPROVE,0.774145,0.699032,0.809905,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0191,Activewear,Unisex,M,L1061,Activewear,Unisex,M,Nike,278.0,PRIMARY_APPROVE,0.621685,0.654313,0.748469,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0191,Activewear,Unisex,M,L0788,Activewear,Unisex,M,Under Armour,539.0,PRIMARY_APPROVE,0.532185,0.731387,0.699396,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0191,Activewear,Unisex,M,L1034,Activewear,Unisex,M,Under Armour,603.0,PRIMARY_APPROVE,0.352477,0.580754,0.557271,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0191,Activewear,Unisex,M,L0224,Activewear,Unisex,S,HRX,450.0,PRIMARY_APPROVE,0.628755,0.940861,0.749013,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0191,Activewear,Unisex,M,L1132,Activewear,Unisex,L,Nike,323.0,PRIMARY_APPROVE,0.587593,0.760226,0.730754,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0214,Activewear,Unisex,S,L0224,Activewear,Unisex,S,HRX,450.0,PRIMARY_APPROVE,0.602872,0.940861,0.748777,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0214,Activewear,Unisex,S,L1472,Activewear,Unisex,S,HRX,420.0,PRIMARY_APPROVE,0.435139,0.98853,0.652402,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0214,Activewear,Unisex,S,L0924,Activewear,Unisex,S,HRX,413.0,PRIMARY_APPROVE,0.375755,0.972054,0.613649,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0214,Activewear,Unisex,S,L0788,Activewear,Unisex,M,Under Armour,539.0,PRIMARY_APPROVE,0.463161,0.731387,0.647433,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0214,Activewear,Unisex,S,L1061,Activewear,Unisex,M,Nike,278.0,PRIMARY_APPROVE,0.453283,0.654313,0.641848,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0224,Activewear,Unisex,S,L1472,Activewear,Unisex,S,HRX,420.0,PRIMARY_APPROVE,0.816913,0.98853,0.862377,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0224,Activewear,Unisex,S,L0924,Activewear,Unisex,S,HRX,413.0,PRIMARY_APPROVE,0.777376,0.972054,0.83454,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0224,Activewear,Unisex,S,L0338,Activewear,Unisex,S,HRX,350.0,PRIMARY_APPROVE,0.71523,0.823775,0.781087,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0224,Activewear,Unisex,S,L1061,Activewear,Unisex,M,Nike,278.0,PRIMARY_APPROVE,0.82273,0.654313,0.845044,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0224,Activewear,Unisex,S,L0788,Activewear,Unisex,M,Under Armour,539.0,PRIMARY_APPROVE,0.741869,0.731387,0.800722,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0004,Jacket,Unisex,S,L1462,Jacket,Unisex,S,Gucci,4726.0,PRIMARY_APPROVE,0.768268,0.617295,0.776054,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0004,Jacket,Unisex,S,L0663,Jacket,Unisex,S,Gucci,4685.0,PRIMARY_APPROVE,0.74589,0.629291,0.767946,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0004,Jacket,Unisex,S,L1115,Jacket,Unisex,S,Armani,4273.0,PRIMARY_APPROVE,0.601241,0.749831,0.691665,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0004,Jacket,Unisex,S,L0722,Jacket,Unisex,S,Burberry,2611.0,PRIMARY_APPROVE,0.436395,0.763911,0.602408,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0004,Jacket,Unisex,S,L0800,Jacket,Unisex,XS,Balenciaga,3621.0,PRIMARY_APPROVE,0.767231,0.94059,0.816258,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0061,Jacket,Unisex,M,L0299,Jacket,Unisex,M,Gucci,4000.0,PRIMARY_APPROVE,0.708814,0.829704,0.778152,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0061,Jacket,Unisex,M,L0260,Jacket,Unisex,M,Louis Vuitton,4000.0,PRIMARY_APPROVE,0.664703,0.829704,0.762779,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0061,Jacket,Unisex,M,L1305,Jacket,Unisex,M,Louis Vuitton,3223.0,PRIMARY_APPROVE,0.641832,0.942966,0.737748,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0061,Jacket,Unisex,M,L1462,Jacket,Unisex,S,Gucci,4726.0,PRIMARY_APPROVE,0.805966,0.617295,0.782789,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0061,Jacket,Unisex,M,L1270,Jacket,Unisex,L,Gucci,4057.0,PRIMARY_APPROVE,0.721216,0.813027,0.769305,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0108,Jacket,Unisex,S,L1115,Jacket,Unisex,S,Armani,4273.0,PRIMARY_APPROVE,0.496639,0.749831,0.634135,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0108,Jacket,Unisex,S,L1320,Jacket,Unisex,L,Balenciaga,2425.0,PRIMARY_APPROVE,0.663231,0.709492,0.675226,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0108,Jacket,Unisex,S,L0898,Jacket,Unisex,L,Louis Vuitton,2548.0,PRIMARY_APPROVE,0.493466,0.745479,0.594343,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0108,Jacket,Unisex,S,L0405,Jacket,Unisex,XS,Burberry,1685.0,PRIMARY_APPROVE,0.443705,0.492987,0.554781,same_category|exact_gender_match|nearest_size_match|same_tier|same_condition
+L0108,Jacket,Unisex,S,L0920,Jacket,Unisex,M,Gucci,9849.0,PRIMARY_APPROVE,0.457813,0.0,0.517686,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0124,Jacket,Unisex,S,L1462,Jacket,Unisex,S,Gucci,4726.0,PRIMARY_APPROVE,0.780056,0.617295,0.782538,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0124,Jacket,Unisex,S,L0663,Jacket,Unisex,S,Gucci,4685.0,PRIMARY_APPROVE,0.752793,0.629291,0.771743,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0124,Jacket,Unisex,S,L1115,Jacket,Unisex,S,Armani,4273.0,PRIMARY_APPROVE,0.598918,0.749831,0.690388,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0124,Jacket,Unisex,S,L0722,Jacket,Unisex,S,Burberry,2611.0,PRIMARY_APPROVE,0.426043,0.763911,0.596715,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0124,Jacket,Unisex,S,L0260,Jacket,Unisex,M,Louis Vuitton,4000.0,PRIMARY_APPROVE,0.775545,0.829704,0.809743,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0160,Jacket,Unisex,M,L1286,Jacket,Unisex,M,Uniqlo,79.0,PRIMARY_APPROVE,0.537382,0.023113,0.568871,same_category|exact_gender_match|exact_size_match|same_condition
+L0160,Jacket,Unisex,M,L0264,Jacket,Unisex,M,Burberry,2000.0,REVIEW_FALLBACK,0.812465,0.585148,0.733982,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0160,Jacket,Unisex,M,L0627,Jacket,Unisex,M,Burberry,2005.0,REVIEW_FALLBACK,0.684907,0.586611,0.682026,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0183,Jacket,Unisex,M,L0299,Jacket,Unisex,M,Gucci,4000.0,PRIMARY_APPROVE,0.64444,0.829704,0.742746,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0183,Jacket,Unisex,M,L0260,Jacket,Unisex,M,Louis Vuitton,4000.0,PRIMARY_APPROVE,0.604336,0.829704,0.729577,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0183,Jacket,Unisex,M,L1305,Jacket,Unisex,M,Louis Vuitton,3223.0,PRIMARY_APPROVE,0.568482,0.942966,0.697406,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0183,Jacket,Unisex,M,L1462,Jacket,Unisex,S,Gucci,4726.0,PRIMARY_APPROVE,0.767735,0.617295,0.761761,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0183,Jacket,Unisex,M,L0663,Jacket,Unisex,S,Gucci,4685.0,PRIMARY_APPROVE,0.726292,0.629291,0.743167,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0212,Jacket,Unisex,L,L1320,Jacket,Unisex,L,Balenciaga,2425.0,PRIMARY_APPROVE,0.527527,0.709492,0.632089,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0212,Jacket,Unisex,L,L1286,Jacket,Unisex,M,Uniqlo,79.0,PRIMARY_APPROVE,0.580181,0.023113,0.578411,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0212,Jacket,Unisex,L,L0810,Jacket,Unisex,L,Balenciaga,2779.0,REVIEW_FALLBACK,0.637202,0.813063,0.673657,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0212,Jacket,Unisex,L,L0264,Jacket,Unisex,M,Burberry,2000.0,REVIEW_FALLBACK,0.776276,0.585148,0.700078,same_category|exact_gender_match|nearest_size_match|same_condition|near_category_budget
+L0239,Jacket,Unisex,M,L0260,Jacket,Unisex,M,Louis Vuitton,4000.0,PRIMARY_APPROVE,0.643087,0.829704,0.75089,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0239,Jacket,Unisex,M,L0299,Jacket,Unisex,M,Gucci,4000.0,PRIMARY_APPROVE,0.659128,0.829704,0.750824,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0239,Jacket,Unisex,M,L1305,Jacket,Unisex,M,Louis Vuitton,3223.0,PRIMARY_APPROVE,0.652068,0.942966,0.743379,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0239,Jacket,Unisex,M,L0375,Jacket,Unisex,L,Burberry,3000.0,PRIMARY_APPROVE,0.635195,0.877722,0.732907,same_category|exact_gender_match|nearest_size_match|same_condition|near_category_budget
+L0239,Jacket,Unisex,M,L1170,Jacket,Unisex,L,Burberry,3769.0,PRIMARY_APPROVE,0.535748,0.897289,0.707057,same_category|exact_gender_match|nearest_size_match|near_category_budget|high_quality_item
+L0007,Dress,Women,L,L1499,Dress,Women,L,Zara,1172.0,PRIMARY_APPROVE,0.995584,0.427077,0.935835,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0007,Dress,Women,L,L1189,Dress,Women,L,Zara,1053.0,PRIMARY_APPROVE,0.997616,0.383714,0.928171,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0007,Dress,Women,L,L0107,Dress,Women,L,Zara,1320.0,PRIMARY_APPROVE,0.986056,0.481009,0.924043,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0007,Dress,Women,L,L0760,Dress,Women,L,Zara,997.0,PRIMARY_APPROVE,0.995314,0.363307,0.92042,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0007,Dress,Women,L,L0263,Dress,Women,L,Versace,4500.0,PRIMARY_APPROVE,0.79653,0.360198,0.819667,same_category|exact_gender_match|exact_size_match|same_condition|high_quality_item
+L0015,Dress,Women,S,L0884,Dress,Women,S,Prada,2664.0,PRIMARY_APPROVE,0.650315,0.970763,0.749638,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0015,Dress,Women,S,L0862,Dress,Women,S,Versace,2660.0,PRIMARY_APPROVE,0.579025,0.969305,0.714617,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0015,Dress,Women,S,L0350,Dress,Women,S,Prada,2500.0,PRIMARY_APPROVE,0.433095,0.911001,0.600302,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0015,Dress,Women,S,L0641,Dress,Women,XS,Prada,2345.0,PRIMARY_APPROVE,0.413155,0.854519,0.574132,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0015,Dress,Women,S,L1010,Dress,Women,S,Prada,11710.0,PRIMARY_APPROVE,0.989062,0.0,0.873095,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0051,Dress,Women,L,L0884,Dress,Women,S,Prada,2664.0,PRIMARY_APPROVE,0.66276,0.970763,0.724983,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0051,Dress,Women,L,L0862,Dress,Women,S,Versace,2660.0,PRIMARY_APPROVE,0.530832,0.969305,0.65661,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0051,Dress,Women,L,L0350,Dress,Women,S,Prada,2500.0,PRIMARY_APPROVE,0.46522,0.911001,0.586471,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0051,Dress,Women,L,L0641,Dress,Women,XS,Prada,2345.0,PRIMARY_APPROVE,0.473122,0.854519,0.575613,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0051,Dress,Women,L,L1138,Dress,Women,L,Prada,8692.0,PRIMARY_APPROVE,0.986977,0.0,0.837726,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0064,Dress,Women,M,L0884,Dress,Women,S,Prada,2664.0,PRIMARY_APPROVE,0.542198,0.970763,0.676174,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0064,Dress,Women,M,L0862,Dress,Women,S,Versace,2660.0,PRIMARY_APPROVE,0.533621,0.969305,0.675645,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0064,Dress,Women,M,L0350,Dress,Women,S,Prada,2500.0,PRIMARY_APPROVE,0.360246,0.911001,0.546235,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0064,Dress,Women,M,L0641,Dress,Women,XS,Prada,2345.0,PRIMARY_APPROVE,0.36902,0.854519,0.532357,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0064,Dress,Women,M,L1382,Dress,Women,M,Versace,10695.0,PRIMARY_APPROVE,0.991628,0.0,0.859618,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0077,Dress,Women,M,L1277,Dress,Women,M,Masaba,1629.0,REVIEW_FALLBACK,0.722297,0.593608,0.735735,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0077,Dress,Women,M,L0874,Dress,Women,M,Versace,2054.0,REVIEW_FALLBACK,0.669923,0.748479,0.703083,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0078,Dress,Women,S,L0884,Dress,Women,S,Prada,2664.0,PRIMARY_APPROVE,0.486174,0.970763,0.659361,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0078,Dress,Women,S,L0794,Dress,Women,S,Nicobar,906.0,PRIMARY_APPROVE,0.999798,0.330147,0.91957,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0078,Dress,Women,S,L1197,Dress,Women,S,Nicobar,853.0,PRIMARY_APPROVE,0.994988,0.310834,0.919438,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0078,Dress,Women,S,L0106,Dress,Women,S,Nicobar,1000.0,PRIMARY_APPROVE,0.989857,0.364401,0.910028,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0078,Dress,Women,S,L1199,Dress,Women,S,Zara,1289.0,PRIMARY_APPROVE,0.948451,0.469712,0.909731,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0090,Dress,Women,S,L0862,Dress,Women,S,Versace,2660.0,PRIMARY_APPROVE,0.351555,0.969305,0.589508,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0090,Dress,Women,S,L1199,Dress,Women,S,Zara,1289.0,PRIMARY_APPROVE,0.701103,0.469712,0.773689,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0090,Dress,Women,S,L0367,Dress,Women,S,Zara,1200.0,PRIMARY_APPROVE,0.704526,0.437281,0.772328,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0090,Dress,Women,S,L0292,Dress,Women,S,Zara,1100.0,PRIMARY_APPROVE,0.710203,0.400841,0.771807,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0090,Dress,Women,S,L1117,Dress,Women,S,Zara,1126.0,PRIMARY_APPROVE,0.68907,0.410315,0.765575,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0093,Dress,Women,M,L0884,Dress,Women,S,Prada,2664.0,PRIMARY_APPROVE,0.738006,0.970763,0.783869,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0093,Dress,Women,M,L0862,Dress,Women,S,Versace,2660.0,PRIMARY_APPROVE,0.541821,0.969305,0.680154,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0093,Dress,Women,M,L0350,Dress,Women,S,Prada,2500.0,PRIMARY_APPROVE,0.59804,0.911001,0.677022,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0093,Dress,Women,M,L0641,Dress,Women,XS,Prada,2345.0,PRIMARY_APPROVE,0.593111,0.854519,0.655607,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0093,Dress,Women,M,L0463,Dress,Women,M,Prada,8635.0,PRIMARY_APPROVE,0.989904,0.0,0.830447,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0010,Saree,Women,M,L0296,Saree,Women,M,Raw Mango,2500.0,PRIMARY_APPROVE,0.695809,0.958092,0.788282,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0010,Saree,Women,M,L0399,Saree,Women,M,Raw Mango,2106.0,PRIMARY_APPROVE,0.472829,0.807097,0.626766,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0010,Saree,Women,M,L0253,Saree,Women,L,Raw Mango,2700.0,PRIMARY_APPROVE,0.75122,0.96526,0.836808,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0010,Saree,Women,M,L1427,Saree,Women,L,Raw Mango,3736.0,PRIMARY_APPROVE,0.829046,0.568227,0.835465,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0010,Saree,Women,M,L0371,Saree,Women,L,Raw Mango,3600.0,PRIMARY_APPROVE,0.808367,0.620347,0.833748,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0017,Saree,Women,L,L1427,Saree,Women,L,Raw Mango,3736.0,PRIMARY_APPROVE,0.5919,0.568227,0.719035,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0017,Saree,Women,L,L0371,Saree,Women,L,Raw Mango,3600.0,PRIMARY_APPROVE,0.558201,0.620347,0.710156,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0017,Saree,Women,L,L0321,Saree,Women,L,Raw Mango,3200.0,PRIMARY_APPROVE,0.518232,0.773642,0.699058,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0017,Saree,Women,L,L0253,Saree,Women,L,Raw Mango,2700.0,PRIMARY_APPROVE,0.469038,0.96526,0.695608,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0017,Saree,Women,L,L1339,Saree,Women,L,Raw Mango,1985.0,PRIMARY_APPROVE,0.364514,0.760725,0.590777,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0021,Saree,Women,M,L0296,Saree,Women,M,Raw Mango,2500.0,PRIMARY_APPROVE,0.681607,0.958092,0.780471,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0021,Saree,Women,M,L0399,Saree,Women,M,Raw Mango,2106.0,PRIMARY_APPROVE,0.596299,0.807097,0.694674,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0021,Saree,Women,M,L0346,Saree,Women,S,Raw Mango,2500.0,PRIMARY_APPROVE,0.652461,0.958092,0.745996,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0021,Saree,Women,M,L1427,Saree,Women,L,Raw Mango,3736.0,PRIMARY_APPROVE,0.650923,0.568227,0.737497,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0021,Saree,Women,M,L0321,Saree,Women,L,Raw Mango,3200.0,PRIMARY_APPROVE,0.597206,0.773642,0.728494,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0036,Saree,Women,M,L1490,Saree,Women,M,House of Masaba,850.0,PRIMARY_APPROVE,0.437733,0.325751,0.548773,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0036,Saree,Women,M,L0409,Saree,Women,M,House of Masaba,1498.0,REVIEW_FALLBACK,0.921194,0.574089,0.808955,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0036,Saree,Women,M,L0105,Saree,Women,M,House of Masaba,1500.0,REVIEW_FALLBACK,0.919822,0.574855,0.808277,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0052,Saree,Women,L,L0231,Saree,Women,L,Nalli,1300.0,PRIMARY_APPROVE,0.371232,0.498208,0.592054,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0052,Saree,Women,L,L0946,Saree,Women,L,Nalli,586.0,PRIMARY_APPROVE,0.357706,0.224577,0.528974,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0052,Saree,Women,L,L0146,Saree,Women,M,Nalli,875.0,PRIMARY_APPROVE,0.439377,0.335332,0.578357,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0052,Saree,Women,L,L0590,Saree,Women,S,Nalli,705.0,PRIMARY_APPROVE,0.316568,0.270182,0.498742,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0052,Saree,Women,L,L1358,Saree,Women,L,Sabyasachi,3362.0,REVIEW_FALLBACK,0.692462,0.711558,0.708788,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0105,Saree,Women,M,L1490,Saree,Women,M,House of Masaba,850.0,PRIMARY_APPROVE,0.550963,0.325751,0.611049,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0105,Saree,Women,M,L0409,Saree,Women,M,House of Masaba,1498.0,REVIEW_FALLBACK,0.99996,0.574089,0.852276,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0105,Saree,Women,M,L0878,Saree,Women,L,Raw Mango,1585.0,REVIEW_FALLBACK,0.744484,0.60743,0.711543,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0132,Saree,Women,M,L0296,Saree,Women,M,Raw Mango,2500.0,PRIMARY_APPROVE,0.628975,0.958092,0.751523,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0132,Saree,Women,M,L0399,Saree,Women,M,Raw Mango,2106.0,PRIMARY_APPROVE,0.617218,0.807097,0.70618,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0132,Saree,Women,M,L0346,Saree,Women,S,Raw Mango,2500.0,PRIMARY_APPROVE,0.551303,0.958092,0.690359,same_category|exact_gender_match|nearest_size_match|same_condition|near_category_budget
+L0132,Saree,Women,M,L1339,Saree,Women,L,Raw Mango,1985.0,PRIMARY_APPROVE,0.56338,0.760725,0.686154,same_category|exact_gender_match|nearest_size_match|same_condition|near_category_budget
+L0132,Saree,Women,M,L0253,Saree,Women,L,Raw Mango,2700.0,PRIMARY_APPROVE,0.408451,0.96526,0.648285,same_category|exact_gender_match|nearest_size_match|near_category_budget|high_quality_item
+L0145,Saree,Women,M,L0146,Saree,Women,M,Nalli,875.0,PRIMARY_APPROVE,0.34148,0.335332,0.538514,same_category|exact_gender_match|exact_size_match|same_material|high_quality_item
+L0145,Saree,Women,M,L1255,Saree,Women,M,Suta,271.0,PRIMARY_APPROVE,0.318132,0.103857,0.530914,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0145,Saree,Women,M,L1087,Saree,Women,M,Suta,254.0,PRIMARY_APPROVE,0.331987,0.097342,0.521438,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0145,Saree,Women,M,L1346,Saree,Women,M,Suta,160.0,PRIMARY_APPROVE,0.38393,0.061318,0.516515,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0145,Saree,Women,M,L0409,Saree,Women,M,House of Masaba,1498.0,REVIEW_FALLBACK,0.624445,0.574089,0.645742,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0037,Shirt,Unisex,XS,L0470,Shirt,Unisex,L,Tommy Hilfiger,769.0,PRIMARY_APPROVE,0.20342,0.636188,0.444222,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0037,Shirt,Unisex,XS,L0295,Shirt,Unisex,L,Tommy Hilfiger,800.0,PRIMARY_APPROVE,0.21555,0.58121,0.436507,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0037,Shirt,Unisex,XS,L0142,Shirt,Unisex,XS,Louis Vuitton,8800.0,PRIMARY_APPROVE,0.999915,0.0,0.852231,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0037,Shirt,Unisex,XS,L1274,Shirt,Unisex,XS,Louis Vuitton,6750.0,PRIMARY_APPROVE,0.989852,0.0,0.839308,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0037,Shirt,Unisex,XS,L0398,Shirt,Unisex,XS,Louis Vuitton,5506.0,PRIMARY_APPROVE,0.965283,0.0,0.825683,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0045,Shirt,Unisex,L,L0369,Shirt,Unisex,M,Tommy Hilfiger,700.0,PRIMARY_APPROVE,0.584306,0.758559,0.646724,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0045,Shirt,Unisex,L,L0344,Shirt,Unisex,L,Tommy Hilfiger,1000.0,PRIMARY_APPROVE,0.561013,0.226512,0.627431,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0045,Shirt,Unisex,L,L1017,Shirt,Unisex,XS,Tommy Hilfiger,1335.0,PRIMARY_APPROVE,0.4489,0.0,0.508062,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0045,Shirt,Unisex,L,L0451,Shirt,Unisex,L,Tommy Hilfiger,607.0,REVIEW_FALLBACK,0.97321,0.923493,0.872504,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0045,Shirt,Unisex,L,L0586,Shirt,Unisex,L,Tommy Hilfiger,675.0,REVIEW_FALLBACK,0.978315,0.802896,0.863252,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0121,Shirt,Unisex,M,L0315,Shirt,Unisex,M,Mufti,500.0,PRIMARY_APPROVE,0.813998,0.886744,0.863929,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0121,Shirt,Unisex,M,L1445,Shirt,Unisex,M,Pantaloons,312.0,PRIMARY_APPROVE,0.823917,0.553328,0.849599,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0121,Shirt,Unisex,M,L0311,Shirt,Unisex,M,Pantaloons,400.0,PRIMARY_APPROVE,0.825311,0.709395,0.847972,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0121,Shirt,Unisex,M,L0915,Shirt,Unisex,M,Mufti,364.0,PRIMARY_APPROVE,0.645789,0.64555,0.714516,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0121,Shirt,Unisex,M,L1101,Shirt,Unisex,M,Tommy Hilfiger,639.0,PRIMARY_APPROVE,0.591992,0.866741,0.707159,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0130,Shirt,Unisex,L,L0994,Shirt,Unisex,XL,Reliance Trends,326.0,PRIMARY_APPROVE,0.634047,0.578157,0.708097,same_category|exact_gender_match|nearest_size_match|same_material|same_brand
+L0130,Shirt,Unisex,L,L0315,Shirt,Unisex,M,Mufti,500.0,PRIMARY_APPROVE,0.390047,0.886744,0.616756,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0130,Shirt,Unisex,L,L0311,Shirt,Unisex,M,Pantaloons,400.0,PRIMARY_APPROVE,0.386863,0.709395,0.592825,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0130,Shirt,Unisex,L,L0383,Shirt,Unisex,L,Reliance Trends,236.0,PRIMARY_APPROVE,0.424549,0.418543,0.600023,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0130,Shirt,Unisex,L,L0675,Shirt,Unisex,L,Zudio,20.0,PRIMARY_APPROVE,0.426611,0.03547,0.56285,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0142,Shirt,Unisex,XS,L0470,Shirt,Unisex,L,Tommy Hilfiger,769.0,PRIMARY_APPROVE,0.199437,0.636188,0.442031,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0142,Shirt,Unisex,XS,L0295,Shirt,Unisex,L,Tommy Hilfiger,800.0,PRIMARY_APPROVE,0.21222,0.58121,0.434675,same_category|exact_gender_match|extended_size_match|same_condition|near_category_budget
+L0142,Shirt,Unisex,XS,L0037,Shirt,Unisex,XS,Louis Vuitton,8550.0,PRIMARY_APPROVE,0.999915,0.0,0.852231,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0142,Shirt,Unisex,XS,L1274,Shirt,Unisex,XS,Louis Vuitton,6750.0,PRIMARY_APPROVE,0.98852,0.0,0.838575,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0142,Shirt,Unisex,XS,L0398,Shirt,Unisex,XS,Louis Vuitton,5506.0,PRIMARY_APPROVE,0.963263,0.0,0.824572,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0159,Shirt,Unisex,L,L0295,Shirt,Unisex,L,Tommy Hilfiger,800.0,PRIMARY_APPROVE,0.968832,0.58121,0.896312,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0159,Shirt,Unisex,L,L1045,Shirt,Unisex,L,Tommy Hilfiger,390.0,PRIMARY_APPROVE,0.953502,0.69166,0.888481,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0159,Shirt,Unisex,L,L0470,Shirt,Unisex,L,Tommy Hilfiger,769.0,PRIMARY_APPROVE,0.924431,0.636188,0.886278,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0159,Shirt,Unisex,L,L0428,Shirt,Unisex,L,Mufti,499.0,PRIMARY_APPROVE,0.872464,0.88497,0.87813,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0159,Shirt,Unisex,L,L0340,Shirt,Unisex,L,Mufti,400.0,PRIMARY_APPROVE,0.859494,0.709395,0.853439,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0163,Shirt,Unisex,S,L0315,Shirt,Unisex,M,Mufti,500.0,PRIMARY_APPROVE,0.575138,0.886744,0.718556,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0163,Shirt,Unisex,S,L0311,Shirt,Unisex,M,Pantaloons,400.0,PRIMARY_APPROVE,0.598233,0.709395,0.709079,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0163,Shirt,Unisex,S,L1101,Shirt,Unisex,M,Tommy Hilfiger,639.0,PRIMARY_APPROVE,0.604686,0.866741,0.70014,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0163,Shirt,Unisex,S,L0915,Shirt,Unisex,M,Mufti,364.0,PRIMARY_APPROVE,0.593113,0.64555,0.671545,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0163,Shirt,Unisex,S,L1445,Shirt,Unisex,M,Pantaloons,312.0,PRIMARY_APPROVE,0.471881,0.553328,0.641978,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0203,Shirt,Unisex,L,L0428,Shirt,Unisex,L,Mufti,499.0,PRIMARY_APPROVE,0.647094,0.88497,0.754177,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0203,Shirt,Unisex,L,L0470,Shirt,Unisex,L,Tommy Hilfiger,769.0,PRIMARY_APPROVE,0.664275,0.636188,0.743192,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0203,Shirt,Unisex,L,L0340,Shirt,Unisex,L,Mufti,400.0,PRIMARY_APPROVE,0.65336,0.709395,0.740065,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0203,Shirt,Unisex,L,L0295,Shirt,Unisex,L,Tommy Hilfiger,800.0,PRIMARY_APPROVE,0.581619,0.58121,0.683345,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item
+L0203,Shirt,Unisex,L,L1445,Shirt,Unisex,M,Pantaloons,312.0,PRIMARY_APPROVE,0.807125,0.553328,0.826363,same_category|exact_gender_match|nearest_size_match|same_condition|near_category_budget
+L0059,Jeans,Unisex,M,L0390,Jeans,Unisex,M,Levi's,220.0,PRIMARY_APPROVE,0.350948,0.679693,0.560213,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0059,Jeans,Unisex,M,L1099,Jeans,Unisex,XS,Roadster,213.0,PRIMARY_APPROVE,0.430421,0.658066,0.586594,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0059,Jeans,Unisex,M,L0647,Jeans,Unisex,M,Diesel,1686.0,PRIMARY_APPROVE,0.504495,0.0,0.588584,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0059,Jeans,Unisex,M,L0947,Jeans,Unisex,S,American Eagle,1039.0,PRIMARY_APPROVE,0.601976,0.0,0.628198,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0059,Jeans,Unisex,M,L0455,Jeans,Unisex,XL,Roadster,75.0,PRIMARY_APPROVE,0.544894,0.231713,0.606919,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0115,Jeans,Unisex,XS,L0362,Jeans,Unisex,M,Roadster,250.0,PRIMARY_APPROVE,0.643237,0.772378,0.674963,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0115,Jeans,Unisex,XS,L0287,Jeans,Unisex,M,Roadster,200.0,PRIMARY_APPROVE,0.649294,0.617902,0.658402,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0115,Jeans,Unisex,XS,L1051,Jeans,Unisex,M,Flying Machine,221.0,PRIMARY_APPROVE,0.489682,0.682782,0.600881,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0115,Jeans,Unisex,XS,L0390,Jeans,Unisex,M,Levi's,220.0,PRIMARY_APPROVE,0.44136,0.679693,0.57844,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0115,Jeans,Unisex,XS,L0583,Jeans,Unisex,M,Flying Machine,297.0,PRIMARY_APPROVE,0.414037,0.917585,0.578423,same_category|exact_gender_match|extended_size_match|same_material|near_category_budget
+L0119,Jeans,Unisex,L,L1136,Jeans,Unisex,M,Pantaloons,33.0,PRIMARY_APPROVE,0.515827,0.101954,0.555345,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0119,Jeans,Unisex,L,L1393,Jeans,Unisex,L,American Eagle,372.0,REVIEW_FALLBACK,0.834136,0.850701,0.808067,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0119,Jeans,Unisex,L,L0499,Jeans,Unisex,L,American Eagle,381.0,REVIEW_FALLBACK,0.83999,0.822896,0.804062,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0125,Jeans,Unisex,M,L0391,Jeans,Unisex,M,Roadster,308.0,PRIMARY_APPROVE,0.751315,0.95157,0.822602,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0125,Jeans,Unisex,M,L0757,Jeans,Unisex,M,Roadster,232.0,PRIMARY_APPROVE,0.72964,0.716767,0.782756,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0125,Jeans,Unisex,M,L0804,Jeans,Unisex,M,Flying Machine,302.0,PRIMARY_APPROVE,0.685335,0.933033,0.775571,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0125,Jeans,Unisex,M,L0364,Jeans,Unisex,M,Flying Machine,350.0,PRIMARY_APPROVE,0.681328,0.918671,0.771931,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0125,Jeans,Unisex,M,L0359,Jeans,Unisex,M,Max Fashion,200.0,PRIMARY_APPROVE,0.748485,0.617902,0.77129,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0134,Jeans,Unisex,M,L0390,Jeans,Unisex,M,Levi's,220.0,PRIMARY_APPROVE,0.350948,0.679693,0.560213,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0134,Jeans,Unisex,M,L1099,Jeans,Unisex,XS,Roadster,213.0,PRIMARY_APPROVE,0.430421,0.658066,0.586594,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0134,Jeans,Unisex,M,L0647,Jeans,Unisex,M,Diesel,1686.0,PRIMARY_APPROVE,0.504495,0.0,0.588584,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0134,Jeans,Unisex,M,L0947,Jeans,Unisex,S,American Eagle,1039.0,PRIMARY_APPROVE,0.601976,0.0,0.628198,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0134,Jeans,Unisex,M,L0455,Jeans,Unisex,XL,Roadster,75.0,PRIMARY_APPROVE,0.544894,0.231713,0.606919,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0152,Jeans,Unisex,L,L0947,Jeans,Unisex,S,American Eagle,1039.0,PRIMARY_APPROVE,0.468931,0.0,0.537523,same_category|exact_gender_match|extended_size_match|same_material|same_brand
+L0152,Jeans,Unisex,L,L0115,Jeans,Unisex,XS,American Eagle,550.0,PRIMARY_APPROVE,0.471676,0.300768,0.511943,same_category|exact_gender_match|extended_size_match|same_material|same_brand
+L0152,Jeans,Unisex,L,L1393,Jeans,Unisex,L,American Eagle,372.0,REVIEW_FALLBACK,0.998609,0.850701,0.898527,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0152,Jeans,Unisex,L,L0499,Jeans,Unisex,L,American Eagle,381.0,REVIEW_FALLBACK,0.991919,0.822896,0.887623,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0204,Jeans,Unisex,S,L0312,Jeans,Unisex,S,Roadster,300.0,PRIMARY_APPROVE,0.541452,0.926854,0.695817,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0204,Jeans,Unisex,S,L0362,Jeans,Unisex,M,Roadster,250.0,PRIMARY_APPROVE,0.736739,0.772378,0.743889,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0204,Jeans,Unisex,S,L0287,Jeans,Unisex,M,Roadster,200.0,PRIMARY_APPROVE,0.750289,0.617902,0.731449,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0204,Jeans,Unisex,S,L1051,Jeans,Unisex,M,Flying Machine,221.0,PRIMARY_APPROVE,0.650474,0.682782,0.706817,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0204,Jeans,Unisex,S,L0583,Jeans,Unisex,M,Flying Machine,297.0,PRIMARY_APPROVE,0.573064,0.917585,0.683388,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0210,Jeans,Unisex,M,L0359,Jeans,Unisex,M,Max Fashion,200.0,PRIMARY_APPROVE,0.881067,0.617902,0.844211,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0210,Jeans,Unisex,M,L0804,Jeans,Unisex,M,Flying Machine,302.0,PRIMARY_APPROVE,0.801893,0.933033,0.839678,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0210,Jeans,Unisex,M,L0364,Jeans,Unisex,M,Flying Machine,350.0,PRIMARY_APPROVE,0.787772,0.918671,0.830475,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0210,Jeans,Unisex,M,L0583,Jeans,Unisex,M,Flying Machine,297.0,PRIMARY_APPROVE,0.813687,0.917585,0.829731,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0210,Jeans,Unisex,M,L0223,Jeans,Unisex,M,Roadster,250.0,PRIMARY_APPROVE,0.807391,0.772378,0.826636,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0097,Lehenga,Women,L,L0889,Lehenga,Women,M,Anita Dongre,2854.0,PRIMARY_APPROVE,0.635485,0.944187,0.724824,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0097,Lehenga,Women,L,L0452,Lehenga,Women,M,Anita Dongre,3072.0,PRIMARY_APPROVE,0.602761,0.983693,0.721221,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0097,Lehenga,Women,L,L0892,Lehenga,Women,M,Anita Dongre,3235.0,PRIMARY_APPROVE,0.612344,0.929767,0.721099,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0097,Lehenga,Women,L,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.593725,0.992488,0.717131,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0097,Lehenga,Women,L,L0322,Lehenga,Women,M,Tarun Tahiliani,3000.0,PRIMARY_APPROVE,0.590038,0.992488,0.715103,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0117,Lehenga,Women,S,L1396,Lehenga,Women,S,Anita Dongre,2054.0,PRIMARY_APPROVE,0.551864,0.679523,0.661922,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0117,Lehenga,Women,S,L1202,Lehenga,Women,M,Anita Dongre,2552.0,PRIMARY_APPROVE,0.487492,0.844276,0.628993,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0117,Lehenga,Women,S,L0889,Lehenga,Women,M,Anita Dongre,2854.0,PRIMARY_APPROVE,0.429547,0.944187,0.611559,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0117,Lehenga,Women,S,L0097,Lehenga,Women,L,Sabyasachi,7150.0,PRIMARY_APPROVE,0.492583,0.0,0.511865,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0117,Lehenga,Women,S,L0123,Lehenga,Women,L,Sabyasachi,6400.0,PRIMARY_APPROVE,0.383702,0.0,0.462481,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0123,Lehenga,Women,L,L0892,Lehenga,Women,M,Anita Dongre,3235.0,PRIMARY_APPROVE,0.745767,0.929767,0.794482,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0123,Lehenga,Women,L,L0322,Lehenga,Women,M,Tarun Tahiliani,3000.0,PRIMARY_APPROVE,0.734015,0.992488,0.79429,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0123,Lehenga,Women,L,L0889,Lehenga,Women,M,Anita Dongre,2854.0,PRIMARY_APPROVE,0.761035,0.944187,0.793877,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0123,Lehenga,Women,L,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.730673,0.992488,0.792452,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0123,Lehenga,Women,L,L0452,Lehenga,Women,M,Anita Dongre,3072.0,PRIMARY_APPROVE,0.728325,0.983693,0.790281,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0147,Lehenga,Women,L,L0889,Lehenga,Women,M,Anita Dongre,2854.0,PRIMARY_APPROVE,0.687061,0.944187,0.753191,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0147,Lehenga,Women,L,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.658623,0.992488,0.752825,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0147,Lehenga,Women,L,L0452,Lehenga,Women,M,Anita Dongre,3072.0,PRIMARY_APPROVE,0.659289,0.983693,0.752312,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0147,Lehenga,Women,L,L0481,Lehenga,Women,XL,Anita Dongre,2812.0,PRIMARY_APPROVE,0.665805,0.930292,0.750555,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0147,Lehenga,Women,L,L1202,Lehenga,Women,M,Anita Dongre,2552.0,PRIMARY_APPROVE,0.706758,0.844276,0.749589,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0148,Lehenga,Women,S,L0297,Lehenga,Women,S,Anita Dongre,3500.0,PRIMARY_APPROVE,0.842774,0.842098,0.888847,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0148,Lehenga,Women,S,L1396,Lehenga,Women,S,Anita Dongre,2054.0,PRIMARY_APPROVE,0.634903,0.679523,0.707593,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0148,Lehenga,Women,S,L0256,Lehenga,Women,M,Tarun Tahiliani,4200.0,PRIMARY_APPROVE,0.778251,0.610517,0.811756,same_category|exact_gender_match|nearest_size_match|same_material|same_condition
+L0148,Lehenga,Women,S,L0685,Lehenga,Women,M,Anita Dongre,2364.0,PRIMARY_APPROVE,0.72092,0.78208,0.774936,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0148,Lehenga,Women,S,L1111,Lehenga,Women,M,Anita Dongre,3166.0,PRIMARY_APPROVE,0.68717,0.952595,0.768981,same_category|exact_gender_match|nearest_size_match|same_material|near_category_budget
+L0153,Lehenga,Women,M,L1111,Lehenga,Women,M,Anita Dongre,3166.0,PRIMARY_APPROVE,0.606976,0.952595,0.738874,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0153,Lehenga,Women,M,L0892,Lehenga,Women,M,Anita Dongre,3235.0,PRIMARY_APPROVE,0.604271,0.929767,0.730659,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0153,Lehenga,Women,M,L0322,Lehenga,Women,M,Tarun Tahiliani,3000.0,PRIMARY_APPROVE,0.584518,0.992488,0.726067,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0153,Lehenga,Women,M,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.578937,0.992488,0.722998,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0153,Lehenga,Women,M,L0452,Lehenga,Women,M,Anita Dongre,3072.0,PRIMARY_APPROVE,0.579285,0.983693,0.722309,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0232,Lehenga,Women,M,L0685,Lehenga,Women,M,Anita Dongre,2364.0,PRIMARY_APPROVE,0.811768,0.78208,0.838903,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0232,Lehenga,Women,M,L0254,Lehenga,Women,M,Anita Dongre,2500.0,PRIMARY_APPROVE,0.797049,0.827073,0.830862,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0232,Lehenga,Women,M,L1111,Lehenga,Women,M,Anita Dongre,3166.0,PRIMARY_APPROVE,0.76704,0.952595,0.826909,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0232,Lehenga,Women,M,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.752725,0.992488,0.818581,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0232,Lehenga,Women,M,L0322,Lehenga,Women,M,Tarun Tahiliani,3000.0,PRIMARY_APPROVE,0.751466,0.992488,0.817889,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0254,Lehenga,Women,M,L1111,Lehenga,Women,M,Anita Dongre,3166.0,PRIMARY_APPROVE,0.994514,0.952595,0.95202,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0254,Lehenga,Women,M,L0372,Lehenga,Women,M,Anita Dongre,3000.0,PRIMARY_APPROVE,0.989845,0.992488,0.948997,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0254,Lehenga,Women,M,L0452,Lehenga,Women,M,Anita Dongre,3072.0,PRIMARY_APPROVE,0.986248,0.983693,0.946139,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0254,Lehenga,Women,M,L0892,Lehenga,Women,M,Anita Dongre,3235.0,PRIMARY_APPROVE,0.986711,0.929767,0.941001,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0254,Lehenga,Women,M,L0685,Lehenga,Women,M,Anita Dongre,2364.0,PRIMARY_APPROVE,0.992458,0.78208,0.938282,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0109,Top,Women,S,L1463,Top,Women,S,Zudio,66.0,PRIMARY_APPROVE,0.706455,0.850862,0.780303,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0109,Top,Women,S,L0277,Top,Women,S,Vishal Mega Mart,70.0,PRIMARY_APPROVE,0.630805,0.902429,0.724519,same_category|exact_gender_match|exact_size_match|same_tier|same_condition
+L0109,Top,Women,S,L0301,Top,Women,S,Easybuy,80.0,PRIMARY_APPROVE,0.449329,0.968652,0.640218,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0109,Top,Women,S,L0202,Top,Women,M,Zudio,70.0,PRIMARY_APPROVE,0.582184,0.902429,0.688222,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0109,Top,Women,S,L0304,Top,Women,L,Style Bazaar,70.0,PRIMARY_APPROVE,0.507632,0.902429,0.625274,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0113,Top,Women,S,L0301,Top,Women,S,Easybuy,80.0,PRIMARY_APPROVE,0.80449,0.968652,0.835557,same_category|exact_gender_match|exact_size_match|same_brand|same_condition
+L0113,Top,Women,S,L1341,Top,Women,S,Easybuy,89.0,PRIMARY_APPROVE,0.768549,0.852626,0.832631,same_category|exact_gender_match|exact_size_match|same_brand|same_condition
+L0113,Top,Women,S,L1459,Top,Women,S,Zudio,38.0,PRIMARY_APPROVE,0.781897,0.48989,0.808144,same_category|exact_gender_match|exact_size_match|same_tier|same_condition
+L0113,Top,Women,S,L0267,Top,Women,S,Zudio,60.0,PRIMARY_APPROVE,0.738818,0.773511,0.806812,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0113,Top,Women,S,L0759,Top,Women,S,Bewakoof,20.0,PRIMARY_APPROVE,0.830229,0.257837,0.792188,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0126,Top,Women,S,L0277,Top,Women,S,Vishal Mega Mart,70.0,PRIMARY_APPROVE,0.632423,0.902429,0.725409,same_category|exact_gender_match|exact_size_match|same_tier|same_condition
+L0126,Top,Women,S,L1463,Top,Women,S,Zudio,66.0,PRIMARY_APPROVE,0.531483,0.850862,0.684068,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0126,Top,Women,S,L0304,Top,Women,L,Style Bazaar,70.0,PRIMARY_APPROVE,0.495717,0.902429,0.618721,same_category|exact_gender_match|extended_size_match|same_material|same_tier
+L0126,Top,Women,S,L1232,Top,Women,S,Reliance Trends,54.0,REVIEW_FALLBACK,0.986967,0.69616,0.857337,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0126,Top,Women,S,L1032,Top,Women,S,Reliance Trends,37.0,REVIEW_FALLBACK,0.988242,0.476998,0.836122,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0202,Top,Women,M,L0624,Top,Women,M,Style Bazaar,52.0,PRIMARY_APPROVE,0.80676,0.670376,0.824978,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0202,Top,Women,M,L0482,Top,Women,M,Style Bazaar,76.0,PRIMARY_APPROVE,0.725743,0.97978,0.806914,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0202,Top,Women,M,L1173,Top,Women,M,Zudio,50.0,PRIMARY_APPROVE,0.803538,0.644592,0.801183,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0202,Top,Women,M,L0466,Top,Women,M,Style Bazaar,66.0,PRIMARY_APPROVE,0.724713,0.850862,0.797901,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0202,Top,Women,M,L1404,Top,Women,M,Style Bazaar,53.0,PRIMARY_APPROVE,0.716336,0.683268,0.757089,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0206,Top,Women,XS,L0460,Top,Women,XS,Style Bazaar,40.0,PRIMARY_APPROVE,0.896793,0.515674,0.86947,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0206,Top,Women,XS,L0948,Top,Women,XS,Style Bazaar,54.0,PRIMARY_APPROVE,0.868153,0.69616,0.862656,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0206,Top,Women,XS,L1231,Top,Women,XS,Bewakoof,30.0,PRIMARY_APPROVE,0.603743,0.386755,0.665623,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0206,Top,Women,XS,L1021,Top,Women,XS,Zudio,30.0,PRIMARY_APPROVE,0.54648,0.386755,0.629573,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0206,Top,Women,XS,L0983,Top,Women,XS,Highlander,20.0,PRIMARY_APPROVE,0.541656,0.257837,0.614028,same_category|exact_gender_match|exact_size_match|same_tier|near_category_budget
+L0267,Top,Women,S,L0767,Top,Women,S,Bewakoof,67.0,PRIMARY_APPROVE,0.902048,0.863754,0.928057,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0267,Top,Women,S,L0491,Top,Women,S,Bewakoof,55.0,PRIMARY_APPROVE,0.901844,0.709051,0.912475,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0267,Top,Women,S,L0379,Top,Women,S,Zudio,23.0,PRIMARY_APPROVE,0.949517,0.296512,0.897441,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0267,Top,Women,S,L1459,Top,Women,S,Zudio,38.0,PRIMARY_APPROVE,0.927587,0.48989,0.888273,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0267,Top,Women,S,L1463,Top,Women,S,Zudio,66.0,PRIMARY_APPROVE,0.866279,0.850862,0.868207,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0277,Top,Women,S,L1315,Top,Women,S,Vishal Mega Mart,40.0,PRIMARY_APPROVE,0.793214,0.515674,0.787057,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0277,Top,Women,S,L0113,Top,Women,S,Easybuy,35.0,PRIMARY_APPROVE,0.748799,0.451215,0.763628,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0277,Top,Women,S,L1133,Top,Women,S,Vishal Mega Mart,44.0,PRIMARY_APPROVE,0.747156,0.567241,0.747549,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0277,Top,Women,S,L0759,Top,Women,S,Bewakoof,20.0,PRIMARY_APPROVE,0.717618,0.257837,0.730251,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0277,Top,Women,S,L0301,Top,Women,S,Easybuy,80.0,PRIMARY_APPROVE,0.607918,0.968652,0.727442,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0286,Top,Women,S,L1341,Top,Women,S,Easybuy,89.0,PRIMARY_APPROVE,0.731574,0.852626,0.812295,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0286,Top,Women,S,L0767,Top,Women,S,Bewakoof,67.0,PRIMARY_APPROVE,0.610372,0.863754,0.767635,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0286,Top,Women,S,L0491,Top,Women,S,Bewakoof,55.0,PRIMARY_APPROVE,0.598204,0.709051,0.745473,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0286,Top,Women,S,L0301,Top,Women,S,Easybuy,80.0,PRIMARY_APPROVE,0.635605,0.968652,0.74267,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0286,Top,Women,S,L0267,Top,Women,S,Zudio,60.0,PRIMARY_APPROVE,0.614633,0.773511,0.73851,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0128,Kurta,Unisex,S,L1159,Kurta,Unisex,L,Aurelia,371.0,PRIMARY_APPROVE,0.508214,0.530755,0.612204,same_category|exact_gender_match|extended_size_match|same_material|same_condition
+L0128,Kurta,Unisex,S,L0909,Kurta,Unisex,S,Libas,43.0,PRIMARY_APPROVE,0.379775,0.17029,0.531238,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0128,Kurta,Unisex,S,L1500,Kurta,Unisex,S,Aurelia,34.0,PRIMARY_APPROVE,0.429573,0.134648,0.529619,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0128,Kurta,Unisex,S,L0149,Kurta,Unisex,M,Rangriti,70.0,PRIMARY_APPROVE,0.402184,0.277216,0.558034,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0128,Kurta,Unisex,S,L1435,Kurta,Unisex,XS,Libas,40.0,PRIMARY_APPROVE,0.414051,0.158409,0.524347,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0149,Kurta,Unisex,M,L0303,Kurta,Unisex,M,Rangriti,110.0,PRIMARY_APPROVE,0.891672,0.435625,0.875093,same_category|exact_gender_match|exact_size_match|same_material|same_brand
+L0149,Kurta,Unisex,M,L0268,Kurta,Unisex,M,Soch,200.0,PRIMARY_APPROVE,0.654485,0.792046,0.744505,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0149,Kurta,Unisex,M,L0220,Kurta,Unisex,M,Anouk,250.0,PRIMARY_APPROVE,0.562449,0.990057,0.703241,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0149,Kurta,Unisex,M,L0440,Kurta,Unisex,M,Anouk,231.0,PRIMARY_APPROVE,0.49347,0.914813,0.653335,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0149,Kurta,Unisex,M,L1108,Kurta,Unisex,M,Fabindia,187.0,PRIMARY_APPROVE,0.497584,0.740563,0.638172,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0150,Kurta,Unisex,L,L0981,Kurta,Unisex,L,Rangriti,153.0,REVIEW_FALLBACK,0.862385,0.605915,0.794681,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0150,Kurta,Unisex,L,L1028,Kurta,Unisex,L,Rangriti,163.0,REVIEW_FALLBACK,0.578541,0.645517,0.678305,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0205,Kurta,Unisex,M,L0268,Kurta,Unisex,M,Soch,200.0,PRIMARY_APPROVE,0.833057,0.792046,0.842719,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0205,Kurta,Unisex,M,L0220,Kurta,Unisex,M,Anouk,250.0,PRIMARY_APPROVE,0.8084,0.990057,0.838514,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0205,Kurta,Unisex,M,L0303,Kurta,Unisex,M,Rangriti,110.0,PRIMARY_APPROVE,0.802451,0.435625,0.826021,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0205,Kurta,Unisex,M,L0440,Kurta,Unisex,M,Anouk,231.0,PRIMARY_APPROVE,0.79116,0.914813,0.817064,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0205,Kurta,Unisex,M,L1108,Kurta,Unisex,M,Fabindia,187.0,PRIMARY_APPROVE,0.796538,0.740563,0.802597,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0208,Kurta,Unisex,L,L0432,Kurta,Unisex,L,Aurelia,284.0,PRIMARY_APPROVE,0.980385,0.875295,0.972297,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0208,Kurta,Unisex,L,L0357,Kurta,Unisex,L,Aurelia,300.0,PRIMARY_APPROVE,0.999134,0.811931,0.967384,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0208,Kurta,Unisex,L,L1438,Kurta,Unisex,L,Aurelia,207.0,PRIMARY_APPROVE,0.960065,0.819767,0.93179,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0208,Kurta,Unisex,L,L0618,Kurta,Unisex,L,Aurelia,240.0,PRIMARY_APPROVE,0.895277,0.950455,0.921003,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0208,Kurta,Unisex,L,L0353,Kurta,Unisex,L,Rangriti,130.0,PRIMARY_APPROVE,0.890731,0.51483,0.882496,same_category|exact_gender_match|exact_size_match|same_material|same_condition
+L0218,Kurta,Unisex,L,L0618,Kurta,Unisex,L,Aurelia,240.0,PRIMARY_APPROVE,0.880149,0.950455,0.912683,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0218,Kurta,Unisex,L,L1035,Kurta,Unisex,L,Aurelia,210.0,PRIMARY_APPROVE,0.911355,0.831648,0.898633,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0218,Kurta,Unisex,L,L0918,Kurta,Unisex,L,Aurelia,203.0,PRIMARY_APPROVE,0.908569,0.803927,0.894328,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0218,Kurta,Unisex,L,L0208,Kurta,Unisex,L,Aurelia,250.0,PRIMARY_APPROVE,0.814468,0.990057,0.88363,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0218,Kurta,Unisex,L,L0432,Kurta,Unisex,L,Aurelia,284.0,PRIMARY_APPROVE,0.803014,0.875295,0.874743,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0220,Kurta,Unisex,M,L0440,Kurta,Unisex,M,Anouk,231.0,PRIMARY_APPROVE,0.992081,0.914813,0.92757,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0220,Kurta,Unisex,M,L0268,Kurta,Unisex,M,Soch,200.0,PRIMARY_APPROVE,0.89526,0.792046,0.876931,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0220,Kurta,Unisex,M,L1108,Kurta,Unisex,M,Fabindia,187.0,PRIMARY_APPROVE,0.906445,0.740563,0.863046,same_category|exact_gender_match|exact_size_match|same_material|same_tier
+L0220,Kurta,Unisex,M,L0303,Kurta,Unisex,M,Rangriti,110.0,PRIMARY_APPROVE,0.561379,0.435625,0.693432,same_category|exact_gender_match|exact_size_match|same_material|near_category_budget
+L0220,Kurta,Unisex,M,L0282,Kurta,Unisex,L,Libas,200.0,PRIMARY_APPROVE,0.808103,0.792046,0.814995,same_category|exact_gender_match|nearest_size_match|same_material|same_tier
+L0228,Kurta,Unisex,M,L0268,Kurta,Unisex,M,Soch,200.0,PRIMARY_APPROVE,0.666647,0.792046,0.751194,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0228,Kurta,Unisex,M,L0220,Kurta,Unisex,M,Anouk,250.0,PRIMARY_APPROVE,0.63007,0.990057,0.740433,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0228,Kurta,Unisex,M,L1108,Kurta,Unisex,M,Fabindia,187.0,PRIMARY_APPROVE,0.652336,0.740563,0.723285,same_category|exact_gender_match|exact_size_match|same_brand|same_condition
+L0228,Kurta,Unisex,M,L0440,Kurta,Unisex,M,Anouk,231.0,PRIMARY_APPROVE,0.59335,0.914813,0.708268,same_category|exact_gender_match|exact_size_match|same_condition|near_category_budget
+L0228,Kurta,Unisex,M,L0303,Kurta,Unisex,M,Rangriti,110.0,PRIMARY_APPROVE,0.580576,0.435625,0.70399,same_category|exact_gender_match|exact_size_match|near_category_budget|high_quality_item

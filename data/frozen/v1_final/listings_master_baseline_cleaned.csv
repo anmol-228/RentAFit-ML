@@ -1,0 +1,376 @@
+listing_id,brand,category,material,size,condition,age_months,original_price,provider_price
+L0001,Sabyasachi,Ethnic Wear,Silk,M,Like New,4,89999,12400
+L0002,Zudio,Top,Cotton,S,Like New,4,599,65
+L0003,Nike,Activewear,Polyester,L,New,2,3999,480
+L0004,Gucci,Jacket,Leather,S,New,1,61999,9100
+L0005,Rangriti,Kurta,Cotton,S,New,2,999,125
+L0006,Louis Vuitton,Jacket,Leather,M,Used,10,150000,14850
+L0007,Zara,Dress,Linen,L,New,2,9999,1155
+L0008,Biba,Kurta,Silk,M,Like New,5,1499,185
+L0009,Roadster,Jeans,Denim,XL,New,2,1099,135
+L0010,Anita Dongre,Saree,Silk,M,New,3,59999,8580
+L0011,Easybuy,Top,Polyester,S,Like New,3,499,60
+L0012,Manyavar,Ethnic Wear,Silk,XL,New,2,5499,785
+L0013,GAP,Jeans,Denim,L,Used,11,5999,515
+L0014,Fabindia,Kurta,Silk,M,Used,7,2999,280
+L0015,Prada,Dress,Silk,S,Like New,4,95000,11650
+L0016,HRX,Activewear,Polyester,XS,New,3,999,120
+L0017,Sabyasachi,Saree,Silk,L,New,2,145000,19800
+L0018,Moda Rapido,Dress,Polyester,S,New,1,1099,160
+L0019,Bewakoof,Top,Cotton,S,New,2,899,110
+L0020,Marks & Spencer,Shirt,Linen,L,Like New,5,3499,525
+L0021,Tarun Tahiliani,Saree,Silk,M,Like New,6,69999,8850
+L0022,Mufti,Shirt,Linen,L,Used,10,3099,265
+L0023,Libas,Kurta,Cotton,S,New,4,899,100
+L0024,Anouk,Saree,Silk,M,New,3,1999,285
+L0025,Flying Machine,Jeans,Denim,L,Like New,4,1499,185
+L0026,Global Desi,Saree,Silk,S,Like New,6,2499,330
+L0027,Pantaloons,Jeans,Denim,S,Used,9,1099,95
+L0028,Indya,Jacket,Denim,L,Like New,5,1299,145
+L0029,Zara,Jacket,Denim,M,Used,8,4999,475
+L0030,H&M,Dress,Cotton,S,Used,9,1199,105
+L0031,Suta,Saree,Silk,M,New,1,2999,430
+L0032,Uniqlo,Jacket,Polyester,M,Like New,5,1999,220
+L0033,Forever 21,Dress,Polyester,S,New,2,1299,175
+L0034,Max Fashion,Jeans,Denim,M,New,3,999,120
+L0035,Highlander,Shirt,Cotton,M,New,3,999,125
+L0036,Jaypore,Saree,Silk,M,Like New,6,8999,1150
+L0037,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,8550
+L0038,Armani,Jacket,Leather,S,Used,11,45459,4150
+L0039,W for Woman,Saree,Silk,M,New,2,2499,330
+L0040,Biba,Dress,Silk,M,Like New,6,5500,825
+L0041,Global Desi,Ethnic Wear,Silk,M,Like New,5,3999,600
+L0042,Soch,Ethnic Wear,Silk,S,Like New,4,1499,205
+L0043,Manish Malhotra,Ethnic Wear,Silk,M,Used,8,79999,8700
+L0044,Aurelia,Kurta,Cotton,S,Used,8,999,100
+L0045,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,735
+L0046,Calvin Klein,Jacket,Denim,M,Used,9,7999,760
+L0047,Red Tape,Shirt,Linen,S,New,3,899,110
+L0048,Puma,Activewear,Polyester,M,Used,7,2999,260
+L0049,Label Ritu Kumar,Ethnic Wear,Silk,S,New,3,14500,2175
+L0050,Fabindia,Kurta,Cotton,XL,Used,10,2799,280
+L0051,Prada,Dress,Silk,L,Like New,6,85999,10600
+L0052,Nalli,Saree,Silk,L,Like New,3,6999,965
+L0053,Zudio,Top,Cotton,S,New,2,499,75
+L0054,Adidas,Activewear,Polyester,S,Like New,5,3499,425
+L0055,Libas,Kurta,Silk,S,New,2,1999,300
+L0056,Bewakoof,Top,Polyester,S,Used,6,499,45
+L0057,Moda Rapido,Dress,Denim,S,New,1,899,115
+L0058,Roadster,Shirt,Cotton,M,New,3,1099,135
+L0059,Levi's,Jeans,Denim,M,New,2,3999,480
+L0060,FBB,Ethnic Wear,Cotton,L,New,4,699,90
+L0061,Gucci,Jacket,Leather,M,Like New,6,120000,13300
+L0062,HRX,Activewear,Polyester,M,New,3,2299,345
+L0063,Skechers,Activewear,Polyester,M,Like New,4,4999,610
+L0064,Versace,Dress,Silk,M,Like New,5,110000,13400
+L0065,Mufti,Shirt,Linen,M,Like New,4,2899,435
+L0066,Reebok,Activewear,Polyester,S,Used,3,2799,285
+L0067,Anouk,Saree,Cotton,S,Used,7,1899,155
+L0068,Masaba,Dress,Silk,M,Like New,4,12000,1800
+L0069,Indya,Jacket,Denim,M,Used,9,1499,145
+L0070,Pantaloons,Dress,Cotton,L,Like New,6,2499,375
+L0071,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,90
+L0072,Zudio,Shirt,Cotton,M,New,1,399,50
+L0073,Under Armour,Activewear,Polyester,M,New,3,6999,840
+L0074,Reliance Trends,Top,Cotton,S,Like New,6,799,90
+L0075,Easybuy,Shirt,Polyester,M,Used,8,699,65
+L0076,House of Masaba,Saree,Silk,M,Like New,7,13499,1650
+L0077,AND,Dress,Cotton,M,Like New,5,4999,525
+L0078,Nicobar,Dress,Linen,S,New,3,7999,925
+L0079,American Eagle,Jeans,Denim,XS,Used,8,8499,730
+L0080,Anita Dongre,Ethnic Wear,Silk,S,Like New,10,19499,2350
+L0081,FBB,Kurta,Cotton,M,Used,9,999,100
+L0082,Aurelia,Ethnic Wear,Cotton,M,Used,6,1199,150
+L0083,Bewakoof,Top,Polyester,XS,Like New,5,799,110
+L0084,Style Bazaar,Top,Polyester,XL,Used,8,299,30
+L0085,Rangriti,Kurta,Cotton,M,New,3,699,90
+L0086,Flying Machine,Jeans,Denim,L,Used,9,3199,420
+L0087,Mufti,Shirt,Linen,M,Used,11,3499,300
+L0088,Suta,Saree,Linen,M,Like New,6,3499,440
+L0089,H&M,Dress,Silk,S,Like New,6,1499,180
+L0090,Zara,Dress,Linen,S,New,2,6990,1050
+L0091,Forever 21,Top,Cotton,S,Like New,5,1500,225
+L0092,Highlander,Top,Cotton,XL,Like New,2,599,80
+L0093,Prada,Dress,Silk,M,Like New,8,75499,8250
+L0094,Soch,Ethnic Wear,Silk,S,Like New,4,1499,205
+L0095,Neeru's,Ethnic Wear,Silk,M,Like New,7,14999,1850
+L0096,Meena Bazaar,Ethnic Wear,Silk,S,New,4,12999,1720
+L0097,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,7150
+L0098,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,6350
+L0099,W for Woman,Ethnic Wear,Silk,S,Used,7,1199,135
+L0100,Armani,Ethnic Wear,Polyester,L,New,2,85000,12100
+L0101,Rangriti,Kurta,Cotton,M,New,3,699,65
+L0102,Style Bazaar,Top,Polyester,XL,Used,8,299,20
+L0103,Soch,Ethnic Wear,Cotton,XS,Used,9,799,35
+L0104,AND,Dress,Cotton,M,Like New,5,4999,510
+L0105,House of Masaba,Saree,Silk,M,Like New,7,13499,1500
+L0106,Nicobar,Dress,Linen,S,New,3,7999,1000
+L0107,Zara,Dress,Linen,L,New,2,9999,1320
+L0108,Armani,Jacket,Leather,S,Used,11,45459,3700
+L0109,Zudio,Top,Cotton,S,Like New,4,599,40
+L0110,Easybuy,Shirt,Polyester,M,Used,8,699,40
+L0111,W for Woman,Saree,Silk,M,New,2,2499,330
+L0112,Zudio,Shirt,Cotton,M,New,1,399,30
+L0113,Easybuy,Top,Polyester,S,Like New,3,499,35
+L0114,GAP,Jeans,Denim,L,Used,11,5999,335
+L0115,American Eagle,Jeans,Denim,XS,Used,8,8499,550
+L0116,Under Armour,Activewear,Polyester,M,New,3,6999,800
+L0117,Anita Dongre,Lehenga,Silk,S,Like New,10,19499,1950
+L0118,FBB,Kurta,Cotton,M,Used,9,999,50
+L0119,Pantaloons,Jeans,Denim,L,Like New,5,1199,80
+L0120,Vishal Mega Mart,Shirt,Cotton,L,Used,7,399,25
+L0121,Roadster,Shirt,Cotton,M,New,3,1099,80
+L0122,Libas,Kurta,Cotton,M,Like New,4,1199,90
+L0123,Sabyasachi,Lehenga,Silk,L,Like New,8,51999,6400
+L0124,Gucci,Jacket,Leather,S,New,1,61999,10200
+L0125,Max Fashion,Jeans,Denim,M,New,3,999,70
+L0126,Reliance Trends,Top,Cotton,S,Like New,6,799,50
+L0127,Aurelia,Ethnic Wear,Cotton,S,Like New,2,699,60
+L0128,Libas,Kurta,Cotton,S,New,4,899,65
+L0129,Max Fashion,Jeans,Denim,M,Used,5,799,40
+L0130,Reliance Trends,Shirt,Cotton,L,New,3,499,40
+L0131,Fabindia,Kurta,Cotton,M,Used,7,2999,200
+L0132,Suta,Saree,Linen,M,Like New,6,3499,320
+L0133,H&M,Dress,Cotton,S,Like New,6,1499,120
+L0134,Levi's,Jeans,Denim,M,New,2,3999,480
+L0135,Zara,Jacket,Denim,M,Used,8,4999,350
+L0136,Uniqlo,Jacket,Polyester,M,Like New,5,1999,170
+L0137,Forever 21,Dress,Polyester,S,New,2,1299,140
+L0138,GAP,Jeans,Denim,M,Used,10,3999,260
+L0139,FBB,Ethnic Wear,Cotton,L,New,4,699,60
+L0140,Prada,Dress,Silk,S,Like New,6,85999,9800
+L0141,Highlander,Top,Cotton,XL,Like New,2,599,45
+L0142,Louis Vuitton,Shirt,Linen,XS,Like New,5,70499,8800
+L0143,Prada,Dress,Silk,M,Like New,8,75499,8900
+L0144,Soch,Ethnic Wear,Silk,S,Like New,4,1499,160
+L0145,Suta,Saree,Silk,M,New,1,2999,415
+L0146,Nalli,Saree,Silk,M,Like New,3,6999,875
+L0147,Neeru's,Lehenga,Silk,L,Like New,7,14999,1500
+L0148,Meena Bazaar,Lehenga,Silk,S,New,4,12999,1620
+L0149,Rangriti,Kurta,Cotton,M,New,2,999,70
+L0150,Vishal Mega Mart,Kurta,Cotton,L,Like New,5,799,50
+L0151,Style Bazaar,Shirt,Cotton,XL,Used,7,499,30
+L0152,American Eagle,Jeans,Denim,L,Like New,4,4999,450
+L0153,Sabyasachi,Lehenga,Silk,M,Like New,4,89999,14000
+L0154,Manish Malhotra,Lehenga,Silk,M,Used,8,79999,9000
+L0155,Uniqlo,Jacket,Denim,XS,Like New,5,1499,130
+L0156,Forever 21,Dress,Cotton,M,Like New,6,1299,110
+L0157,Manyavar,Ethnic Wear,Silk,XL,Like New,2,5499,690
+L0158,Fabindia,Ethnic Wear,Silk,XS,Used,8,2199,175
+L0159,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,5999,600
+L0160,Calvin Klein,Jacket,Denim,M,Used,9,7999,550
+L0161,Aurelia,Kurta,Cotton,S,Used,8,999,60
+L0162,Biba,Kurta,Cotton,M,Like New,5,1499,120
+L0163,UCB,Shirt,Cotton,S,Like New,5,3499,300
+L0164,Global Desi,Saree,Silk,S,Like New,6,2499,270
+L0165,Anouk,Saree,Silk,M,New,3,1999,250
+L0166,Indya,Jacket,Denim,M,Used,9,1499,100
+L0167,Flying Machine,Jeans,Denim,L,Like New,4,1499,150
+L0168,Mufti,Shirt,Linen,M,Used,11,3499,200
+L0169,Anouk,Saree,Cotton,M,Used,7,1399,90
+L0170,Indya,Jacket,Denim,S,Like New,5,1299,120
+L0171,Pantaloons,Jeans,Denim,L,Used,9,1099,60
+L0172,Roadster,Jeans,Denim,XL,New,2,1099,110
+L0173,Armani,Ethnic Wear,Polyester,L,New,2,85000,11000
+L0174,Versace,Dress,Silk,M,Like New,5,110000,14000
+L0175,Spykar,Shirt,Cotton,M,Like New,2,999,90
+L0176,Being Human,Top,Linen,S,New,8,999,85
+L0177,Prada,Dress,Silk,S,Like New,4,95000,9000
+L0178,Adidas,Activewear,Polyester,S,Like New,5,3499,330
+L0179,Puma,Activewear,Polyester,M,Used,7,2999,210
+L0180,Louis Vuitton,Jacket,Leather,M,Used,10,150000,15000
+L0181,Red Tape,Shirt,Linen,S,New,3,899,95
+L0182,H&M,Dress,Cotton,S,Used,9,1199,70
+L0183,Gucci,Jacket,Leather,M,Like New,6,120000,18000
+L0184,Bewakoof,Top,Polyester,S,Used,6,499,25
+L0185,Reebok,Activewear,Polyester,L,New,3,2799,300
+L0186,Skechers,Activewear,Polyester,M,Like New,4,4999,480
+L0187,Moda Rapido,Dress,Denim,S,New,1,899,80
+L0188,Biba,Kurta,Silk,M,Like New,4,999,85
+L0189,W for Woman,Ethnic Wear,Cotton,S,Used,7,1199,75
+L0190,Global Desi,Saree,Silk,M,Like New,6,1499,140
+L0191,Nike,Activewear,Polyester,M,New,2,3999,450
+L0192,Tarun Tahiliani,Saree,Silk,S,Like New,6,69999,10000
+L0193,Anita Dongre,Saree,Silk,M,New,3,59999,9000
+L0194,Highlander,Shirt,Cotton,M,New,3,999,100
+L0195,Moda Rapido,Dress,Polyester,M,Used,7,1199,90
+L0196,Bewakoof,Top,Cotton,S,New,2,899,90
+L0197,Rohit Bal,Ethnic Wear,Silk,L,Like New,5,49999,8000
+L0198,HRX,Activewear,Polyester,XS,Like New,3,999,85
+L0199,Flying Machine,Jacket,Denim,S,Like New,4,1299,110
+L0200,Mufti,Shirt,Linen,L,Used,10,3099,180
+L0201,Killer,Jeans,Denim,L,New,6,1199,100
+L0202,Zudio,Top,Cotton,M,Like New,5,1200,70
+L0203,Easybuy,Shirt,Polyester,L,New,2,1500,110
+L0204,Vishal Mega Mart,Jeans,Denim,S,Used,8,1400,50
+L0205,Rangriti,Kurta,Cotton,M,Like New,6,1800,100
+L0206,Style Bazaar,Top,Polyester,XS,New,1,1000,70
+L0207,Soch,Ethnic Wear,Silk,M,Like New,4,3200,250
+L0208,Aurelia,Kurta,Cotton,L,New,3,2800,250
+L0209,Libas,Dress,Linen,S,Used,10,3000,150
+L0210,Max Fashion,Jeans,Denim,M,Like New,7,2200,100
+L0211,Reliance Trends,Shirt,Cotton,XL,New,2,2600,250
+L0212,Brand Factory,Jacket,Polyester,L,Used,12,3500,150
+L0213,FBB,Top,Cotton,M,Like New,5,2000,150
+L0214,Bewakoof,Activewear,Polyester,S,New,1,1800,150
+L0215,Highlander,Jeans,Denim,L,Used,9,2400,100
+L0216,Moda Rapido,Shirt,Cotton,M,Like New,6,2100,150
+L0217,Biba,Ethnic Wear,Silk,M,New,2,5000,600
+L0218,W for Woman,Kurta,Cotton,L,Like New,4,4500,350
+L0219,Global Desi,Dress,Linen,S,Used,11,5200,250
+L0220,Anouk,Kurta,Cotton,M,Like New,7,4000,250
+L0221,Indya,Ethnic Wear,Silk,M,New,3,5500,600
+L0222,Pantaloons,Shirt,Cotton,L,Used,8,3800,200
+L0223,Roadster,Jeans,Denim,M,Like New,6,4200,250
+L0224,HRX,Activewear,Polyester,S,New,2,4800,450
+L0225,Flying Machine,Jeans,Denim,L,Like New,5,4600,300
+L0226,Mufti,Shirt,Cotton,M,Used,10,5000,250
+L0227,Manyavar,Ethnic Wear,Silk,L,New,2,8500,1200
+L0228,Fabindia,Kurta,Linen,M,Like New,5,7500,700
+L0229,Jaypore,Saree,Silk,S,Used,12,9000,700
+L0230,Suta,Saree,Cotton,M,Like New,6,8000,650
+L0231,Nalli,Saree,Silk,L,New,1,9500,1300
+L0232,Neeru's,Lehenga,Silk,M,Like New,4,11000,1000
+L0233,Meena Bazaar,Ethnic Wear,Silk,S,Used,10,10000,700
+L0234,AND,Dress,Linen,M,New,3,7200,900
+L0235,Label Ritu Kumar,Ethnic Wear,Silk,L,Like New,7,12000,1000
+L0236,Masaba,Dress,Cotton,S,Used,9,9500,600
+L0237,House of Masaba,Dress,Linen,M,Like New,5,10000,900
+L0238,Nicobar,Kurta,Linen,L,New,2,8000,1000
+L0239,Zara,Jacket,Polyester,M,Like New,6,9000,800
+L0240,Marks & Spencer,Dress,Cotton,S,Used,8,8500,600
+L0241,GAP,Jeans,Denim,L,Like New,7,7800,650
+L0242,American Eagle,Jeans,Denim,M,New,2,8200,900
+L0243,Mango,Dress,Linen,S,Like New,5,9500,900
+L0244,Nike,Activewear,Polyester,M,Used,9,10000,600
+L0245,Adidas,Jacket,Polyester,L,Like New,4,11000,1100
+L0246,New Balance,Activewear,Polyester,S,New,3,9500,1100
+L0247,Asics,Activewear,Polyester,M,Like New,6,9000,800
+L0248,Under Armour,Activewear,Polyester,L,Used,11,10500,600
+L0249,Tommy Hilfiger,Shirt,Cotton,M,Like New,5,9800,850
+L0250,Calvin Klein,Jacket,Leather,L,New,2,12000,1500
+L0251,Diesel,Jeans,Denim,M,Like New,7,11000,950
+L0252,Superdry,Jacket,Polyester,M,Like New,6,10500,950
+L0253,Raw Mango,Saree,Silk,L,New,2,18000,2700
+L0254,Anita Dongre,Lehenga,Silk,M,Like New,5,22000,2500
+L0255,Sabyasachi,Saree,Silk,S,Used,10,25000,2000
+L0256,Tarun Tahiliani,Lehenga,Silk,M,New,3,28000,4200
+L0257,Rohit Bal,Ethnic Wear,Silk,L,Like New,7,24000,2500
+L0258,Anamika Khanna,Lehenga,Silk,M,Used,12,26000,2000
+L0259,Gucci,Jacket,Leather,L,New,2,30000,4500
+L0260,Louis Vuitton,Jacket,Leather,M,Like New,4,32000,4000
+L0261,Prada,Dress,Silk,S,Used,9,27000,2500
+L0262,Armani,Shirt,Linen,M,Like New,6,21000,2000
+L0263,Versace,Dress,Silk,L,New,1,29000,4500
+L0264,Burberry,Jacket,Cotton,M,Used,11,26000,2000
+L0265,Balenciaga,Jacket,Leather,L,Like New,5,31000,4000
+L0266,Dolce & Gabbana,Dress,Silk,S,New,3,28000,4200
+L0267,Zudio,Top,Cotton,S,New,2,900,60
+L0268,Soch,Kurta,Cotton,M,Like New,6,3000,200
+L0269,Biba,Kurta,Cotton,L,Used,9,4200,200
+L0270,Manyavar,Ethnic Wear,Silk,M,Like New,5,9000,900
+L0271,Nike,Activewear,Polyester,S,Like New,6,9500,800
+L0272,Levi's,Jeans,Denim,M,New,2,8000,800
+L0273,Fabindia,Kurta,Linen,L,Used,10,7000,400
+L0274,Pantaloons,Shirt,Cotton,M,Like New,5,4500,300
+L0275,Reliance Trends,Top,Cotton,S,Used,8,2000,100
+L0276,Easybuy,Shirt,Cotton,M,New,1,1400,100
+L0277,Vishal Mega Mart,Top,Polyester,S,Like New,6,1200,70
+L0278,Rangriti,Kurta,Cotton,L,Used,9,1700,60
+L0279,Style Bazaar,Top,Cotton,M,Like New,5,1100,70
+L0280,Zudio,Jeans,Denim,S,Used,8,1300,50
+L0281,Aurelia,Dress,Linen,M,New,2,3200,300
+L0282,Libas,Kurta,Cotton,L,Like New,6,2800,200
+L0283,Max Fashion,Jeans,Denim,S,Used,11,2500,100
+L0284,Reliance Trends,Shirt,Cotton,M,Like New,4,2600,200
+L0285,Brand Factory,Jacket,Polyester,L,New,3,3400,350
+L0286,Pantaloons,Top,Cotton,S,Like New,5,3800,300
+L0287,Roadster,Jeans,Denim,M,Used,9,4200,200
+L0288,HRX,Activewear,Polyester,L,Like New,6,5000,350
+L0289,Flying Machine,Jeans,Denim,M,New,2,4800,500
+L0290,Mufti,Shirt,Cotton,S,Used,10,5200,250
+L0291,Fabindia,Kurta,Linen,M,Like New,5,7800,700
+L0292,Zara,Dress,Linen,S,New,2,9000,1100
+L0293,GAP,Jeans,Denim,L,Used,8,8200,500
+L0294,Nike,Activewear,Polyester,M,New,3,10000,1200
+L0295,Tommy Hilfiger,Shirt,Cotton,L,Like New,6,9500,800
+L0296,Raw Mango,Saree,Silk,M,Like New,5,20000,2500
+L0297,Anita Dongre,Lehenga,Silk,S,New,2,23000,3500
+L0298,Sabyasachi,Saree,Silk,L,Used,11,27000,2000
+L0299,Gucci,Jacket,Leather,M,Like New,6,32000,4000
+L0300,Prada,Dress,Silk,S,New,1,29000,4500
+L0301,Easybuy,Top,Cotton,S,Like New,4,1300,80
+L0302,Vishal Mega Mart,Shirt,Polyester,M,Used,10,1500,60
+L0303,Rangriti,Kurta,Cotton,M,New,2,1600,110
+L0304,Style Bazaar,Top,Cotton,L,Like New,6,1200,70
+L0305,Zudio,Shirt,Polyester,M,Used,9,1400,60
+L0306,Soch,Saree,Silk,L,Like New,5,3500,300
+L0307,Aurelia,Kurta,Cotton,S,Used,11,3000,150
+L0308,Libas,Dress,Linen,M,New,3,3200,300
+L0309,Max Fashion,Jeans,Denim,L,Like New,7,2600,150
+L0310,Reliance Trends,Top,Cotton,M,Used,8,2400,100
+L0311,Pantaloons,Shirt,Cotton,M,New,2,4000,400
+L0312,Roadster,Jeans,Denim,S,Like New,6,4500,300
+L0313,HRX,Activewear,Polyester,M,Used,10,5200,250
+L0314,Flying Machine,Jeans,Denim,L,Like New,5,4800,300
+L0315,Mufti,Shirt,Cotton,M,New,1,5000,500
+L0316,Fabindia,Kurta,Linen,S,Used,9,8200,500
+L0317,Mango,Dress,Linen,M,Like New,6,9500,900
+L0318,Adidas,Jacket,Polyester,L,New,2,11000,1300
+L0319,Calvin Klein,Jacket,Leather,M,Like New,5,12000,1500
+L0320,Diesel,Jeans,Denim,S,Used,11,11500,700
+L0321,Raw Mango,Saree,Silk,L,New,3,21000,3200
+L0322,Tarun Tahiliani,Lehenga,Silk,M,Like New,6,28000,3000
+L0323,Rohit Bal,Ethnic Wear,Silk,S,Used,12,25000,2000
+L0324,Louis Vuitton,Jacket,Leather,L,Like New,5,33000,4000
+L0325,Versace,Dress,Silk,M,New,2,30000,4500
+L0326,Zudio,Top,Cotton,L,Like New,5,1100,70
+L0327,Easybuy,Jeans,Denim,M,Used,8,1500,50
+L0328,Vishal Mega Mart,Shirt,Polyester,S,New,2,1300,90
+L0329,Rangriti,Kurta,Cotton,M,Like New,6,1700,100
+L0330,Style Bazaar,Top,Cotton,M,Used,9,1200,60
+L0331,Soch,Ethnic Wear,Silk,M,New,3,3800,400
+L0332,Aurelia,Dress,Linen,L,Like New,5,3400,250
+L0333,Libas,Kurta,Cotton,S,Used,10,3000,150
+L0334,Max Fashion,Jeans,Denim,M,New,2,2600,250
+L0335,Reliance Trends,Shirt,Cotton,L,Like New,6,2800,200
+L0336,Pantaloons,Top,Cotton,M,Used,8,4200,200
+L0337,Roadster,Jeans,Denim,L,New,3,4800,450
+L0338,HRX,Activewear,Polyester,S,Like New,6,5200,350
+L0339,Flying Machine,Jeans,Denim,M,Used,11,5000,250
+L0340,Mufti,Shirt,Cotton,L,Like New,5,5300,400
+L0341,Fabindia,Kurta,Linen,M,New,2,8500,1000
+L0342,Zara,Dress,Linen,S,Like New,6,9200,900
+L0343,Nike,Activewear,Polyester,M,Used,10,10000,600
+L0344,Tommy Hilfiger,Shirt,Cotton,L,Like New,4,9800,1000
+L0345,Diesel,Jeans,Denim,M,New,2,11500,1400
+L0346,Raw Mango,Saree,Silk,S,Like New,6,22000,2500
+L0347,Anita Dongre,Lehenga,Silk,M,Used,12,24000,2000
+L0348,Sabyasachi,Saree,Silk,L,New,2,28000,4200
+L0349,Gucci,Jacket,Leather,M,Like New,5,32000,6000
+L0350,Prada,Dress,Silk,S,Used,9,30000,2500
+L0351,Easybuy,Shirt,Cotton,M,Like New,6,1400,90
+L0352,Vishal Mega Mart,Top,Polyester,S,Used,10,1500,60
+L0353,Rangriti,Kurta,Cotton,L,New,2,1800,130
+L0354,Style Bazaar,Top,Cotton,M,Like New,5,1200,80
+L0355,Zudio,Jeans,Denim,S,Used,9,1300,50
+L0356,Soch,Saree,Silk,M,Like New,4,4000,350
+L0357,Aurelia,Kurta,Cotton,L,New,3,3200,300
+L0358,Libas,Dress,Linen,S,Used,11,3500,200
+L0359,Max Fashion,Jeans,Denim,M,Like New,6,2800,200
+L0360,Reliance Trends,Shirt,Cotton,XL,New,1,3000,300
+L0361,Pantaloons,Top,Cotton,S,Like New,5,4500,350
+L0362,Roadster,Jeans,Denim,M,Used,8,4800,250
+L0363,HRX,Activewear,Polyester,L,New,2,5500,550
+L0364,Flying Machine,Jeans,Denim,M,Like New,6,5200,350
+L0365,Mufti,Shirt,Cotton,S,Used,10,5600,300
+L0366,Fabindia,Kurta,Linen,M,Like New,5,9000,900
+L0367,Zara,Dress,Linen,S,New,2,10000,1200
+L0368,Adidas,Jacket,Polyester,L,Like New,6,11500,1000
+L0369,Tommy Hilfiger,Shirt,Cotton,M,Used,9,10500,700
+L0370,Calvin Klein,Jacket,Leather,L,New,3,13000,2000
+L0371,Raw Mango,Saree,Silk,L,New,2,24000,3600
+L0372,Anita Dongre,Lehenga,Silk,M,Like New,6,26000,3000
+L0373,Tarun Tahiliani,Lehenga,Silk,S,Used,12,29000,2000
+L0374,Louis Vuitton,Jacket,Leather,M,New,1,35000,5200
+L0375,Burberry,Jacket,Cotton,L,Like New,5,27000,3000

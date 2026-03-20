@@ -1,0 +1,47 @@
+{
+  "source_rows": 1500,
+  "catalog_rows": 1500,
+  "recommendable_rows": 932,
+  "filtered_out_rows": 568,
+  "recommendable_rate": 0.6213333333333333,
+  "pool_status_counts": {
+    "FILTERED_OUT": 568,
+    "PRIMARY_APPROVE": 529,
+    "REVIEW_FALLBACK": 403
+  },
+  "category_counts_recommendable": {
+    "Dress": 133,
+    "Shirt": 122,
+    "Jeans": 111,
+    "Jacket": 98,
+    "Top": 95,
+    "Kurta": 94,
+    "Saree": 88,
+    "Activewear": 79,
+    "Ethnic Wear": 71,
+    "Lehenga": 41
+  },
+  "gender_counts_recommendable": {
+    "Unisex": 575,
+    "Women": 357
+  },
+  "size_counts_recommendable": {
+    "M": 357,
+    "S": 243,
+    "L": 215,
+    "XS": 60,
+    "XL": 57
+  },
+  "avg_category_budget_recommendable": {
+    "Activewear": 424.87,
+    "Dress": 2744.23,
+    "Ethnic Wear": 2191.15,
+    "Jacket": 3417.94,
+    "Jeans": 323.68,
+    "Kurta": 252.51,
+    "Lehenga": 3022.71,
+    "Saree": 2609.35,
+    "Shirt": 563.86,
+    "Top": 77.57
+  }
+}

@@ -1,0 +1,89 @@
+test_source,listing_id,split_set,brand,tier_primary,original_price,pred_min_final,pred_max_final,pred_min_model_candidate,pred_max_model_candidate,pred_min_rule_candidate,pred_max_rule_candidate,target_min,target_max,abs_error_min,abs_error_max,check_order,check_round_min,check_round_max,check_postprocess_model_candidate,check_non_negative,model_route,residual_applied,confidence_score,confidence_threshold,fallback_to_rule_range,final_source
+dataset_known_target,L0279,test,Style Bazaar,Tier 1,1100,40,50,40,50,40,50,40,50,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0009,test,Roadster,Tier 1,1099,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0993,val,Libas,Tier 1,970,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0047,val,Red Tape,Tier 1,899,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1136,val,Pantaloons,Tier 1,1146,30,40,30,40,30,40,30,40,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0189,test,W for Woman,Tier 1,1199,40,40,40,40,40,40,40,40,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0119,test,Pantaloons,Tier 1,1199,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0605,val,Biba,Tier 1,1000,40,50,40,50,50,60,50,60,10,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0861,val,Moda Rapido,Tier 1,1015,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0128,val,Libas,Tier 1,899,40,50,40,50,40,50,40,50,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0509,test,W for Woman,Tier 1,1198,40,40,40,40,40,40,40,40,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0118,val,FBB,Tier 1,999,30,30,30,30,30,30,30,30,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1450,val,Aurelia,Tier 1,686,30,30,30,30,30,40,30,40,0,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0057,val,Moda Rapido,Tier 1,899,40,50,40,50,50,60,50,60,10,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1134,val,Roadster,Tier 2,1247,60,70,60,70,60,70,60,70,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1374,val,Rangriti,Tier 2,1804,80,90,80,90,80,90,80,90,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0008,val,Biba,Tier 2,1499,70,90,70,90,80,90,80,90,10,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0987,test,Rangriti,Tier 2,1485,60,70,60,70,60,70,60,70,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0089,test,H&M,Tier 2,1499,80,90,80,90,80,90,80,90,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1407,val,Vishal Mega Mart,Tier 2,1357,80,100,80,100,80,90,80,90,0,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0413,val,Anouk,Tier 2,1908,90,100,90,100,90,110,90,110,0,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0327,val,Easybuy,Tier 2,1500,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1493,test,H&M,Tier 2,1794,70,80,70,80,70,80,70,80,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0667,val,Forever 21,Tier 2,1313,80,100,80,100,80,100,80,100,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0712,val,Roadster,Tier 2,1332,70,80,70,80,70,80,70,80,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0169,test,Anouk,Tier 2,1399,50,60,50,60,50,60,50,60,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0957,test,Max Fashion,Tier 2,2481,120,140,120,140,110,130,110,130,10,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0328,val,Vishal Mega Mart,Tier 2,1300,80,90,80,90,80,90,80,90,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0683,val,Mufti,Tier 3,3343,140,170,140,170,130,170,130,170,10,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0797,test,Flying Machine,Tier 3,4242,180,250,180,250,180,250,180,250,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0441,val,Mufti,Tier 3,4139,150,190,150,190,150,190,150,190,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0209,test,Libas,Tier 3,3000,130,160,130,160,130,160,130,160,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0753,val,Adidas,Tier 3,4139,200,250,200,250,200,250,200,250,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0029,test,Zara,Tier 3,4999,200,250,200,250,200,250,200,250,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0953,val,Roadster,Tier 3,3599,120,160,120,160,120,150,120,150,0,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0288,val,HRX,Tier 3,5000,300,350,300,350,250,350,250,350,50,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0207,val,Soch,Tier 3,3200,190,300,190,300,200,250,200,250,10,50,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0309,test,Max Fashion,Tier 3,2600,120,160,120,160,120,160,120,160,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0087,val,Mufti,Tier 3,3499,130,160,130,160,120,160,120,160,10,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0490,test,Zara,Tier 3,4676,250,300,250,300,250,300,250,300,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0669,val,Puma,Tier 3,2608,100,130,100,130,100,120,100,120,0,10,1,1,1,1,1,tier_split_tier1to4,0,0.65,0.55,0,model_output
+dataset_known_target,L1342,test,Libas,Tier 3,2764,100,120,100,120,100,130,100,130,0,10,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0248,val,Under Armour,Tier 4,10500,450,550,450,550,450,550,450,550,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0705,val,Mango,Tier 4,9123,500,600,500,600,500,600,500,600,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0768,val,AND,Tier 4,5382,300,350,300,350,300,350,300,350,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1195,val,Under Armour,Tier 4,9333,600,700,600,700,550,700,550,700,50,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0079,test,American Eagle,Tier 4,8499,400,500,400,500,400,500,400,500,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0592,test,Tommy Hilfiger,Tier 4,9357,450,500,450,500,400,500,400,500,50,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0924,val,HRX,Tier 4,5558,400,450,400,450,400,450,400,450,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1353,val,Fabindia,Tier 4,7169,450,600,450,600,500,600,500,600,50,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0458,val,Under Armour,Tier 4,10727,500,600,500,600,450,550,450,550,50,50,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0869,val,Masaba,Tier 4,12623,800,950,800,950,800,950,800,950,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0858,test,Jaypore,Tier 4,7963,550,700,550,700,500,650,500,650,50,50,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1472,val,HRX,Tier 4,5581,400,450,400,450,400,450,400,450,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0219,test,Global Desi,Tier 4,5200,250,300,250,300,250,300,250,300,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1199,val,Zara,Tier 4,10836,1100,1300,1100,1300,1100,1300,1100,1300,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0415,val,Armani,Tier 5,49579,2900,3800,2900,3800,2900,3700,2900,3700,0,100,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0017,val,Sabyasachi,Tier 5,145000,18400,23500,18400,23500,18400,23400,18400,23400,0,100,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L1115,val,Armani,Tier 5,44087,3800,4900,3800,4900,3800,4900,3800,4900,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0098,val,Rohit Bal,Tier 5,49999,5100,6500,5100,6500,5100,6500,5100,6500,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L1295,val,Anita Dongre,Tier 5,20470,2100,2600,2100,2600,2300,3000,2300,3000,200,400,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0377,val,Sabyasachi,Tier 5,151169,19100,24400,19100,24400,19200,24400,19200,24400,100,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0258,val,Anamika Khanna,Tier 5,26000,1600,2000,1600,2000,1600,2100,1600,2100,0,100,1,1,1,1,1,tier_split_tier5,1,0.55,0.55,0,model_output
+dataset_known_target,L0664,test,Gucci,Tier 5,31801,3500,4400,3500,4400,3500,4400,3500,4400,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L1010,val,Prada,Tier 5,87941,9600,12200,9600,12200,9600,12200,9600,12200,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0297,val,Anita Dongre,Tier 5,23000,2900,3700,2900,3700,2900,3700,2900,3700,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0610,val,Sabyasachi,Tier 5,128341,13200,16700,13200,16700,13200,16800,13200,16800,0,100,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0257,val,Rohit Bal,Tier 5,24000,2200,2800,2200,2800,2200,2800,2200,2800,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L1376,val,Prada,Tier 5,88762,9700,12300,9700,12300,9700,12300,9700,12300,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0108,val,Armani,Tier 5,45459,2700,3500,2700,3500,2700,3400,2700,3400,0,100,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L1072,train,Style Bazaar,Tier 1,251,10,10,10,10,10,10,10,10,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0966,train,Gucci,Tier 5,63943,7800,9900,7800,9900,7800,9900,7800,9900,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0995,train,Pantaloons,Tier 3,4691,250,350,250,350,250,350,250,350,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1113,train,Aurelia,Tier 3,3718,250,300,250,300,250,300,250,300,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0193,train,Anita Dongre,Tier 5,59999,7600,9700,7600,9700,7600,9700,7600,9700,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0142,train,Louis Vuitton,Tier 5,70499,6500,8300,6500,8300,6500,8200,6500,8200,0,100,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+dataset_known_target,L0071,train,Vishal Mega Mart,Tier 1,799,30,40,30,40,30,40,30,40,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L0670,train,Manish Malhotra,Tier 5,77554,5500,7000,5500,7000,5500,7000,5500,7000,0,0,1,1,1,1,1,tier_split_tier5,1,1.0,0.55,0,model_output
+dataset_known_target,L1259,train,Roadster,Tier 2,1395,80,100,80,100,80,100,80,100,0,0,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+dataset_known_target,L1160,train,Prada,Tier 5,29803,2600,3300,2600,3300,2600,3300,2600,3300,0,0,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+custom_simple_input,custom_01,,Prada,Tier 5,95000,9300,11900,9300,11900,9300,11900,,,,,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+custom_simple_input,custom_02,,Zara,Tier 3,4999,250,350,250,350,250,350,,,,,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+custom_simple_input,custom_03,,Gucci,Tier 5,61999,7500,9600,7500,9600,7500,9600,,,,,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+custom_simple_input,custom_04,,Roadster,Tier 1,1099,30,40,30,40,30,40,,,,,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+custom_simple_input,custom_05,,Sabyasachi,Tier 5,89999,9300,11800,9300,11800,9300,11800,,,,,1,1,1,1,1,tier_split_tier5,1,0.9,0.55,0,model_output
+custom_simple_input,custom_06,,H&M,Tier 1,1199,30,40,30,40,30,40,,,,,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+custom_simple_input,custom_07,,Nike,Tier 3,3999,250,350,250,350,250,350,,,,,1,1,1,1,1,tier_split_tier1to4,0,1.0,0.55,0,model_output
+custom_simple_input,custom_08,,UnknownBrandX,Tier 5,95000,9300,11900,9300,11900,9300,11900,,,,,1,1,1,1,1,tier_split_tier5,1,0.45,0.55,1,rule_fallback

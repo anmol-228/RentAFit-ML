@@ -1,0 +1,776 @@
+listing_id,reviewer_name,review_date,review_status,final_quality_score_0_100,final_listing_decision,final_reviewer_note,label_source
+L0001,Anmol,2026-02-18,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0002,Ashmita,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0003,Aniket,2026-02-18,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0004,Aniket,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0005,Anmol,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0006,Bhawya,2026-02-15,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0007,Ashmita,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0008,Anmol,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0009,Ashmita,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0010,Anmol,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0011,Bhawya,2026-02-21,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L0012,Anmol,2026-02-13,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0013,Anmol,2026-02-13,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45,human_reviewed
+L0014,Ashmita,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0015,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0016,Ashmita,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0017,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0018,Anmol,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0019,Bhawya,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0020,Anmol,2026-02-15,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0021,Bhawya,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0022,Bhawya,2026-02-15,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45,human_reviewed
+L0023,Anmol,2026-02-15,reviewed,51,Reject,Age penalty -4; Price deviation penalty -45,human_reviewed
+L0024,Aniket,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0025,Aniket,2026-02-13,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0026,Bhawya,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0027,Aniket,2026-02-13,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0028,Ashmita,2026-02-18,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0029,Anmol,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0030,Anmol,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0031,Anmol,2026-02-15,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0032,Ashmita,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0033,Ashmita,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0034,Anmol,2026-02-15,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0035,Anmol,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0036,Anmol,2026-02-21,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0037,Ashmita,2026-02-13,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0038,Anmol,2026-02-21,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20,human_reviewed
+L0039,Ashmita,2026-02-18,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0040,Anmol,2026-02-15,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0041,Aniket,2026-02-18,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0042,Ashmita,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0043,Ashmita,2026-02-13,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0044,Anmol,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0045,Anmol,2026-02-21,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0046,Ashmita,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0047,Ashmita,2026-02-15,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0048,Aniket,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0049,Anmol,2026-02-21,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0050,Ashmita,2026-02-18,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45,human_reviewed
+L0051,Ashmita,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0052,Ashmita,2026-02-15,reviewed,72,Review,Condition penalty -8; Price deviation penalty -20,human_reviewed
+L0053,Aniket,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0054,Aniket,2026-02-15,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0055,Bhawya,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0056,Aniket,2026-02-15,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0057,Anmol,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0058,Anmol,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0059,Aniket,2026-02-21,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0060,Ashmita,2026-02-13,reviewed,51,Reject,Age penalty -4; Price deviation penalty -45,human_reviewed
+L0061,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0062,Anmol,2026-02-18,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0063,Aniket,2026-02-15,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0064,Ashmita,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0065,Anmol,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0066,Anmol,2026-02-15,reviewed,37,Reject,Condition penalty -18; Price deviation penalty -45,human_reviewed
+L0067,Ashmita,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0068,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0069,Anmol,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0070,Anmol,2026-02-15,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0071,Ashmita,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0072,Ashmita,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0073,Anmol,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0074,Ashmita,2026-02-13,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0075,Ashmita,2026-02-13,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0076,Ashmita,2026-02-21,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0077,Anmol,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0078,Bhawya,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0079,Bhawya,2026-02-21,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0080,Aniket,2026-02-15,reviewed,75,Approve,Condition penalty -8; Age penalty -12; Price deviation penalty -5,human_reviewed
+L0081,Ashmita,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0082,Anmol,2026-02-13,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0083,Anmol,2026-02-13,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0084,Anmol,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0085,Bhawya,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0086,Ashmita,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0087,Anmol,2026-02-15,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45,human_reviewed
+L0088,Anmol,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0089,Ashmita,2026-02-18,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0090,Anmol,2026-02-15,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0091,Ashmita,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0092,Ashmita,2026-02-15,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L0093,Ashmita,2026-02-21,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0094,Bhawya,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0095,Anmol,2026-02-18,reviewed,64,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0096,Ashmita,2026-02-15,reviewed,84,Approve,Age penalty -4; Price deviation penalty -12,human_reviewed
+L0097,Anmol,2026-02-13,reviewed,72,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0098,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0099,Ashmita,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0100,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0101,Anmol,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0102,Ashmita,2026-02-13,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0103,Bhawya,2026-02-18,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0104,Anmol,2026-02-13,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0105,Anmol,2026-02-15,reviewed,64,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0106,Anmol,2026-02-18,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0107,Aniket,2026-02-15,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0108,Anmol,2026-02-18,reviewed,65,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -5,human_reviewed
+L0109,Anmol,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0110,Aniket,2026-02-13,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0111,Bhawya,2026-02-18,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0112,Anmol,2026-02-21,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0113,Aniket,2026-02-18,reviewed,80,Approve,Condition penalty -8; Price deviation penalty -12,human_reviewed
+L0114,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0115,Anmol,2026-02-15,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0116,Anmol,2026-02-15,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0117,Anmol,2026-02-21,reviewed,80,Approve,Condition penalty -8; Age penalty -12,human_reviewed
+L0118,Anmol,2026-02-21,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0119,Ashmita,2026-02-21,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0120,Aniket,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0121,Bhawya,2026-02-18,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0122,Anmol,2026-02-18,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0123,Ashmita,2026-02-18,reviewed,79,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0124,Bhawya,2026-02-21,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0125,Ashmita,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0126,Ashmita,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0127,Anmol,2026-02-13,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L0128,Anmol,2026-02-15,reviewed,76,Review,Age penalty -4; Price deviation penalty -20,human_reviewed
+L0129,Ashmita,2026-02-13,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0130,Bhawya,2026-02-13,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0131,Ashmita,2026-02-13,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0132,Ashmita,2026-02-15,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0133,Ashmita,2026-02-13,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0134,Aniket,2026-02-15,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0135,Anmol,2026-02-18,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0136,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0137,Aniket,2026-02-15,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0138,Anmol,2026-02-18,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30,human_reviewed
+L0139,Ashmita,2026-02-18,reviewed,66,Review,Age penalty -4; Price deviation penalty -30,human_reviewed
+L0140,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0141,Anmol,2026-02-15,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L0142,Aniket,2026-02-21,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0143,Ashmita,2026-02-21,reviewed,79,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0144,Aniket,2026-02-18,reviewed,43,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0145,Ashmita,2026-02-18,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0146,Bhawya,2026-02-13,reviewed,87,Approve,Condition penalty -8; Price deviation penalty -5,human_reviewed
+L0147,Ashmita,2026-02-21,reviewed,79,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0148,Anmol,2026-02-13,reviewed,91,Approve,Age penalty -4; Price deviation penalty -5,human_reviewed
+L0149,Anmol,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0150,Anmol,2026-02-13,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0151,Anmol,2026-02-18,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0152,Ashmita,2026-02-13,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0153,Anmol,2026-02-15,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0154,Bhawya,2026-02-18,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0155,Aniket,2026-02-15,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0156,Bhawya,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0157,Ashmita,2026-02-13,reviewed,87,Approve,Condition penalty -8; Price deviation penalty -5,human_reviewed
+L0158,Anmol,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0159,Aniket,2026-02-18,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0160,Aniket,2026-02-15,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0161,Anmol,2026-02-15,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0162,Ashmita,2026-02-13,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0163,Anmol,2026-02-21,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0164,Anmol,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0165,Ashmita,2026-02-21,reviewed,55,Review,Price deviation penalty -45,human_reviewed
+L0166,Ashmita,2026-02-13,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0167,Bhawya,2026-02-15,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0168,Ashmita,2026-02-21,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20,human_reviewed
+L0169,Anmol,2026-02-15,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0170,Anmol,2026-02-15,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0171,Anmol,2026-02-13,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0172,Anmol,2026-02-18,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0173,Bhawya,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0174,Ashmita,2026-02-13,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0175,Anmol,2026-02-15,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L0176,Anmol,2026-02-15,reviewed,47,Reject,Age penalty -8; Price deviation penalty -45,human_reviewed
+L0177,Ashmita,2026-02-21,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0178,Anmol,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0179,Ashmita,2026-02-21,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0180,Anmol,2026-02-18,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0181,Anmol,2026-02-18,reviewed,55,Review,Price deviation penalty -45,human_reviewed
+L0182,Bhawya,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0183,Aniket,2026-02-15,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0184,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0185,Aniket,2026-02-18,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0186,Ashmita,2026-02-18,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0187,Ashmita,2026-02-21,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0188,Anmol,2026-02-21,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0189,Ashmita,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0190,Anmol,2026-02-18,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0191,Bhawya,2026-02-18,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0192,Ashmita,2026-02-15,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0193,Ashmita,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0194,Aniket,2026-02-21,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0195,Anmol,2026-02-18,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0196,Bhawya,2026-02-13,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0197,Anmol,2026-02-21,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0198,Bhawya,2026-02-21,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L0199,Aniket,2026-02-15,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0200,Anmol,2026-02-15,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0201,Ashmita,2026-02-18,reviewed,51,Reject,Age penalty -4; Price deviation penalty -45,human_reviewed
+L0202,Anmol,2026-02-15,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0203,Ashmita,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0204,Bhawya,2026-02-13,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0205,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0206,Anmol,2026-02-21,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0207,Aniket,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0208,Ashmita,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0209,Ashmita,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0210,Ashmita,2026-02-13,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0211,Anmol,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0212,Ashmita,2026-02-13,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0213,Bhawya,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0214,Ashmita,2026-02-18,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0215,Ashmita,2026-02-13,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0216,Ashmita,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0217,Ashmita,2026-02-13,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0218,Ashmita,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0219,Bhawya,2026-02-13,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0220,Anmol,2026-02-18,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0221,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0222,Anmol,2026-02-21,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0223,Ashmita,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0224,Ashmita,2026-02-13,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0225,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0226,Anmol,2026-02-15,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0227,Bhawya,2026-02-21,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0228,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0229,Ashmita,2026-02-13,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20,human_reviewed
+L0230,Ashmita,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0231,Ashmita,2026-02-21,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0232,Bhawya,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0233,Anmol,2026-02-21,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0234,Anmol,2026-02-15,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0235,Anmol,2026-02-21,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0236,Bhawya,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0237,Ashmita,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0238,Anmol,2026-02-18,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0239,Ashmita,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0240,Ashmita,2026-02-21,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0241,Anmol,2026-02-15,reviewed,79,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0242,Anmol,2026-02-21,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0243,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0244,Ashmita,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0245,Ashmita,2026-02-15,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0246,Bhawya,2026-02-18,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0247,Aniket,2026-02-18,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0248,Ashmita,2026-02-18,reviewed,65,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -5,human_reviewed
+L0249,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0250,Ashmita,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0251,Bhawya,2026-02-15,reviewed,72,Approve,Condition penalty -8; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0252,Bhawya,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0253,Ashmita,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0254,Aniket,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0255,Anmol,2026-02-21,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0256,Bhawya,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0257,Ashmita,2026-02-18,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0258,Anmol,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0259,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0260,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0261,Aniket,2026-02-21,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0262,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0263,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0264,Ashmita,2026-02-15,reviewed,65,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -5,human_reviewed
+L0265,Aniket,2026-02-15,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0266,Anmol,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0267,Aniket,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0268,Ashmita,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0269,Anmol,2026-02-13,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0270,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0271,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0272,Bhawya,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0273,Aniket,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0274,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0275,Ashmita,2026-02-13,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0276,Aniket,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0277,Bhawya,2026-02-21,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0278,Ashmita,2026-02-21,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0279,Anmol,2026-02-13,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0280,Anmol,2026-02-21,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0281,Aniket,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0282,Ashmita,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0283,Ashmita,2026-02-13,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20,human_reviewed
+L0284,Bhawya,2026-02-21,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0285,Bhawya,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0286,Aniket,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0287,Anmol,2026-02-18,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0288,Anmol,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0289,Ashmita,2026-02-18,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0290,Bhawya,2026-02-21,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0291,Ashmita,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0292,Anmol,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0293,Bhawya,2026-02-21,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0294,Ashmita,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0295,Ashmita,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0296,Anmol,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0297,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0298,Ashmita,2026-02-13,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0299,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0300,Bhawya,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0301,Ashmita,2026-02-18,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0302,Ashmita,2026-02-21,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0303,Anmol,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0304,Ashmita,2026-02-15,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0305,Anmol,2026-02-13,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0306,Ashmita,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0307,Ashmita,2026-02-18,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0308,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0309,Anmol,2026-02-15,reviewed,84,Approve,Condition penalty -8; Age penalty -8,human_reviewed
+L0310,Aniket,2026-02-15,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0311,Anmol,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0312,Aniket,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0313,Ashmita,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0314,Aniket,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0315,Aniket,2026-02-18,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0316,Anmol,2026-02-21,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0317,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0318,Ashmita,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0319,Anmol,2026-02-13,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0320,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0321,Aniket,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0322,Bhawya,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0323,Anmol,2026-02-15,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0324,Ashmita,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0325,Aniket,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0326,Ashmita,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0327,Anmol,2026-02-21,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0328,Aniket,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0329,Anmol,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0330,Ashmita,2026-02-21,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0331,Aniket,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0332,Bhawya,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0333,Ashmita,2026-02-21,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0334,Ashmita,2026-02-15,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0335,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0336,Anmol,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0337,Aniket,2026-02-21,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0338,Anmol,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0339,Anmol,2026-02-21,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20,human_reviewed
+L0340,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0341,Ashmita,2026-02-15,reviewed,95,Approve,Price deviation penalty -5,human_reviewed
+L0342,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0343,Ashmita,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0344,Ashmita,2026-02-18,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0345,Ashmita,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0346,Anmol,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0347,Anmol,2026-02-21,reviewed,65,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -5,human_reviewed
+L0348,Ashmita,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0349,Anmol,2026-02-21,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0350,Anmol,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0351,Anmol,2026-02-13,reviewed,76,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0352,Ashmita,2026-02-13,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0353,Anmol,2026-02-18,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0354,Anmol,2026-02-15,reviewed,68,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0355,Aniket,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0356,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0357,Ashmita,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0358,Ashmita,2026-02-15,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12,human_reviewed
+L0359,Aniket,2026-02-18,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0360,Aniket,2026-02-15,reviewed,88,Approve,Price deviation penalty -12,human_reviewed
+L0361,Anmol,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0362,Ashmita,2026-02-15,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0363,Ashmita,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0364,Anmol,2026-02-18,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0365,Ashmita,2026-02-15,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0366,Ashmita,2026-02-13,reviewed,83,Approve,Condition penalty -8; Age penalty -4; Price deviation penalty -5,human_reviewed
+L0367,Ashmita,2026-02-13,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0368,Aniket,2026-02-21,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0369,Anmol,2026-02-21,reviewed,69,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -5,human_reviewed
+L0370,Anmol,2026-02-18,reviewed,80,Review,Price deviation penalty -20,human_reviewed
+L0371,Anmol,2026-02-21,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0372,Anmol,2026-02-15,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0373,Bhawya,2026-02-18,reviewed,70,Approve,Condition penalty -18; Age penalty -12,human_reviewed
+L0374,Bhawya,2026-02-15,reviewed,100,Approve,Within expected quality and pricing tolerance,human_reviewed
+L0375,Ashmita,2026-02-13,reviewed,88,Approve,Condition penalty -8; Age penalty -4,human_reviewed
+L0382,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0385,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0393,Anmol,3/13/26,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0395,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0396,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0397,Anmol,3/13/26,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L0398,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0401,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0402,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0405,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0406,Anmol,3/13/26,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L0408,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0410,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0411,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0415,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0416,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0417,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0419,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0427,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0430,Anmol,3/13/26,reviewed,76,Review,Condition penalty -8; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0433,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0434,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0436,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0439,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0441,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0445,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0446,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0454,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0456,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0458,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0461,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0462,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0465,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0467,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0469,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0473,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0475,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0477,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0480,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0485,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0487,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0489,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0492,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0493,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0495,Anmol,3/13/26,reviewed,50,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0496,Anmol,3/13/26,reviewed,76,Review,Condition penalty -8; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0497,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0498,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0500,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0501,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0503,Anmol,3/13/26,reviewed,31,Reject,Condition penalty -8; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0506,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0507,Anmol,3/13/26,reviewed,64,Review,Condition penalty -8; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0509,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0510,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0513,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0516,Anmol,3/13/26,reviewed,56,Review,Condition penalty -8; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0522,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0525,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0528,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0533,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0534,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0539,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0540,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0542,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0544,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0549,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0550,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0553,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0554,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0556,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0557,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0560,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0561,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0562,Anmol,3/13/26,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L0568,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0571,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0576,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0577,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0581,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0587,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0588,Anmol,3/13/26,reviewed,50,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0592,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0593,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0596,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0599,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0600,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0607,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0609,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0611,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0613,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0620,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0621,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0626,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0627,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0629,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0630,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0632,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0633,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0634,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0638,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0641,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0651,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0655,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0656,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0661,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0662,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0663,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0668,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0670,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0674,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0678,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0679,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0680,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0683,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0684,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0688,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0689,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0690,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0692,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0695,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0696,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0697,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0699,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0701,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0702,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0705,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0707,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0710,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0713,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0714,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0719,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0720,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0724,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0725,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0726,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0732,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0733,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0735,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0738,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0741,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0742,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0748,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0754,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0755,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0762,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0764,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0768,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0770,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0771,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0773,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0776,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0777,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0779,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0780,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0783,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0785,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0793,Anmol,3/13/26,reviewed,76,Review,Condition penalty -8; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0795,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0797,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0803,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0808,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0809,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0810,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0815,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0816,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0818,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0821,Anmol,3/13/26,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L0822,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0827,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L0834,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0839,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0841,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0844,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0849,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0853,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0854,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0855,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0858,Anmol,3/13/26,reviewed,56,Review,Condition penalty -8; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0859,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0862,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0863,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0864,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0866,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0867,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0868,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0869,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0870,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0872,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0873,Anmol,3/13/26,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L0875,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0881,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0882,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0885,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0887,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0888,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0890,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0894,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0896,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0898,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0899,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0902,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0903,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0904,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0905,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0910,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0911,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0913,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0914,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0915,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0916,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0920,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L0923,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L0925,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L0928,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0931,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L0932,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0934,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0937,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L0939,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0941,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0942,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L0951,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0952,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0953,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L0955,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0962,Anmol,3/13/26,reviewed,66,Review,Age penalty -4; Price deviation penalty -30,human_reviewed
+L0963,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L0964,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L0969,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0970,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0973,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L0974,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0984,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L0985,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L0986,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L0988,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0997,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L0998,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L0999,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L1007,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1009,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1012,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1014,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1016,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1019,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1022,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L1023,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1025,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1030,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1036,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1038,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1040,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1042,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L1047,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1049,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1053,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1057,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1058,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1063,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1065,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1072,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1073,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1074,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1077,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1081,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1084,Anmol,3/13/26,reviewed,31,Reject,Condition penalty -8; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1094,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1102,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1104,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1106,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1109,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1110,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1112,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1114,Anmol,3/13/26,reviewed,68,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1118,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L1120,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1123,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L1127,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1130,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1131,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1140,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1144,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1145,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1148,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1149,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1152,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1157,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1164,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1167,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1172,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1174,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1175,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1177,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1181,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1183,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1184,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1187,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1188,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L1191,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L1192,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1200,Anmol,3/13/26,reviewed,60,Review,Condition penalty -8; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1204,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1205,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1208,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1209,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1210,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1212,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1213,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L1214,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L1217,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1225,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1226,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1227,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1228,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1233,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L1234,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L1236,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L1240,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1241,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1247,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1248,Anmol,3/13/26,reviewed,54,Review,Condition penalty -8; Age penalty -8; Price deviation penalty -30,human_reviewed
+L1249,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1253,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1262,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1265,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L1266,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1268,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1271,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L1279,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L1284,Anmol,3/13/26,reviewed,76,Review,Condition penalty -8; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1288,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1289,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1299,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1300,Anmol,3/13/26,reviewed,78,Approve,Condition penalty -18; Age penalty -4,human_reviewed
+L1308,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1310,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1312,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1313,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1316,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1319,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L1320,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1329,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1330,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L1331,Anmol,3/13/26,reviewed,62,Review,Condition penalty -8; Price deviation penalty -30,human_reviewed
+L1333,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1334,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1335,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1342,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1345,Anmol,3/13/26,reviewed,35,Reject,Condition penalty -8; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1349,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1351,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1352,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1355,Anmol,3/13/26,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L1358,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -12,human_reviewed
+L1359,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1363,Anmol,3/13/26,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L1365,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1367,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1368,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1369,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1371,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1378,Anmol,3/13/26,reviewed,50,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1384,Anmol,3/13/26,reviewed,47,Reject,Condition penalty -8; Price deviation penalty -45,human_reviewed
+L1388,Anmol,3/13/26,reviewed,29,Reject,Condition penalty -18; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1390,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1394,Anmol,3/13/26,reviewed,54,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -20,human_reviewed
+L1398,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1399,Anmol,3/13/26,reviewed,44,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -30,human_reviewed
+L1400,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1401,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1402,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1405,Anmol,3/13/26,reviewed,40,Review,Condition penalty -18; Age penalty -12; Price deviation penalty -30; Older listing: needs reapproval/removal,human_reviewed
+L1412,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1413,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1426,Anmol,3/13/26,reviewed,43,Reject,Condition penalty -8; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1428,Anmol,3/13/26,reviewed,66,Review,Condition penalty -18; Age penalty -16; Older listing: needs reapproval/removal,human_reviewed
+L1430,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1431,Anmol,3/13/26,reviewed,31,Reject,Condition penalty -8; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1433,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1442,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1446,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1447,Anmol,3/13/26,reviewed,48,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1448,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1449,Anmol,3/13/26,reviewed,58,Review,Condition penalty -8; Age penalty -4; Price deviation penalty -30,human_reviewed
+L1455,Anmol,3/13/26,reviewed,21,Reject,Condition penalty -18; Age penalty -16; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1466,Anmol,3/13/26,reviewed,25,Reject,Condition penalty -18; Age penalty -12; Price deviation penalty -45; Older listing: needs reapproval/removal,human_reviewed
+L1467,Anmol,3/13/26,reviewed,70,Review,Condition penalty -18; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed
+L1473,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1474,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1475,Anmol,3/13/26,reviewed,39,Reject,Condition penalty -8; Age penalty -8; Price deviation penalty -45,human_reviewed
+L1476,Anmol,3/13/26,reviewed,62,Review,Condition penalty -18; Age penalty -8; Price deviation penalty -12,human_reviewed
+L1477,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1483,Anmol,3/13/26,reviewed,70,Review,Price deviation penalty -30,human_reviewed
+L1484,Anmol,3/13/26,reviewed,55,Reject,Price deviation penalty -45,human_reviewed
+L1485,Anmol,3/13/26,reviewed,58,Review,Condition penalty -18; Age penalty -4; Price deviation penalty -20,human_reviewed
+L1487,Anmol,3/13/26,reviewed,33,Reject,Condition penalty -18; Age penalty -4; Price deviation penalty -45,human_reviewed
+L1489,Anmol,3/13/26,reviewed,46,Review,Condition penalty -18; Age penalty -16; Price deviation penalty -20; Older listing: needs reapproval/removal,human_reviewed
+L1490,Anmol,3/13/26,reviewed,74,Approve,Condition penalty -18; Age penalty -8,human_reviewed
+L1496,Anmol,3/13/26,reviewed,80,Review,Condition penalty -8; Age penalty -12; Older listing: needs reapproval/removal,human_reviewed

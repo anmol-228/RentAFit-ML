@@ -1,0 +1,17 @@
+{
+  "train_mae_min": 2.855822550831793,
+  "train_rmse_min": 23.62484046244874,
+  "train_mae_max": 3.068391866913124,
+  "train_rmse_max": 25.871143796339364,
+  "train_range_violations_after_fix": 0,
+  "val_mae_min": 13.066202090592334,
+  "val_rmse_min": 34.69629306731831,
+  "val_mae_max": 15.993031358885018,
+  "val_rmse_max": 47.53505949857537,
+  "val_range_violations_after_fix": 0,
+  "test_mae_min": 8.931297709923664,
+  "test_rmse_min": 25.06480151146544,
+  "test_mae_max": 13.816793893129772,
+  "test_rmse_max": 31.634844061234535,
+  "test_range_violations_after_fix": 0
+}

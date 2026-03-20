@@ -1,0 +1,139 @@
+{
+  "base_rows_total_before_gender_expansion": 775,
+  "rows_total": 2049,
+  "random_state": 42,
+  "fractions": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "split_counts": {
+    "test": 307,
+    "train": 1435,
+    "val": 307
+  },
+  "effective_decision_overall": {
+    "Approve": 456,
+    "Reject": 580,
+    "Review": 1013
+  },
+  "gender_counts": {
+    "Men": 775,
+    "Unisex": 499,
+    "Women": 775
+  },
+  "gender_variant_type_counts": {
+    "base": 775,
+    "explicit_men_allowed": 499,
+    "explicit_men_conflict": 276,
+    "explicit_women_allowed": 499
+  },
+  "gender_conflict_flag_counts": {
+    "0": 1773,
+    "1": 276
+  },
+  "gender_policy_override_applied": 214,
+  "per_split_effective_decision": {
+    "train": {
+      "Approve": 309,
+      "Reject": 406,
+      "Review": 720
+    },
+    "val": {
+      "Approve": 75,
+      "Reject": 88,
+      "Review": 144
+    },
+    "test": {
+      "Approve": 72,
+      "Reject": 86,
+      "Review": 149
+    }
+  },
+  "per_split_gender_variant_summary": {
+    "train": {
+      "rows_total": 1435,
+      "gender_counts": {
+        "Men": 542,
+        "Women": 542,
+        "Unisex": 351
+      },
+      "gender_source_counts": {
+        "user_selected": 893,
+        "category_derived": 542
+      },
+      "gender_variant_type_counts": {
+        "base": 542,
+        "explicit_men_allowed": 351,
+        "explicit_women_allowed": 351,
+        "explicit_men_conflict": 191
+      },
+      "gender_conflict_flag_counts": {
+        "0": 1244,
+        "1": 191
+      },
+      "gender_policy_override_applied": 150,
+      "effective_decision_counts": {
+        "Review": 720,
+        "Reject": 406,
+        "Approve": 309
+      }
+    },
+    "val": {
+      "rows_total": 307,
+      "gender_counts": {
+        "Men": 116,
+        "Women": 116,
+        "Unisex": 75
+      },
+      "gender_source_counts": {
+        "user_selected": 191,
+        "category_derived": 116
+      },
+      "gender_variant_type_counts": {
+        "base": 116,
+        "explicit_men_allowed": 75,
+        "explicit_women_allowed": 75,
+        "explicit_men_conflict": 41
+      },
+      "gender_conflict_flag_counts": {
+        "0": 266,
+        "1": 41
+      },
+      "gender_policy_override_applied": 33,
+      "effective_decision_counts": {
+        "Review": 144,
+        "Reject": 88,
+        "Approve": 75
+      }
+    },
+    "test": {
+      "rows_total": 307,
+      "gender_counts": {
+        "Men": 117,
+        "Women": 117,
+        "Unisex": 73
+      },
+      "gender_source_counts": {
+        "user_selected": 190,
+        "category_derived": 117
+      },
+      "gender_variant_type_counts": {
+        "base": 117,
+        "explicit_men_allowed": 73,
+        "explicit_women_allowed": 73,
+        "explicit_men_conflict": 44
+      },
+      "gender_conflict_flag_counts": {
+        "0": 263,
+        "1": 44
+      },
+      "gender_policy_override_applied": 31,
+      "effective_decision_counts": {
+        "Review": 149,
+        "Reject": 86,
+        "Approve": 72
+      }
+    }
+  }
+}

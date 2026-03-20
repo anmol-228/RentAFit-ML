@@ -1,0 +1,44 @@
+{
+  "target_rows": 400,
+  "selected_rows": 400,
+  "quota_log": {
+    "older_listing_priority": 120,
+    "high_deviation_priority": 120,
+    "used_condition_priority": 80,
+    "premium_or_borderline_priority": 80
+  },
+  "selected_rule_decision_counts": {
+    "Review": 197,
+    "Reject": 130,
+    "Approve": 73
+  },
+  "selected_auto_suggested_decision_counts": {
+    "Review": 239,
+    "Reject": 130,
+    "Approve": 31
+  },
+  "selected_tier_counts": {
+    "Tier 1": 36,
+    "Tier 2": 39,
+    "Tier 3": 46,
+    "Tier 4": 152,
+    "Tier 5": 127
+  },
+  "selected_condition_counts": {
+    "Used": 288,
+    "Like New": 83,
+    "New": 29
+  },
+  "selected_older_listing_flag_counts": {
+    "0": 206,
+    "1": 194
+  },
+  "selected_high_deviation_flag_counts": {
+    "0": 216,
+    "1": 184
+  },
+  "selected_borderline_flag_counts": {
+    "0": 107,
+    "1": 293
+  }
+}

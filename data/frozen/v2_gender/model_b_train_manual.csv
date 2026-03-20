@@ -1,0 +1,376 @@
+listing_id,brand,category,gender,gender_source,gender_conflict_flag,material,size,condition,condition_token,age_months,age_bin_token,older_listing_flag,listing_lifecycle_action,age_policy_override_applied,original_price,provider_price,tier_primary,deviation_M,condition_penalty,age_penalty,deviation_penalty,total_penalty,final_quality_score_0_100,final_listing_decision,decision_label,effective_listing_decision,effective_decision_label,final_reviewer_note
+L0001,Sabyasachi,Ethnic Wear,Unisex,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,89999,12400,Tier 5,5.0847,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0002,Zudio,Top,Women,category_derived,0,Cotton,S,Like New,2,4,2,0,active_current_cycle,0,599,65,Tier 1,116.6667,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0003,Nike,Activewear,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,3999,480,Tier 3,37.1429,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0004,Gucci,Jacket,Unisex,category_derived,0,Leather,S,New,1,1,1,0,active_current_cycle,0,61999,9100,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0005,Rangriti,Kurta,Unisex,category_derived,0,Cotton,S,New,1,2,1,0,active_current_cycle,0,999,125,Tier 1,108.3333,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0006,Louis Vuitton,Jacket,Unisex,category_derived,0,Leather,M,Used,3,10,4,1,needs_reapproval_or_removal,0,150000,14850,Tier 5,14.2308,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0007,Zara,Dress,Women,category_derived,0,Linen,L,New,1,2,1,0,active_current_cycle,0,9999,1155,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0008,Biba,Kurta,Unisex,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,1499,185,Tier 2,105.5556,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0009,Roadster,Jeans,Unisex,category_derived,0,Denim,XL,New,1,2,1,0,active_current_cycle,0,1099,135,Tier 1,125.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0010,Anita Dongre,Saree,Women,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,59999,8580,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0011,Easybuy,Top,Women,category_derived,0,Polyester,S,Like New,2,3,1,0,active_current_cycle,0,499,60,Tier 1,100.0,8,0,45,53,47,Reject,2,Reject,2,Condition penalty -8; Price deviation penalty -45
+L0012,Manyavar,Ethnic Wear,Unisex,category_derived,0,Silk,XL,New,1,2,1,0,active_current_cycle,0,5499,785,Tier 4,12.1429,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0013,GAP,Jeans,Unisex,category_derived,0,Denim,L,Used,3,11,4,1,needs_reapproval_or_removal,0,5999,515,Tier 4,71.6667,18,12,45,75,25,Reject,2,Reject,2,Condition penalty -18; Age penalty -12; Price deviation penalty -45
+L0014,Fabindia,Kurta,Unisex,category_derived,0,Silk,M,Used,3,7,3,0,active_current_cycle,0,2999,280,Tier 3,75.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0015,Prada,Dress,Women,category_derived,0,Silk,S,Like New,2,4,2,0,active_current_cycle,0,95000,11650,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0016,HRX,Activewear,Unisex,category_derived,0,Polyester,XS,New,1,3,1,0,active_current_cycle,0,999,120,Tier 1,100.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0017,Sabyasachi,Saree,Women,category_derived,0,Silk,L,New,1,2,1,0,active_current_cycle,0,145000,19800,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0018,Moda Rapido,Dress,Women,category_derived,0,Polyester,S,New,1,1,1,0,active_current_cycle,0,1099,160,Tier 1,128.5714,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0019,Bewakoof,Top,Women,category_derived,0,Cotton,S,New,1,2,1,0,active_current_cycle,0,899,110,Tier 1,120.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0020,Marks & Spencer,Shirt,Unisex,category_derived,0,Linen,L,Like New,2,5,2,0,active_current_cycle,0,3499,525,Tier 3,110.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0021,Tarun Tahiliani,Saree,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,69999,8850,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0022,Mufti,Shirt,Unisex,category_derived,0,Linen,L,Used,3,10,4,1,needs_reapproval_or_removal,0,3099,265,Tier 3,65.625,18,12,45,75,25,Reject,2,Reject,2,Condition penalty -18; Age penalty -12; Price deviation penalty -45
+L0023,Libas,Kurta,Unisex,category_derived,0,Cotton,S,New,1,4,2,0,active_current_cycle,0,899,100,Tier 1,100.0,0,4,45,49,51,Reject,2,Reject,2,Age penalty -4; Price deviation penalty -45
+L0024,Anouk,Saree,Women,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,1999,285,Tier 2,78.125,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0025,Flying Machine,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,4,2,0,active_current_cycle,0,1499,185,Tier 2,131.25,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0026,Global Desi,Saree,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,2499,330,Tier 2,106.25,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0027,Pantaloons,Jeans,Unisex,category_derived,0,Denim,S,Used,3,9,3,0,active_current_cycle,0,1099,95,Tier 1,137.5,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0028,Indya,Jacket,Unisex,category_derived,0,Denim,L,Like New,2,5,2,0,active_current_cycle,0,1299,145,Tier 2,81.25,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0029,Zara,Jacket,Unisex,category_derived,0,Denim,M,Used,3,8,3,0,active_current_cycle,0,4999,475,Tier 3,90.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0030,H&M,Dress,Women,category_derived,0,Cotton,S,Used,3,9,3,0,active_current_cycle,0,1199,105,Tier 1,162.5,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0031,Suta,Saree,Women,category_derived,0,Silk,M,New,1,1,1,0,active_current_cycle,0,2999,430,Tier 3,43.3333,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0032,Uniqlo,Jacket,Unisex,category_derived,0,Polyester,M,Like New,2,5,2,0,active_current_cycle,0,1999,220,Tier 2,83.3333,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0033,Forever 21,Dress,Women,category_derived,0,Polyester,S,New,1,2,1,0,active_current_cycle,0,1299,175,Tier 2,75.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0034,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,New,1,3,1,0,active_current_cycle,0,999,120,Tier 1,100.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0035,Highlander,Shirt,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,999,125,Tier 1,108.3333,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0036,Jaypore,Saree,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,8999,1150,Tier 4,21.0526,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0037,Louis Vuitton,Shirt,Unisex,category_derived,0,Linen,XS,Like New,2,5,2,0,active_current_cycle,0,70499,8550,Tier 5,4.2683,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0038,Armani,Jacket,Unisex,category_derived,0,Leather,S,Used,3,11,4,1,needs_reapproval_or_removal,0,45459,4150,Tier 5,22.0588,18,12,20,50,50,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -20
+L0039,W for Woman,Saree,Women,category_derived,0,Silk,M,New,1,2,1,0,active_current_cycle,0,2499,330,Tier 2,65.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0040,Biba,Dress,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,5500,825,Tier 4,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0041,Global Desi,Ethnic Wear,Unisex,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,3999,600,Tier 3,71.4286,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0042,Soch,Ethnic Wear,Unisex,category_derived,0,Silk,S,Like New,2,4,2,0,active_current_cycle,0,1499,205,Tier 2,105.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0043,Manish Malhotra,Ethnic Wear,Unisex,category_derived,0,Silk,M,Used,3,8,3,0,active_current_cycle,0,79999,8700,Tier 5,20.8333,18,8,20,46,54,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -20
+L0044,Aurelia,Kurta,Unisex,category_derived,0,Cotton,S,Used,3,8,3,0,active_current_cycle,0,999,100,Tier 1,233.3333,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0045,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,5999,735,Tier 4,33.6364,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0046,Calvin Klein,Jacket,Unisex,category_derived,0,Denim,M,Used,3,9,3,0,active_current_cycle,0,7999,760,Tier 4,52.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0047,Red Tape,Shirt,Unisex,category_derived,0,Linen,S,New,1,3,1,0,active_current_cycle,0,899,110,Tier 1,83.3333,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0048,Puma,Activewear,Unisex,category_derived,0,Polyester,M,Used,3,7,3,0,active_current_cycle,0,2999,260,Tier 3,85.7143,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0049,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,0,Silk,S,New,1,3,1,0,active_current_cycle,0,14500,2175,Tier 4,20.8333,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0050,Fabindia,Kurta,Unisex,category_derived,0,Cotton,XL,Used,3,10,4,1,needs_reapproval_or_removal,0,2799,280,Tier 3,100.0,18,12,45,75,25,Reject,2,Reject,2,Condition penalty -18; Age penalty -12; Price deviation penalty -45
+L0051,Prada,Dress,Women,category_derived,0,Silk,L,Like New,2,6,2,0,active_current_cycle,0,85999,10600,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0052,Nalli,Saree,Women,category_derived,0,Silk,L,Like New,2,3,1,0,active_current_cycle,0,6999,965,Tier 4,20.625,8,0,20,28,72,Review,1,Review,1,Condition penalty -8; Price deviation penalty -20
+L0053,Zudio,Top,Women,category_derived,0,Cotton,S,New,1,2,1,0,active_current_cycle,0,499,75,Tier 1,150.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0054,Adidas,Activewear,Unisex,category_derived,0,Polyester,S,Like New,2,5,2,0,active_current_cycle,0,3499,425,Tier 3,70.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0055,Libas,Kurta,Unisex,category_derived,0,Silk,S,New,1,2,1,0,active_current_cycle,0,1999,300,Tier 2,100.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0056,Bewakoof,Top,Women,category_derived,0,Polyester,S,Used,3,6,2,0,active_current_cycle,0,499,45,Tier 1,125.0,18,4,45,67,33,Reject,2,Reject,2,Condition penalty -18; Age penalty -4; Price deviation penalty -45
+L0057,Moda Rapido,Dress,Women,category_derived,0,Denim,S,New,1,1,1,0,active_current_cycle,0,899,115,Tier 1,91.6667,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0058,Roadster,Shirt,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,1099,135,Tier 1,92.8571,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0059,Levi's,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,3999,480,Tier 3,37.1429,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0060,FBB,Ethnic Wear,Unisex,category_derived,0,Cotton,L,New,1,4,2,0,active_current_cycle,0,699,90,Tier 1,125.0,0,4,45,49,51,Reject,2,Reject,2,Age penalty -4; Price deviation penalty -45
+L0061,Gucci,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,6,2,0,active_current_cycle,0,120000,13300,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0062,HRX,Activewear,Unisex,category_derived,0,Polyester,M,New,1,3,1,0,active_current_cycle,0,2299,345,Tier 2,130.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0063,Skechers,Activewear,Unisex,category_derived,0,Polyester,M,Like New,2,4,2,0,active_current_cycle,0,4999,610,Tier 3,74.2857,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0064,Versace,Dress,Women,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,110000,13400,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0065,Mufti,Shirt,Unisex,category_derived,0,Linen,M,Like New,2,4,2,0,active_current_cycle,0,2899,435,Tier 3,117.5,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0066,Reebok,Activewear,Unisex,category_derived,0,Polyester,S,Used,3,3,1,0,active_current_cycle,0,2799,285,Tier 3,67.6471,18,0,45,63,37,Reject,2,Reject,2,Condition penalty -18; Price deviation penalty -45
+L0067,Anouk,Saree,Women,category_derived,0,Cotton,S,Used,3,7,3,0,active_current_cycle,0,1899,155,Tier 2,93.75,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0068,Masaba,Dress,Women,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,12000,1800,Tier 4,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0069,Indya,Jacket,Unisex,category_derived,0,Denim,M,Used,3,9,3,0,active_current_cycle,0,1499,145,Tier 2,141.6667,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0070,Pantaloons,Dress,Women,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,2499,375,Tier 2,150.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0071,Vishal Mega Mart,Kurta,Unisex,category_derived,0,Cotton,L,Like New,2,5,2,0,active_current_cycle,0,799,90,Tier 1,125.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0072,Zudio,Shirt,Unisex,category_derived,0,Cotton,M,New,1,1,1,0,active_current_cycle,0,399,50,Tier 1,150.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0073,Under Armour,Activewear,Unisex,category_derived,0,Polyester,M,New,1,3,1,0,active_current_cycle,0,6999,840,Tier 4,12.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0074,Reliance Trends,Top,Women,category_derived,0,Cotton,S,Like New,2,6,2,0,active_current_cycle,0,799,90,Tier 1,125.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0075,Easybuy,Shirt,Unisex,category_derived,0,Polyester,M,Used,3,8,3,0,active_current_cycle,0,699,65,Tier 1,225.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0076,House of Masaba,Saree,Women,category_derived,0,Silk,M,Like New,2,7,3,0,active_current_cycle,0,13499,1650,Tier 4,37.5,8,8,30,46,54,Review,1,Review,1,Condition penalty -8; Age penalty -8; Price deviation penalty -30
+L0077,AND,Dress,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,4999,525,Tier 3,31.25,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0078,Nicobar,Dress,Women,category_derived,0,Linen,S,New,1,3,1,0,active_current_cycle,0,7999,925,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0079,American Eagle,Jeans,Unisex,category_derived,0,Denim,XS,Used,3,8,3,0,active_current_cycle,0,8499,730,Tier 4,46.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0080,Anita Dongre,Ethnic Wear,Unisex,category_derived,0,Silk,S,Like New,2,10,4,1,needs_reapproval_or_removal,1,19499,2350,Tier 5,2.1739,8,12,5,25,75,Approve,0,Review,1,Condition penalty -8; Age penalty -12; Price deviation penalty -5
+L0081,FBB,Kurta,Unisex,category_derived,0,Cotton,M,Used,3,9,3,0,active_current_cycle,0,999,100,Tier 1,233.3333,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0082,Aurelia,Ethnic Wear,Unisex,category_derived,0,Cotton,M,Used,3,6,2,0,active_current_cycle,0,1199,150,Tier 1,200.0,18,4,45,67,33,Reject,2,Reject,2,Condition penalty -18; Age penalty -4; Price deviation penalty -45
+L0083,Bewakoof,Top,Women,category_derived,0,Polyester,XS,Like New,2,5,2,0,active_current_cycle,0,799,110,Tier 1,175.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0084,Style Bazaar,Top,Women,category_derived,0,Polyester,XL,Used,3,8,3,0,active_current_cycle,0,299,30,Tier 1,200.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0085,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,699,90,Tier 1,125.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0086,Flying Machine,Jeans,Unisex,category_derived,0,Denim,L,Used,3,9,3,0,active_current_cycle,0,3199,420,Tier 3,180.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0087,Mufti,Shirt,Unisex,category_derived,0,Linen,M,Used,3,11,4,1,needs_reapproval_or_removal,0,3499,300,Tier 3,87.5,18,12,45,75,25,Reject,2,Reject,2,Condition penalty -18; Age penalty -12; Price deviation penalty -45
+L0088,Suta,Saree,Women,category_derived,0,Linen,M,Like New,2,6,2,0,active_current_cycle,0,3499,440,Tier 3,46.6667,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0089,H&M,Dress,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,1499,180,Tier 2,100.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0090,Zara,Dress,Women,category_derived,0,Linen,S,New,1,2,1,0,active_current_cycle,0,6990,1050,Tier 4,23.5294,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0091,Forever 21,Top,Women,category_derived,0,Cotton,S,Like New,2,5,2,0,active_current_cycle,0,1500,225,Tier 2,150.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0092,Highlander,Top,Women,category_derived,0,Cotton,XL,Like New,2,2,1,0,active_current_cycle,0,599,80,Tier 1,166.6667,8,0,45,53,47,Reject,2,Reject,2,Condition penalty -8; Price deviation penalty -45
+L0093,Prada,Dress,Women,category_derived,0,Silk,M,Like New,2,8,3,0,active_current_cycle,0,75499,8250,Tier 5,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0094,Soch,Ethnic Wear,Unisex,category_derived,0,Silk,S,Like New,2,4,2,0,active_current_cycle,0,1499,205,Tier 2,105.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0095,Neeru's,Ethnic Wear,Unisex,category_derived,0,Silk,M,Like New,2,7,3,0,active_current_cycle,0,14999,1850,Tier 4,32.1429,8,8,20,36,64,Review,1,Review,1,Condition penalty -8; Age penalty -8; Price deviation penalty -20
+L0096,Meena Bazaar,Ethnic Wear,Unisex,category_derived,0,Silk,S,New,1,4,2,0,active_current_cycle,0,12999,1720,Tier 4,14.6667,0,4,12,16,84,Approve,0,Approve,0,Age penalty -4; Price deviation penalty -12
+L0097,Sabyasachi,Lehenga,Women,category_derived,0,Silk,L,Like New,2,8,3,0,active_current_cycle,0,51999,7150,Tier 5,17.2131,8,8,12,28,72,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -12
+L0098,Rohit Bal,Ethnic Wear,Unisex,category_derived,0,Silk,L,Like New,2,5,2,0,active_current_cycle,0,49999,6350,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0099,W for Woman,Ethnic Wear,Unisex,category_derived,0,Silk,S,Used,3,7,3,0,active_current_cycle,0,1199,135,Tier 1,170.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0100,Armani,Ethnic Wear,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,85000,12100,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0101,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,699,65,Tier 1,62.5,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0102,Style Bazaar,Top,Women,category_derived,0,Polyester,XL,Used,3,8,3,0,active_current_cycle,0,299,20,Tier 1,100.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0103,Soch,Ethnic Wear,Unisex,category_derived,0,Cotton,XS,Used,3,9,3,0,active_current_cycle,0,799,35,Tier 1,16.6667,18,8,12,38,62,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -12
+L0104,AND,Dress,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,4999,510,Tier 3,27.5,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0105,House of Masaba,Saree,Women,category_derived,0,Silk,M,Like New,2,7,3,0,active_current_cycle,0,13499,1500,Tier 4,25.0,8,8,20,36,64,Review,1,Review,1,Condition penalty -8; Age penalty -8; Price deviation penalty -20
+L0106,Nicobar,Dress,Women,category_derived,0,Linen,S,New,1,3,1,0,active_current_cycle,0,7999,1000,Tier 4,5.2632,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0107,Zara,Dress,Women,category_derived,0,Linen,L,New,1,2,1,0,active_current_cycle,0,9999,1320,Tier 4,10.0,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0108,Armani,Jacket,Unisex,category_derived,0,Leather,S,Used,3,11,4,1,needs_reapproval_or_removal,0,45459,3700,Tier 5,8.8235,18,12,5,35,65,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -5
+L0109,Zudio,Top,Women,category_derived,0,Cotton,S,Like New,2,4,2,0,active_current_cycle,0,599,40,Tier 1,33.3333,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0110,Easybuy,Shirt,Unisex,category_derived,0,Polyester,M,Used,3,8,3,0,active_current_cycle,0,699,40,Tier 1,100.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0111,W for Woman,Saree,Women,category_derived,0,Silk,M,New,1,2,1,0,active_current_cycle,0,2499,330,Tier 2,65.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0112,Zudio,Shirt,Unisex,category_derived,0,Cotton,M,New,1,1,1,0,active_current_cycle,0,399,30,Tier 1,50.0,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0113,Easybuy,Top,Women,category_derived,0,Polyester,S,Like New,2,3,1,0,active_current_cycle,0,499,35,Tier 1,16.6667,8,0,12,20,80,Approve,0,Approve,0,Condition penalty -8; Price deviation penalty -12
+L0114,GAP,Jeans,Unisex,category_derived,0,Denim,L,Used,3,11,4,1,needs_reapproval_or_removal,0,5999,335,Tier 4,11.6667,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0115,American Eagle,Jeans,Unisex,category_derived,0,Denim,XS,Used,3,8,3,0,active_current_cycle,0,8499,550,Tier 4,10.0,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0116,Under Armour,Activewear,Unisex,category_derived,0,Polyester,M,New,1,3,1,0,active_current_cycle,0,6999,800,Tier 4,6.6667,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0117,Anita Dongre,Lehenga,Women,category_derived,0,Silk,S,Like New,2,10,4,1,needs_reapproval_or_removal,1,19499,1950,Tier 5,0.0,8,12,0,20,80,Approve,0,Review,1,Condition penalty -8; Age penalty -12
+L0118,FBB,Kurta,Unisex,category_derived,0,Cotton,M,Used,3,9,3,0,active_current_cycle,0,999,50,Tier 1,66.6667,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0119,Pantaloons,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,5,2,0,active_current_cycle,0,1199,80,Tier 1,33.3333,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0120,Vishal Mega Mart,Shirt,Unisex,category_derived,0,Cotton,L,Used,3,7,3,0,active_current_cycle,0,399,25,Tier 1,150.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0121,Roadster,Shirt,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,1099,80,Tier 1,14.2857,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0122,Libas,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,4,2,0,active_current_cycle,0,1199,90,Tier 1,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0123,Sabyasachi,Lehenga,Women,category_derived,0,Silk,L,Like New,2,8,3,0,active_current_cycle,0,51999,6400,Tier 5,4.918,8,8,5,21,79,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -5
+L0124,Gucci,Jacket,Unisex,category_derived,0,Leather,S,New,1,1,1,0,active_current_cycle,0,61999,10200,Tier 5,6.25,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0125,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,New,1,3,1,0,active_current_cycle,0,999,70,Tier 1,16.6667,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0126,Reliance Trends,Top,Women,category_derived,0,Cotton,S,Like New,2,6,2,0,active_current_cycle,0,799,50,Tier 1,25.0,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0127,Aurelia,Ethnic Wear,Unisex,category_derived,0,Cotton,S,Like New,2,2,1,0,active_current_cycle,0,699,60,Tier 1,50.0,8,0,30,38,62,Review,1,Review,1,Condition penalty -8; Price deviation penalty -30
+L0128,Libas,Kurta,Unisex,category_derived,0,Cotton,S,New,1,4,2,0,active_current_cycle,0,899,65,Tier 1,30.0,0,4,20,24,76,Review,1,Review,1,Age penalty -4; Price deviation penalty -20
+L0129,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,Used,3,5,2,0,active_current_cycle,0,799,40,Tier 1,33.3333,18,4,20,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -4; Price deviation penalty -20
+L0130,Reliance Trends,Shirt,Unisex,category_derived,0,Cotton,L,New,1,3,1,0,active_current_cycle,0,499,40,Tier 1,33.3333,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0131,Fabindia,Kurta,Unisex,category_derived,0,Cotton,M,Used,3,7,3,0,active_current_cycle,0,2999,200,Tier 3,33.3333,18,8,20,46,54,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -20
+L0132,Suta,Saree,Women,category_derived,0,Linen,M,Like New,2,6,2,0,active_current_cycle,0,3499,320,Tier 3,6.6667,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0133,H&M,Dress,Women,category_derived,0,Cotton,S,Like New,2,6,2,0,active_current_cycle,0,1499,120,Tier 2,33.3333,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0134,Levi's,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,3999,480,Tier 3,37.1429,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0135,Zara,Jacket,Unisex,category_derived,0,Denim,M,Used,3,8,3,0,active_current_cycle,0,4999,350,Tier 3,40.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0136,Uniqlo,Jacket,Unisex,category_derived,0,Polyester,M,Like New,2,5,2,0,active_current_cycle,0,1999,170,Tier 2,41.6667,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0137,Forever 21,Dress,Women,category_derived,0,Polyester,S,New,1,2,1,0,active_current_cycle,0,1299,140,Tier 2,40.0,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0138,GAP,Jeans,Unisex,category_derived,0,Denim,M,Used,3,10,4,1,needs_reapproval_or_removal,0,3999,260,Tier 3,36.8421,18,12,30,60,40,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -30
+L0139,FBB,Ethnic Wear,Unisex,category_derived,0,Cotton,L,New,1,4,2,0,active_current_cycle,0,699,60,Tier 1,50.0,0,4,30,34,66,Review,1,Review,1,Age penalty -4; Price deviation penalty -30
+L0140,Prada,Dress,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,85999,9800,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0141,Highlander,Top,Women,category_derived,0,Cotton,XL,Like New,2,2,1,0,active_current_cycle,0,599,45,Tier 1,50.0,8,0,30,38,62,Review,1,Review,1,Condition penalty -8; Price deviation penalty -30
+L0142,Louis Vuitton,Shirt,Unisex,category_derived,0,Linen,XS,Like New,2,5,2,0,active_current_cycle,0,70499,8800,Tier 5,7.3171,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0143,Prada,Dress,Women,category_derived,0,Silk,M,Like New,2,8,3,0,active_current_cycle,0,75499,8900,Tier 5,5.9524,8,8,5,21,79,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -5
+L0144,Soch,Ethnic Wear,Unisex,category_derived,0,Silk,S,Like New,2,4,2,0,active_current_cycle,0,1499,160,Tier 2,60.0,8,4,45,57,43,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0145,Suta,Saree,Women,category_derived,0,Silk,M,New,1,1,1,0,active_current_cycle,0,2999,415,Tier 3,38.3333,0,0,30,30,70,Review,1,Review,1,Price deviation penalty -30
+L0146,Nalli,Saree,Women,category_derived,0,Silk,M,Like New,2,3,1,0,active_current_cycle,0,6999,875,Tier 4,9.375,8,0,5,13,87,Approve,0,Approve,0,Condition penalty -8; Price deviation penalty -5
+L0147,Neeru's,Lehenga,Women,category_derived,0,Silk,L,Like New,2,7,3,0,active_current_cycle,0,14999,1500,Tier 4,7.1429,8,8,5,21,79,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -5
+L0148,Meena Bazaar,Lehenga,Women,category_derived,0,Silk,S,New,1,4,2,0,active_current_cycle,0,12999,1620,Tier 4,8.0,0,4,5,9,91,Approve,0,Approve,0,Age penalty -4; Price deviation penalty -5
+L0149,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,New,1,2,1,0,active_current_cycle,0,999,70,Tier 1,16.6667,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0150,Vishal Mega Mart,Kurta,Unisex,category_derived,0,Cotton,L,Like New,2,5,2,0,active_current_cycle,0,799,50,Tier 1,25.0,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0151,Style Bazaar,Shirt,Unisex,category_derived,0,Cotton,XL,Used,3,7,3,0,active_current_cycle,0,499,30,Tier 1,50.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0152,American Eagle,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,4,2,0,active_current_cycle,0,4999,450,Tier 3,28.5714,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0153,Sabyasachi,Lehenga,Women,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,89999,14000,Tier 5,18.6441,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0154,Manish Malhotra,Lehenga,Women,category_derived,0,Silk,M,Used,3,8,3,0,active_current_cycle,0,79999,9000,Tier 5,25.0,18,8,20,46,54,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -20
+L0155,Uniqlo,Jacket,Unisex,category_derived,0,Denim,XS,Like New,2,5,2,0,active_current_cycle,0,1499,130,Tier 2,44.4444,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0156,Forever 21,Dress,Women,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,1299,110,Tier 2,37.5,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0157,Manyavar,Ethnic Wear,Unisex,category_derived,0,Silk,XL,Like New,2,2,1,0,active_current_cycle,0,5499,690,Tier 4,6.1538,8,0,5,13,87,Approve,0,Approve,0,Condition penalty -8; Price deviation penalty -5
+L0158,Fabindia,Ethnic Wear,Unisex,category_derived,0,Silk,XS,Used,3,8,3,0,active_current_cycle,0,2199,175,Tier 2,75.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0159,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,5999,600,Tier 4,9.0909,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0160,Calvin Klein,Jacket,Unisex,category_derived,0,Denim,M,Used,3,9,3,0,active_current_cycle,0,7999,550,Tier 4,10.0,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0161,Aurelia,Kurta,Unisex,category_derived,0,Cotton,S,Used,3,8,3,0,active_current_cycle,0,999,60,Tier 1,100.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0162,Biba,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,1499,120,Tier 2,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0163,UCB,Shirt,Unisex,category_derived,0,Cotton,S,Like New,2,5,2,0,active_current_cycle,0,3499,300,Tier 3,20.0,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0164,Global Desi,Saree,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,2499,270,Tier 2,68.75,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0165,Anouk,Saree,Women,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,1999,250,Tier 2,56.25,0,0,45,45,55,Review,1,Review,1,Price deviation penalty -45
+L0166,Indya,Jacket,Unisex,category_derived,0,Denim,M,Used,3,9,3,0,active_current_cycle,0,1499,100,Tier 2,66.6667,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0167,Flying Machine,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,4,2,0,active_current_cycle,0,1499,150,Tier 2,87.5,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0168,Mufti,Shirt,Unisex,category_derived,0,Linen,M,Used,3,11,4,1,needs_reapproval_or_removal,0,3499,200,Tier 3,25.0,18,12,20,50,50,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -20
+L0169,Anouk,Saree,Women,category_derived,0,Cotton,M,Used,3,7,3,0,active_current_cycle,0,1399,90,Tier 2,50.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0170,Indya,Jacket,Unisex,category_derived,0,Denim,S,Like New,2,5,2,0,active_current_cycle,0,1299,120,Tier 2,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0171,Pantaloons,Jeans,Unisex,category_derived,0,Denim,L,Used,3,9,3,0,active_current_cycle,0,1099,60,Tier 1,50.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0172,Roadster,Jeans,Unisex,category_derived,0,Denim,XL,New,1,2,1,0,active_current_cycle,0,1099,110,Tier 1,83.3333,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0173,Armani,Ethnic Wear,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,85000,11000,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0174,Versace,Dress,Women,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,110000,14000,Tier 5,1.4493,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0175,Spykar,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,2,1,0,active_current_cycle,0,999,90,Tier 1,80.0,8,0,45,53,47,Reject,2,Reject,2,Condition penalty -8; Price deviation penalty -45
+L0176,Being Human,Top,Women,category_derived,0,Linen,S,New,1,8,3,0,active_current_cycle,0,999,85,Tier 1,70.0,0,8,45,53,47,Reject,2,Reject,2,Age penalty -8; Price deviation penalty -45
+L0177,Prada,Dress,Women,category_derived,0,Silk,S,Like New,2,4,2,0,active_current_cycle,0,95000,9000,Tier 5,3.2258,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0178,Adidas,Activewear,Unisex,category_derived,0,Polyester,S,Like New,2,5,2,0,active_current_cycle,0,3499,330,Tier 3,32.0,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0179,Puma,Activewear,Unisex,category_derived,0,Polyester,M,Used,3,7,3,0,active_current_cycle,0,2999,210,Tier 3,50.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0180,Louis Vuitton,Jacket,Unisex,category_derived,0,Leather,M,Used,3,10,4,1,needs_reapproval_or_removal,0,150000,15000,Tier 5,15.3846,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0181,Red Tape,Shirt,Unisex,category_derived,0,Linen,S,New,1,3,1,0,active_current_cycle,0,899,95,Tier 1,58.3333,0,0,45,45,55,Review,1,Review,1,Price deviation penalty -45
+L0182,H&M,Dress,Women,category_derived,0,Cotton,S,Used,3,9,3,0,active_current_cycle,0,1199,70,Tier 1,75.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0183,Gucci,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,6,2,0,active_current_cycle,0,120000,18000,Tier 5,20.0,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0184,Bewakoof,Top,Women,category_derived,0,Polyester,S,Used,3,6,2,0,active_current_cycle,0,499,25,Tier 1,25.0,18,4,20,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -4; Price deviation penalty -20
+L0185,Reebok,Activewear,Unisex,category_derived,0,Polyester,L,New,1,3,1,0,active_current_cycle,0,2799,300,Tier 3,20.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0186,Skechers,Activewear,Unisex,category_derived,0,Polyester,M,Like New,2,4,2,0,active_current_cycle,0,4999,480,Tier 3,37.1429,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0187,Moda Rapido,Dress,Women,category_derived,0,Denim,S,New,1,1,1,0,active_current_cycle,0,899,80,Tier 1,33.3333,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0188,Biba,Kurta,Unisex,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,999,85,Tier 1,70.0,8,4,45,57,43,Reject,2,Reject,2,Condition penalty -8; Age penalty -4; Price deviation penalty -45
+L0189,W for Woman,Ethnic Wear,Unisex,category_derived,0,Cotton,S,Used,3,7,3,0,active_current_cycle,0,1199,75,Tier 1,87.5,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0190,Global Desi,Saree,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,1499,140,Tier 2,40.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0191,Nike,Activewear,Unisex,category_derived,0,Polyester,M,New,1,2,1,0,active_current_cycle,0,3999,450,Tier 3,28.5714,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0192,Tarun Tahiliani,Saree,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,69999,10000,Tier 5,8.6957,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0193,Anita Dongre,Saree,Women,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,59999,9000,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0194,Highlander,Shirt,Unisex,category_derived,0,Cotton,M,New,1,3,1,0,active_current_cycle,0,999,100,Tier 1,66.6667,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0195,Moda Rapido,Dress,Women,category_derived,0,Polyester,M,Used,3,7,3,0,active_current_cycle,0,1199,90,Tier 1,125.0,18,8,45,71,29,Reject,2,Reject,2,Condition penalty -18; Age penalty -8; Price deviation penalty -45
+L0196,Bewakoof,Top,Women,category_derived,0,Cotton,S,New,1,2,1,0,active_current_cycle,0,899,90,Tier 1,80.0,0,0,45,45,55,Reject,2,Reject,2,Price deviation penalty -45
+L0197,Rohit Bal,Ethnic Wear,Unisex,category_derived,0,Silk,L,Like New,2,5,2,0,active_current_cycle,0,49999,8000,Tier 5,23.0769,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0198,HRX,Activewear,Unisex,category_derived,0,Polyester,XS,Like New,2,3,1,0,active_current_cycle,0,999,85,Tier 1,70.0,8,0,45,53,47,Reject,2,Reject,2,Condition penalty -8; Price deviation penalty -45
+L0199,Flying Machine,Jacket,Unisex,category_derived,0,Denim,S,Like New,2,4,2,0,active_current_cycle,0,1299,110,Tier 2,37.5,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0200,Mufti,Shirt,Unisex,category_derived,0,Linen,L,Used,3,10,4,1,needs_reapproval_or_removal,0,3099,180,Tier 3,12.5,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0201,Killer,Jeans,Unisex,category_derived,0,Denim,L,New,1,6,2,0,active_current_cycle,0,1199,100,Tier 1,66.6667,0,4,45,49,51,Reject,2,Reject,2,Age penalty -4; Price deviation penalty -45
+L0202,Zudio,Top,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,1200,70,Tier 1,16.6667,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0203,Easybuy,Shirt,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,1500,110,Tier 2,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0204,Vishal Mega Mart,Jeans,Unisex,category_derived,0,Denim,S,Used,3,8,3,0,active_current_cycle,0,1400,50,Tier 2,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0205,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,1800,100,Tier 2,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0206,Style Bazaar,Top,Women,category_derived,0,Polyester,XS,New,1,1,1,0,active_current_cycle,0,1000,70,Tier 1,16.6667,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0207,Soch,Ethnic Wear,Unisex,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,3200,250,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0208,Aurelia,Kurta,Unisex,category_derived,0,Cotton,L,New,1,3,1,0,active_current_cycle,0,2800,250,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0209,Libas,Dress,Women,category_derived,0,Linen,S,Used,3,10,4,1,needs_reapproval_or_removal,1,3000,150,Tier 3,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0210,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,Like New,2,7,3,0,active_current_cycle,0,2200,100,Tier 2,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0211,Reliance Trends,Shirt,Unisex,category_derived,0,Cotton,XL,New,1,2,1,0,active_current_cycle,0,2600,250,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0212,Brand Factory,Jacket,Unisex,category_derived,0,Polyester,L,Used,3,12,4,1,needs_reapproval_or_removal,1,3500,150,Tier 3,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0213,FBB,Top,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,2000,150,Tier 2,36.3636,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0214,Bewakoof,Activewear,Unisex,category_derived,0,Polyester,S,New,1,1,1,0,active_current_cycle,0,1800,150,Tier 2,25.0,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0215,Highlander,Jeans,Unisex,category_derived,0,Denim,L,Used,3,9,3,0,active_current_cycle,0,2400,100,Tier 2,11.1111,18,8,12,38,62,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -12
+L0216,Moda Rapido,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,2100,150,Tier 2,25.0,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0217,Biba,Ethnic Wear,Unisex,category_derived,0,Silk,M,New,1,2,1,0,active_current_cycle,0,5000,600,Tier 3,20.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0218,W for Woman,Kurta,Unisex,category_derived,0,Cotton,L,Like New,2,4,2,0,active_current_cycle,0,4500,350,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0219,Global Desi,Dress,Women,category_derived,0,Linen,S,Used,3,11,4,1,needs_reapproval_or_removal,1,5200,250,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0220,Anouk,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,7,3,0,active_current_cycle,0,4000,250,Tier 3,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0221,Indya,Ethnic Wear,Unisex,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,5500,600,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0222,Pantaloons,Shirt,Unisex,category_derived,0,Cotton,L,Used,3,8,3,0,active_current_cycle,0,3800,200,Tier 3,5.2632,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0223,Roadster,Jeans,Unisex,category_derived,0,Denim,M,Like New,2,6,2,0,active_current_cycle,0,4200,250,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0224,HRX,Activewear,Unisex,category_derived,0,Polyester,S,New,1,2,1,0,active_current_cycle,0,4800,450,Tier 3,12.5,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0225,Flying Machine,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,5,2,0,active_current_cycle,0,4600,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0226,Mufti,Shirt,Unisex,category_derived,0,Cotton,M,Used,3,10,4,1,needs_reapproval_or_removal,1,5000,250,Tier 3,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0227,Manyavar,Ethnic Wear,Unisex,category_derived,0,Silk,L,New,1,2,1,0,active_current_cycle,0,8500,1200,Tier 4,9.0909,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0228,Fabindia,Kurta,Unisex,category_derived,0,Linen,M,Like New,2,5,2,0,active_current_cycle,0,7500,700,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0229,Jaypore,Saree,Women,category_derived,0,Silk,S,Used,3,12,4,1,needs_reapproval_or_removal,0,9000,700,Tier 4,27.2727,18,12,20,50,50,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -20
+L0230,Suta,Saree,Women,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,8000,650,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0231,Nalli,Saree,Women,category_derived,0,Silk,L,New,1,1,1,0,active_current_cycle,0,9500,1300,Tier 4,8.3333,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0232,Neeru's,Lehenga,Women,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,11000,1000,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0233,Meena Bazaar,Ethnic Wear,Unisex,category_derived,0,Silk,S,Used,3,10,4,1,needs_reapproval_or_removal,1,10000,700,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0234,AND,Dress,Women,category_derived,0,Linen,M,New,1,3,1,0,active_current_cycle,0,7200,900,Tier 4,5.8824,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0235,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,0,Silk,L,Like New,2,7,3,0,active_current_cycle,0,12000,1000,Tier 4,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0236,Masaba,Dress,Women,category_derived,0,Cotton,S,Used,3,9,3,0,active_current_cycle,0,9500,600,Tier 4,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0237,House of Masaba,Dress,Women,category_derived,0,Linen,M,Like New,2,5,2,0,active_current_cycle,0,10000,900,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0238,Nicobar,Kurta,Unisex,category_derived,0,Linen,L,New,1,2,1,0,active_current_cycle,0,8000,1000,Tier 4,11.1111,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0239,Zara,Jacket,Unisex,category_derived,0,Polyester,M,Like New,2,6,2,0,active_current_cycle,0,9000,800,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0240,Marks & Spencer,Dress,Women,category_derived,0,Cotton,S,Used,3,8,3,0,active_current_cycle,0,8500,600,Tier 4,9.0909,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0241,GAP,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,7,3,0,active_current_cycle,0,7800,650,Tier 4,8.3333,8,8,5,21,79,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -5
+L0242,American Eagle,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,8200,900,Tier 4,5.8824,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0243,Mango,Dress,Women,category_derived,0,Linen,S,Like New,2,5,2,0,active_current_cycle,0,9500,900,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0244,Nike,Activewear,Unisex,category_derived,0,Polyester,M,Used,3,9,3,0,active_current_cycle,0,10000,600,Tier 4,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0245,Adidas,Jacket,Unisex,category_derived,0,Polyester,L,Like New,2,4,2,0,active_current_cycle,0,11000,1100,Tier 4,10.0,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0246,New Balance,Activewear,Unisex,category_derived,0,Polyester,S,New,1,3,1,0,active_current_cycle,0,9500,1100,Tier 4,10.0,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0247,Asics,Activewear,Unisex,category_derived,0,Polyester,M,Like New,2,6,2,0,active_current_cycle,0,9000,800,Tier 4,6.6667,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0248,Under Armour,Activewear,Unisex,category_derived,0,Polyester,L,Used,3,11,4,1,needs_reapproval_or_removal,0,10500,600,Tier 4,9.0909,18,12,5,35,65,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -5
+L0249,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,9800,850,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0250,Calvin Klein,Jacket,Unisex,category_derived,0,Leather,L,New,1,2,1,0,active_current_cycle,0,12000,1500,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0251,Diesel,Jeans,Unisex,category_derived,0,Denim,M,Like New,2,7,3,0,active_current_cycle,0,11000,950,Tier 4,11.7647,8,8,12,28,72,Approve,0,Approve,0,Condition penalty -8; Age penalty -8; Price deviation penalty -12
+L0252,Superdry,Jacket,Unisex,category_derived,0,Polyester,M,Like New,2,6,2,0,active_current_cycle,0,10500,950,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0253,Raw Mango,Saree,Women,category_derived,0,Silk,L,New,1,2,1,0,active_current_cycle,0,18000,2700,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0254,Anita Dongre,Lehenga,Women,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,22000,2500,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0255,Sabyasachi,Saree,Women,category_derived,0,Silk,S,Used,3,10,4,1,needs_reapproval_or_removal,1,25000,2000,Tier 5,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0256,Tarun Tahiliani,Lehenga,Women,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,28000,4200,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0257,Rohit Bal,Ethnic Wear,Unisex,category_derived,0,Silk,L,Like New,2,7,3,0,active_current_cycle,0,24000,2500,Tier 5,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0258,Anamika Khanna,Lehenga,Women,category_derived,0,Silk,M,Used,3,12,4,1,needs_reapproval_or_removal,1,26000,2000,Tier 5,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0259,Gucci,Jacket,Unisex,category_derived,0,Leather,L,New,1,2,1,0,active_current_cycle,0,30000,4500,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0260,Louis Vuitton,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,4,2,0,active_current_cycle,0,32000,4000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0261,Prada,Dress,Women,category_derived,0,Silk,S,Used,3,9,3,0,active_current_cycle,0,27000,2500,Tier 5,8.6957,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0262,Armani,Shirt,Unisex,category_derived,0,Linen,M,Like New,2,6,2,0,active_current_cycle,0,21000,2000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0263,Versace,Dress,Women,category_derived,0,Silk,L,New,1,1,1,0,active_current_cycle,0,29000,4500,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0264,Burberry,Jacket,Unisex,category_derived,0,Cotton,M,Used,3,11,4,1,needs_reapproval_or_removal,0,26000,2000,Tier 5,5.2632,18,12,5,35,65,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -5
+L0265,Balenciaga,Jacket,Unisex,category_derived,0,Leather,L,Like New,2,5,2,0,active_current_cycle,0,31000,4000,Tier 5,2.5641,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0266,Dolce & Gabbana,Dress,Women,category_derived,0,Silk,S,New,1,3,1,0,active_current_cycle,0,28000,4200,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0267,Zudio,Top,Women,category_derived,0,Cotton,S,New,1,2,1,0,active_current_cycle,0,900,60,Tier 1,20.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0268,Soch,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,3000,200,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0269,Biba,Kurta,Unisex,category_derived,0,Cotton,L,Used,3,9,3,0,active_current_cycle,0,4200,200,Tier 3,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0270,Manyavar,Ethnic Wear,Unisex,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,9000,900,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0271,Nike,Activewear,Unisex,category_derived,0,Polyester,S,Like New,2,6,2,0,active_current_cycle,0,9500,800,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0272,Levi's,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,8000,800,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0273,Fabindia,Kurta,Unisex,category_derived,0,Linen,L,Used,3,10,4,1,needs_reapproval_or_removal,1,7000,400,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0274,Pantaloons,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,4500,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0275,Reliance Trends,Top,Women,category_derived,0,Cotton,S,Used,3,8,3,0,active_current_cycle,0,2000,100,Tier 2,25.0,18,8,20,46,54,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -20
+L0276,Easybuy,Shirt,Unisex,category_derived,0,Cotton,M,New,1,1,1,0,active_current_cycle,0,1400,100,Tier 2,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0277,Vishal Mega Mart,Top,Women,category_derived,0,Polyester,S,Like New,2,6,2,0,active_current_cycle,0,1200,70,Tier 1,16.6667,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0278,Rangriti,Kurta,Unisex,category_derived,0,Cotton,L,Used,3,9,3,0,active_current_cycle,0,1700,60,Tier 2,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0279,Style Bazaar,Top,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,1100,70,Tier 1,40.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0280,Zudio,Jeans,Unisex,category_derived,0,Denim,S,Used,3,8,3,0,active_current_cycle,0,1300,50,Tier 2,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0281,Aurelia,Dress,Women,category_derived,0,Linen,M,New,1,2,1,0,active_current_cycle,0,3200,300,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0282,Libas,Kurta,Unisex,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,2800,200,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0283,Max Fashion,Jeans,Unisex,category_derived,0,Denim,S,Used,3,11,4,1,needs_reapproval_or_removal,0,2500,100,Tier 2,25.0,18,12,20,50,50,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -20
+L0284,Reliance Trends,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,4,2,0,active_current_cycle,0,2600,200,Tier 3,5.2632,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0285,Brand Factory,Jacket,Unisex,category_derived,0,Polyester,L,New,1,3,1,0,active_current_cycle,0,3400,350,Tier 3,16.6667,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0286,Pantaloons,Top,Women,category_derived,0,Cotton,S,Like New,2,5,2,0,active_current_cycle,0,3800,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0287,Roadster,Jeans,Unisex,category_derived,0,Denim,M,Used,3,9,3,0,active_current_cycle,0,4200,200,Tier 3,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0288,HRX,Activewear,Unisex,category_derived,0,Polyester,L,Like New,2,6,2,0,active_current_cycle,0,5000,350,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0289,Flying Machine,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,4800,500,Tier 3,25.0,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0290,Mufti,Shirt,Unisex,category_derived,0,Cotton,S,Used,3,10,4,1,needs_reapproval_or_removal,1,5200,250,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0291,Fabindia,Kurta,Unisex,category_derived,0,Linen,M,Like New,2,5,2,0,active_current_cycle,0,7800,700,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0292,Zara,Dress,Women,category_derived,0,Linen,S,New,1,2,1,0,active_current_cycle,0,9000,1100,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0293,GAP,Jeans,Unisex,category_derived,0,Denim,L,Used,3,8,3,0,active_current_cycle,0,8200,500,Tier 4,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0294,Nike,Activewear,Unisex,category_derived,0,Polyester,M,New,1,3,1,0,active_current_cycle,0,10000,1200,Tier 4,20.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0295,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,9500,800,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0296,Raw Mango,Saree,Women,category_derived,0,Silk,M,Like New,2,5,2,0,active_current_cycle,0,20000,2500,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0297,Anita Dongre,Lehenga,Women,category_derived,0,Silk,S,New,1,2,1,0,active_current_cycle,0,23000,3500,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0298,Sabyasachi,Saree,Women,category_derived,0,Silk,L,Used,3,11,4,1,needs_reapproval_or_removal,1,27000,2000,Tier 5,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0299,Gucci,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,6,2,0,active_current_cycle,0,32000,4000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0300,Prada,Dress,Women,category_derived,0,Silk,S,New,1,1,1,0,active_current_cycle,0,29000,4500,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0301,Easybuy,Top,Women,category_derived,0,Cotton,S,Like New,2,4,2,0,active_current_cycle,0,1300,80,Tier 2,14.2857,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0302,Vishal Mega Mart,Shirt,Unisex,category_derived,0,Polyester,M,Used,3,10,4,1,needs_reapproval_or_removal,1,1500,60,Tier 2,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0303,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,New,1,2,1,0,active_current_cycle,0,1600,110,Tier 2,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0304,Style Bazaar,Top,Women,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,1200,70,Tier 1,16.6667,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0305,Zudio,Shirt,Unisex,category_derived,0,Polyester,M,Used,3,9,3,0,active_current_cycle,0,1400,60,Tier 2,20.0,18,8,12,38,62,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -12
+L0306,Soch,Saree,Women,category_derived,0,Silk,L,Like New,2,5,2,0,active_current_cycle,0,3500,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0307,Aurelia,Kurta,Unisex,category_derived,0,Cotton,S,Used,3,11,4,1,needs_reapproval_or_removal,0,3000,150,Tier 3,15.3846,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0308,Libas,Dress,Women,category_derived,0,Linen,M,New,1,3,1,0,active_current_cycle,0,3200,300,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0309,Max Fashion,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,7,3,0,active_current_cycle,0,2600,150,Tier 3,0.0,8,8,0,16,84,Approve,0,Approve,0,Condition penalty -8; Age penalty -8
+L0310,Reliance Trends,Top,Women,category_derived,0,Cotton,M,Used,3,8,3,0,active_current_cycle,0,2400,100,Tier 2,11.1111,18,8,12,38,62,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -12
+L0311,Pantaloons,Shirt,Unisex,category_derived,0,Cotton,M,New,1,2,1,0,active_current_cycle,0,4000,400,Tier 3,14.2857,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0312,Roadster,Jeans,Unisex,category_derived,0,Denim,S,Like New,2,6,2,0,active_current_cycle,0,4500,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0313,HRX,Activewear,Unisex,category_derived,0,Polyester,M,Used,3,10,4,1,needs_reapproval_or_removal,1,5200,250,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0314,Flying Machine,Jeans,Unisex,category_derived,0,Denim,L,Like New,2,5,2,0,active_current_cycle,0,4800,300,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0315,Mufti,Shirt,Unisex,category_derived,0,Cotton,M,New,1,1,1,0,active_current_cycle,0,5000,500,Tier 3,11.1111,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0316,Fabindia,Kurta,Unisex,category_derived,0,Linen,S,Used,3,9,3,0,active_current_cycle,0,8200,500,Tier 4,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0317,Mango,Dress,Women,category_derived,0,Linen,M,Like New,2,6,2,0,active_current_cycle,0,9500,900,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0318,Adidas,Jacket,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,11000,1300,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0319,Calvin Klein,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,5,2,0,active_current_cycle,0,12000,1500,Tier 4,25.0,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0320,Diesel,Jeans,Unisex,category_derived,0,Denim,S,Used,3,11,4,1,needs_reapproval_or_removal,0,11500,700,Tier 4,16.6667,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0321,Raw Mango,Saree,Women,category_derived,0,Silk,L,New,1,3,1,0,active_current_cycle,0,21000,3200,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0322,Tarun Tahiliani,Lehenga,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,28000,3000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0323,Rohit Bal,Ethnic Wear,Unisex,category_derived,0,Silk,S,Used,3,12,4,1,needs_reapproval_or_removal,1,25000,2000,Tier 5,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0324,Louis Vuitton,Jacket,Unisex,category_derived,0,Leather,L,Like New,2,5,2,0,active_current_cycle,0,33000,4000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0325,Versace,Dress,Women,category_derived,0,Silk,M,New,1,2,1,0,active_current_cycle,0,30000,4500,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0326,Zudio,Top,Women,category_derived,0,Cotton,L,Like New,2,5,2,0,active_current_cycle,0,1100,70,Tier 1,40.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0327,Easybuy,Jeans,Unisex,category_derived,0,Denim,M,Used,3,8,3,0,active_current_cycle,0,1500,50,Tier 2,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0328,Vishal Mega Mart,Shirt,Unisex,category_derived,0,Polyester,S,New,1,2,1,0,active_current_cycle,0,1300,90,Tier 2,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0329,Rangriti,Kurta,Unisex,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,1700,100,Tier 2,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0330,Style Bazaar,Top,Women,category_derived,0,Cotton,M,Used,3,9,3,0,active_current_cycle,0,1200,60,Tier 1,50.0,18,8,30,56,44,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -30
+L0331,Soch,Ethnic Wear,Unisex,category_derived,0,Silk,M,New,1,3,1,0,active_current_cycle,0,3800,400,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0332,Aurelia,Dress,Women,category_derived,0,Linen,L,Like New,2,5,2,0,active_current_cycle,0,3400,250,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0333,Libas,Kurta,Unisex,category_derived,0,Cotton,S,Used,3,10,4,1,needs_reapproval_or_removal,1,3000,150,Tier 3,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0334,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,2600,250,Tier 3,25.0,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0335,Reliance Trends,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,6,2,0,active_current_cycle,0,2800,200,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0336,Pantaloons,Top,Women,category_derived,0,Cotton,M,Used,3,8,3,0,active_current_cycle,0,4200,200,Tier 3,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0337,Roadster,Jeans,Unisex,category_derived,0,Denim,L,New,1,3,1,0,active_current_cycle,0,4800,450,Tier 3,12.5,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0338,HRX,Activewear,Unisex,category_derived,0,Polyester,S,Like New,2,6,2,0,active_current_cycle,0,5200,350,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0339,Flying Machine,Jeans,Unisex,category_derived,0,Denim,M,Used,3,11,4,1,needs_reapproval_or_removal,0,5000,250,Tier 3,25.0,18,12,20,50,50,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -20
+L0340,Mufti,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,5,2,0,active_current_cycle,0,5300,400,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0341,Fabindia,Kurta,Unisex,category_derived,0,Linen,M,New,1,2,1,0,active_current_cycle,0,8500,1000,Tier 4,5.2632,0,0,5,5,95,Approve,0,Approve,0,Price deviation penalty -5
+L0342,Zara,Dress,Women,category_derived,0,Linen,S,Like New,2,6,2,0,active_current_cycle,0,9200,900,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0343,Nike,Activewear,Unisex,category_derived,0,Polyester,M,Used,3,10,4,1,needs_reapproval_or_removal,1,10000,600,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0344,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,L,Like New,2,4,2,0,active_current_cycle,0,9800,1000,Tier 4,17.6471,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0345,Diesel,Jeans,Unisex,category_derived,0,Denim,M,New,1,2,1,0,active_current_cycle,0,11500,1400,Tier 4,16.6667,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0346,Raw Mango,Saree,Women,category_derived,0,Silk,S,Like New,2,6,2,0,active_current_cycle,0,22000,2500,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0347,Anita Dongre,Lehenga,Women,category_derived,0,Silk,M,Used,3,12,4,1,needs_reapproval_or_removal,0,24000,2000,Tier 5,5.2632,18,12,5,35,65,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -5
+L0348,Sabyasachi,Saree,Women,category_derived,0,Silk,L,New,1,2,1,0,active_current_cycle,0,28000,4200,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0349,Gucci,Jacket,Unisex,category_derived,0,Leather,M,Like New,2,5,2,0,active_current_cycle,0,32000,6000,Tier 5,50.0,8,4,30,42,58,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -30
+L0350,Prada,Dress,Women,category_derived,0,Silk,S,Used,3,9,3,0,active_current_cycle,0,30000,2500,Tier 5,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0351,Easybuy,Shirt,Unisex,category_derived,0,Cotton,M,Like New,2,6,2,0,active_current_cycle,0,1400,90,Tier 2,12.5,8,4,12,24,76,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -12
+L0352,Vishal Mega Mart,Top,Women,category_derived,0,Polyester,S,Used,3,10,4,1,needs_reapproval_or_removal,1,1500,60,Tier 2,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0353,Rangriti,Kurta,Unisex,category_derived,0,Cotton,L,New,1,2,1,0,active_current_cycle,0,1800,130,Tier 2,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0354,Style Bazaar,Top,Women,category_derived,0,Cotton,M,Like New,2,5,2,0,active_current_cycle,0,1200,80,Tier 1,33.3333,8,4,20,32,68,Review,1,Review,1,Condition penalty -8; Age penalty -4; Price deviation penalty -20
+L0355,Zudio,Jeans,Unisex,category_derived,0,Denim,S,Used,3,9,3,0,active_current_cycle,0,1300,50,Tier 2,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0356,Soch,Saree,Women,category_derived,0,Silk,M,Like New,2,4,2,0,active_current_cycle,0,4000,350,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0357,Aurelia,Kurta,Unisex,category_derived,0,Cotton,L,New,1,3,1,0,active_current_cycle,0,3200,300,Tier 3,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0358,Libas,Dress,Women,category_derived,0,Linen,S,Used,3,11,4,1,needs_reapproval_or_removal,0,3500,200,Tier 3,17.6471,18,12,12,42,58,Review,1,Review,1,Condition penalty -18; Age penalty -12; Price deviation penalty -12
+L0359,Max Fashion,Jeans,Unisex,category_derived,0,Denim,M,Like New,2,6,2,0,active_current_cycle,0,2800,200,Tier 3,5.2632,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0360,Reliance Trends,Shirt,Unisex,category_derived,0,Cotton,XL,New,1,1,1,0,active_current_cycle,0,3000,300,Tier 3,20.0,0,0,12,12,88,Approve,0,Approve,0,Price deviation penalty -12
+L0361,Pantaloons,Top,Women,category_derived,0,Cotton,S,Like New,2,5,2,0,active_current_cycle,0,4500,350,Tier 3,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0362,Roadster,Jeans,Unisex,category_derived,0,Denim,M,Used,3,8,3,0,active_current_cycle,0,4800,250,Tier 3,0.0,18,8,0,26,74,Approve,0,Approve,0,Condition penalty -18; Age penalty -8
+L0363,HRX,Activewear,Unisex,category_derived,0,Polyester,L,New,1,2,1,0,active_current_cycle,0,5500,550,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0364,Flying Machine,Jeans,Unisex,category_derived,0,Denim,M,Like New,2,6,2,0,active_current_cycle,0,5200,350,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0365,Mufti,Shirt,Unisex,category_derived,0,Cotton,S,Used,3,10,4,1,needs_reapproval_or_removal,1,5600,300,Tier 4,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0366,Fabindia,Kurta,Unisex,category_derived,0,Linen,M,Like New,2,5,2,0,active_current_cycle,0,9000,900,Tier 4,5.8824,8,4,5,17,83,Approve,0,Approve,0,Condition penalty -8; Age penalty -4; Price deviation penalty -5
+L0367,Zara,Dress,Women,category_derived,0,Linen,S,New,1,2,1,0,active_current_cycle,0,10000,1200,Tier 4,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0368,Adidas,Jacket,Unisex,category_derived,0,Polyester,L,Like New,2,6,2,0,active_current_cycle,0,11500,1000,Tier 4,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0369,Tommy Hilfiger,Shirt,Unisex,category_derived,0,Cotton,M,Used,3,9,3,0,active_current_cycle,0,10500,700,Tier 4,7.6923,18,8,5,31,69,Review,1,Review,1,Condition penalty -18; Age penalty -8; Price deviation penalty -5
+L0370,Calvin Klein,Jacket,Unisex,category_derived,0,Leather,L,New,1,3,1,0,active_current_cycle,0,13000,2000,Tier 4,25.0,0,0,20,20,80,Review,1,Review,1,Price deviation penalty -20
+L0371,Raw Mango,Saree,Women,category_derived,0,Silk,L,New,1,2,1,0,active_current_cycle,0,24000,3600,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0372,Anita Dongre,Lehenga,Women,category_derived,0,Silk,M,Like New,2,6,2,0,active_current_cycle,0,26000,3000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4
+L0373,Tarun Tahiliani,Lehenga,Women,category_derived,0,Silk,S,Used,3,12,4,1,needs_reapproval_or_removal,1,29000,2000,Tier 5,0.0,18,12,0,30,70,Approve,0,Review,1,Condition penalty -18; Age penalty -12
+L0374,Louis Vuitton,Jacket,Unisex,category_derived,0,Leather,M,New,1,1,1,0,active_current_cycle,0,35000,5200,Tier 5,0.0,0,0,0,0,100,Approve,0,Approve,0,Within expected quality and pricing tolerance
+L0375,Burberry,Jacket,Unisex,category_derived,0,Cotton,L,Like New,2,5,2,0,active_current_cycle,0,27000,3000,Tier 5,0.0,8,4,0,12,88,Approve,0,Approve,0,Condition penalty -8; Age penalty -4

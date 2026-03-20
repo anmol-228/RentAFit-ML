@@ -1,0 +1,44 @@
+{
+  "model_type": "content_based_cosine_similarity",
+  "catalog_rows": 932,
+  "n_neighbors_fit": 150,
+  "categorical_columns": [
+    "brand",
+    "category",
+    "gender",
+    "material",
+    "size",
+    "condition",
+    "tier_primary"
+  ],
+  "numeric_columns": [
+    "age_months",
+    "original_price",
+    "provider_price",
+    "rule_mid",
+    "rule_quality_score",
+    "quality_score_norm",
+    "item_freshness_score",
+    "provider_price_pct_of_original",
+    "category_avg_provider_price",
+    "price_vs_category_avg_ratio",
+    "catalog_priority_score",
+    "model_b_approve_probability",
+    "model_b_review_probability"
+  ],
+  "recommendation_logic": {
+    "base_similarity_weight": 0.55,
+    "quality_weight": 0.15,
+    "freshness_weight": 0.08,
+    "budget_alignment_weight": 0.1,
+    "size_match_weight": 0.07,
+    "safety_weight": 0.05
+  },
+  "policy": {
+    "same_category_only": true,
+    "hard_gender_filter": true,
+    "exact_size_then_nearest": true,
+    "review_fallback_limit": 2,
+    "default_budget_strategy": "category_average_budget"
+  }
+}

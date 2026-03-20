@@ -1,0 +1,48 @@
+listing_id,provider_id,current_status,recommended_status,predicted_decision,listing_age_months,stale_listing_flag,removal_recommended,review_reason,review_priority,assigned_reviewer_role,visible_to_renters,deviation_M,total_penalty,rule_quality_score
+L0016,P1047,PENDING_REVIEW,REJECTED,Reject,13,1,1,model_reject; stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,100.0,45,55
+L0021,P1007,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Approve,13,1,1,stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,0.0,12,88
+L0026,P1055,PENDING_REVIEW,REJECTED,Reject,13,1,1,model_reject; stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,106.25,57,43
+L0036,P1023,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,13,1,1,model_review; stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,21.0526,32,68
+L0068,P1031,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,13,1,1,model_review; stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,50.0,42,58
+L0096,P1015,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Approve,13,1,1,stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,14.6667,16,84
+L0103,P1039,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,13,1,1,model_review; stale_listing_reapproval; removal_recommended_after_stale_grace,high,admin_reviewer,0,16.6667,38,62
+L0014,P1046,PENDING_REVIEW,REJECTED,Reject,12,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,75.0,71,29
+L0013,P1045,PENDING_REVIEW,REJECTED,Reject,11,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,71.6667,75,25
+L0024,P1053,PENDING_REVIEW,REJECTED,Reject,11,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,78.125,45,55
+L0011,P1044,PENDING_REVIEW,REJECTED,Reject,10,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,100.0,53,47
+L0023,P1052,PENDING_REVIEW,REJECTED,Reject,10,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,100.0,49,51
+L0025,P1054,PENDING_REVIEW,REJECTED,Reject,10,1,0,model_reject; stale_listing_reapproval,high,admin_reviewer,0,131.25,57,43
+L0009,P1043,PENDING_REVIEW,REJECTED,Reject,8,0,0,model_reject,high,admin_reviewer,0,125.0,45,55
+L0022,P1051,PENDING_REVIEW,REJECTED,Reject,8,0,0,model_reject,high,admin_reviewer,0,65.625,75,25
+L0030,P1059,PENDING_REVIEW,REJECTED,Reject,8,0,0,model_reject,high,admin_reviewer,0,162.5,71,29
+L0020,P1050,PENDING_REVIEW,REJECTED,Reject,5,0,0,model_reject,high,admin_reviewer,0,110.0,57,43
+L0029,P1058,PENDING_REVIEW,REJECTED,Reject,5,0,0,model_reject,high,admin_reviewer,0,90.0,71,29
+L0005,P1041,PENDING_REVIEW,REJECTED,Reject,3,0,0,model_reject,high,admin_reviewer,0,108.3333,45,55
+L0008,P1042,PENDING_REVIEW,REJECTED,Reject,3,0,0,model_reject,high,admin_reviewer,0,105.5556,57,43
+L0019,P1049,PENDING_REVIEW,REJECTED,Reject,3,0,0,model_reject,high,admin_reviewer,0,120.0,45,55
+L0028,P1057,PENDING_REVIEW,REJECTED,Reject,3,0,0,model_reject,high,admin_reviewer,0,81.25,57,43
+L0002,P1040,PENDING_REVIEW,REJECTED,Reject,1,0,0,model_reject,high,admin_reviewer,0,116.6667,57,43
+L0018,P1048,PENDING_REVIEW,REJECTED,Reject,1,0,0,model_reject,high,admin_reviewer,0,128.5714,45,55
+L0027,P1056,PENDING_REVIEW,REJECTED,Reject,1,0,0,model_reject,high,admin_reviewer,0,137.5,71,29
+L0031,P1022,ACTIVE,REAPPROVAL_REQUIRED,Review,12,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,43.3333,30,70
+L0093,P1014,ACTIVE,REAPPROVAL_REQUIRED,Approve,12,1,0,stale_listing_reapproval,medium,admin_reviewer,0,0.0,16,84
+L0095,P1038,ACTIVE,REAPPROVAL_REQUIRED,Review,12,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,32.1429,36,64
+L0006,P1021,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,11,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,14.2308,42,58
+L0015,P1005,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Approve,11,1,0,stale_listing_reapproval,medium,admin_reviewer,0,0.0,12,88
+L0052,P1029,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,11,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,20.625,28,72
+L0078,P1013,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Approve,11,1,0,stale_listing_reapproval,medium,admin_reviewer,0,0.0,0,100
+L0090,P1037,REAPPROVAL_REQUIRED,REAPPROVAL_REQUIRED,Review,11,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,23.5294,20,80
+L0003,P1020,ACTIVE,REAPPROVAL_REQUIRED,Review,10,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,37.1429,30,70
+L0012,P1004,ACTIVE,REAPPROVAL_REQUIRED,Approve,10,1,0,stale_listing_reapproval,medium,admin_reviewer,0,12.1429,12,88
+L0017,P1006,ACTIVE,REAPPROVAL_REQUIRED,Approve,10,1,0,stale_listing_reapproval,medium,admin_reviewer,0,0.0,0,100
+L0049,P1028,ACTIVE,REAPPROVAL_REQUIRED,Review,10,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,20.8333,20,80
+L0059,P1030,ACTIVE,REAPPROVAL_REQUIRED,Review,10,1,0,model_review; stale_listing_reapproval,medium,admin_reviewer,0,37.1429,30,70
+L0045,P1027,ACTIVE,PENDING_REVIEW,Review,8,0,0,model_review,medium,admin_reviewer,0,33.6364,32,68
+L0080,P1035,ACTIVE,PENDING_REVIEW,Review,8,0,0,model_review,medium,admin_reviewer,0,2.1739,25,75
+L0088,P1036,ACTIVE,PENDING_REVIEW,Review,8,0,0,model_review,medium,admin_reviewer,0,46.6667,42,58
+L0043,P1026,ACTIVE,PENDING_REVIEW,Review,5,0,0,model_review,medium,admin_reviewer,0,20.8333,46,54
+L0079,P1034,ACTIVE,PENDING_REVIEW,Review,5,0,0,model_review,medium,admin_reviewer,0,46.0,56,44
+L0040,P1025,ACTIVE,PENDING_REVIEW,Review,3,0,0,model_review,medium,admin_reviewer,0,50.0,42,58
+L0077,P1033,ACTIVE,PENDING_REVIEW,Review,3,0,0,model_review,medium,admin_reviewer,0,31.25,32,68
+L0038,P1024,ACTIVE,PENDING_REVIEW,Review,1,0,0,model_review,medium,admin_reviewer,0,22.0588,50,50
+L0076,P1032,ACTIVE,PENDING_REVIEW,Review,1,0,0,model_review,medium,admin_reviewer,0,37.5,46,54

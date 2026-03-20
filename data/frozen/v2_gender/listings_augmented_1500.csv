@@ -1,0 +1,1501 @@
+listing_id,brand,category,gender,gender_source,material,size,condition,age_months,original_price,provider_price,data_source,source_listing_id
+L0001,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,4,89999,12400,manual,L0001
+L0002,Zudio,Top,Women,category_derived,Cotton,S,Like New,4,599,65,manual,L0002
+L0003,Nike,Activewear,Unisex,category_derived,Polyester,L,New,2,3999,480,manual,L0003
+L0004,Gucci,Jacket,Unisex,category_derived,Leather,S,New,1,61999,9100,manual,L0004
+L0005,Rangriti,Kurta,Unisex,category_derived,Cotton,S,New,2,999,125,manual,L0005
+L0006,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,10,150000,14850,manual,L0006
+L0007,Zara,Dress,Women,category_derived,Linen,L,New,2,9999,1155,manual,L0007
+L0008,Biba,Kurta,Unisex,category_derived,Silk,M,Like New,5,1499,185,manual,L0008
+L0009,Roadster,Jeans,Unisex,category_derived,Denim,XL,New,2,1099,135,manual,L0009
+L0010,Anita Dongre,Saree,Women,category_derived,Silk,M,New,3,59999,8580,manual,L0010
+L0011,Easybuy,Top,Women,category_derived,Polyester,S,Like New,3,499,60,manual,L0011
+L0012,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XL,New,2,5499,785,manual,L0012
+L0013,GAP,Jeans,Unisex,category_derived,Denim,L,Used,11,5999,515,manual,L0013
+L0014,Fabindia,Kurta,Unisex,category_derived,Silk,M,Used,7,2999,280,manual,L0014
+L0015,Prada,Dress,Women,category_derived,Silk,S,Like New,4,95000,11650,manual,L0015
+L0016,HRX,Activewear,Unisex,category_derived,Polyester,XS,New,3,999,120,manual,L0016
+L0017,Sabyasachi,Saree,Women,category_derived,Silk,L,New,2,145000,19800,manual,L0017
+L0018,Moda Rapido,Dress,Women,category_derived,Polyester,S,New,1,1099,160,manual,L0018
+L0019,Bewakoof,Top,Women,category_derived,Cotton,S,New,2,899,110,manual,L0019
+L0020,Marks & Spencer,Shirt,Unisex,category_derived,Linen,L,Like New,5,3499,525,manual,L0020
+L0021,Tarun Tahiliani,Saree,Women,category_derived,Silk,M,Like New,6,69999,8850,manual,L0021
+L0022,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,10,3099,265,manual,L0022
+L0023,Libas,Kurta,Unisex,category_derived,Cotton,S,New,4,899,100,manual,L0023
+L0024,Anouk,Saree,Women,category_derived,Silk,M,New,3,1999,285,manual,L0024
+L0025,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,4,1499,185,manual,L0025
+L0026,Global Desi,Saree,Women,category_derived,Silk,S,Like New,6,2499,330,manual,L0026
+L0027,Pantaloons,Jeans,Unisex,category_derived,Denim,S,Used,9,1099,95,manual,L0027
+L0028,Indya,Jacket,Unisex,category_derived,Denim,L,Like New,5,1299,145,manual,L0028
+L0029,Zara,Jacket,Unisex,category_derived,Denim,M,Used,8,4999,475,manual,L0029
+L0030,H&M,Dress,Women,category_derived,Cotton,S,Used,9,1199,105,manual,L0030
+L0031,Suta,Saree,Women,category_derived,Silk,M,New,1,2999,430,manual,L0031
+L0032,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,5,1999,220,manual,L0032
+L0033,Forever 21,Dress,Women,category_derived,Polyester,S,New,2,1299,175,manual,L0033
+L0034,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,3,999,120,manual,L0034
+L0035,Highlander,Shirt,Unisex,category_derived,Cotton,M,New,3,999,125,manual,L0035
+L0036,Jaypore,Saree,Women,category_derived,Silk,M,Like New,6,8999,1150,manual,L0036
+L0037,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,5,70499,8550,manual,L0037
+L0038,Armani,Jacket,Unisex,category_derived,Leather,S,Used,11,45459,4150,manual,L0038
+L0039,W for Woman,Saree,Women,category_derived,Silk,M,New,2,2499,330,manual,L0039
+L0040,Biba,Dress,Women,category_derived,Silk,M,Like New,6,5500,825,manual,L0040
+L0041,Global Desi,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,5,3999,600,manual,L0041
+L0042,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,4,1499,205,manual,L0042
+L0043,Manish Malhotra,Ethnic Wear,Unisex,category_derived,Silk,M,Used,8,79999,8700,manual,L0043
+L0044,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,8,999,100,manual,L0044
+L0045,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,6,5999,735,manual,L0045
+L0046,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Used,9,7999,760,manual,L0046
+L0047,Red Tape,Shirt,Unisex,category_derived,Linen,S,New,3,899,110,manual,L0047
+L0048,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,7,2999,260,manual,L0048
+L0049,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,S,New,3,14500,2175,manual,L0049
+L0050,Fabindia,Kurta,Unisex,category_derived,Cotton,XL,Used,10,2799,280,manual,L0050
+L0051,Prada,Dress,Women,category_derived,Silk,L,Like New,6,85999,10600,manual,L0051
+L0052,Nalli,Saree,Women,category_derived,Silk,L,Like New,3,6999,965,manual,L0052
+L0053,Zudio,Top,Women,category_derived,Cotton,S,New,2,499,75,manual,L0053
+L0054,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,5,3499,425,manual,L0054
+L0055,Libas,Kurta,Unisex,category_derived,Silk,S,New,2,1999,300,manual,L0055
+L0056,Bewakoof,Top,Women,category_derived,Polyester,S,Used,6,499,45,manual,L0056
+L0057,Moda Rapido,Dress,Women,category_derived,Denim,S,New,1,899,115,manual,L0057
+L0058,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,3,1099,135,manual,L0058
+L0059,Levi's,Jeans,Unisex,category_derived,Denim,M,New,2,3999,480,manual,L0059
+L0060,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,New,4,699,90,manual,L0060
+L0061,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,6,120000,13300,manual,L0061
+L0062,HRX,Activewear,Unisex,category_derived,Polyester,M,New,3,2299,345,manual,L0062
+L0063,Skechers,Activewear,Unisex,category_derived,Polyester,M,Like New,4,4999,610,manual,L0063
+L0064,Versace,Dress,Women,category_derived,Silk,M,Like New,5,110000,13400,manual,L0064
+L0065,Mufti,Shirt,Unisex,category_derived,Linen,M,Like New,4,2899,435,manual,L0065
+L0066,Reebok,Activewear,Unisex,category_derived,Polyester,S,Used,3,2799,285,manual,L0066
+L0067,Anouk,Saree,Women,category_derived,Cotton,S,Used,7,1899,155,manual,L0067
+L0068,Masaba,Dress,Women,category_derived,Silk,M,Like New,4,12000,1800,manual,L0068
+L0069,Indya,Jacket,Unisex,category_derived,Denim,M,Used,9,1499,145,manual,L0069
+L0070,Pantaloons,Dress,Women,category_derived,Cotton,L,Like New,6,2499,375,manual,L0070
+L0071,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Like New,5,799,90,manual,L0071
+L0072,Zudio,Shirt,Unisex,category_derived,Cotton,M,New,1,399,50,manual,L0072
+L0073,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,3,6999,840,manual,L0073
+L0074,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,6,799,90,manual,L0074
+L0075,Easybuy,Shirt,Unisex,category_derived,Polyester,M,Used,8,699,65,manual,L0075
+L0076,House of Masaba,Saree,Women,category_derived,Silk,M,Like New,7,13499,1650,manual,L0076
+L0077,AND,Dress,Women,category_derived,Cotton,M,Like New,5,4999,525,manual,L0077
+L0078,Nicobar,Dress,Women,category_derived,Linen,S,New,3,7999,925,manual,L0078
+L0079,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Used,8,8499,730,manual,L0079
+L0080,Anita Dongre,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,10,19499,2350,manual,L0080
+L0081,FBB,Kurta,Unisex,category_derived,Cotton,M,Used,9,999,100,manual,L0081
+L0082,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,M,Used,6,1199,150,manual,L0082
+L0083,Bewakoof,Top,Women,category_derived,Polyester,XS,Like New,5,799,110,manual,L0083
+L0084,Style Bazaar,Top,Women,category_derived,Polyester,XL,Used,8,299,30,manual,L0084
+L0085,Rangriti,Kurta,Unisex,category_derived,Cotton,M,New,3,699,90,manual,L0085
+L0086,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Used,9,3199,420,manual,L0086
+L0087,Mufti,Shirt,Unisex,category_derived,Linen,M,Used,11,3499,300,manual,L0087
+L0088,Suta,Saree,Women,category_derived,Linen,M,Like New,6,3499,440,manual,L0088
+L0089,H&M,Dress,Women,category_derived,Silk,S,Like New,6,1499,180,manual,L0089
+L0090,Zara,Dress,Women,category_derived,Linen,S,New,2,6990,1050,manual,L0090
+L0091,Forever 21,Top,Women,category_derived,Cotton,S,Like New,5,1500,225,manual,L0091
+L0092,Highlander,Top,Women,category_derived,Cotton,XL,Like New,2,599,80,manual,L0092
+L0093,Prada,Dress,Women,category_derived,Silk,M,Like New,8,75499,8250,manual,L0093
+L0094,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,4,1499,205,manual,L0094
+L0095,Neeru's,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,7,14999,1850,manual,L0095
+L0096,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,New,4,12999,1720,manual,L0096
+L0097,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Like New,8,51999,7150,manual,L0097
+L0098,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,5,49999,6350,manual,L0098
+L0099,W for Woman,Ethnic Wear,Unisex,category_derived,Silk,S,Used,7,1199,135,manual,L0099
+L0100,Armani,Ethnic Wear,Unisex,category_derived,Polyester,L,New,2,85000,12100,manual,L0100
+L0101,Rangriti,Kurta,Unisex,category_derived,Cotton,M,New,3,699,65,manual,L0101
+L0102,Style Bazaar,Top,Women,category_derived,Polyester,XL,Used,8,299,20,manual,L0102
+L0103,Soch,Ethnic Wear,Unisex,category_derived,Cotton,XS,Used,9,799,35,manual,L0103
+L0104,AND,Dress,Women,category_derived,Cotton,M,Like New,5,4999,510,manual,L0104
+L0105,House of Masaba,Saree,Women,category_derived,Silk,M,Like New,7,13499,1500,manual,L0105
+L0106,Nicobar,Dress,Women,category_derived,Linen,S,New,3,7999,1000,manual,L0106
+L0107,Zara,Dress,Women,category_derived,Linen,L,New,2,9999,1320,manual,L0107
+L0108,Armani,Jacket,Unisex,category_derived,Leather,S,Used,11,45459,3700,manual,L0108
+L0109,Zudio,Top,Women,category_derived,Cotton,S,Like New,4,599,40,manual,L0109
+L0110,Easybuy,Shirt,Unisex,category_derived,Polyester,M,Used,8,699,40,manual,L0110
+L0111,W for Woman,Saree,Women,category_derived,Silk,M,New,2,2499,330,manual,L0111
+L0112,Zudio,Shirt,Unisex,category_derived,Cotton,M,New,1,399,30,manual,L0112
+L0113,Easybuy,Top,Women,category_derived,Polyester,S,Like New,3,499,35,manual,L0113
+L0114,GAP,Jeans,Unisex,category_derived,Denim,L,Used,11,5999,335,manual,L0114
+L0115,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Used,8,8499,550,manual,L0115
+L0116,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,3,6999,800,manual,L0116
+L0117,Anita Dongre,Lehenga,Women,category_derived,Silk,S,Like New,10,19499,1950,manual,L0117
+L0118,FBB,Kurta,Unisex,category_derived,Cotton,M,Used,9,999,50,manual,L0118
+L0119,Pantaloons,Jeans,Unisex,category_derived,Denim,L,Like New,5,1199,80,manual,L0119
+L0120,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,L,Used,7,399,25,manual,L0120
+L0121,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,3,1099,80,manual,L0121
+L0122,Libas,Kurta,Unisex,category_derived,Cotton,M,Like New,4,1199,90,manual,L0122
+L0123,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Like New,8,51999,6400,manual,L0123
+L0124,Gucci,Jacket,Unisex,category_derived,Leather,S,New,1,61999,10200,manual,L0124
+L0125,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,3,999,70,manual,L0125
+L0126,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,6,799,50,manual,L0126
+L0127,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,S,Like New,2,699,60,manual,L0127
+L0128,Libas,Kurta,Unisex,category_derived,Cotton,S,New,4,899,65,manual,L0128
+L0129,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Used,5,799,40,manual,L0129
+L0130,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,New,3,499,40,manual,L0130
+L0131,Fabindia,Kurta,Unisex,category_derived,Cotton,M,Used,7,2999,200,manual,L0131
+L0132,Suta,Saree,Women,category_derived,Linen,M,Like New,6,3499,320,manual,L0132
+L0133,H&M,Dress,Women,category_derived,Cotton,S,Like New,6,1499,120,manual,L0133
+L0134,Levi's,Jeans,Unisex,category_derived,Denim,M,New,2,3999,480,manual,L0134
+L0135,Zara,Jacket,Unisex,category_derived,Denim,M,Used,8,4999,350,manual,L0135
+L0136,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,5,1999,170,manual,L0136
+L0137,Forever 21,Dress,Women,category_derived,Polyester,S,New,2,1299,140,manual,L0137
+L0138,GAP,Jeans,Unisex,category_derived,Denim,M,Used,10,3999,260,manual,L0138
+L0139,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,New,4,699,60,manual,L0139
+L0140,Prada,Dress,Women,category_derived,Silk,S,Like New,6,85999,9800,manual,L0140
+L0141,Highlander,Top,Women,category_derived,Cotton,XL,Like New,2,599,45,manual,L0141
+L0142,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,5,70499,8800,manual,L0142
+L0143,Prada,Dress,Women,category_derived,Silk,M,Like New,8,75499,8900,manual,L0143
+L0144,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,4,1499,160,manual,L0144
+L0145,Suta,Saree,Women,category_derived,Silk,M,New,1,2999,415,manual,L0145
+L0146,Nalli,Saree,Women,category_derived,Silk,M,Like New,3,6999,875,manual,L0146
+L0147,Neeru's,Lehenga,Women,category_derived,Silk,L,Like New,7,14999,1500,manual,L0147
+L0148,Meena Bazaar,Lehenga,Women,category_derived,Silk,S,New,4,12999,1620,manual,L0148
+L0149,Rangriti,Kurta,Unisex,category_derived,Cotton,M,New,2,999,70,manual,L0149
+L0150,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Like New,5,799,50,manual,L0150
+L0151,Style Bazaar,Shirt,Unisex,category_derived,Cotton,XL,Used,7,499,30,manual,L0151
+L0152,American Eagle,Jeans,Unisex,category_derived,Denim,L,Like New,4,4999,450,manual,L0152
+L0153,Sabyasachi,Lehenga,Women,category_derived,Silk,M,Like New,4,89999,14000,manual,L0153
+L0154,Manish Malhotra,Lehenga,Women,category_derived,Silk,M,Used,8,79999,9000,manual,L0154
+L0155,Uniqlo,Jacket,Unisex,category_derived,Denim,XS,Like New,5,1499,130,manual,L0155
+L0156,Forever 21,Dress,Women,category_derived,Cotton,M,Like New,6,1299,110,manual,L0156
+L0157,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XL,Like New,2,5499,690,manual,L0157
+L0158,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,8,2199,175,manual,L0158
+L0159,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,6,5999,600,manual,L0159
+L0160,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Used,9,7999,550,manual,L0160
+L0161,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,8,999,60,manual,L0161
+L0162,Biba,Kurta,Unisex,category_derived,Cotton,M,Like New,5,1499,120,manual,L0162
+L0163,UCB,Shirt,Unisex,category_derived,Cotton,S,Like New,5,3499,300,manual,L0163
+L0164,Global Desi,Saree,Women,category_derived,Silk,S,Like New,6,2499,270,manual,L0164
+L0165,Anouk,Saree,Women,category_derived,Silk,M,New,3,1999,250,manual,L0165
+L0166,Indya,Jacket,Unisex,category_derived,Denim,M,Used,9,1499,100,manual,L0166
+L0167,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,4,1499,150,manual,L0167
+L0168,Mufti,Shirt,Unisex,category_derived,Linen,M,Used,11,3499,200,manual,L0168
+L0169,Anouk,Saree,Women,category_derived,Cotton,M,Used,7,1399,90,manual,L0169
+L0170,Indya,Jacket,Unisex,category_derived,Denim,S,Like New,5,1299,120,manual,L0170
+L0171,Pantaloons,Jeans,Unisex,category_derived,Denim,L,Used,9,1099,60,manual,L0171
+L0172,Roadster,Jeans,Unisex,category_derived,Denim,XL,New,2,1099,110,manual,L0172
+L0173,Armani,Ethnic Wear,Unisex,category_derived,Polyester,L,New,2,85000,11000,manual,L0173
+L0174,Versace,Dress,Women,category_derived,Silk,M,Like New,5,110000,14000,manual,L0174
+L0175,Spykar,Shirt,Unisex,category_derived,Cotton,M,Like New,2,999,90,manual,L0175
+L0176,Being Human,Top,Women,category_derived,Linen,S,New,8,999,85,manual,L0176
+L0177,Prada,Dress,Women,category_derived,Silk,S,Like New,4,95000,9000,manual,L0177
+L0178,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,5,3499,330,manual,L0178
+L0179,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,7,2999,210,manual,L0179
+L0180,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,10,150000,15000,manual,L0180
+L0181,Red Tape,Shirt,Unisex,category_derived,Linen,S,New,3,899,95,manual,L0181
+L0182,H&M,Dress,Women,category_derived,Cotton,S,Used,9,1199,70,manual,L0182
+L0183,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,6,120000,18000,manual,L0183
+L0184,Bewakoof,Top,Women,category_derived,Polyester,S,Used,6,499,25,manual,L0184
+L0185,Reebok,Activewear,Unisex,category_derived,Polyester,L,New,3,2799,300,manual,L0185
+L0186,Skechers,Activewear,Unisex,category_derived,Polyester,M,Like New,4,4999,480,manual,L0186
+L0187,Moda Rapido,Dress,Women,category_derived,Denim,S,New,1,899,80,manual,L0187
+L0188,Biba,Kurta,Unisex,category_derived,Silk,M,Like New,4,999,85,manual,L0188
+L0189,W for Woman,Ethnic Wear,Unisex,category_derived,Cotton,S,Used,7,1199,75,manual,L0189
+L0190,Global Desi,Saree,Women,category_derived,Silk,M,Like New,6,1499,140,manual,L0190
+L0191,Nike,Activewear,Unisex,category_derived,Polyester,M,New,2,3999,450,manual,L0191
+L0192,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Like New,6,69999,10000,manual,L0192
+L0193,Anita Dongre,Saree,Women,category_derived,Silk,M,New,3,59999,9000,manual,L0193
+L0194,Highlander,Shirt,Unisex,category_derived,Cotton,M,New,3,999,100,manual,L0194
+L0195,Moda Rapido,Dress,Women,category_derived,Polyester,M,Used,7,1199,90,manual,L0195
+L0196,Bewakoof,Top,Women,category_derived,Cotton,S,New,2,899,90,manual,L0196
+L0197,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,5,49999,8000,manual,L0197
+L0198,HRX,Activewear,Unisex,category_derived,Polyester,XS,Like New,3,999,85,manual,L0198
+L0199,Flying Machine,Jacket,Unisex,category_derived,Denim,S,Like New,4,1299,110,manual,L0199
+L0200,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,10,3099,180,manual,L0200
+L0201,Killer,Jeans,Unisex,category_derived,Denim,L,New,6,1199,100,manual,L0201
+L0202,Zudio,Top,Women,category_derived,Cotton,M,Like New,5,1200,70,manual,L0202
+L0203,Easybuy,Shirt,Unisex,category_derived,Polyester,L,New,2,1500,110,manual,L0203
+L0204,Vishal Mega Mart,Jeans,Unisex,category_derived,Denim,S,Used,8,1400,50,manual,L0204
+L0205,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,6,1800,100,manual,L0205
+L0206,Style Bazaar,Top,Women,category_derived,Polyester,XS,New,1,1000,70,manual,L0206
+L0207,Soch,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,4,3200,250,manual,L0207
+L0208,Aurelia,Kurta,Unisex,category_derived,Cotton,L,New,3,2800,250,manual,L0208
+L0209,Libas,Dress,Women,category_derived,Linen,S,Used,10,3000,150,manual,L0209
+L0210,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,7,2200,100,manual,L0210
+L0211,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,2,2600,250,manual,L0211
+L0212,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Used,12,3500,150,manual,L0212
+L0213,FBB,Top,Women,category_derived,Cotton,M,Like New,5,2000,150,manual,L0213
+L0214,Bewakoof,Activewear,Unisex,category_derived,Polyester,S,New,1,1800,150,manual,L0214
+L0215,Highlander,Jeans,Unisex,category_derived,Denim,L,Used,9,2400,100,manual,L0215
+L0216,Moda Rapido,Shirt,Unisex,category_derived,Cotton,M,Like New,6,2100,150,manual,L0216
+L0217,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,New,2,5000,600,manual,L0217
+L0218,W for Woman,Kurta,Unisex,category_derived,Cotton,L,Like New,4,4500,350,manual,L0218
+L0219,Global Desi,Dress,Women,category_derived,Linen,S,Used,11,5200,250,manual,L0219
+L0220,Anouk,Kurta,Unisex,category_derived,Cotton,M,Like New,7,4000,250,manual,L0220
+L0221,Indya,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,5500,600,manual,L0221
+L0222,Pantaloons,Shirt,Unisex,category_derived,Cotton,L,Used,8,3800,200,manual,L0222
+L0223,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,6,4200,250,manual,L0223
+L0224,HRX,Activewear,Unisex,category_derived,Polyester,S,New,2,4800,450,manual,L0224
+L0225,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,5,4600,300,manual,L0225
+L0226,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,10,5000,250,manual,L0226
+L0227,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,L,New,2,8500,1200,manual,L0227
+L0228,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,5,7500,700,manual,L0228
+L0229,Jaypore,Saree,Women,category_derived,Silk,S,Used,12,9000,700,manual,L0229
+L0230,Suta,Saree,Women,category_derived,Cotton,M,Like New,6,8000,650,manual,L0230
+L0231,Nalli,Saree,Women,category_derived,Silk,L,New,1,9500,1300,manual,L0231
+L0232,Neeru's,Lehenga,Women,category_derived,Silk,M,Like New,4,11000,1000,manual,L0232
+L0233,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,10,10000,700,manual,L0233
+L0234,AND,Dress,Women,category_derived,Linen,M,New,3,7200,900,manual,L0234
+L0235,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,7,12000,1000,manual,L0235
+L0236,Masaba,Dress,Women,category_derived,Cotton,S,Used,9,9500,600,manual,L0236
+L0237,House of Masaba,Dress,Women,category_derived,Linen,M,Like New,5,10000,900,manual,L0237
+L0238,Nicobar,Kurta,Unisex,category_derived,Linen,L,New,2,8000,1000,manual,L0238
+L0239,Zara,Jacket,Unisex,category_derived,Polyester,M,Like New,6,9000,800,manual,L0239
+L0240,Marks & Spencer,Dress,Women,category_derived,Cotton,S,Used,8,8500,600,manual,L0240
+L0241,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,7,7800,650,manual,L0241
+L0242,American Eagle,Jeans,Unisex,category_derived,Denim,M,New,2,8200,900,manual,L0242
+L0243,Mango,Dress,Women,category_derived,Linen,S,Like New,5,9500,900,manual,L0243
+L0244,Nike,Activewear,Unisex,category_derived,Polyester,M,Used,9,10000,600,manual,L0244
+L0245,Adidas,Jacket,Unisex,category_derived,Polyester,L,Like New,4,11000,1100,manual,L0245
+L0246,New Balance,Activewear,Unisex,category_derived,Polyester,S,New,3,9500,1100,manual,L0246
+L0247,Asics,Activewear,Unisex,category_derived,Polyester,M,Like New,6,9000,800,manual,L0247
+L0248,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Used,11,10500,600,manual,L0248
+L0249,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,M,Like New,5,9800,850,manual,L0249
+L0250,Calvin Klein,Jacket,Unisex,category_derived,Leather,L,New,2,12000,1500,manual,L0250
+L0251,Diesel,Jeans,Unisex,category_derived,Denim,M,Like New,7,11000,950,manual,L0251
+L0252,Superdry,Jacket,Unisex,category_derived,Polyester,M,Like New,6,10500,950,manual,L0252
+L0253,Raw Mango,Saree,Women,category_derived,Silk,L,New,2,18000,2700,manual,L0253
+L0254,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,5,22000,2500,manual,L0254
+L0255,Sabyasachi,Saree,Women,category_derived,Silk,S,Used,10,25000,2000,manual,L0255
+L0256,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,M,New,3,28000,4200,manual,L0256
+L0257,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,7,24000,2500,manual,L0257
+L0258,Anamika Khanna,Lehenga,Women,category_derived,Silk,M,Used,12,26000,2000,manual,L0258
+L0259,Gucci,Jacket,Unisex,category_derived,Leather,L,New,2,30000,4500,manual,L0259
+L0260,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,4,32000,4000,manual,L0260
+L0261,Prada,Dress,Women,category_derived,Silk,S,Used,9,27000,2500,manual,L0261
+L0262,Armani,Shirt,Unisex,category_derived,Linen,M,Like New,6,21000,2000,manual,L0262
+L0263,Versace,Dress,Women,category_derived,Silk,L,New,1,29000,4500,manual,L0263
+L0264,Burberry,Jacket,Unisex,category_derived,Cotton,M,Used,11,26000,2000,manual,L0264
+L0265,Balenciaga,Jacket,Unisex,category_derived,Leather,L,Like New,5,31000,4000,manual,L0265
+L0266,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,New,3,28000,4200,manual,L0266
+L0267,Zudio,Top,Women,category_derived,Cotton,S,New,2,900,60,manual,L0267
+L0268,Soch,Kurta,Unisex,category_derived,Cotton,M,Like New,6,3000,200,manual,L0268
+L0269,Biba,Kurta,Unisex,category_derived,Cotton,L,Used,9,4200,200,manual,L0269
+L0270,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,5,9000,900,manual,L0270
+L0271,Nike,Activewear,Unisex,category_derived,Polyester,S,Like New,6,9500,800,manual,L0271
+L0272,Levi's,Jeans,Unisex,category_derived,Denim,M,New,2,8000,800,manual,L0272
+L0273,Fabindia,Kurta,Unisex,category_derived,Linen,L,Used,10,7000,400,manual,L0273
+L0274,Pantaloons,Shirt,Unisex,category_derived,Cotton,M,Like New,5,4500,300,manual,L0274
+L0275,Reliance Trends,Top,Women,category_derived,Cotton,S,Used,8,2000,100,manual,L0275
+L0276,Easybuy,Shirt,Unisex,category_derived,Cotton,M,New,1,1400,100,manual,L0276
+L0277,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Like New,6,1200,70,manual,L0277
+L0278,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Used,9,1700,60,manual,L0278
+L0279,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,5,1100,70,manual,L0279
+L0280,Zudio,Jeans,Unisex,category_derived,Denim,S,Used,8,1300,50,manual,L0280
+L0281,Aurelia,Dress,Women,category_derived,Linen,M,New,2,3200,300,manual,L0281
+L0282,Libas,Kurta,Unisex,category_derived,Cotton,L,Like New,6,2800,200,manual,L0282
+L0283,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Used,11,2500,100,manual,L0283
+L0284,Reliance Trends,Shirt,Unisex,category_derived,Cotton,M,Like New,4,2600,200,manual,L0284
+L0285,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,New,3,3400,350,manual,L0285
+L0286,Pantaloons,Top,Women,category_derived,Cotton,S,Like New,5,3800,300,manual,L0286
+L0287,Roadster,Jeans,Unisex,category_derived,Denim,M,Used,9,4200,200,manual,L0287
+L0288,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,6,5000,350,manual,L0288
+L0289,Flying Machine,Jeans,Unisex,category_derived,Denim,M,New,2,4800,500,manual,L0289
+L0290,Mufti,Shirt,Unisex,category_derived,Cotton,S,Used,10,5200,250,manual,L0290
+L0291,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,5,7800,700,manual,L0291
+L0292,Zara,Dress,Women,category_derived,Linen,S,New,2,9000,1100,manual,L0292
+L0293,GAP,Jeans,Unisex,category_derived,Denim,L,Used,8,8200,500,manual,L0293
+L0294,Nike,Activewear,Unisex,category_derived,Polyester,M,New,3,10000,1200,manual,L0294
+L0295,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,6,9500,800,manual,L0295
+L0296,Raw Mango,Saree,Women,category_derived,Silk,M,Like New,5,20000,2500,manual,L0296
+L0297,Anita Dongre,Lehenga,Women,category_derived,Silk,S,New,2,23000,3500,manual,L0297
+L0298,Sabyasachi,Saree,Women,category_derived,Silk,L,Used,11,27000,2000,manual,L0298
+L0299,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,6,32000,4000,manual,L0299
+L0300,Prada,Dress,Women,category_derived,Silk,S,New,1,29000,4500,manual,L0300
+L0301,Easybuy,Top,Women,category_derived,Cotton,S,Like New,4,1300,80,manual,L0301
+L0302,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,M,Used,10,1500,60,manual,L0302
+L0303,Rangriti,Kurta,Unisex,category_derived,Cotton,M,New,2,1600,110,manual,L0303
+L0304,Style Bazaar,Top,Women,category_derived,Cotton,L,Like New,6,1200,70,manual,L0304
+L0305,Zudio,Shirt,Unisex,category_derived,Polyester,M,Used,9,1400,60,manual,L0305
+L0306,Soch,Saree,Women,category_derived,Silk,L,Like New,5,3500,300,manual,L0306
+L0307,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,11,3000,150,manual,L0307
+L0308,Libas,Dress,Women,category_derived,Linen,M,New,3,3200,300,manual,L0308
+L0309,Max Fashion,Jeans,Unisex,category_derived,Denim,L,Like New,7,2600,150,manual,L0309
+L0310,Reliance Trends,Top,Women,category_derived,Cotton,M,Used,8,2400,100,manual,L0310
+L0311,Pantaloons,Shirt,Unisex,category_derived,Cotton,M,New,2,4000,400,manual,L0311
+L0312,Roadster,Jeans,Unisex,category_derived,Denim,S,Like New,6,4500,300,manual,L0312
+L0313,HRX,Activewear,Unisex,category_derived,Polyester,M,Used,10,5200,250,manual,L0313
+L0314,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,5,4800,300,manual,L0314
+L0315,Mufti,Shirt,Unisex,category_derived,Cotton,M,New,1,5000,500,manual,L0315
+L0316,Fabindia,Kurta,Unisex,category_derived,Linen,S,Used,9,8200,500,manual,L0316
+L0317,Mango,Dress,Women,category_derived,Linen,M,Like New,6,9500,900,manual,L0317
+L0318,Adidas,Jacket,Unisex,category_derived,Polyester,L,New,2,11000,1300,manual,L0318
+L0319,Calvin Klein,Jacket,Unisex,category_derived,Leather,M,Like New,5,12000,1500,manual,L0319
+L0320,Diesel,Jeans,Unisex,category_derived,Denim,S,Used,11,11500,700,manual,L0320
+L0321,Raw Mango,Saree,Women,category_derived,Silk,L,New,3,21000,3200,manual,L0321
+L0322,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,M,Like New,6,28000,3000,manual,L0322
+L0323,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,S,Used,12,25000,2000,manual,L0323
+L0324,Louis Vuitton,Jacket,Unisex,category_derived,Leather,L,Like New,5,33000,4000,manual,L0324
+L0325,Versace,Dress,Women,category_derived,Silk,M,New,2,30000,4500,manual,L0325
+L0326,Zudio,Top,Women,category_derived,Cotton,L,Like New,5,1100,70,manual,L0326
+L0327,Easybuy,Jeans,Unisex,category_derived,Denim,M,Used,8,1500,50,manual,L0327
+L0328,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,New,2,1300,90,manual,L0328
+L0329,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,6,1700,100,manual,L0329
+L0330,Style Bazaar,Top,Women,category_derived,Cotton,M,Used,9,1200,60,manual,L0330
+L0331,Soch,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,3800,400,manual,L0331
+L0332,Aurelia,Dress,Women,category_derived,Linen,L,Like New,5,3400,250,manual,L0332
+L0333,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,10,3000,150,manual,L0333
+L0334,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,2,2600,250,manual,L0334
+L0335,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,6,2800,200,manual,L0335
+L0336,Pantaloons,Top,Women,category_derived,Cotton,M,Used,8,4200,200,manual,L0336
+L0337,Roadster,Jeans,Unisex,category_derived,Denim,L,New,3,4800,450,manual,L0337
+L0338,HRX,Activewear,Unisex,category_derived,Polyester,S,Like New,6,5200,350,manual,L0338
+L0339,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,11,5000,250,manual,L0339
+L0340,Mufti,Shirt,Unisex,category_derived,Cotton,L,Like New,5,5300,400,manual,L0340
+L0341,Fabindia,Kurta,Unisex,category_derived,Linen,M,New,2,8500,1000,manual,L0341
+L0342,Zara,Dress,Women,category_derived,Linen,S,Like New,6,9200,900,manual,L0342
+L0343,Nike,Activewear,Unisex,category_derived,Polyester,M,Used,10,10000,600,manual,L0343
+L0344,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,4,9800,1000,manual,L0344
+L0345,Diesel,Jeans,Unisex,category_derived,Denim,M,New,2,11500,1400,manual,L0345
+L0346,Raw Mango,Saree,Women,category_derived,Silk,S,Like New,6,22000,2500,manual,L0346
+L0347,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Used,12,24000,2000,manual,L0347
+L0348,Sabyasachi,Saree,Women,category_derived,Silk,L,New,2,28000,4200,manual,L0348
+L0349,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,5,32000,6000,manual,L0349
+L0350,Prada,Dress,Women,category_derived,Silk,S,Used,9,30000,2500,manual,L0350
+L0351,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Like New,6,1400,90,manual,L0351
+L0352,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,10,1500,60,manual,L0352
+L0353,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,2,1800,130,manual,L0353
+L0354,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,5,1200,80,manual,L0354
+L0355,Zudio,Jeans,Unisex,category_derived,Denim,S,Used,9,1300,50,manual,L0355
+L0356,Soch,Saree,Women,category_derived,Silk,M,Like New,4,4000,350,manual,L0356
+L0357,Aurelia,Kurta,Unisex,category_derived,Cotton,L,New,3,3200,300,manual,L0357
+L0358,Libas,Dress,Women,category_derived,Linen,S,Used,11,3500,200,manual,L0358
+L0359,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,6,2800,200,manual,L0359
+L0360,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,3000,300,manual,L0360
+L0361,Pantaloons,Top,Women,category_derived,Cotton,S,Like New,5,4500,350,manual,L0361
+L0362,Roadster,Jeans,Unisex,category_derived,Denim,M,Used,8,4800,250,manual,L0362
+L0363,HRX,Activewear,Unisex,category_derived,Polyester,L,New,2,5500,550,manual,L0363
+L0364,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,6,5200,350,manual,L0364
+L0365,Mufti,Shirt,Unisex,category_derived,Cotton,S,Used,10,5600,300,manual,L0365
+L0366,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,5,9000,900,manual,L0366
+L0367,Zara,Dress,Women,category_derived,Linen,S,New,2,10000,1200,manual,L0367
+L0368,Adidas,Jacket,Unisex,category_derived,Polyester,L,Like New,6,11500,1000,manual,L0368
+L0369,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,M,Used,9,10500,700,manual,L0369
+L0370,Calvin Klein,Jacket,Unisex,category_derived,Leather,L,New,3,13000,2000,manual,L0370
+L0371,Raw Mango,Saree,Women,category_derived,Silk,L,New,2,24000,3600,manual,L0371
+L0372,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,6,26000,3000,manual,L0372
+L0373,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,S,Used,12,29000,2000,manual,L0373
+L0374,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,New,1,35000,5200,manual,L0374
+L0375,Burberry,Jacket,Unisex,category_derived,Cotton,L,Like New,5,27000,3000,manual,L0375
+L0376,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,Like New,5,1207,43,synthetic,L0328
+L0377,Sabyasachi,Saree,Women,category_derived,Silk,L,New,1,151169,32858,synthetic,L0017
+L0378,Gucci,Jacket,Unisex,category_derived,Leather,S,Like New,1,60255,7589,synthetic,L0004
+L0379,Zudio,Top,Women,category_derived,Cotton,S,New,1,485,23,synthetic,L0053
+L0380,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,New,1,34377,6793,synthetic,L0374
+L0381,Pantaloons,Top,Women,category_derived,Cotton,S,Like New,8,4281,244,synthetic,L0361
+L0382,Nalli,Saree,Women,category_derived,Silk,L,Used,4,6849,312,synthetic,L0052
+L0383,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,3,3111,236,synthetic,L0360
+L0384,Moda Rapido,Dress,Women,category_derived,Polyester,M,Like New,10,1091,41,synthetic,L0195
+L0385,FBB,Kurta,Unisex,category_derived,Cotton,S,Used,10,905,326,synthetic,L0118
+L0386,Biba,Kurta,Unisex,category_derived,Cotton,M,Like New,6,1754,133,synthetic,L0162
+L0387,Anouk,Kurta,Unisex,category_derived,Cotton,XL,Like New,7,4797,167,synthetic,L0220
+L0388,Moda Rapido,Dress,Women,category_derived,Denim,S,Like New,1,909,47,synthetic,L0057
+L0389,Soch,Saree,Women,category_derived,Silk,XS,Like New,5,4029,322,synthetic,L0306
+L0390,Levi's,Jeans,Unisex,category_derived,Denim,M,Used,4,4475,220,synthetic,L0059
+L0391,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,4,4858,308,synthetic,L0223
+L0392,Highlander,Top,Women,category_derived,Cotton,XL,Like New,1,569,22,synthetic,L0092
+L0393,Levi's,Jeans,Unisex,category_derived,Denim,XS,New,2,7282,380,synthetic,L0272
+L0394,Global Desi,Ethnic Wear,Unisex,category_derived,Silk,M,Used,6,4768,211,synthetic,L0041
+L0395,Nike,Activewear,Unisex,category_derived,Polyester,M,Used,9,10438,3758,synthetic,L0244
+L0396,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,4,40204,6859,synthetic,L0374
+L0397,Neeru's,Lehenga,Women,category_derived,Silk,M,New,3,9742,639,synthetic,L0232
+L0398,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Used,5,66117,5506,synthetic,L0037
+L0399,Raw Mango,Saree,Women,category_derived,Silk,M,Like New,9,19798,2106,synthetic,L0296
+L0400,H&M,Dress,Women,category_derived,Cotton,S,Like New,10,992,35,synthetic,L0182
+L0401,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,S,Used,16,27020,1067,synthetic,L0373
+L0402,Prada,Dress,Women,category_derived,Silk,M,Like New,12,75472,13163,synthetic,L0143
+L0403,Vishal Mega Mart,Top,Women,category_derived,Polyester,L,Like New,10,1090,26,synthetic,L0277
+L0404,Suta,Saree,Women,category_derived,Silk,M,New,1,2828,658,synthetic,L0031
+L0405,Burberry,Jacket,Unisex,category_derived,Cotton,XS,Used,8,24888,1685,synthetic,L0375
+L0406,Anita Dongre,Lehenga,Women,category_derived,Silk,S,Like New,1,20595,1540,synthetic,L0297
+L0407,Jaypore,Saree,Women,category_derived,Silk,M,Like New,9,8900,1886,synthetic,L0036
+L0408,Tarun Tahiliani,Saree,Women,category_derived,Silk,M,Used,7,72282,5603,synthetic,L0021
+L0409,House of Masaba,Saree,Women,category_derived,Silk,M,Like New,7,13322,1498,synthetic,L0105
+L0410,Armani,Jacket,Unisex,category_derived,Leather,S,Used,13,52230,3425,synthetic,L0038
+L0411,Prada,Dress,Women,category_derived,Silk,S,Used,5,80407,9840,synthetic,L0140
+L0412,Max Fashion,Jeans,Unisex,category_derived,Denim,L,Like New,3,971,46,synthetic,L0129
+L0413,Anouk,Saree,Women,category_derived,Cotton,S,Like New,7,1908,65,synthetic,L0067
+L0414,Global Desi,Saree,Women,category_derived,Silk,M,Like New,5,1296,44,synthetic,L0190
+L0415,Armani,Jacket,Unisex,category_derived,Leather,S,Used,14,49579,8886,synthetic,L0108
+L0416,Anita Dongre,Ethnic Wear,Unisex,category_derived,Silk,M,Used,14,21370,1599,synthetic,L0080
+L0417,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,11,7600,2736,synthetic,L0241
+L0418,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Like New,7,8118,541,synthetic,L0115
+L0419,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,11,166168,13407,synthetic,L0180
+L0420,FBB,Ethnic Wear,Unisex,category_derived,Cotton,S,New,3,903,57,synthetic,L0060
+L0421,Prada,Dress,Women,category_derived,Silk,S,Like New,4,108846,13020,synthetic,L0177
+L0422,Raw Mango,Saree,Women,category_derived,Silk,M,Like New,3,17609,6514,synthetic,L0296
+L0423,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,5,10382,862,synthetic,L0344
+L0424,Mufti,Shirt,Unisex,category_derived,Cotton,S,Like New,7,5248,510,synthetic,L0340
+L0425,W for Woman,Ethnic Wear,Unisex,category_derived,Silk,S,Used,8,1500,86,synthetic,L0099
+L0426,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,93293,18780,synthetic,L0001
+L0427,Raw Mango,Saree,Women,category_derived,Silk,S,Used,7,25061,1441,synthetic,L0346
+L0428,Mufti,Shirt,Unisex,category_derived,Cotton,L,Like New,5,6026,499,synthetic,L0340
+L0429,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,1,8018,527,synthetic,L0116
+L0430,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,15,25337,2451,synthetic,L0323
+L0431,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,6,2088,337,synthetic,L0353
+L0432,Aurelia,Kurta,Unisex,category_derived,Cotton,L,New,1,3748,284,synthetic,L0357
+L0433,Nicobar,Kurta,Unisex,category_derived,Linen,L,Used,4,9092,3274,synthetic,L0238
+L0434,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,XL,Used,13,10504,479,synthetic,L0369
+L0435,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,9,4992,162,synthetic,L0362
+L0436,Mufti,Shirt,Unisex,category_derived,Linen,XS,Used,13,3589,179,synthetic,L0200
+L0437,Red Tape,Shirt,Unisex,category_derived,Linen,S,New,4,1148,37,synthetic,L0181
+L0438,Prada,Dress,Women,category_derived,Silk,S,Like New,4,91210,32836,synthetic,L0140
+L0439,Marks & Spencer,Dress,Women,category_derived,Cotton,XS,Used,10,8384,385,synthetic,L0240
+L0440,Anouk,Kurta,Unisex,category_derived,Cotton,M,Like New,8,3764,231,synthetic,L0220
+L0441,Mufti,Shirt,Unisex,category_derived,Linen,M,Used,12,4139,112,synthetic,L0168
+L0442,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Like New,6,1049,89,synthetic,L0277
+L0443,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,S,Like New,1,643,22,synthetic,L0127
+L0444,Zudio,Shirt,Unisex,category_derived,Cotton,M,Like New,1,353,13,synthetic,L0112
+L0445,Style Bazaar,Top,Women,category_derived,Polyester,L,Used,10,286,12,synthetic,L0084
+L0446,Zara,Dress,Women,category_derived,Linen,S,Used,4,10494,765,synthetic,L0367
+L0447,Uniqlo,Jacket,Unisex,category_derived,Denim,XS,Like New,9,1790,198,synthetic,L0155
+L0448,Global Desi,Saree,Women,category_derived,Silk,M,Like New,9,1720,276,synthetic,L0190
+L0449,Zudio,Top,Women,category_derived,Cotton,XL,Like New,8,977,52,synthetic,L0326
+L0450,Easybuy,Shirt,Unisex,category_derived,Cotton,M,New,2,1548,99,synthetic,L0276
+L0451,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,7,6032,607,synthetic,L0045
+L0452,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,6,24099,3072,synthetic,L0254
+L0453,Soch,Saree,Women,category_derived,Silk,L,Used,5,3608,213,synthetic,L0306
+L0454,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,M,Like New,11,11198,996,synthetic,L0369
+L0455,Roadster,Jeans,Unisex,category_derived,Denim,XL,New,1,1013,75,synthetic,L0009
+L0456,Levi's,Jeans,Unisex,category_derived,Denim,M,Used,5,7800,595,synthetic,L0272
+L0457,HRX,Activewear,Unisex,category_derived,Polyester,M,New,3,2385,316,synthetic,L0062
+L0458,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Used,13,10727,516,synthetic,L0248
+L0459,Spykar,Shirt,Unisex,category_derived,Cotton,M,New,1,1230,75,synthetic,L0175
+L0460,Style Bazaar,Top,Women,category_derived,Polyester,XS,Like New,3,827,40,synthetic,L0206
+L0461,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Like New,10,1102,115,synthetic,L0044
+L0462,Nalli,Saree,Women,category_derived,Silk,S,Used,5,9460,426,synthetic,L0231
+L0463,Prada,Dress,Women,category_derived,Silk,M,Like New,9,91014,8635,synthetic,L0051
+L0464,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Like New,9,2728,224,synthetic,L0283
+L0465,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,9,10927,495,synthetic,L0233
+L0466,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,4,1335,66,synthetic,L0279
+L0467,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,12,2091,74,synthetic,L0158
+L0468,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Used,6,2864,125,synthetic,L0359
+L0469,Pantaloons,Shirt,Unisex,category_derived,Cotton,L,Used,10,3351,1207,synthetic,L0222
+L0470,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,4,10084,769,synthetic,L0295
+L0471,Zara,Dress,Women,category_derived,Linen,S,Like New,5,6676,1693,synthetic,L0090
+L0472,Red Tape,Shirt,Unisex,category_derived,Linen,S,Like New,4,1020,124,synthetic,L0047
+L0473,Meena Bazaar,Lehenga,Women,category_derived,Silk,S,Used,5,13370,1310,synthetic,L0148
+L0474,FBB,Ethnic Wear,Unisex,category_derived,Cotton,XL,Used,8,905,37,synthetic,L0060
+L0475,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Like New,10,54540,14658,synthetic,L0097
+L0476,Meena Bazaar,Lehenga,Women,category_derived,Silk,S,Like New,7,11540,579,synthetic,L0148
+L0477,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Used,11,7524,1235,synthetic,L0160
+L0478,Aurelia,Dress,Women,category_derived,Linen,XL,Like New,8,3729,349,synthetic,L0332
+L0479,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,2,1260,45,synthetic,L0125
+L0480,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,9,79822,11242,synthetic,L0142
+L0481,Anita Dongre,Lehenga,Women,category_derived,Silk,XL,Like New,6,23585,2812,synthetic,L0297
+L0482,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,5,1419,76,synthetic,L0279
+L0483,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,XL,Like New,5,414,56,synthetic,L0120
+L0484,Max Fashion,Jeans,Unisex,category_derived,Denim,XL,New,1,3088,213,synthetic,L0334
+L0485,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,11,4595,1655,synthetic,L0226
+L0486,W for Woman,Saree,Women,category_derived,Silk,M,New,2,2730,408,synthetic,L0039
+L0487,Pantaloons,Shirt,Unisex,category_derived,Cotton,M,Used,5,5223,212,synthetic,L0274
+L0488,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,3,1290,53,synthetic,L0121
+L0489,Pantaloons,Top,Women,category_derived,Cotton,XL,Used,4,5248,350,synthetic,L0361
+L0490,Zara,Jacket,Unisex,category_derived,Denim,M,Like New,8,4676,177,synthetic,L0029
+L0491,Bewakoof,Top,Women,category_derived,Cotton,S,New,1,981,55,synthetic,L0196
+L0492,Masaba,Dress,Women,category_derived,Cotton,S,Used,7,9553,575,synthetic,L0236
+L0493,FBB,Kurta,Unisex,category_derived,Cotton,M,Used,9,949,342,synthetic,L0081
+L0494,AND,Dress,Women,category_derived,Linen,M,New,4,6543,897,synthetic,L0234
+L0495,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,10,2649,81,synthetic,L0359
+L0496,Sabyasachi,Saree,Women,category_derived,Silk,S,Like New,14,26098,2533,synthetic,L0255
+L0497,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Used,8,54360,2746,synthetic,L0098
+L0498,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,M,Used,6,24892,1710,synthetic,L0322
+L0499,American Eagle,Jeans,Unisex,category_derived,Denim,L,Like New,5,4480,381,synthetic,L0152
+L0500,Prada,Dress,Women,category_derived,Silk,S,Like New,10,98142,9663,synthetic,L0140
+L0501,Levi's,Jeans,Unisex,category_derived,Denim,M,New,1,4752,1711,synthetic,L0059
+L0502,Vishal Mega Mart,Jeans,Unisex,category_derived,Denim,XS,Like New,8,1383,61,synthetic,L0204
+L0503,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,13,10378,3737,synthetic,L0233
+L0504,Bewakoof,Top,Women,category_derived,Polyester,S,Like New,7,620,14,synthetic,L0056
+L0505,Zudio,Top,Women,category_derived,Cotton,S,Like New,8,957,91,synthetic,L0326
+L0506,Fabindia,Kurta,Unisex,category_derived,Cotton,XL,Used,12,2824,154,synthetic,L0050
+L0507,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,S,Like New,13,32048,3726,synthetic,L0373
+L0508,Global Desi,Saree,Women,category_derived,Silk,M,Like New,7,1723,100,synthetic,L0190
+L0509,W for Woman,Ethnic Wear,Unisex,category_derived,Cotton,S,Used,10,1198,40,synthetic,L0189
+L0510,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,9,10412,721,synthetic,L0233
+L0511,Pantaloons,Jeans,Unisex,category_derived,Denim,L,Used,8,992,71,synthetic,L0171
+L0512,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,L,Used,6,438,14,synthetic,L0120
+L0513,Anouk,Saree,Women,category_derived,Cotton,S,Used,11,2054,70,synthetic,L0067
+L0514,Bewakoof,Top,Women,category_derived,Polyester,M,Like New,8,443,20,synthetic,L0184
+L0515,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,9811,753,synthetic,L0270
+L0516,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,14,6683,585,synthetic,L0114
+L0517,HRX,Activewear,Unisex,category_derived,Polyester,XS,Used,4,1012,37,synthetic,L0016
+L0518,Fabindia,Kurta,Unisex,category_derived,Linen,M,New,3,6900,746,synthetic,L0228
+L0519,Versace,Dress,Women,category_derived,Silk,M,Like New,5,34456,5425,synthetic,L0325
+L0520,Indya,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,6,5812,1595,synthetic,L0221
+L0521,Indya,Ethnic Wear,Unisex,category_derived,Silk,M,New,2,6069,515,synthetic,L0221
+L0522,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,8,1142,19,synthetic,L0161
+L0523,Puma,Activewear,Unisex,category_derived,Polyester,M,Like New,10,3401,262,synthetic,L0048
+L0524,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,5,2595,410,synthetic,L0211
+L0525,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Used,11,7373,274,synthetic,L0160
+L0526,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Like New,7,3159,121,synthetic,L0285
+L0527,Roadster,Jeans,Unisex,category_derived,Denim,S,New,1,5261,503,synthetic,L0337
+L0528,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,14,158622,11389,synthetic,L0180
+L0529,Mango,Dress,Women,category_derived,Linen,M,Like New,4,10058,1174,synthetic,L0317
+L0530,W for Woman,Saree,Women,category_derived,Silk,M,New,1,2221,228,synthetic,L0111
+L0531,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,9,1911,77,synthetic,L0158
+L0532,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Like New,5,642,22,synthetic,L0071
+L0533,Nike,Activewear,Unisex,category_derived,Polyester,L,Like New,11,8914,515,synthetic,L0343
+L0534,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,10,1119,35,synthetic,L0161
+L0535,Easybuy,Top,Women,category_derived,Polyester,M,Like New,7,514,25,synthetic,L0011
+L0536,Easybuy,Shirt,Unisex,category_derived,Polyester,S,New,1,1363,59,synthetic,L0203
+L0537,Armani,Ethnic Wear,Unisex,category_derived,Polyester,S,Like New,2,93595,24749,synthetic,L0100
+L0538,Style Bazaar,Top,Women,category_derived,Polyester,XL,Used,7,337,10,synthetic,L0102
+L0539,Nicobar,Kurta,Unisex,category_derived,Linen,L,Used,6,8511,3064,synthetic,L0238
+L0540,Diesel,Jeans,Unisex,category_derived,Denim,S,Used,14,11485,806,synthetic,L0320
+L0541,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,4,1619,85,synthetic,L0303
+L0542,Neeru's,Lehenga,Women,category_derived,Silk,L,Like New,11,13565,1375,synthetic,L0147
+L0543,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,5,2730,180,synthetic,L0284
+L0544,Nike,Activewear,Unisex,category_derived,Polyester,M,Like New,7,10990,3957,synthetic,L0244
+L0545,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Like New,7,1153,120,synthetic,L0044
+L0546,Moda Rapido,Dress,Women,category_derived,Denim,S,New,1,1067,40,synthetic,L0187
+L0547,Aurelia,Dress,Women,category_derived,Linen,L,Like New,5,3697,295,synthetic,L0332
+L0548,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Used,5,2339,93,synthetic,L0309
+L0549,Libas,Dress,Women,category_derived,Linen,S,Used,10,4124,182,synthetic,L0358
+L0550,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,12,1418,511,synthetic,L0330
+L0551,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,8,2568,107,synthetic,L0048
+L0552,Spykar,Shirt,Unisex,category_derived,Cotton,XL,New,1,868,42,synthetic,L0175
+L0553,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,8,32709,1568,synthetic,L0260
+L0554,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Like New,12,8913,3209,synthetic,L0079
+L0555,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,7,1155,47,synthetic,L0023
+L0556,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Like New,12,58451,5616,synthetic,L0123
+L0557,GAP,Jeans,Unisex,category_derived,Denim,XL,Used,12,8061,228,synthetic,L0293
+L0558,Reliance Trends,Top,Women,category_derived,Cotton,M,Like New,8,2444,75,synthetic,L0310
+L0559,Balenciaga,Jacket,Unisex,category_derived,Leather,S,Like New,3,29563,9058,synthetic,L0265
+L0560,GAP,Jeans,Unisex,category_derived,Denim,S,Like New,9,5921,629,synthetic,L0114
+L0561,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Like New,6,77459,13906,synthetic,L0192
+L0562,American Eagle,Jeans,Unisex,category_derived,Denim,M,Like New,1,8255,420,synthetic,L0242
+L0563,Aurelia,Dress,Women,category_derived,Linen,XS,Like New,4,3589,237,synthetic,L0281
+L0564,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Used,7,1514,58,synthetic,L0025
+L0565,Soch,Saree,Women,category_derived,Silk,L,Used,8,3271,169,synthetic,L0306
+L0566,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,83751,8169,synthetic,L0001
+L0567,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,8,7398,468,synthetic,L0241
+L0568,Prada,Dress,Women,category_derived,Silk,S,Used,7,103389,10300,synthetic,L0177
+L0569,Red Tape,Shirt,Unisex,category_derived,Linen,S,Used,7,1092,52,synthetic,L0181
+L0570,Pantaloons,Dress,Women,category_derived,Cotton,L,Like New,10,2156,103,synthetic,L0070
+L0571,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,10,3707,215,synthetic,L0022
+L0572,Aurelia,Dress,Women,category_derived,Linen,L,Like New,5,2947,311,synthetic,L0332
+L0573,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,7,1648,110,synthetic,L0205
+L0574,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,Like New,1,25237,2036,synthetic,L0266
+L0575,Anouk,Saree,Women,category_derived,Silk,M,Like New,3,1914,171,synthetic,L0165
+L0576,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,10,3106,112,synthetic,L0022
+L0577,Easybuy,Jeans,Unisex,category_derived,Denim,M,Like New,10,1632,191,synthetic,L0327
+L0578,Flying Machine,Jeans,Unisex,category_derived,Denim,L,New,3,4949,249,synthetic,L0225
+L0579,Sabyasachi,Saree,Women,category_derived,Silk,L,New,2,30409,6034,synthetic,L0348
+L0580,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,8,2745,237,synthetic,L0333
+L0581,Easybuy,Shirt,Unisex,category_derived,Polyester,S,Used,11,731,20,synthetic,L0110
+L0582,Neeru's,Lehenga,Women,category_derived,Silk,M,Like New,7,9941,1176,synthetic,L0232
+L0583,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,8,4997,297,synthetic,L0364
+L0584,Easybuy,Jeans,Unisex,category_derived,Denim,M,Used,8,1339,43,synthetic,L0327
+L0585,Libas,Kurta,Unisex,category_derived,Cotton,L,Used,4,1180,96,synthetic,L0122
+L0586,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,7,6443,675,synthetic,L0045
+L0587,Armani,Jacket,Unisex,category_derived,Leather,S,Used,11,45527,3930,synthetic,L0038
+L0588,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Like New,10,2238,58,synthetic,L0283
+L0589,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,New,2,31707,4533,synthetic,L0266
+L0590,Nalli,Saree,Women,category_derived,Silk,S,Like New,2,7200,705,synthetic,L0146
+L0591,Mufti,Shirt,Unisex,category_derived,Cotton,M,Like New,3,5199,278,synthetic,L0315
+L0592,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,S,Used,13,9357,1373,synthetic,L0369
+L0593,Raw Mango,Saree,Women,category_derived,Silk,M,Used,4,19850,2738,synthetic,L0296
+L0594,Zudio,Jeans,Unisex,category_derived,Denim,S,Like New,8,1471,87,synthetic,L0280
+L0595,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,3,1823,114,synthetic,L0353
+L0596,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,11,972,38,synthetic,L0161
+L0597,Libas,Kurta,Unisex,category_derived,Silk,S,New,3,2014,131,synthetic,L0055
+L0598,Rangriti,Kurta,Unisex,category_derived,Cotton,XS,New,3,1231,79,synthetic,L0149
+L0599,Raw Mango,Saree,Women,category_derived,Silk,M,Used,4,20291,2869,synthetic,L0296
+L0600,Sabyasachi,Saree,Women,category_derived,Silk,S,Used,11,28525,2066,synthetic,L0255
+L0601,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Used,5,1716,89,synthetic,L0025
+L0602,Bewakoof,Top,Women,category_derived,Polyester,S,Used,6,590,23,synthetic,L0056
+L0603,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,8,4922,405,synthetic,L0288
+L0604,Diesel,Jeans,Unisex,category_derived,Denim,S,Like New,9,10420,1021,synthetic,L0320
+L0605,Biba,Kurta,Unisex,category_derived,Silk,M,Like New,3,1000,51,synthetic,L0188
+L0606,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Like New,9,822,51,synthetic,L0071
+L0607,Louis Vuitton,Jacket,Unisex,category_derived,Leather,XS,Used,5,30750,7372,synthetic,L0260
+L0608,Bewakoof,Activewear,Unisex,category_derived,Polyester,S,New,5,2079,75,synthetic,L0214
+L0609,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,8,33515,7148,synthetic,L0299
+L0610,Sabyasachi,Saree,Women,category_derived,Silk,L,Like New,5,128341,14420,synthetic,L0017
+L0611,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Used,13,3724,89,synthetic,L0212
+L0612,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,New,3,28256,2554,synthetic,L0266
+L0613,Fabindia,Kurta,Unisex,category_derived,Linen,L,Like New,10,7800,839,synthetic,L0273
+L0614,W for Woman,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,9,1524,549,synthetic,L0099
+L0615,Pantaloons,Top,Women,category_derived,Cotton,S,Like New,8,4581,411,synthetic,L0361
+L0616,Easybuy,Shirt,Unisex,category_derived,Polyester,M,New,2,1777,117,synthetic,L0203
+L0617,Pantaloons,Top,Women,category_derived,Cotton,M,Like New,9,4787,288,synthetic,L0336
+L0618,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Like New,1,3377,240,synthetic,L0357
+L0619,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,1,6783,460,synthetic,L0116
+L0620,Nike,Activewear,Unisex,category_derived,Polyester,M,Used,8,9576,467,synthetic,L0244
+L0621,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Used,8,8601,3097,synthetic,L0046
+L0622,Zara,Dress,Women,category_derived,Linen,S,Like New,6,7887,1703,synthetic,L0090
+L0623,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,2,853,139,synthetic,L0149
+L0624,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,4,1137,52,synthetic,L0279
+L0625,Indya,Jacket,Unisex,category_derived,Denim,S,Used,6,1431,65,synthetic,L0170
+L0626,American Eagle,Jeans,Unisex,category_derived,Denim,L,Like New,8,5318,541,synthetic,L0152
+L0627,Burberry,Jacket,Unisex,category_derived,Cotton,M,Like New,12,24177,2005,synthetic,L0264
+L0628,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,5,1058,125,synthetic,L0128
+L0629,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,10,134516,13492,synthetic,L0006
+L0630,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,M,Used,8,1491,537,synthetic,L0082
+L0631,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,Like New,2,1205,72,synthetic,L0328
+L0632,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,12,10695,3851,synthetic,L0233
+L0633,Fabindia,Kurta,Unisex,category_derived,Linen,M,Used,5,9484,632,synthetic,L0341
+L0634,Nike,Activewear,Unisex,category_derived,Polyester,S,Like New,4,8648,3114,synthetic,L0271
+L0635,AND,Dress,Women,category_derived,Cotton,M,Like New,4,5744,306,synthetic,L0104
+L0636,Diesel,Jeans,Unisex,category_derived,Denim,M,Like New,9,9845,674,synthetic,L0251
+L0637,AND,Dress,Women,category_derived,Linen,M,Like New,5,7905,403,synthetic,L0234
+L0638,Anita Dongre,Lehenga,Women,category_derived,Silk,S,New,3,20636,7429,synthetic,L0297
+L0639,Jaypore,Saree,Women,category_derived,Silk,XL,Like New,4,8356,795,synthetic,L0036
+L0640,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,New,2,39223,7474,synthetic,L0374
+L0641,Prada,Dress,Women,category_derived,Silk,XS,Used,8,29217,2345,synthetic,L0350
+L0642,Zudio,Top,Women,category_derived,Cotton,M,Like New,8,1371,494,synthetic,L0202
+L0643,Nicobar,Kurta,Unisex,category_derived,Linen,L,Like New,4,7859,658,synthetic,L0238
+L0644,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,4,3862,233,synthetic,L0178
+L0645,Mufti,Shirt,Unisex,category_derived,Cotton,M,New,1,4491,515,synthetic,L0315
+L0646,Pantaloons,Top,Women,category_derived,Cotton,M,Like New,8,4516,385,synthetic,L0361
+L0647,Diesel,Jeans,Unisex,category_derived,Denim,M,New,2,13181,1686,synthetic,L0345
+L0648,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,7,2337,153,synthetic,L0032
+L0649,Flying Machine,Jeans,Unisex,category_derived,Denim,XL,Used,8,1639,74,synthetic,L0025
+L0650,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Like New,5,1610,87,synthetic,L0276
+L0651,H&M,Dress,Women,category_derived,Cotton,S,Used,10,1040,33,synthetic,L0030
+L0652,Indya,Jacket,Unisex,category_derived,Denim,S,Used,6,1146,35,synthetic,L0170
+L0653,Highlander,Shirt,Unisex,category_derived,Cotton,M,Like New,5,836,98,synthetic,L0194
+L0654,Zudio,Shirt,Unisex,category_derived,Cotton,M,New,5,380,39,synthetic,L0112
+L0655,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,10,113460,5921,synthetic,L0061
+L0656,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Used,12,52305,4892,synthetic,L0123
+L0657,Versace,Dress,Women,category_derived,Silk,XL,Like New,1,31176,8442,synthetic,L0263
+L0658,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Like New,10,1169,49,synthetic,L0161
+L0659,Prada,Dress,Women,category_derived,Silk,S,New,2,27056,4033,synthetic,L0300
+L0660,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,9,774,75,synthetic,L0126
+L0661,Superdry,Jacket,Unisex,category_derived,Polyester,M,Used,9,9720,761,synthetic,L0252
+L0662,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Used,11,1949,702,synthetic,L0278
+L0663,Gucci,Jacket,Unisex,category_derived,Leather,S,Used,5,55697,4685,synthetic,L0004
+L0664,Gucci,Jacket,Unisex,category_derived,Leather,L,Like New,1,31801,5740,synthetic,L0259
+L0665,Roadster,Jeans,Unisex,category_derived,Denim,XL,Like New,4,888,54,synthetic,L0009
+L0666,Highlander,Top,Women,category_derived,Cotton,XL,New,1,551,40,synthetic,L0092
+L0667,Forever 21,Dress,Women,category_derived,Polyester,L,New,2,1313,94,synthetic,L0137
+L0668,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Used,7,7395,2663,synthetic,L0116
+L0669,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,8,2608,106,synthetic,L0048
+L0670,Manish Malhotra,Ethnic Wear,Unisex,category_derived,Silk,M,Used,9,77554,27920,synthetic,L0043
+L0671,Nike,Activewear,Unisex,category_derived,Polyester,M,Like New,5,10136,482,synthetic,L0271
+L0672,Soch,Ethnic Wear,Unisex,category_derived,Silk,XS,Like New,7,1761,93,synthetic,L0144
+L0673,Easybuy,Top,Women,category_derived,Cotton,S,Used,8,1286,43,synthetic,L0301
+L0674,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,6,5217,466,synthetic,L0289
+L0675,Zudio,Shirt,Unisex,category_derived,Cotton,L,Like New,3,388,20,synthetic,L0072
+L0676,W for Woman,Saree,Women,category_derived,Silk,M,Used,6,2645,411,synthetic,L0039
+L0677,Nalli,Saree,Women,category_derived,Silk,L,New,1,9323,1138,synthetic,L0231
+L0678,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,15,5477,201,synthetic,L0339
+L0679,Moda Rapido,Dress,Women,category_derived,Polyester,M,Used,10,1193,35,synthetic,L0195
+L0680,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,12,1971,77,synthetic,L0158
+L0681,Pantaloons,Top,Women,category_derived,Cotton,S,Like New,6,3349,340,synthetic,L0286
+L0682,Zara,Dress,Women,category_derived,Linen,L,Like New,3,10756,684,synthetic,L0007
+L0683,Mufti,Shirt,Unisex,category_derived,Linen,M,Used,10,3343,108,synthetic,L0087
+L0684,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Used,6,68913,24809,synthetic,L0142
+L0685,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,4,20165,2364,synthetic,L0254
+L0686,Pantaloons,Jeans,Unisex,category_derived,Denim,XL,Like New,13,1121,24,synthetic,L0171
+L0687,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,8,3088,471,synthetic,L0309
+L0688,Superdry,Jacket,Unisex,category_derived,Polyester,M,Like New,6,11555,557,synthetic,L0252
+L0689,Soch,Ethnic Wear,Unisex,category_derived,Cotton,XS,Used,11,946,30,synthetic,L0103
+L0690,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,6,5869,2113,synthetic,L0363
+L0691,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Used,6,2056,121,synthetic,L0210
+L0692,Armani,Jacket,Unisex,category_derived,Leather,S,Used,13,44923,4326,synthetic,L0038
+L0693,Reebok,Activewear,Unisex,category_derived,Polyester,L,Used,7,3004,122,synthetic,L0185
+L0694,Roadster,Jeans,Unisex,category_derived,Denim,L,Like New,2,4154,1496,synthetic,L0337
+L0695,Rangriti,Kurta,Unisex,category_derived,Cotton,S,Used,10,1537,59,synthetic,L0205
+L0696,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,Used,6,28010,1645,synthetic,L0266
+L0697,GAP,Jeans,Unisex,category_derived,Denim,L,Used,11,6837,346,synthetic,L0013
+L0698,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,3,6550,847,synthetic,L0073
+L0699,Manish Malhotra,Lehenga,Women,category_derived,Silk,M,Used,11,88741,3408,synthetic,L0154
+L0700,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,5,1079,109,synthetic,L0125
+L0701,Neeru's,Ethnic Wear,Unisex,category_derived,Silk,M,Used,10,13317,603,synthetic,L0095
+L0702,Anouk,Kurta,Unisex,category_derived,Cotton,M,Used,10,3790,108,synthetic,L0220
+L0703,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,8,1780,114,synthetic,L0275
+L0704,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,Like New,3,1372,81,synthetic,L0328
+L0705,Mango,Dress,Women,category_derived,Linen,M,Used,9,9123,346,synthetic,L0317
+L0706,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Like New,8,986,40,synthetic,L0161
+L0707,Highlander,Jeans,Unisex,category_derived,Denim,L,Used,11,2196,43,synthetic,L0215
+L0708,Diesel,Jeans,Unisex,category_derived,Denim,M,Like New,6,11019,873,synthetic,L0251
+L0709,Rangriti,Kurta,Unisex,category_derived,Cotton,S,Like New,1,1281,99,synthetic,L0005
+L0710,Superdry,Jacket,Unisex,category_derived,Polyester,M,Used,10,9714,399,synthetic,L0252
+L0711,Highlander,Top,Women,category_derived,Cotton,XL,New,2,616,51,synthetic,L0141
+L0712,Roadster,Shirt,Unisex,category_derived,Cotton,M,Like New,3,1332,47,synthetic,L0058
+L0713,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,11,5521,840,synthetic,L0226
+L0714,Nalli,Saree,Women,category_derived,Silk,L,Used,5,9486,3415,synthetic,L0231
+L0715,Libas,Kurta,Unisex,category_derived,Cotton,M,Used,7,1169,47,synthetic,L0122
+L0716,Zudio,Shirt,Unisex,category_derived,Cotton,M,Like New,5,389,20,synthetic,L0072
+L0717,Indya,Jacket,Unisex,category_derived,Denim,S,Used,9,1774,51,synthetic,L0166
+L0718,Reliance Trends,Shirt,Unisex,category_derived,Cotton,S,Used,6,2848,137,synthetic,L0211
+L0719,Mufti,Shirt,Unisex,category_derived,Cotton,S,Used,9,5950,454,synthetic,L0365
+L0720,Anita Dongre,Saree,Women,category_derived,Silk,M,Used,6,65255,8676,synthetic,L0193
+L0721,W for Woman,Ethnic Wear,Unisex,category_derived,Cotton,S,Like New,8,961,346,synthetic,L0189
+L0722,Burberry,Jacket,Unisex,category_derived,Cotton,S,Like New,9,27656,2611,synthetic,L0375
+L0723,Zudio,Top,Women,category_derived,Cotton,S,Used,4,580,27,synthetic,L0109
+L0724,Prada,Dress,Women,category_derived,Silk,S,Like New,7,32750,1797,synthetic,L0350
+L0725,FBB,Kurta,Unisex,category_derived,Cotton,M,Used,7,1013,365,synthetic,L0081
+L0726,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,14,2838,149,synthetic,L0333
+L0727,Fabindia,Kurta,Unisex,category_derived,Linen,M,New,1,8181,570,synthetic,L0341
+L0728,Red Tape,Shirt,Unisex,category_derived,Linen,S,New,1,754,67,synthetic,L0047
+L0729,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,4917,683,synthetic,L0217
+L0730,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Used,9,692,46,synthetic,L0071
+L0731,Rangriti,Kurta,Unisex,category_derived,Cotton,S,New,1,1160,37,synthetic,L0005
+L0732,Fabindia,Kurta,Unisex,category_derived,Linen,S,Used,13,9201,463,synthetic,L0316
+L0733,Roadster,Shirt,Unisex,category_derived,Cotton,M,Used,6,1169,421,synthetic,L0058
+L0734,UCB,Shirt,Unisex,category_derived,Cotton,S,Used,9,3490,93,synthetic,L0163
+L0735,Armani,Jacket,Unisex,category_derived,Leather,S,Like New,9,42652,15355,synthetic,L0038
+L0736,Vishal Mega Mart,Jeans,Unisex,category_derived,Denim,S,Like New,11,1566,80,synthetic,L0204
+L0737,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,7,1917,49,synthetic,L0275
+L0738,Anita Dongre,Ethnic Wear,Unisex,category_derived,Silk,S,Used,11,21177,1031,synthetic,L0080
+L0739,HRX,Activewear,Unisex,category_derived,Polyester,S,Like New,6,4491,718,synthetic,L0224
+L0740,Zara,Jacket,Unisex,category_derived,Denim,M,Like New,11,4556,215,synthetic,L0029
+L0741,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,2,3099,1116,synthetic,L0360
+L0742,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,12,3020,1088,synthetic,L0086
+L0743,HRX,Activewear,Unisex,category_derived,Polyester,XS,Like New,4,831,22,synthetic,L0016
+L0744,Armani,Shirt,Unisex,category_derived,Linen,M,Like New,7,19426,1708,synthetic,L0262
+L0745,Nike,Activewear,Unisex,category_derived,Polyester,M,New,1,10174,900,synthetic,L0294
+L0746,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,6,699,252,synthetic,L0126
+L0747,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,3,2589,338,synthetic,L0284
+L0748,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,10,7333,526,synthetic,L0293
+L0749,Anouk,Saree,Women,category_derived,Silk,L,New,4,2240,142,synthetic,L0024
+L0750,Reliance Trends,Shirt,Unisex,category_derived,Cotton,M,Like New,4,2723,180,synthetic,L0284
+L0751,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,5,1298,468,synthetic,L0125
+L0752,Zudio,Jeans,Unisex,category_derived,Denim,S,Like New,7,1529,68,synthetic,L0280
+L0753,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,8,4139,231,synthetic,L0178
+L0754,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,S,Used,11,27385,1033,synthetic,L0373
+L0755,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,1,6597,1883,synthetic,L0073
+L0756,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,9,10993,2346,synthetic,L0235
+L0757,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,5,3954,232,synthetic,L0223
+L0758,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Like New,6,2609,461,synthetic,L0359
+L0759,Bewakoof,Top,Women,category_derived,Polyester,S,Like New,5,478,20,synthetic,L0056
+L0760,Zara,Dress,Women,category_derived,Linen,L,New,3,9123,997,synthetic,L0107
+L0761,Pantaloons,Top,Women,category_derived,Cotton,S,New,3,5174,491,synthetic,L0361
+L0762,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,4,114029,24138,synthetic,L0183
+L0763,Neeru's,Lehenga,Women,category_derived,Silk,M,Like New,6,11052,1939,synthetic,L0232
+L0764,GAP,Jeans,Unisex,category_derived,Denim,L,Used,15,6391,828,synthetic,L0114
+L0765,W for Woman,Saree,Women,category_derived,Silk,M,New,1,2689,792,synthetic,L0039
+L0766,Indya,Jacket,Unisex,category_derived,Denim,S,Like New,6,1524,113,synthetic,L0170
+L0767,Bewakoof,Top,Women,category_derived,Cotton,S,New,1,1127,67,synthetic,L0196
+L0768,AND,Dress,Women,category_derived,Cotton,M,Used,7,5382,398,synthetic,L0077
+L0769,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,5,1738,60,synthetic,L0144
+L0770,Fabindia,Kurta,Unisex,category_derived,Linen,M,Used,7,8756,676,synthetic,L0366
+L0771,Prada,Dress,Women,category_derived,Silk,M,Used,10,84699,20375,synthetic,L0093
+L0772,Levi's,Jeans,Unisex,category_derived,Denim,M,New,4,9144,797,synthetic,L0272
+L0773,Gucci,Jacket,Unisex,category_derived,Leather,S,Used,5,66897,24083,synthetic,L0124
+L0774,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,XL,Like New,6,10903,865,synthetic,L0295
+L0775,Style Bazaar,Top,Women,category_derived,Cotton,L,Used,9,1404,56,synthetic,L0304
+L0776,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,7,8626,3106,synthetic,L0291
+L0777,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Used,10,1478,37,synthetic,L0278
+L0778,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,6,82370,6084,synthetic,L0001
+L0779,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Used,7,6849,395,synthetic,L0073
+L0780,Mufti,Shirt,Unisex,category_derived,Cotton,L,New,3,5126,1846,synthetic,L0340
+L0781,HRX,Activewear,Unisex,category_derived,Polyester,XL,Like New,5,5268,271,synthetic,L0224
+L0782,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Like New,1,2128,363,synthetic,L0353
+L0783,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,7,8567,340,synthetic,L0291
+L0784,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,1,8016,826,synthetic,L0073
+L0785,Calvin Klein,Jacket,Unisex,category_derived,Denim,S,Used,10,7492,596,synthetic,L0046
+L0786,Bewakoof,Top,Women,category_derived,Polyester,S,Like New,4,582,210,synthetic,L0056
+L0787,Raw Mango,Saree,Women,category_derived,Silk,S,Like New,4,19868,6620,synthetic,L0253
+L0788,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Like New,1,6222,539,synthetic,L0116
+L0789,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,4,3171,200,synthetic,L0054
+L0790,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,9,3289,85,synthetic,L0048
+L0791,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,4,5002,522,synthetic,L0223
+L0792,Sabyasachi,Lehenga,Women,category_derived,Silk,M,New,2,92556,9192,synthetic,L0153
+L0793,Global Desi,Dress,Women,category_derived,Linen,S,Like New,15,5419,351,synthetic,L0219
+L0794,Nicobar,Dress,Women,category_derived,Linen,S,New,3,8062,906,synthetic,L0106
+L0795,American Eagle,Jeans,Unisex,category_derived,Denim,M,Like New,5,8637,1026,synthetic,L0242
+L0796,Global Desi,Saree,Women,category_derived,Silk,M,Like New,4,1518,94,synthetic,L0190
+L0797,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,6,4242,348,synthetic,L0289
+L0798,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,M,Used,8,1705,90,synthetic,L0302
+L0799,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,1,1348,89,synthetic,L0121
+L0800,Balenciaga,Jacket,Unisex,category_derived,Leather,XS,Like New,4,33618,3621,synthetic,L0265
+L0801,Zudio,Top,Women,category_derived,Cotton,M,New,2,775,26,synthetic,L0109
+L0802,H&M,Dress,Women,category_derived,Cotton,S,Like New,9,1309,89,synthetic,L0133
+L0803,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,9,75371,3788,synthetic,L0142
+L0804,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,6,4980,302,synthetic,L0289
+L0805,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Used,6,2030,86,synthetic,L0136
+L0806,Reliance Trends,Top,Women,category_derived,Cotton,S,Used,9,655,40,synthetic,L0074
+L0807,Nike,Activewear,Unisex,category_derived,Polyester,S,Like New,7,10943,774,synthetic,L0244
+L0808,Superdry,Jacket,Unisex,category_derived,Polyester,L,Used,10,10092,777,synthetic,L0252
+L0809,Bewakoof,Activewear,Unisex,category_derived,Polyester,S,New,1,1663,599,synthetic,L0214
+L0810,Balenciaga,Jacket,Unisex,category_derived,Leather,L,Used,7,27829,2779,synthetic,L0265
+L0811,Biba,Kurta,Unisex,category_derived,Cotton,L,Like New,8,4794,669,synthetic,L0269
+L0812,Reebok,Activewear,Unisex,category_derived,Polyester,L,New,3,2834,131,synthetic,L0185
+L0813,Gucci,Jacket,Unisex,category_derived,Leather,S,New,3,70638,13259,synthetic,L0124
+L0814,H&M,Dress,Women,category_derived,Cotton,S,Like New,9,1289,69,synthetic,L0133
+L0815,Easybuy,Shirt,Unisex,category_derived,Polyester,M,Used,11,787,15,synthetic,L0110
+L0816,Masaba,Dress,Women,category_derived,Silk,M,Used,6,11285,1122,synthetic,L0068
+L0817,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,7,5772,262,synthetic,L0364
+L0818,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Used,14,21783,2171,synthetic,L0347
+L0819,Zudio,Shirt,Unisex,category_derived,Polyester,M,Used,9,1426,55,synthetic,L0305
+L0820,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,New,2,1429,191,synthetic,L0328
+L0821,Gucci,Jacket,Unisex,category_derived,Leather,XS,Like New,2,65955,12873,synthetic,L0124
+L0822,H&M,Dress,Women,category_derived,Cotton,XL,Used,7,1580,569,synthetic,L0133
+L0823,Being Human,Top,Women,category_derived,Linen,S,Used,7,1118,50,synthetic,L0176
+L0824,Suta,Saree,Women,category_derived,Linen,XS,Like New,5,3551,154,synthetic,L0088
+L0825,Roadster,Jeans,Unisex,category_derived,Denim,XL,New,1,1288,86,synthetic,L0172
+L0826,Indya,Jacket,Unisex,category_derived,Denim,S,Like New,7,1491,52,synthetic,L0170
+L0827,Armani,Ethnic Wear,Unisex,category_derived,Polyester,L,Used,6,86960,5554,synthetic,L0100
+L0828,Soch,Ethnic Wear,Unisex,category_derived,Cotton,XS,Like New,11,1033,40,synthetic,L0103
+L0829,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,7,1439,77,synthetic,L0042
+L0830,Highlander,Top,Women,category_derived,Cotton,XL,Like New,6,708,39,synthetic,L0141
+L0831,Soch,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,5,2762,221,synthetic,L0207
+L0832,Biba,Kurta,Unisex,category_derived,Silk,XS,Like New,4,1276,48,synthetic,L0008
+L0833,Prada,Dress,Women,category_derived,Silk,S,New,2,98699,12699,synthetic,L0177
+L0834,Sabyasachi,Lehenga,Women,category_derived,Silk,XL,Used,7,91935,5096,synthetic,L0153
+L0835,Diesel,Jeans,Unisex,category_derived,Denim,M,Like New,6,12373,1986,synthetic,L0251
+L0836,Masaba,Dress,Women,category_derived,Silk,M,New,2,11108,852,synthetic,L0068
+L0837,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,Used,4,1375,52,synthetic,L0328
+L0838,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,9,2815,155,synthetic,L0335
+L0839,Mango,Dress,Women,category_derived,Linen,S,Used,4,9977,705,synthetic,L0243
+L0840,Nalli,Saree,Women,category_derived,Silk,L,Like New,3,7483,516,synthetic,L0052
+L0841,Mango,Dress,Women,category_derived,Linen,M,Used,4,9637,947,synthetic,L0317
+L0842,AND,Dress,Women,category_derived,Cotton,M,Like New,6,4318,172,synthetic,L0104
+L0843,Asics,Activewear,Unisex,category_derived,Polyester,M,Like New,4,8136,648,synthetic,L0247
+L0844,Nike,Activewear,Unisex,category_derived,Polyester,M,Used,8,9003,715,synthetic,L0343
+L0845,AND,Dress,Women,category_derived,Linen,S,New,3,6530,672,synthetic,L0234
+L0846,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,5,1168,51,synthetic,L0149
+L0847,Rangriti,Kurta,Unisex,category_derived,Cotton,M,New,2,1018,39,synthetic,L0005
+L0848,Being Human,Top,Women,category_derived,Linen,S,Like New,9,1027,370,synthetic,L0176
+L0849,Adidas,Jacket,Unisex,category_derived,Polyester,M,New,2,11837,4262,synthetic,L0245
+L0850,Adidas,Activewear,Unisex,category_derived,Polyester,S,Like New,7,3671,335,synthetic,L0054
+L0851,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,8,5302,905,synthetic,L0314
+L0852,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,2496,91,synthetic,L0211
+L0853,Nike,Activewear,Unisex,category_derived,Polyester,XS,Like New,12,10469,410,synthetic,L0343
+L0854,Mufti,Shirt,Unisex,category_derived,Cotton,L,Like New,6,5847,2105,synthetic,L0340
+L0855,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,9,151006,8848,synthetic,L0006
+L0856,Superdry,Jacket,Unisex,category_derived,Polyester,M,Like New,6,9383,832,synthetic,L0252
+L0857,Soch,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,5,3362,261,synthetic,L0207
+L0858,Jaypore,Saree,Women,category_derived,Silk,S,Like New,13,7963,362,synthetic,L0229
+L0859,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,6,100829,14277,synthetic,L0001
+L0860,Moda Rapido,Dress,Women,category_derived,Denim,M,Like New,5,971,66,synthetic,L0187
+L0861,Moda Rapido,Dress,Women,category_derived,Denim,S,New,1,1015,56,synthetic,L0187
+L0862,Versace,Dress,Women,category_derived,Silk,S,Used,4,32087,2660,synthetic,L0325
+L0863,Raw Mango,Saree,Women,category_derived,Silk,L,Used,5,17829,1572,synthetic,L0253
+L0864,Sabyasachi,Lehenga,Women,category_derived,Silk,L,Used,12,52176,18784,synthetic,L0097
+L0865,Bewakoof,Top,Women,category_derived,Polyester,S,Used,4,608,25,synthetic,L0056
+L0866,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,M,Used,11,1662,81,synthetic,L0302
+L0867,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Used,14,11311,553,synthetic,L0248
+L0868,Louis Vuitton,Jacket,Unisex,category_derived,Leather,L,Used,4,31629,2874,synthetic,L0324
+L0869,Masaba,Dress,Women,category_derived,Silk,M,Used,6,12623,1214,synthetic,L0068
+L0870,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,9,33985,7747,synthetic,L0299
+L0871,Biba,Ethnic Wear,Unisex,category_derived,Silk,XS,New,1,4596,212,synthetic,L0217
+L0872,Prada,Dress,Women,category_derived,Silk,S,Used,13,32753,2051,synthetic,L0350
+L0873,Zara,Dress,Women,category_derived,Linen,L,Like New,1,10907,3927,synthetic,L0007
+L0874,Versace,Dress,Women,category_derived,Silk,M,Like New,5,31166,2054,synthetic,L0325
+L0875,Armani,Ethnic Wear,Unisex,category_derived,Polyester,L,New,1,76509,27544,synthetic,L0100
+L0876,HRX,Activewear,Unisex,category_derived,Polyester,M,Like New,4,2167,109,synthetic,L0062
+L0877,Nike,Activewear,Unisex,category_derived,Polyester,L,New,5,3455,641,synthetic,L0003
+L0878,Raw Mango,Saree,Women,category_derived,Silk,L,Like New,6,22959,1585,synthetic,L0321
+L0879,UCB,Shirt,Unisex,category_derived,Cotton,S,Used,4,3937,187,synthetic,L0163
+L0880,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,8,1849,85,synthetic,L0275
+L0881,Style Bazaar,Shirt,Unisex,category_derived,Cotton,XL,Used,11,518,8,synthetic,L0151
+L0882,Adidas,Activewear,Unisex,category_derived,Polyester,S,Used,8,3735,1345,synthetic,L0178
+L0883,Anouk,Saree,Women,category_derived,Silk,M,New,7,1969,164,synthetic,L0165
+L0884,Prada,Dress,Women,category_derived,Silk,S,Like New,7,28510,2664,synthetic,L0261
+L0885,Fabindia,Kurta,Unisex,category_derived,Cotton,XL,Used,14,2386,71,synthetic,L0050
+L0886,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,S,Like New,7,9977,501,synthetic,L0295
+L0887,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,9,107649,4991,synthetic,L0061
+L0888,Armani,Jacket,Unisex,category_derived,Leather,S,Used,13,49662,3343,synthetic,L0038
+L0889,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,7,28857,2854,synthetic,L0372
+L0890,GAP,Jeans,Unisex,category_derived,Denim,L,Used,11,5573,2007,synthetic,L0114
+L0891,Libas,Kurta,Unisex,category_derived,Cotton,L,Like New,8,3038,167,synthetic,L0282
+L0892,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,6,27592,3235,synthetic,L0372
+L0893,Adidas,Jacket,Unisex,category_derived,Polyester,L,New,1,11018,1708,synthetic,L0318
+L0894,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Used,8,9679,500,synthetic,L0079
+L0895,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,XL,Like New,2,606,50,synthetic,L0127
+L0896,Bewakoof,Top,Women,category_derived,Polyester,S,Used,7,443,14,synthetic,L0184
+L0897,Zudio,Shirt,Unisex,category_derived,Cotton,M,Like New,1,444,13,synthetic,L0072
+L0898,Louis Vuitton,Jacket,Unisex,category_derived,Leather,L,Used,7,35894,2548,synthetic,L0324
+L0899,Max Fashion,Jeans,Unisex,category_derived,Denim,S,Used,13,2803,139,synthetic,L0283
+L0900,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,8,21189,2338,synthetic,L0257
+L0901,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Like New,8,1268,34,synthetic,L0351
+L0902,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Like New,10,9897,650,synthetic,L0248
+L0903,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,12,3026,191,synthetic,L0022
+L0904,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Used,4,71453,25724,synthetic,L0021
+L0905,Zara,Jacket,Unisex,category_derived,Denim,M,Used,10,5393,221,synthetic,L0135
+L0906,Anita Dongre,Saree,Women,category_derived,Silk,M,Like New,5,66038,8071,synthetic,L0193
+L0907,Reliance Trends,Top,Women,category_derived,Cotton,M,Like New,7,2233,69,synthetic,L0310
+L0908,FBB,Top,Women,category_derived,Cotton,L,Used,6,2035,101,synthetic,L0213
+L0909,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,6,1002,43,synthetic,L0023
+L0910,Zara,Jacket,Unisex,category_derived,Denim,M,Used,7,4959,1786,synthetic,L0029
+L0911,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,M,Used,13,9483,327,synthetic,L0369
+L0912,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,Used,6,2908,187,synthetic,L0211
+L0913,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,11,1311,34,synthetic,L0352
+L0914,AND,Dress,Women,category_derived,Cotton,M,Used,7,5695,224,synthetic,L0104
+L0915,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,5,5416,364,synthetic,L0315
+L0916,Anouk,Saree,Women,category_derived,Cotton,XS,Used,11,2237,101,synthetic,L0067
+L0917,Global Desi,Saree,Women,category_derived,Silk,XS,Like New,7,1695,237,synthetic,L0190
+L0918,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Like New,4,3254,203,synthetic,L0357
+L0919,Nalli,Saree,Women,category_derived,Silk,M,Like New,5,6516,395,synthetic,L0146
+L0920,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,7,127884,9849,synthetic,L0061
+L0921,Libas,Kurta,Unisex,category_derived,Silk,S,Used,5,1882,116,synthetic,L0055
+L0922,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,4,34932,5617,synthetic,L0349
+L0923,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Used,11,11435,320,synthetic,L0248
+L0924,HRX,Activewear,Unisex,category_derived,Polyester,S,Like New,5,5558,413,synthetic,L0338
+L0925,Prada,Dress,Women,category_derived,Silk,S,Used,9,28236,1586,synthetic,L0261
+L0926,Zudio,Top,Women,category_derived,Cotton,L,Like New,3,1139,39,synthetic,L0326
+L0927,Roadster,Jeans,Unisex,category_derived,Denim,S,Like New,7,4456,330,synthetic,L0312
+L0928,Soch,Saree,Women,category_derived,Silk,L,Used,9,3759,109,synthetic,L0306
+L0929,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,Like New,1,28500,2143,synthetic,L0266
+L0930,Reebok,Activewear,Unisex,category_derived,Polyester,L,New,1,2464,152,synthetic,L0185
+L0931,Red Tape,Shirt,Unisex,category_derived,Linen,S,Used,4,952,19,synthetic,L0181
+L0932,Libas,Kurta,Unisex,category_derived,Cotton,L,Used,10,2951,132,synthetic,L0282
+L0933,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,2,6922,622,synthetic,L0116
+L0934,Libas,Dress,Women,category_derived,Linen,S,Used,12,2859,1030,synthetic,L0209
+L0935,Suta,Saree,Women,category_derived,Linen,XS,Used,6,4157,134,synthetic,L0132
+L0936,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,9,12122,1017,synthetic,L0235
+L0937,Versace,Dress,Women,category_derived,Silk,M,Used,5,32881,4047,synthetic,L0325
+L0938,Rangriti,Kurta,Unisex,category_derived,Cotton,S,New,2,846,30,synthetic,L0005
+L0939,H&M,Dress,Women,category_derived,Cotton,S,Used,11,1527,37,synthetic,L0182
+L0940,Soch,Ethnic Wear,Unisex,category_derived,Cotton,XS,Used,8,722,24,synthetic,L0103
+L0941,Mango,Dress,Women,category_derived,Linen,M,Used,10,10720,904,synthetic,L0317
+L0942,Rangriti,Kurta,Unisex,category_derived,Cotton,XL,Used,9,1738,626,synthetic,L0278
+L0943,Highlander,Top,Women,category_derived,Cotton,XL,Like New,6,563,27,synthetic,L0141
+L0944,Reebok,Activewear,Unisex,category_derived,Polyester,S,Like New,7,3300,177,synthetic,L0066
+L0945,Zudio,Top,Women,category_derived,Cotton,M,Like New,6,1313,46,synthetic,L0202
+L0946,Nalli,Saree,Women,category_derived,Silk,L,Like New,5,6513,586,synthetic,L0052
+L0947,American Eagle,Jeans,Unisex,category_derived,Denim,S,New,2,8155,1039,synthetic,L0242
+L0948,Style Bazaar,Top,Women,category_derived,Polyester,XS,New,1,1290,54,synthetic,L0206
+L0949,Roadster,Shirt,Unisex,category_derived,Cotton,M,Like New,7,959,104,synthetic,L0121
+L0950,Forever 21,Top,Women,category_derived,Cotton,S,Like New,4,1721,134,synthetic,L0091
+L0951,Manish Malhotra,Lehenga,Women,category_derived,Silk,M,Used,12,79004,4016,synthetic,L0154
+L0952,Fabindia,Kurta,Unisex,category_derived,Cotton,M,Used,10,3331,149,synthetic,L0131
+L0953,Roadster,Jeans,Unisex,category_derived,Denim,M,Used,13,3599,129,synthetic,L0287
+L0954,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,S,Like New,3,1365,173,synthetic,L0328
+L0955,Anita Dongre,Lehenga,Women,category_derived,Silk,S,Used,13,18567,1994,synthetic,L0117
+L0956,Zudio,Top,Women,category_derived,Cotton,XL,New,1,730,55,synthetic,L0267
+L0957,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,5,2481,125,synthetic,L0359
+L0958,Aurelia,Dress,Women,category_derived,Linen,M,Like New,6,3577,246,synthetic,L0281
+L0959,Mango,Dress,Women,category_derived,Linen,M,Like New,9,9360,761,synthetic,L0317
+L0960,Nalli,Saree,Women,category_derived,Silk,M,New,2,7744,919,synthetic,L0146
+L0961,Flying Machine,Jeans,Unisex,category_derived,Denim,XL,Used,8,1417,36,synthetic,L0167
+L0962,AND,Dress,Women,category_derived,Linen,M,New,6,7182,1031,synthetic,L0234
+L0963,Asics,Activewear,Unisex,category_derived,Polyester,M,Used,10,8668,318,synthetic,L0247
+L0964,Sabyasachi,Ethnic Wear,Unisex,category_derived,Silk,M,Used,8,87555,4262,synthetic,L0001
+L0965,Superdry,Jacket,Unisex,category_derived,Polyester,XL,Like New,6,10460,887,synthetic,L0252
+L0966,Gucci,Jacket,Unisex,category_derived,Leather,S,New,1,63943,5303,synthetic,L0004
+L0967,Soch,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,4,3335,371,synthetic,L0331
+L0968,Jaypore,Saree,Women,category_derived,Silk,M,Like New,6,9025,510,synthetic,L0036
+L0969,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,S,Used,10,29385,2367,synthetic,L0373
+L0970,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,XL,Used,6,27137,9770,synthetic,L0256
+L0971,Zara,Jacket,Unisex,category_derived,Denim,M,Like New,9,5072,366,synthetic,L0029
+L0972,Bewakoof,Top,Women,category_derived,Cotton,L,Used,6,892,84,synthetic,L0196
+L0973,Style Bazaar,Top,Women,category_derived,Polyester,XL,Used,12,339,10,synthetic,L0102
+L0974,Gucci,Jacket,Unisex,category_derived,Leather,S,Used,4,28524,5645,synthetic,L0349
+L0975,Easybuy,Jeans,Unisex,category_derived,Denim,M,Used,8,1728,60,synthetic,L0327
+L0976,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,3,1316,121,synthetic,L0121
+L0977,Rangriti,Kurta,Unisex,category_derived,Cotton,XS,Used,6,1143,40,synthetic,L0005
+L0978,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,2,871,314,synthetic,L0128
+L0979,Suta,Saree,Women,category_derived,Silk,M,Like New,4,3112,238,synthetic,L0031
+L0980,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,L,Used,9,470,39,synthetic,L0120
+L0981,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Like New,5,2096,153,synthetic,L0353
+L0982,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Used,8,1768,67,synthetic,L0278
+L0983,Highlander,Top,Women,category_derived,Cotton,XS,Used,6,500,20,synthetic,L0141
+L0984,Zara,Jacket,Unisex,category_derived,Denim,M,Like New,9,5365,221,synthetic,L0135
+L0985,Adidas,Jacket,Unisex,category_derived,Polyester,XS,New,1,9868,3553,synthetic,L0318
+L0986,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Used,6,46080,4283,synthetic,L0098
+L0987,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Used,4,1485,187,synthetic,L0329
+L0988,AND,Dress,Women,category_derived,Cotton,M,Like New,4,5248,1890,synthetic,L0104
+L0989,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,7,8810,453,synthetic,L0270
+L0990,Global Desi,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,8,4180,641,synthetic,L0041
+L0991,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,4,4900,295,synthetic,L0363
+L0992,Biba,Dress,Women,category_derived,Silk,XS,Like New,4,5183,293,synthetic,L0040
+L0993,Libas,Kurta,Unisex,category_derived,Cotton,S,New,3,970,79,synthetic,L0128
+L0994,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,2739,326,synthetic,L0360
+L0995,Pantaloons,Shirt,Unisex,category_derived,Cotton,XL,Like New,5,4691,1689,synthetic,L0274
+L0996,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Like New,13,3371,183,synthetic,L0212
+L0997,Easybuy,Shirt,Unisex,category_derived,Polyester,M,Used,10,648,43,synthetic,L0110
+L0998,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Used,6,26514,5576,synthetic,L0372
+L0999,GAP,Jeans,Unisex,category_derived,Denim,L,Used,11,6610,482,synthetic,L0114
+L1000,Armani,Shirt,Unisex,category_derived,Linen,M,Like New,8,18694,1634,synthetic,L0262
+L1001,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,7,1878,99,synthetic,L0136
+L1002,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Used,5,1986,236,synthetic,L0205
+L1003,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,9,1270,57,synthetic,L0354
+L1004,Global Desi,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,5,4007,896,synthetic,L0041
+L1005,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Used,9,2755,116,synthetic,L0335
+L1006,Global Desi,Saree,Women,category_derived,Silk,S,Like New,5,2734,223,synthetic,L0164
+L1007,Jaypore,Saree,Women,category_derived,Silk,S,Used,14,8460,485,synthetic,L0229
+L1008,HRX,Activewear,Unisex,category_derived,Polyester,L,Used,9,4727,225,synthetic,L0288
+L1009,Indya,Jacket,Unisex,category_derived,Denim,M,Used,11,1627,70,synthetic,L0166
+L1010,Prada,Dress,Women,category_derived,Silk,S,Like New,2,87941,11710,synthetic,L0177
+L1011,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,L,New,3,9358,1084,synthetic,L0227
+L1012,Anita Dongre,Ethnic Wear,Unisex,category_derived,Silk,S,Used,14,21053,1513,synthetic,L0080
+L1013,H&M,Dress,Women,category_derived,Cotton,S,Used,8,1348,39,synthetic,L0133
+L1014,Mufti,Shirt,Unisex,category_derived,Cotton,L,Like New,5,5070,1826,synthetic,L0340
+L1015,Indya,Jacket,Unisex,category_derived,Denim,L,New,3,1404,136,synthetic,L0028
+L1016,Anita Dongre,Saree,Women,category_derived,Silk,M,Like New,6,68671,4451,synthetic,L0010
+L1017,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,XS,New,3,9949,1335,synthetic,L0249
+L1018,Zudio,Top,Women,category_derived,Cotton,M,New,3,1168,36,synthetic,L0202
+L1019,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Used,5,26814,9654,synthetic,L0257
+L1020,HRX,Activewear,Unisex,category_derived,Polyester,S,New,2,1247,47,synthetic,L0016
+L1021,Zudio,Top,Women,category_derived,Cotton,XS,Used,6,822,30,synthetic,L0267
+L1022,Global Desi,Dress,Women,category_derived,Linen,XS,Used,11,4761,115,synthetic,L0219
+L1023,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,8,5976,2152,synthetic,L0159
+L1024,Pantaloons,Top,Women,category_derived,Cotton,M,Like New,8,4353,158,synthetic,L0336
+L1025,Easybuy,Shirt,Unisex,category_derived,Polyester,M,Used,12,899,76,synthetic,L0075
+L1026,Easybuy,Jeans,Unisex,category_derived,Denim,S,Used,7,1331,45,synthetic,L0327
+L1027,Pantaloons,Shirt,Unisex,category_derived,Cotton,M,New,1,3723,281,synthetic,L0311
+L1028,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,1,1911,163,synthetic,L0353
+L1029,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,Like New,4,945,45,synthetic,L0071
+L1030,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Used,15,3903,163,synthetic,L0212
+L1031,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Like New,8,1717,619,synthetic,L0329
+L1032,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,7,655,37,synthetic,L0126
+L1033,Forever 21,Dress,Women,category_derived,Cotton,M,Like New,6,1296,48,synthetic,L0156
+L1034,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Like New,6,7525,603,synthetic,L0073
+L1035,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Like New,4,3225,210,synthetic,L0357
+L1036,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,10,11249,4050,synthetic,L0233
+L1037,Versace,Dress,Women,category_derived,Silk,M,Like New,8,107579,15882,synthetic,L0064
+L1038,Armani,Shirt,Unisex,category_derived,Linen,M,Like New,5,20638,7430,synthetic,L0262
+L1039,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,9,4827,302,synthetic,L0290
+L1040,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,New,2,32508,11703,synthetic,L0374
+L1041,Zudio,Top,Women,category_derived,Cotton,S,Like New,4,628,21,synthetic,L0002
+L1042,Raw Mango,Saree,Women,category_derived,Silk,L,Used,4,18045,1136,synthetic,L0253
+L1043,Aurelia,Dress,Women,category_derived,Linen,M,Used,5,3644,174,synthetic,L0281
+L1044,Zara,Jacket,Unisex,category_derived,Denim,M,Like New,6,4306,424,synthetic,L0029
+L1045,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,7,5540,390,synthetic,L0045
+L1046,AND,Dress,Women,category_derived,Linen,M,New,3,6517,714,synthetic,L0234
+L1047,Moda Rapido,Dress,Women,category_derived,Polyester,XL,Used,11,1135,37,synthetic,L0195
+L1048,Highlander,Top,Women,category_derived,Cotton,XL,New,3,688,22,synthetic,L0141
+L1049,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,S,Used,10,26648,9594,synthetic,L0323
+L1050,Meena Bazaar,Lehenga,Women,category_derived,Silk,S,Like New,8,13283,2263,synthetic,L0148
+L1051,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,5,4907,221,synthetic,L0289
+L1052,HRX,Activewear,Unisex,category_derived,Polyester,L,New,1,4876,202,synthetic,L0363
+L1053,Zara,Dress,Women,category_derived,Linen,XL,New,3,9743,2907,synthetic,L0107
+L1054,Style Bazaar,Top,Women,category_derived,Cotton,M,Like New,9,1146,61,synthetic,L0354
+L1055,Raw Mango,Saree,Women,category_derived,Silk,L,Like New,1,22377,8056,synthetic,L0371
+L1056,New Balance,Activewear,Unisex,category_derived,Polyester,L,Like New,6,8759,937,synthetic,L0246
+L1057,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Used,16,3667,90,synthetic,L0212
+L1058,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Used,10,1665,60,synthetic,L0351
+L1059,Versace,Dress,Women,category_derived,Silk,XS,Like New,9,114789,10727,synthetic,L0174
+L1060,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,8,2078,83,synthetic,L0158
+L1061,Nike,Activewear,Unisex,category_derived,Polyester,M,New,2,3822,278,synthetic,L0191
+L1062,AND,Dress,Women,category_derived,Cotton,XL,Like New,7,5094,275,synthetic,L0104
+L1063,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Used,13,10168,1391,synthetic,L0248
+L1064,Balenciaga,Jacket,Unisex,category_derived,Leather,L,Like New,4,27586,1857,synthetic,L0265
+L1065,Zudio,Shirt,Unisex,category_derived,Polyester,S,Like New,10,1241,447,synthetic,L0305
+L1066,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XL,Like New,2,5151,542,synthetic,L0012
+L1067,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,9,64279,5754,synthetic,L0142
+L1068,Levi's,Jeans,Unisex,category_derived,Denim,M,Used,4,3542,227,synthetic,L0059
+L1069,Pantaloons,Top,Women,category_derived,Cotton,XS,Like New,4,4315,541,synthetic,L0361
+L1070,Prada,Dress,Women,category_derived,Silk,S,Like New,7,93439,9358,synthetic,L0015
+L1071,Highlander,Top,Women,category_derived,Cotton,XL,Used,4,686,36,synthetic,L0092
+L1072,Style Bazaar,Top,Women,category_derived,Polyester,XL,Like New,11,251,91,synthetic,L0102
+L1073,Fabindia,Kurta,Unisex,category_derived,Linen,M,Used,9,8335,499,synthetic,L0291
+L1074,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Used,10,1304,45,synthetic,L0351
+L1075,Moda Rapido,Dress,Women,category_derived,Denim,S,New,4,868,113,synthetic,L0187
+L1076,Max Fashion,Jeans,Unisex,category_derived,Denim,M,New,3,1222,75,synthetic,L0034
+L1077,Reliance Trends,Top,Women,category_derived,Cotton,M,Used,10,2727,340,synthetic,L0310
+L1078,Uniqlo,Jacket,Unisex,category_derived,Denim,XS,Used,6,1399,60,synthetic,L0155
+L1079,Asics,Activewear,Unisex,category_derived,Polyester,M,Like New,6,9607,1023,synthetic,L0247
+L1080,Being Human,Top,Women,category_derived,Linen,S,Like New,7,1134,61,synthetic,L0176
+L1081,Fabindia,Kurta,Unisex,category_derived,Cotton,M,Used,10,2447,96,synthetic,L0050
+L1082,Soch,Saree,Women,category_derived,Silk,L,Like New,6,3765,266,synthetic,L0306
+L1083,Zudio,Shirt,Unisex,category_derived,Cotton,L,Like New,5,349,26,synthetic,L0072
+L1084,Jaypore,Saree,Women,category_derived,Silk,S,Like New,15,8648,3114,synthetic,L0229
+L1085,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,6,4427,407,synthetic,L0223
+L1086,Style Bazaar,Shirt,Unisex,category_derived,Cotton,XL,Used,9,399,12,synthetic,L0151
+L1087,Suta,Saree,Women,category_derived,Silk,M,Like New,2,2963,254,synthetic,L0145
+L1088,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Like New,5,2550,169,synthetic,L0208
+L1089,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,S,Like New,9,47893,9868,synthetic,L0197
+L1090,Aurelia,Dress,Women,category_derived,Linen,L,Like New,8,3673,474,synthetic,L0332
+L1091,FBB,Top,Women,category_derived,Cotton,XS,Used,6,2018,110,synthetic,L0213
+L1092,Under Armour,Activewear,Unisex,category_derived,Polyester,M,Like New,5,7101,741,synthetic,L0116
+L1093,Zudio,Jeans,Unisex,category_derived,Denim,S,Used,6,1364,36,synthetic,L0280
+L1094,Style Bazaar,Top,Women,category_derived,Cotton,M,Used,8,1433,516,synthetic,L0354
+L1095,Zara,Jacket,Unisex,category_derived,Polyester,M,Like New,8,8135,379,synthetic,L0239
+L1096,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Like New,8,1164,114,synthetic,L0277
+L1097,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,7,8887,1162,synthetic,L0241
+L1098,Soch,Saree,Women,category_derived,Silk,L,Used,8,3294,108,synthetic,L0306
+L1099,Roadster,Jeans,Unisex,category_derived,Denim,XS,New,1,4219,213,synthetic,L0337
+L1100,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,5,1812,93,synthetic,L0303
+L1101,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,M,Like New,7,9531,639,synthetic,L0249
+L1102,Zudio,Shirt,Unisex,category_derived,Polyester,M,Used,13,1677,133,synthetic,L0305
+L1103,Easybuy,Jeans,Unisex,category_derived,Denim,M,Like New,10,1456,52,synthetic,L0327
+L1104,Nicobar,Kurta,Unisex,category_derived,Linen,L,New,2,9088,2468,synthetic,L0238
+L1105,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,9,3106,147,synthetic,L0200
+L1106,Bewakoof,Top,Women,category_derived,Cotton,S,Used,4,738,266,synthetic,L0196
+L1107,Pantaloons,Shirt,Unisex,category_derived,Cotton,L,Like New,11,3676,169,synthetic,L0222
+L1108,Fabindia,Kurta,Unisex,category_derived,Cotton,M,Like New,8,3258,187,synthetic,L0131
+L1109,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,M,Used,12,1637,59,synthetic,L0302
+L1110,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Used,14,148656,13646,synthetic,L0006
+L1111,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,5,27228,3166,synthetic,L0372
+L1112,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,14,2641,156,synthetic,L0307
+L1113,Aurelia,Dress,Women,category_derived,Linen,L,Like New,4,3718,282,synthetic,L0332
+L1114,Flying Machine,Jeans,Unisex,category_derived,Denim,XL,Like New,11,5334,417,synthetic,L0339
+L1115,Armani,Jacket,Unisex,category_derived,Leather,S,Like New,9,44087,4273,synthetic,L0038
+L1116,Highlander,Top,Women,category_derived,Cotton,XL,Like New,3,539,12,synthetic,L0092
+L1117,Zara,Dress,Women,category_derived,Linen,S,New,1,10343,1126,synthetic,L0367
+L1118,Anita Dongre,Saree,Women,category_derived,Silk,M,Used,6,67912,8021,synthetic,L0010
+L1119,Anouk,Saree,Women,category_derived,Cotton,XS,Used,5,1649,99,synthetic,L0169
+L1120,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,L,Used,14,28530,2654,synthetic,L0373
+L1121,Reliance Trends,Top,Women,category_derived,Cotton,S,Used,8,1980,54,synthetic,L0275
+L1122,Spykar,Shirt,Unisex,category_derived,Cotton,M,Like New,3,944,49,synthetic,L0175
+L1123,Tarun Tahiliani,Saree,Women,category_derived,Silk,M,Used,6,78542,10050,synthetic,L0021
+L1124,Louis Vuitton,Jacket,Unisex,category_derived,Leather,L,Like New,4,30760,2229,synthetic,L0324
+L1125,Forever 21,Dress,Women,category_derived,Polyester,S,New,3,1483,71,synthetic,L0033
+L1126,Calvin Klein,Jacket,Unisex,category_derived,Leather,L,New,1,13735,942,synthetic,L0370
+L1127,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,L,Used,10,450,8,synthetic,L0120
+L1128,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,9,3500,431,synthetic,L0333
+L1129,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,6,1638,234,synthetic,L0303
+L1130,Global Desi,Dress,Women,category_derived,Linen,S,Used,15,5528,255,synthetic,L0219
+L1131,Indya,Jacket,Unisex,category_derived,Denim,M,Used,13,1471,50,synthetic,L0069
+L1132,Nike,Activewear,Unisex,category_derived,Polyester,L,New,1,4141,323,synthetic,L0003
+L1133,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,7,1297,44,synthetic,L0277
+L1134,Roadster,Shirt,Unisex,category_derived,Cotton,XL,Like New,4,1247,70,synthetic,L0058
+L1135,Moda Rapido,Dress,Women,category_derived,Denim,S,New,2,996,112,synthetic,L0187
+L1136,Pantaloons,Jeans,Unisex,category_derived,Denim,M,Used,8,1146,33,synthetic,L0027
+L1137,Calvin Klein,Jacket,Unisex,category_derived,Leather,L,Like New,5,12138,789,synthetic,L0370
+L1138,Prada,Dress,Women,category_derived,Silk,L,Like New,7,84399,8692,synthetic,L0051
+L1139,Prada,Dress,Women,category_derived,Silk,S,New,2,32785,6245,synthetic,L0300
+L1140,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,L,Used,10,11434,671,synthetic,L0235
+L1141,Zudio,Jeans,Unisex,category_derived,Denim,S,Like New,9,1493,40,synthetic,L0355
+L1142,Easybuy,Top,Women,category_derived,Polyester,XS,Like New,2,558,22,synthetic,L0113
+L1143,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,5,2655,499,synthetic,L0284
+L1144,Prada,Dress,Women,category_derived,Silk,M,Used,9,71467,5699,synthetic,L0143
+L1145,GAP,Jeans,Unisex,category_derived,Denim,XS,Used,10,6734,261,synthetic,L0114
+L1146,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,9,7983,377,synthetic,L0241
+L1147,Gucci,Jacket,Unisex,category_derived,Leather,S,Like New,5,66809,17309,synthetic,L0124
+L1148,Aurelia,Dress,Women,category_derived,Linen,L,Used,6,3083,91,synthetic,L0332
+L1149,Nicobar,Kurta,Unisex,category_derived,Linen,L,Used,6,7439,2679,synthetic,L0238
+L1150,Pantaloons,Top,Women,category_derived,Cotton,S,Used,9,4431,135,synthetic,L0361
+L1151,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,Used,6,837,80,synthetic,L0139
+L1152,Zara,Jacket,Unisex,category_derived,Denim,M,Used,11,4339,259,synthetic,L0029
+L1153,Biba,Kurta,Unisex,category_derived,Silk,M,Used,7,833,17,synthetic,L0188
+L1154,Roadster,Jeans,Unisex,category_derived,Denim,XL,Like New,1,1284,463,synthetic,L0172
+L1155,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,Used,4,2886,351,synthetic,L0360
+L1156,Indya,Jacket,Unisex,category_derived,Denim,L,Like New,5,1332,185,synthetic,L0028
+L1157,Fabindia,Kurta,Unisex,category_derived,Linen,XL,Used,12,7433,290,synthetic,L0273
+L1158,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,8,11494,2244,synthetic,L0235
+L1159,Aurelia,Kurta,Unisex,category_derived,Cotton,L,New,2,3303,371,synthetic,L0357
+L1160,Prada,Dress,Women,category_derived,Silk,S,Like New,8,29803,2076,synthetic,L0350
+L1161,Forever 21,Dress,Women,category_derived,Polyester,S,Like New,6,1535,115,synthetic,L0033
+L1162,Pantaloons,Top,Women,category_derived,Cotton,M,Like New,8,4549,374,synthetic,L0336
+L1163,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,9,8526,622,synthetic,L0291
+L1164,Meena Bazaar,Lehenga,Women,category_derived,Silk,S,New,2,12437,4478,synthetic,L0148
+L1165,Bewakoof,Top,Women,category_derived,Polyester,XS,Like New,5,709,38,synthetic,L0083
+L1166,Mufti,Shirt,Unisex,category_derived,Cotton,M,Like New,9,5355,508,synthetic,L0226
+L1167,Style Bazaar,Top,Women,category_derived,Polyester,XL,Used,6,300,6,synthetic,L0084
+L1168,Global Desi,Saree,Women,category_derived,Silk,S,Used,9,2568,188,synthetic,L0164
+L1169,Rangriti,Kurta,Unisex,category_derived,Cotton,XS,Like New,5,1082,124,synthetic,L0149
+L1170,Burberry,Jacket,Unisex,category_derived,Cotton,L,New,3,27776,3769,synthetic,L0375
+L1171,Mango,Dress,Women,category_derived,Linen,XL,Like New,6,8501,430,synthetic,L0317
+L1172,Prada,Dress,Women,category_derived,Silk,M,Used,6,75520,3519,synthetic,L0143
+L1173,Zudio,Top,Women,category_derived,Cotton,M,Used,5,1235,50,synthetic,L0202
+L1174,Vishal Mega Mart,Jeans,Unisex,category_derived,Denim,S,Used,12,1379,40,synthetic,L0204
+L1175,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,11,135548,17525,synthetic,L0180
+L1176,FBB,Top,Women,category_derived,Cotton,S,Used,4,2379,116,synthetic,L0213
+L1177,Easybuy,Top,Women,category_derived,Cotton,S,New,3,1321,476,synthetic,L0301
+L1178,Max Fashion,Jeans,Unisex,category_derived,Denim,XS,Like New,7,803,37,synthetic,L0034
+L1179,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Used,5,3053,159,synthetic,L0285
+L1180,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Like New,1,950,64,synthetic,L0149
+L1181,Nicobar,Kurta,Unisex,category_derived,Linen,L,Like New,6,7607,2739,synthetic,L0238
+L1182,American Eagle,Jeans,Unisex,category_derived,Denim,M,New,5,8140,944,synthetic,L0242
+L1183,Highlander,Shirt,Unisex,category_derived,Cotton,M,New,3,1082,390,synthetic,L0035
+L1184,Nike,Activewear,Unisex,category_derived,Polyester,L,Used,9,10353,1087,synthetic,L0244
+L1185,Global Desi,Saree,Women,category_derived,Silk,S,Like New,9,2267,123,synthetic,L0164
+L1186,Zudio,Top,Women,category_derived,Cotton,S,New,3,1171,179,synthetic,L0326
+L1187,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,Used,6,1559,562,synthetic,L0094
+L1188,Easybuy,Shirt,Unisex,category_derived,Cotton,S,Used,9,1368,68,synthetic,L0351
+L1189,Zara,Dress,Women,category_derived,Linen,L,New,2,10108,1053,synthetic,L0007
+L1190,Zudio,Top,Women,category_derived,Cotton,S,Like New,4,446,161,synthetic,L0053
+L1191,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,8,8197,424,synthetic,L0270
+L1192,Masaba,Dress,Women,category_derived,Silk,XL,Like New,4,11735,4225,synthetic,L0068
+L1193,Soch,Saree,Women,category_derived,Silk,L,Like New,5,3348,137,synthetic,L0306
+L1194,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,7,2196,177,synthetic,L0158
+L1195,Under Armour,Activewear,Unisex,category_derived,Polyester,L,Like New,9,9333,412,synthetic,L0248
+L1196,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,3,587,212,synthetic,L0130
+L1197,Nicobar,Dress,Women,category_derived,Linen,S,New,2,7798,853,synthetic,L0106
+L1198,Anita Dongre,Lehenga,Women,category_derived,Silk,S,New,1,25089,2342,synthetic,L0297
+L1199,Zara,Dress,Women,category_derived,Linen,S,New,2,10836,1289,synthetic,L0367
+L1200,Prada,Dress,Women,category_derived,Silk,XS,Like New,10,84188,12301,synthetic,L0051
+L1201,Libas,Kurta,Unisex,category_derived,Silk,S,New,2,1996,95,synthetic,L0055
+L1202,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,8,23649,2552,synthetic,L0254
+L1203,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,Used,5,668,70,synthetic,L0060
+L1204,Rangriti,Kurta,Unisex,category_derived,Cotton,XL,New,1,1246,449,synthetic,L0149
+L1205,W for Woman,Ethnic Wear,Unisex,category_derived,Cotton,S,Used,10,1022,25,synthetic,L0189
+L1206,Easybuy,Shirt,Unisex,category_derived,Polyester,L,New,4,1664,213,synthetic,L0203
+L1207,Style Bazaar,Top,Women,category_derived,Polyester,XL,Like New,10,300,10,synthetic,L0102
+L1208,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Like New,10,26965,2980,synthetic,L0372
+L1209,Style Bazaar,Top,Women,category_derived,Cotton,S,Like New,10,1419,133,synthetic,L0330
+L1210,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,10,9423,1641,synthetic,L0233
+L1211,Highlander,Shirt,Unisex,category_derived,Cotton,M,New,1,990,33,synthetic,L0035
+L1212,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Used,15,5029,217,synthetic,L0339
+L1213,Superdry,Jacket,Unisex,category_derived,Polyester,M,Used,6,10622,736,synthetic,L0252
+L1214,Superdry,Jacket,Unisex,category_derived,Polyester,M,Used,9,10572,406,synthetic,L0252
+L1215,Killer,Jeans,Unisex,category_derived,Denim,L,New,8,1329,64,synthetic,L0201
+L1216,Anouk,Saree,Women,category_derived,Silk,M,Like New,5,2285,148,synthetic,L0165
+L1217,Fabindia,Kurta,Unisex,category_derived,Silk,M,Used,10,2651,126,synthetic,L0014
+L1218,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,Like New,5,2424,122,synthetic,L0211
+L1219,Rangriti,Kurta,Unisex,category_derived,Cotton,L,New,2,1637,75,synthetic,L0353
+L1220,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,New,3,5340,858,synthetic,L0217
+L1221,Mufti,Shirt,Unisex,category_derived,Linen,L,Used,8,2743,176,synthetic,L0200
+L1222,Zara,Dress,Women,category_derived,Linen,S,Like New,8,10504,778,synthetic,L0342
+L1223,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,8,2397,71,synthetic,L0275
+L1224,Puma,Activewear,Unisex,category_derived,Polyester,M,Like New,9,2903,172,synthetic,L0048
+L1225,Levi's,Jeans,Unisex,category_derived,Denim,M,New,1,7206,1549,synthetic,L0272
+L1226,Mufti,Shirt,Unisex,category_derived,Cotton,L,Like New,4,5024,222,synthetic,L0340
+L1227,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,M,Used,10,28414,3107,synthetic,L0322
+L1228,Easybuy,Jeans,Unisex,category_derived,Denim,M,Like New,10,1751,631,synthetic,L0327
+L1229,Suta,Saree,Women,category_derived,Silk,M,New,1,2801,407,synthetic,L0031
+L1230,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,6,2787,513,synthetic,L0211
+L1231,Bewakoof,Top,Women,category_derived,Polyester,XS,Like New,7,734,30,synthetic,L0083
+L1232,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,7,1035,54,synthetic,L0126
+L1233,Prada,Dress,Women,category_derived,Silk,M,Used,7,67300,3977,synthetic,L0143
+L1234,Manish Malhotra,Ethnic Wear,Unisex,category_derived,Silk,M,Used,8,89851,10595,synthetic,L0043
+L1235,Red Tape,Shirt,Unisex,category_derived,Linen,S,Used,7,782,27,synthetic,L0047
+L1236,HRX,Activewear,Unisex,category_derived,Polyester,M,Used,7,2578,164,synthetic,L0062
+L1237,Libas,Kurta,Unisex,category_derived,Cotton,M,Used,8,1157,54,synthetic,L0122
+L1238,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,2,997,57,synthetic,L0121
+L1239,Fabindia,Kurta,Unisex,category_derived,Cotton,L,Used,8,3284,155,synthetic,L0131
+L1240,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,New,1,5587,1751,synthetic,L0217
+L1241,Fabindia,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,10,2438,298,synthetic,L0158
+L1242,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,6,10315,548,synthetic,L0344
+L1243,Libas,Kurta,Unisex,category_derived,Cotton,XL,Like New,2,1195,111,synthetic,L0122
+L1244,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,7,1382,107,synthetic,L0121
+L1245,Highlander,Top,Women,category_derived,Cotton,XL,Like New,3,757,35,synthetic,L0141
+L1246,Nalli,Saree,Women,category_derived,Silk,S,Like New,5,6954,873,synthetic,L0052
+L1247,Prada,Dress,Women,category_derived,Silk,S,Used,7,99764,18668,synthetic,L0015
+L1248,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,M,Like New,8,25833,1543,synthetic,L0322
+L1249,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,10,1734,62,synthetic,L0352
+L1250,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Like New,10,1379,46,synthetic,L0352
+L1251,Highlander,Shirt,Unisex,category_derived,Cotton,XS,New,2,811,25,synthetic,L0194
+L1252,House of Masaba,Dress,Women,category_derived,Linen,M,Like New,8,8934,1002,synthetic,L0237
+L1253,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,XL,Like New,8,9348,3366,synthetic,L0233
+L1254,Forever 21,Dress,Women,category_derived,Polyester,S,New,3,1300,86,synthetic,L0137
+L1255,Suta,Saree,Women,category_derived,Silk,M,New,1,2978,271,synthetic,L0145
+L1256,Zara,Jacket,Unisex,category_derived,Denim,M,Used,9,4896,286,synthetic,L0135
+L1257,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,7,7701,532,synthetic,L0241
+L1258,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,4,4981,297,synthetic,L0363
+L1259,Roadster,Shirt,Unisex,category_derived,Cotton,M,New,3,1395,254,synthetic,L0121
+L1260,Anouk,Saree,Women,category_derived,Silk,M,Used,5,1911,116,synthetic,L0024
+L1261,Roadster,Jeans,Unisex,category_derived,Denim,M,Like New,8,4311,1552,synthetic,L0287
+L1262,Masaba,Dress,Women,category_derived,Silk,M,Used,7,11019,626,synthetic,L0068
+L1263,Reebok,Activewear,Unisex,category_derived,Polyester,S,Like New,7,2732,220,synthetic,L0066
+L1264,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,6,1920,692,synthetic,L0136
+L1265,Nicobar,Dress,Women,category_derived,Linen,S,Used,6,7989,512,synthetic,L0078
+L1266,FBB,Kurta,Unisex,category_derived,Cotton,M,Used,10,1152,45,synthetic,L0118
+L1267,Gucci,Jacket,Unisex,category_derived,Leather,XS,Like New,7,109245,6365,synthetic,L0183
+L1268,Prada,Dress,Women,category_derived,Silk,S,Used,9,89229,18090,synthetic,L0140
+L1269,Bewakoof,Activewear,Unisex,category_derived,Polyester,M,Like New,5,1589,78,synthetic,L0214
+L1270,Gucci,Jacket,Unisex,category_derived,Leather,L,Like New,6,36188,4057,synthetic,L0349
+L1271,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Used,9,8993,708,synthetic,L0079
+L1272,Nike,Activewear,Unisex,category_derived,Polyester,L,Like New,1,4730,346,synthetic,L0003
+L1273,Zara,Dress,Women,category_derived,Linen,S,Like New,6,9484,773,synthetic,L0292
+L1274,Louis Vuitton,Shirt,Unisex,category_derived,Linen,XS,Like New,7,69631,6750,synthetic,L0037
+L1275,Calvin Klein,Jacket,Unisex,category_derived,Denim,M,Like New,8,8723,717,synthetic,L0046
+L1276,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,Like New,6,2804,494,synthetic,L0335
+L1277,Masaba,Dress,Women,category_derived,Silk,M,Like New,2,12221,1629,synthetic,L0068
+L1278,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,1,5442,648,synthetic,L0289
+L1279,Puma,Activewear,Unisex,category_derived,Polyester,M,Used,7,3259,74,synthetic,L0048
+L1280,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,7,9058,815,synthetic,L0270
+L1281,Adidas,Jacket,Unisex,category_derived,Polyester,L,Like New,3,10572,1029,synthetic,L0245
+L1282,American Eagle,Jeans,Unisex,category_derived,Denim,L,Like New,6,4328,280,synthetic,L0152
+L1283,Brand Factory,Jacket,Unisex,category_derived,Polyester,L,Like New,15,3971,203,synthetic,L0212
+L1284,Anamika Khanna,Lehenga,Women,category_derived,Silk,M,Like New,15,24140,2225,synthetic,L0258
+L1285,Anouk,Saree,Women,category_derived,Silk,M,Like New,6,2110,181,synthetic,L0024
+L1286,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Used,9,1847,79,synthetic,L0136
+L1287,H&M,Dress,Women,category_derived,Cotton,L,Used,7,1277,50,synthetic,L0133
+L1288,Pantaloons,Top,Women,category_derived,Cotton,M,Used,11,4537,241,synthetic,L0336
+L1289,Fabindia,Kurta,Unisex,category_derived,Linen,S,Used,12,8711,946,synthetic,L0316
+L1290,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Like New,3,46540,6058,synthetic,L0098
+L1291,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,9,3207,413,synthetic,L0333
+L1292,Nicobar,Kurta,Unisex,category_derived,Linen,L,New,3,7399,802,synthetic,L0238
+L1293,Fabindia,Kurta,Unisex,category_derived,Linen,XL,Like New,3,7785,739,synthetic,L0228
+L1294,Killer,Jeans,Unisex,category_derived,Denim,L,Like New,4,1467,109,synthetic,L0201
+L1295,Anita Dongre,Lehenga,Women,category_derived,Silk,S,New,4,20470,1684,synthetic,L0297
+L1296,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,4,5605,747,synthetic,L0217
+L1297,HRX,Activewear,Unisex,category_derived,Polyester,S,Like New,2,4868,215,synthetic,L0224
+L1298,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Like New,8,1540,106,synthetic,L0351
+L1299,Mufti,Shirt,Unisex,category_derived,Linen,S,Used,14,3687,146,synthetic,L0200
+L1300,Gucci,Jacket,Unisex,category_derived,Leather,M,Used,5,134580,10894,synthetic,L0183
+L1301,Armani,Ethnic Wear,Unisex,category_derived,Polyester,L,Like New,4,87697,14603,synthetic,L0173
+L1302,Anouk,Saree,Women,category_derived,Silk,M,Like New,5,1805,68,synthetic,L0024
+L1303,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,3,4892,936,synthetic,L0225
+L1304,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,7,29935,4350,synthetic,L0260
+L1305,Louis Vuitton,Jacket,Unisex,category_derived,Leather,M,Like New,8,33751,3223,synthetic,L0260
+L1306,Skechers,Activewear,Unisex,category_derived,Polyester,XL,Used,5,4261,513,synthetic,L0063
+L1307,Suta,Saree,Women,category_derived,Linen,M,Used,6,3482,142,synthetic,L0088
+L1308,Levi's,Jeans,Unisex,category_derived,Denim,M,New,1,7966,2868,synthetic,L0272
+L1309,Balenciaga,Jacket,Unisex,category_derived,Leather,S,New,3,33726,6409,synthetic,L0265
+L1310,Rangriti,Kurta,Unisex,category_derived,Cotton,M,Used,4,790,12,synthetic,L0085
+L1311,Fabindia,Kurta,Unisex,category_derived,Linen,XS,Like New,5,10072,1190,synthetic,L0366
+L1312,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Used,12,1063,383,synthetic,L0161
+L1313,Jaypore,Saree,Women,category_derived,Silk,S,Used,14,9422,802,synthetic,L0229
+L1314,Uniqlo,Jacket,Unisex,category_derived,Denim,XS,Like New,7,1655,59,synthetic,L0155
+L1315,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,4,1151,40,synthetic,L0277
+L1316,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XL,Used,6,5223,878,synthetic,L0012
+L1317,Gucci,Jacket,Unisex,category_derived,Leather,L,Like New,1,28504,2338,synthetic,L0259
+L1318,Nike,Activewear,Unisex,category_derived,Polyester,M,Like New,4,9437,508,synthetic,L0294
+L1319,Nalli,Saree,Women,category_derived,Silk,M,Used,7,7430,383,synthetic,L0146
+L1320,Balenciaga,Jacket,Unisex,category_derived,Leather,L,Used,9,31083,2425,synthetic,L0265
+L1321,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,2328,142,synthetic,L0211
+L1322,Global Desi,Saree,Women,category_derived,Silk,M,Used,7,1546,90,synthetic,L0190
+L1323,Zudio,Top,Women,category_derived,Cotton,L,Used,6,1401,81,synthetic,L0326
+L1324,Reliance Trends,Top,Women,category_derived,Cotton,S,Used,7,691,14,synthetic,L0074
+L1325,AND,Dress,Women,category_derived,Linen,M,Like New,6,7423,1851,synthetic,L0234
+L1326,Moda Rapido,Dress,Women,category_derived,Denim,S,New,3,954,55,synthetic,L0057
+L1327,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Like New,7,64299,20502,synthetic,L0192
+L1328,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,1,5565,573,synthetic,L0157
+L1329,Highlander,Shirt,Unisex,category_derived,Cotton,XL,Used,4,1082,390,synthetic,L0035
+L1330,Nike,Activewear,Unisex,category_derived,Polyester,XS,Used,8,10163,784,synthetic,L0244
+L1331,AND,Dress,Women,category_derived,Cotton,S,Like New,3,5412,283,synthetic,L0077
+L1332,Versace,Dress,Women,category_derived,Silk,M,Like New,8,118657,7093,synthetic,L0174
+L1333,GAP,Jeans,Unisex,category_derived,Denim,L,Like New,12,8458,531,synthetic,L0293
+L1334,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,10,1178,102,synthetic,L0044
+L1335,Anamika Khanna,Lehenga,Women,category_derived,Silk,L,Used,15,24142,1637,synthetic,L0258
+L1336,Soch,Ethnic Wear,Unisex,category_derived,Silk,S,New,2,1774,85,synthetic,L0094
+L1337,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,7,1479,66,synthetic,L0167
+L1338,Indya,Jacket,Unisex,category_derived,Denim,M,Like New,13,1301,54,synthetic,L0166
+L1339,Raw Mango,Saree,Women,category_derived,Silk,L,Like New,4,16399,1985,synthetic,L0253
+L1340,Reliance Trends,Shirt,Unisex,category_derived,Cotton,M,Like New,5,2787,466,synthetic,L0284
+L1341,Easybuy,Top,Women,category_derived,Cotton,S,Like New,3,1401,89,synthetic,L0301
+L1342,Libas,Dress,Women,category_derived,Linen,S,Used,14,2764,362,synthetic,L0209
+L1343,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,7,861,38,synthetic,L0126
+L1344,Nicobar,Kurta,Unisex,category_derived,Linen,XS,Like New,2,7402,682,synthetic,L0238
+L1345,Prada,Dress,Women,category_derived,Silk,S,Like New,10,98881,28960,synthetic,L0140
+L1346,Suta,Saree,Women,category_derived,Silk,M,Used,4,2623,160,synthetic,L0145
+L1347,Skechers,Activewear,Unisex,category_derived,Polyester,XS,Like New,4,4618,410,synthetic,L0063
+L1348,Being Human,Top,Women,category_derived,Linen,S,Like New,12,936,49,synthetic,L0176
+L1349,Masaba,Dress,Women,category_derived,Cotton,S,Used,7,8703,3134,synthetic,L0236
+L1350,Nike,Activewear,Unisex,category_derived,Polyester,M,New,3,4374,445,synthetic,L0003
+L1351,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,12,3424,94,synthetic,L0333
+L1352,Anita Dongre,Saree,Women,category_derived,Silk,S,Like New,4,65240,11748,synthetic,L0193
+L1353,Fabindia,Kurta,Unisex,category_derived,Linen,M,Like New,8,7169,1107,synthetic,L0228
+L1354,Mufti,Shirt,Unisex,category_derived,Cotton,M,Used,5,4716,283,synthetic,L0315
+L1355,Raw Mango,Saree,Women,category_derived,Silk,XS,New,1,20624,1655,synthetic,L0253
+L1356,Zara,Dress,Women,category_derived,Linen,S,New,1,9523,638,synthetic,L0292
+L1357,Reebok,Activewear,Unisex,category_derived,Polyester,S,Used,5,3242,200,synthetic,L0066
+L1358,Sabyasachi,Saree,Women,category_derived,Silk,L,Used,5,29285,3362,synthetic,L0348
+L1359,Global Desi,Dress,Women,category_derived,Linen,S,Used,14,5894,419,synthetic,L0219
+L1360,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,6,34718,8780,synthetic,L0349
+L1361,Moda Rapido,Shirt,Unisex,category_derived,Cotton,M,Like New,6,1928,92,synthetic,L0216
+L1362,Under Armour,Activewear,Unisex,category_derived,Polyester,XL,New,1,6531,583,synthetic,L0116
+L1363,Raw Mango,Saree,Women,category_derived,Silk,L,New,1,23062,5015,synthetic,L0321
+L1364,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,S,Like New,1,850,100,synthetic,L0127
+L1365,Armani,Jacket,Unisex,category_derived,Leather,S,Used,13,41178,2055,synthetic,L0038
+L1366,Uniqlo,Jacket,Unisex,category_derived,Polyester,XL,Like New,5,2184,337,synthetic,L0032
+L1367,Zara,Jacket,Unisex,category_derived,Denim,M,Used,11,4427,167,synthetic,L0029
+L1368,Style Bazaar,Shirt,Unisex,category_derived,Cotton,XL,Used,5,502,181,synthetic,L0151
+L1369,Diesel,Jeans,Unisex,category_derived,Denim,S,Used,12,11449,392,synthetic,L0320
+L1370,Raw Mango,Saree,Women,category_derived,Silk,XL,Like New,8,20503,2282,synthetic,L0346
+L1371,Fabindia,Kurta,Unisex,category_derived,Linen,M,Used,9,10118,617,synthetic,L0366
+L1372,Suta,Saree,Women,category_derived,Linen,M,Used,7,3519,191,synthetic,L0132
+L1373,Libas,Kurta,Unisex,category_derived,Cotton,S,Used,4,950,48,synthetic,L0023
+L1374,Rangriti,Kurta,Unisex,category_derived,Cotton,L,Like New,8,1804,80,synthetic,L0278
+L1375,Dolce & Gabbana,Dress,Women,category_derived,Silk,S,Like New,6,26435,5964,synthetic,L0266
+L1376,Prada,Dress,Women,category_derived,Silk,S,Like New,3,88762,10507,synthetic,L0177
+L1377,Zara,Dress,Women,category_derived,Linen,S,Like New,9,9586,741,synthetic,L0342
+L1378,Mufti,Shirt,Unisex,category_derived,Cotton,XS,Used,10,4804,141,synthetic,L0290
+L1379,Zudio,Top,Women,category_derived,Cotton,S,Like New,7,666,25,synthetic,L0002
+L1380,Anita Dongre,Saree,Women,category_derived,Silk,M,Like New,2,52908,7034,synthetic,L0193
+L1381,HRX,Activewear,Unisex,category_derived,Polyester,XS,New,2,896,66,synthetic,L0016
+L1382,Versace,Dress,Women,category_derived,Silk,M,Like New,4,102029,10695,synthetic,L0174
+L1383,Easybuy,Top,Women,category_derived,Polyester,M,Used,4,620,20,synthetic,L0011
+L1384,Manyavar,Ethnic Wear,Unisex,category_derived,Silk,XL,Like New,2,5820,2096,synthetic,L0157
+L1385,Diesel,Jeans,Unisex,category_derived,Denim,L,Like New,9,12990,2147,synthetic,L0320
+L1386,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Like New,7,66221,6735,synthetic,L0192
+L1387,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,7,1737,626,synthetic,L0275
+L1388,Prada,Dress,Women,category_derived,Silk,XL,Used,8,29480,10613,synthetic,L0261
+L1389,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,13,3560,222,synthetic,L0086
+L1390,Mufti,Shirt,Unisex,category_derived,Cotton,S,Used,13,6373,455,synthetic,L0365
+L1391,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,5,29914,7664,synthetic,L0299
+L1392,Highlander,Shirt,Unisex,category_derived,Cotton,M,Like New,7,1074,42,synthetic,L0194
+L1393,American Eagle,Jeans,Unisex,category_derived,Denim,L,Like New,4,4321,372,synthetic,L0152
+L1394,Marks & Spencer,Dress,Women,category_derived,Cotton,S,Used,8,8208,340,synthetic,L0240
+L1395,Uniqlo,Jacket,Unisex,category_derived,Polyester,M,Like New,5,1905,66,synthetic,L0136
+L1396,Anita Dongre,Lehenga,Women,category_derived,Silk,S,Like New,8,20034,2054,synthetic,L0117
+L1397,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Used,9,977,30,synthetic,L0129
+L1398,Zara,Dress,Women,category_derived,Linen,S,New,2,9609,3460,synthetic,L0367
+L1399,Soch,Ethnic Wear,Unisex,category_derived,Silk,XS,Used,8,3249,96,synthetic,L0207
+L1400,Anita Dongre,Lehenga,Women,category_derived,Silk,S,Used,13,18390,1983,synthetic,L0117
+L1401,House of Masaba,Dress,Women,category_derived,Linen,M,New,3,9307,3351,synthetic,L0237
+L1402,Armani,Jacket,Unisex,category_derived,Leather,S,Used,15,44603,2145,synthetic,L0108
+L1403,Rangriti,Kurta,Unisex,category_derived,Cotton,S,Used,5,969,53,synthetic,L0005
+L1404,Style Bazaar,Top,Women,category_derived,Cotton,M,Used,5,1258,53,synthetic,L0354
+L1405,American Eagle,Jeans,Unisex,category_derived,Denim,S,Used,10,8863,697,synthetic,L0079
+L1406,House of Masaba,Saree,Women,category_derived,Silk,L,Like New,9,13610,1127,synthetic,L0105
+L1407,Vishal Mega Mart,Shirt,Unisex,category_derived,Polyester,L,New,1,1357,89,synthetic,L0328
+L1408,Diesel,Jeans,Unisex,category_derived,Denim,M,Like New,6,12540,956,synthetic,L0251
+L1409,Vishal Mega Mart,Kurta,Unisex,category_derived,Cotton,L,New,3,786,46,synthetic,L0150
+L1410,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,2591,347,synthetic,L0211
+L1411,Nicobar,Dress,Women,category_derived,Linen,S,New,2,8806,604,synthetic,L0106
+L1412,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Used,8,6023,309,synthetic,L0159
+L1413,Jaypore,Saree,Women,category_derived,Silk,S,Used,13,8520,472,synthetic,L0229
+L1414,Zudio,Top,Women,category_derived,Cotton,M,New,3,1386,93,synthetic,L0202
+L1415,Easybuy,Shirt,Unisex,category_derived,Cotton,M,Like New,1,1544,90,synthetic,L0276
+L1416,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XS,New,1,2280,150,synthetic,L0211
+L1417,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,7,1904,90,synthetic,L0210
+L1418,Soch,Saree,Women,category_derived,Silk,M,Like New,5,4444,616,synthetic,L0356
+L1419,Levi's,Jeans,Unisex,category_derived,Denim,M,New,1,4447,204,synthetic,L0059
+L1420,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Like New,9,4170,1502,synthetic,L0225
+L1421,Forever 21,Top,Women,category_derived,Cotton,S,Used,7,1363,35,synthetic,L0091
+L1422,American Eagle,Jeans,Unisex,category_derived,Denim,XS,Like New,7,7558,340,synthetic,L0079
+L1423,Flying Machine,Jeans,Unisex,category_derived,Denim,XS,Used,7,1620,55,synthetic,L0025
+L1424,Fabindia,Kurta,Unisex,category_derived,Linen,M,New,3,7364,744,synthetic,L0228
+L1425,Tarun Tahiliani,Saree,Women,category_derived,Silk,M,Like New,4,62127,7063,synthetic,L0192
+L1426,Gucci,Jacket,Unisex,category_derived,Leather,M,Like New,4,28995,10439,synthetic,L0349
+L1427,Raw Mango,Saree,Women,category_derived,Silk,L,New,3,26405,3736,synthetic,L0371
+L1428,Diesel,Jeans,Unisex,category_derived,Denim,S,Used,13,11449,544,synthetic,L0320
+L1429,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,9,3381,342,synthetic,L0307
+L1430,Label Ritu Kumar,Ethnic Wear,Unisex,category_derived,Silk,S,Used,6,15414,5550,synthetic,L0049
+L1431,Pantaloons,Jeans,Unisex,category_derived,Denim,L,Like New,13,1054,84,synthetic,L0171
+L1432,Roadster,Jeans,Unisex,category_derived,Denim,XL,Used,7,4993,155,synthetic,L0312
+L1433,Fabindia,Kurta,Unisex,category_derived,Linen,S,Like New,7,8850,3186,synthetic,L0316
+L1434,Suta,Saree,Women,category_derived,Silk,M,New,2,2708,232,synthetic,L0031
+L1435,Libas,Kurta,Unisex,category_derived,Cotton,XS,Used,5,1156,40,synthetic,L0122
+L1436,Zudio,Top,Women,category_derived,Cotton,XL,Used,5,1058,37,synthetic,L0267
+L1437,Indya,Jacket,Unisex,category_derived,Denim,S,Used,4,1516,39,synthetic,L0170
+L1438,Aurelia,Kurta,Unisex,category_derived,Cotton,L,New,5,3304,207,synthetic,L0357
+L1439,Max Fashion,Jeans,Unisex,category_derived,Denim,L,New,2,1295,174,synthetic,L0034
+L1440,Libas,Kurta,Unisex,category_derived,Cotton,M,Used,5,2798,81,synthetic,L0282
+L1441,Reliance Trends,Top,Women,category_derived,Cotton,S,Like New,8,753,37,synthetic,L0126
+L1442,Flying Machine,Jeans,Unisex,category_derived,Denim,L,Used,10,3542,1276,synthetic,L0086
+L1443,Asics,Activewear,Unisex,category_derived,Polyester,M,Like New,7,8122,1388,synthetic,L0247
+L1444,Reliance Trends,Shirt,Unisex,category_derived,Cotton,M,Like New,4,2488,137,synthetic,L0284
+L1445,Pantaloons,Shirt,Unisex,category_derived,Cotton,M,New,2,4057,312,synthetic,L0311
+L1446,Nike,Activewear,Unisex,category_derived,Polyester,L,Used,4,3923,277,synthetic,L0003
+L1447,Tarun Tahiliani,Saree,Women,category_derived,Silk,S,Used,6,72718,3492,synthetic,L0192
+L1448,Versace,Dress,Women,category_derived,Silk,M,Like New,7,119460,43006,synthetic,L0064
+L1449,Calvin Klein,Jacket,Unisex,category_derived,Leather,L,Like New,6,13857,1931,synthetic,L0370
+L1450,Aurelia,Ethnic Wear,Unisex,category_derived,Cotton,S,Like New,1,686,21,synthetic,L0127
+L1451,Soch,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,5,4136,314,synthetic,L0331
+L1452,Anita Dongre,Lehenga,Women,category_derived,Silk,M,New,1,20813,4187,synthetic,L0297
+L1453,Easybuy,Top,Women,category_derived,Cotton,L,Like New,6,1504,80,synthetic,L0301
+L1454,Reliance Trends,Shirt,Unisex,category_derived,Cotton,L,New,5,563,40,synthetic,L0130
+L1455,Tarun Tahiliani,Lehenga,Women,category_derived,Silk,L,Used,15,31765,4925,synthetic,L0373
+L1456,Vishal Mega Mart,Jeans,Unisex,category_derived,Denim,S,Used,6,1590,61,synthetic,L0204
+L1457,Aurelia,Kurta,Unisex,category_derived,Cotton,L,Used,4,3541,177,synthetic,L0357
+L1458,Meena Bazaar,Ethnic Wear,Unisex,category_derived,Silk,S,New,3,13203,1571,synthetic,L0096
+L1459,Zudio,Top,Women,category_derived,Cotton,S,Like New,2,722,38,synthetic,L0109
+L1460,Max Fashion,Jeans,Unisex,category_derived,Denim,M,Like New,9,2360,101,synthetic,L0210
+L1461,Highlander,Shirt,Unisex,category_derived,Cotton,M,New,1,1092,93,synthetic,L0194
+L1462,Gucci,Jacket,Unisex,category_derived,Leather,S,New,5,56180,4726,synthetic,L0004
+L1463,Zudio,Top,Women,category_derived,Cotton,S,New,3,872,66,synthetic,L0267
+L1464,Being Human,Top,Women,category_derived,Linen,M,Used,8,988,30,synthetic,L0176
+L1465,Indya,Jacket,Unisex,category_derived,Denim,L,Like New,6,1287,464,synthetic,L0170
+L1466,Fabindia,Kurta,Unisex,category_derived,Silk,M,Used,11,3547,356,synthetic,L0014
+L1467,Vishal Mega Mart,Top,Women,category_derived,Polyester,S,Used,11,1622,56,synthetic,L0352
+L1468,Roadster,Jeans,Unisex,category_derived,Denim,XL,Like New,6,1323,67,synthetic,L0009
+L1469,Vishal Mega Mart,Shirt,Unisex,category_derived,Cotton,L,Used,8,478,15,synthetic,L0120
+L1470,HRX,Activewear,Unisex,category_derived,Polyester,L,Like New,9,5428,278,synthetic,L0338
+L1471,Diesel,Jeans,Unisex,category_derived,Denim,XL,New,1,13085,736,synthetic,L0345
+L1472,HRX,Activewear,Unisex,category_derived,Polyester,S,Like New,4,5581,420,synthetic,L0338
+L1473,Rohit Bal,Ethnic Wear,Unisex,category_derived,Silk,L,Used,4,52989,19077,synthetic,L0197
+L1474,Fabindia,Kurta,Unisex,category_derived,Linen,M,Used,4,8609,1191,synthetic,L0341
+L1475,Tommy Hilfiger,Shirt,Unisex,category_derived,Cotton,L,Like New,8,9240,3327,synthetic,L0295
+L1476,Anita Dongre,Lehenga,Women,category_derived,Silk,M,Used,9,29663,1717,synthetic,L0372
+L1477,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,New,2,818,295,synthetic,L0060
+L1478,FBB,Ethnic Wear,Unisex,category_derived,Cotton,L,New,3,893,32,synthetic,L0060
+L1479,Biba,Ethnic Wear,Unisex,category_derived,Silk,M,Like New,2,5661,636,synthetic,L0217
+L1480,Max Fashion,Jeans,Unisex,category_derived,Denim,L,Like New,5,2700,98,synthetic,L0309
+L1481,American Eagle,Jeans,Unisex,category_derived,Denim,XL,Like New,7,5302,392,synthetic,L0152
+L1482,Reliance Trends,Shirt,Unisex,category_derived,Cotton,XL,New,1,3590,289,synthetic,L0360
+L1483,Adidas,Jacket,Unisex,category_derived,Polyester,L,New,3,11771,707,synthetic,L0245
+L1484,Under Armour,Activewear,Unisex,category_derived,Polyester,M,New,1,7626,2746,synthetic,L0116
+L1485,Manish Malhotra,Lehenga,Women,category_derived,Silk,M,Used,6,77687,10524,synthetic,L0154
+L1486,Killer,Jeans,Unisex,category_derived,Denim,L,Like New,9,1377,68,synthetic,L0201
+L1487,Zudio,Top,Women,category_derived,Cotton,M,Used,5,1264,456,synthetic,L0202
+L1488,Flying Machine,Jeans,Unisex,category_derived,Denim,M,Like New,9,4769,411,synthetic,L0364
+L1489,Armani,Jacket,Unisex,category_derived,Leather,S,Used,14,47997,2001,synthetic,L0108
+L1490,House of Masaba,Saree,Women,category_derived,Silk,M,Used,8,12492,850,synthetic,L0076
+L1491,Mango,Dress,Women,category_derived,Linen,S,New,3,9682,1100,synthetic,L0243
+L1492,AND,Dress,Women,category_derived,Cotton,M,Like New,6,4457,459,synthetic,L0077
+L1493,H&M,Dress,Women,category_derived,Silk,S,Used,7,1794,46,synthetic,L0089
+L1494,Libas,Kurta,Unisex,category_derived,Cotton,S,Like New,13,2936,140,synthetic,L0333
+L1495,Skechers,Activewear,Unisex,category_derived,Polyester,M,Like New,7,4643,132,synthetic,L0063
+L1496,Prada,Dress,Women,category_derived,Silk,M,Like New,11,72521,6129,synthetic,L0093
+L1497,Forever 21,Dress,Women,category_derived,Polyester,S,Used,6,1188,117,synthetic,L0033
+L1498,Reliance Trends,Top,Women,category_derived,Cotton,XS,Like New,9,2286,67,synthetic,L0275
+L1499,Zara,Dress,Women,category_derived,Linen,L,New,1,10676,1172,synthetic,L0107
+L1500,Aurelia,Kurta,Unisex,category_derived,Cotton,S,Used,7,1125,34,synthetic,L0161

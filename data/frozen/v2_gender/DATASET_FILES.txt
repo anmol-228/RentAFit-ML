@@ -1,0 +1,25 @@
+RentAFit v2_gender dataset bundle
+
+Purpose:
+- adds shared `gender` and `gender_source` fields
+- keeps `v1_final` untouched
+- uses category-based gender derivation unless a user-selected value is present
+
+Gender schema:
+- Women
+- Men
+- Unisex
+
+Current category mapping:
+- Women: Saree, Lehenga, Dress, Top
+- Unisex: Shirt, Jacket, Jeans, Activewear, Ethnic Wear, Kurta
+
+Files in this folder:
+- brand_tier_master_project_final.csv
+- enum_master.csv
+- gold_labels_model_b_full_manual.csv
+- listings_master_baseline_cleaned.csv
+- pricing_features.csv
+- listings_augmented_1500.csv
+- pricing_features_augmented_1500.csv
+- model_b_train_manual.csv

@@ -1,0 +1,12 @@
+{
+  "total_tests": 88,
+  "known_target_tests": 80,
+  "custom_simple_tests": 8,
+  "rule_checks_all_pass_count": 88,
+  "rule_checks_fail_count": 0,
+  "fallback_count": 1,
+  "model_output_count": 87,
+  "known_mae_min": 8.375,
+  "known_mae_max": 15.5,
+  "known_max_abs_error_max": 400.0
+}

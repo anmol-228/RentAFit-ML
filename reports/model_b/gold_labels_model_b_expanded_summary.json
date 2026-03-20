@@ -1,0 +1,16 @@
+{
+  "rows_total": 775,
+  "rows_original": 375,
+  "rows_added_from_review_batch": 400,
+  "decision_counts": {
+    "Review": 337,
+    "Approve": 224,
+    "Reject": 214
+  },
+  "review_status_counts": {
+    "reviewed": 775
+  },
+  "label_source_counts": {
+    "human_reviewed": 775
+  }
+}

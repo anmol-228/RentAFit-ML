@@ -1,0 +1,11 @@
+{
+  "val_rows": 287,
+  "mae_min": 165.5099443894762,
+  "mae_max": 211.54281656158398,
+  "rmse_min": 729.294821756604,
+  "rmse_max": 934.5921128864001,
+  "range_violations_before_fix": 0,
+  "range_violations_after_fix": 0,
+  "high_error_max_gt_500_total": 23,
+  "high_error_max_gt_1000_total": 16
+}
