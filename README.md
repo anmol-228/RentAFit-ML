@@ -1,13 +1,19 @@
 # RentAFit-ML
 
-![Repo status](https://img.shields.io/badge/status-active-7B1E2B)
+![Repo status](https://img.shields.io/badge/status-work--in--progress-C28B37)
 ![Models](https://img.shields.io/badge/models-A%20%7C%20B%20%7C%20C-2B2B2B)
 ![Docs](https://img.shields.io/badge/docs-complete-4CAF7D)
 ![Validation](https://img.shields.io/badge/validation-cross--checked-5A1420)
 
 Machine learning workspace for the **RentAFit** platform.
 
-This repository contains the complete ML layer for RentAFit: pricing, moderation, and recommendation systems, along with the datasets, trained artifacts, validation reports, and detailed technical documentation used to support the platform.
+This repository contains the current ML layer for RentAFit: pricing, moderation, and recommendation systems, along with the datasets, trained artifacts, validation reports, and technical documentation used in the ongoing platform build.
+
+## Project Status
+
+- This is still a work-in-progress project snapshot, not the final end-to-end product release.
+- Models A, B, and C are implemented and documented, but the broader platform integration is still evolving.
+- Some repository assets, reports, and demo surfaces may continue to change as the main RentAFit product is refined.
 
 ## Quick Start
 
@@ -28,13 +34,17 @@ PyTorch is required for Model B runtime and the combined validation script. The 
 
 ## ML Showcase Demo
 
-This repository also includes a lightweight browser showcase for Models A, B, and C in [`showcase/ml_showcase/`](showcase/ml_showcase/README.md).
+This repository also includes a lightweight browser showcase for Models A, B, and C in [`showcase/ml_showcase/`](showcase/ml_showcase/README.md). The showcase is meant for demonstration while the full product remains in progress.
 
 Run it from the repository root:
 
 ```bash
 python3 showcase/ml_showcase/server.py --port 8090
 ```
+
+Public static companion demo:
+- GitHub repo: `anmol-228/RentAFit-ML-Showcase`
+- GitHub Pages: `https://anmol-228.github.io/RentAFit-ML-Showcase/`
 
 Preview:
 
@@ -230,3 +240,4 @@ At the current snapshot:
 - Model B is implemented, validated, and documented
 - Model C is implemented, validated, and documented
 - combined cross-check validation across all three models has been completed
+- platform-level integration, deployment hardening, and future refinements are still in progress
